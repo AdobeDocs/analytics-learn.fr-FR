@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutoriels Adobe Analytics
+user-guide-title: Tutoriels sur Adobe Analytics
 user-guide-description: A collection of videos and tutorials for Adobe Analytics.
 breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
@@ -8,19 +8,19 @@ translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
 source-wordcount: '1846'
-ht-degree: 18%
+ht-degree: 21%
 
 ---
 
 
-# Tutoriels Analytics {#tutorials}
+# Tutoriels sur Analytics {#tutorials}
 
 + [Aperçu](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
    + Que Peut Faire Adobe Analytics Pour Moi ? {#what-can-aa-do-for-me}
       + [Comment l&#39;Adobe Analysis Workspace peut changer votre entreprise](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [C&#39;est plus que des données. Intelligence du client](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-      + [adobe sensei et Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [Adobe Sensei et Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [Cas d’utilisation client - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Cas d’utilisation client - Groupe d’accents](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [Cas d&#39;utilisation du client - Dépôt d&#39;accueil](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
@@ -35,7 +35,7 @@ ht-degree: 18%
       + [Connexion à Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Présentation de l’interface utilisateur d’Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Compréhension et création de Report Suites](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [adobe labs (Prévisualisations technologiques)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [Adobe Labs (Prévisualisations technologiques)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + Personnalisation de l’interface utilisateur {#customizing-the-ui}
       + [Description des Dimensions et mesures Ajoutées](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Utilisation des palettes de couleurs personnalisées dans l’Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
@@ -90,12 +90,12 @@ ht-degree: 18%
       + [Améliorations de la zone de dépôt de segments](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Création de tableaux à structure libre {#building-freeform-tables}
-      + [Utilisation du rail de gauche pour créer des tables à structure libre en Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Création automatique de tableaux à structure libre en Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Utilisation de Dimensions dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Utilisation de mesures dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Utilisation du rail de gauche pour créer des tables à structure libre dans Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Création automatique de tables à structure libre dans Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [Utilisation des dimensions dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utilisation de mesures dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Utilisation des mesures de participation en Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
-      + [Paramètres de rangée et de colonne dans les tableaux à structure libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [Paramètres de ligne et de colonne dans les tables à structure libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Utilisation du Générateur de tableau à structure libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Réorganisation des lignes statiques en Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [Utilisation d’Attribution IQ dans les tableaux à structure libre](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -110,7 +110,7 @@ ht-degree: 18%
       + [Types de visualisation](analysis-workspace/visualizations/visualization-types.md)
       + [Utilisation de tableaux, de visualisations et de panneaux dans Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Visualisation en ligne en Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Visualisation Ligne dans Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Visualisation graphique à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [ Visualisation Histogramme ](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualisation des cartes](analysis-workspace/visualizations/map-visualization.md)
@@ -143,15 +143,15 @@ ht-degree: 18%
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Mesures {#metrics}
       + [Présentation des mesures Visiteurs de base](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [ajouter des Dimensions et des mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Ajouter des Dimensions et des mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Présentation des Événements de conversion](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Utilisation de mesures dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Utilisation de mesures dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Utilisation des mesures de participation en Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + Dimensions {#dimensions}
-      + [ajouter des Dimensions et des mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Ajouter des Dimensions et des mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Présentation des variables de trafic (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Présentation des variables de conversion (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Utilisation de Dimensions dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utilisation des dimensions dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + Calendrier et plages de dates {#calendar-and-date-ranges}
       + [Utilisation de dates en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Utilisation de plages de dates et de comparaisons en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -172,7 +172,7 @@ ht-degree: 18%
       + [Enregistrement, partage et collaboration sur des projets dans Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Traitement et partage dans Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Lien direct vers un projet](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Télécharger 50 000 éléments au format CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [Télécharger 50 000 éléments au format CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exporter au format CSV depuis Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
       + [Partager les composants incorporés](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Planification et projets téléchargeables](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
@@ -180,7 +180,7 @@ ht-degree: 18%
       + [Projets en lecture seule dans Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
    + Attribution IQ {#attribution-iq}
       + [Utilisation de l’Analyse à onglets multiples pour explorer l’attribution de base du marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
-      + [ajouter des comparaisons côte à côte des modèles Attributions IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
+      + [Ajouter des comparaisons côte à côte des modèles Attributions IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
       + [Attribution IQ dans les mesures calculées](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
       + [Utilisation d’Attribution IQ dans les tableaux à structure libre](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [Utilisation du panneau Attribution IQ](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
@@ -301,16 +301,16 @@ ht-degree: 18%
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
    + Report Builder {#report-builder}
-      + [ajouter des segments à plusieurs requêtes à la fois par Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
+      + [Ajouter des segments à plusieurs requêtes à la fois par Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Détection des anomalies dans le Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modifier les mesures entre les requêtes](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilisation du Report Builder pour apprendre l’API Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + Intégrations {#integrations}
-   + experience cloud {experience-cloud}
+   + Experience Cloud {experience-cloud}
       + [Amélioration de la publication auprès d’une audience Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [Activer le transfert côté serveur dans l&#39;Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
-      + [audience analytics - Intégration de segments d’AAM dans Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
+      + [Audience Analytics - Intégration de segments d’AAM dans Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
    + Ad Cloud {#ad-cloud}
@@ -328,7 +328,7 @@ ht-degree: 18%
    + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Utilisation de Project Converter pour déplacer des projets d’Ad Hoc Analysis vers Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
-      + [adobe analytics Connector dans Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
+      + [Adobe Analytics Connector dans Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Modèle Analysis Workspace Magento](integrations/magento/magento-analysis-workspace-template.md)
 + Science des données {#data-science}
@@ -336,7 +336,7 @@ ht-degree: 18%
    + [Détection des anomalies dans Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Analyse des contributions dans Analysis Workspace](data-science/contribution-analysis-workspace.md)
    + [Alertes intelligentes](data-science/intelligent-alerts.md)
-   + [adobe analytics et Adobe Sensei - Démocratisation de la science des données pour TOUS](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
+   + [Adobe Analytics et Adobe Sensei - Démocratisation de la science des données pour TOUS](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Spécifique à la verticale {#vertical-specific}
    + Haute technologie {#high-tech}
       + [Super session Summit 2019 - High Tech](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
@@ -344,8 +344,8 @@ ht-degree: 18%
       + [Super session Summit 2019 - Voyages et accueil](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
    + Vente au détail {#retail}
       + [Introduction aux variables et Événements de vente au détail](vertical-specific/retail/intro-to-retail-variables-and-events.md)
-      + [ajouter des variables et des Événements de base de vente au détail pour lancer des règles](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
-      + [ajouter une règle de lancement pour le Événement d’achat](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
+      + [Ajouter des variables et des Événements de base de vente au détail pour lancer des règles](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+      + [Ajouter une règle de lancement pour le Événement d’achat](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Super session Summit 2019 - Vente au détail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
 + Media Analytics {#media-analytics}
    + Mesure de la voix ou de l&#39;audio {#measuring-voice-or-audio}
