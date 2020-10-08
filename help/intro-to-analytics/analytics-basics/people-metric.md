@@ -1,15 +1,16 @@
 ---
 title: Mesure Personnes en Adobe Analytics
-description: adobe analytics offre maintenant une mesure Personnes pour annuler le duplicata des visiteurs en fonction de Adobe Experience Cloud Device Co-op ! Cette vidéo fournit plus d'informations et vous explique comment commencer.
+description: Adobe Analytics offre maintenant une mesure Personnes pour annuler le duplicata des visiteurs en fonction de Adobe Experience Cloud Device Co-op ! Cette vidéo fournit plus d'informations et vous explique comment commencer.
 feature: metrics
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24037.jpg
 kt: 1986
 translation-type: tm+mt
-source-git-commit: 38f62875768f9466308b57a0efaeec6eee74c27a
+source-git-commit: 73421344a22dbdc839e4d5fa2d7f38c8db7725a4
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 12%
@@ -19,7 +20,7 @@ ht-degree: 12%
 
 #  Mesure des personnes  en Adobe Analytics {#people-metric-in-adobe-analytics}
 
-adobe analytics offre maintenant une mesure [!UICONTROL Personnes] à des visiteurs de duplicata en fonction de Adobe Experience Cloud [!UICONTROL Device Co-op]! Cette vidéo fournit plus d&#39;informations et vous explique comment commencer.
+Adobe Analytics offre maintenant une mesure [!UICONTROL Personnes] à des visiteurs de duplicata en fonction de Adobe Experience Cloud [!UICONTROL Device Co-op]! Cette vidéo fournit plus d&#39;informations et vous explique comment commencer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24037/?quality=12)
 
