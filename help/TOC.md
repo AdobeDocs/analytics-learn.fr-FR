@@ -1,19 +1,19 @@
 ---
-user-guide-title: Tutoriels sur Adobe Analytics
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-title: Tutoriels Adobe Analytics
+user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
+breadcrumb-title: Tutoriels Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 21%
+source-wordcount: '1857'
+ht-degree: 22%
 
 ---
 
 
-# Tutoriels sur Analytics {#tutorials}
+# Tutoriels Analytics {#tutorials}
 
 + [Aperçu](overview.md)
 + Introduction to Analytics {#intro-to-analytics}
@@ -252,7 +252,7 @@ ht-degree: 21%
       + [Inspection des implémentations avec le débogueur Adobe Experience Cloud](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Vue des accès post-traités avec l’Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + Pages SPA {#spa-pages}
-      + [Utilisation des meilleures pratiques lors du suivi des applications monopages](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+      + [Utilisation des meilleures pratiques lors du suivi des SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Composants {#components}
    + Segmentation {#segmentation}
       + [Présentation du créateur de segments](components/segmentation/segment-builder-overview.md)
