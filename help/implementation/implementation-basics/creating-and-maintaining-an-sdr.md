@@ -9,9 +9,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3581
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -22,3 +22,7 @@ ht-degree: 0%
 Le document de référence de conception de solution (DTS) est essentiellement le plan directeur de votre site. Cette vidéo montre comment en créer un conjointement avec le Document Business Requirements, afin que vous puissiez toujours avoir une source de vérité à laquelle vous pouvez revenir lorsque vous implémentez Adobe Analytics, et lorsque vous y reviendrez à l&#39;avenir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+
+[Téléchargez](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de DTS/BRD que vous pouvez utiliser pour définir votre site.
+
+[Téléchargez](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) le BRD/SDR à partir de cette vidéo (et de la vidéo [](creating-a-business-requirements-document.md)BRD).
