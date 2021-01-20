@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
 
-# Développer [!DNL Flow visualization] en Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
+# Développer sur [!DNL Flow visualization] en Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
-Cette vidéo présente les différentes options de clic droit disponibles dans l&#39; [!DNL Flow visualization] Analysis Workspace. Les options incluent la création d’un segment à partir d’un chemin d’accès, la réduction de colonnes, etc.
+Cette vidéo présente les différentes options de clic droit disponibles dans le [!DNL Flow visualization] en Analysis Workspace. Les options incluent la création d’un segment à partir d’un chemin d’accès, la réduction de colonnes, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/flow.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace).
