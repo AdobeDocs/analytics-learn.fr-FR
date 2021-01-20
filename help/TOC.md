@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 23%
 
 ---
@@ -161,8 +161,8 @@ ht-degree: 23%
       + [Création de plages de dates personnalisées](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Comparaisons de dates en Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Ajout de comparaisons mensuelles et annuelles antérieures aux tendances](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analyse des trajets client {#analyzing-customer-journeys}
-      + [QI du parcours - Analyses sur plusieurs périphériques](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+   + Analyse des Parcours client {#analyzing-customer-journeys}
+      + [QI parcours - Analyses sur plusieurs périphériques](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualisation des abandons](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Améliorations de la visualisation des abandons](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
       + [Abandon multidimensionnel](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
@@ -203,7 +203,7 @@ ht-degree: 23%
       + [Trouver des opportunités pour augmenter l&#39;engagement pour les applications vocales](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [Réduction des taux d’erreur et amélioration des taux de réussite dans votre application vocale](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Comprendre le comportement des utilisateurs sur les assistants vocaux](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [Comprendre le parcours vocal de l&#39;utilisateur](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [Présentation du Parcours de la voix de l’utilisateur](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [Rapports en temps réel à Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
@@ -236,7 +236,8 @@ ht-degree: 23%
       + [Configuration de variables globales dans l’extension de lancement d’Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Configuration des paramètres des cookies dans l’extension de lancement d’Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilisation du code personnalisé lors de la configuration de l’extension de lancement d’Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Utilisation d’une couche de données pour définir le nom de page et d’autres variables via un Experience Platform Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Utilisation d’une couche de données pour définir le nom de page et d’autres variables par lancement](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Ajouter des modules externes d’implémentation au lancement](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Utilisation de doPlugins dans l’extension Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Configuration du suivi facile des liens de téléchargement](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Configuration du suivi facile des liens de sortie](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -363,7 +364,7 @@ ht-degree: 23%
       + [Mise en oeuvre dans les applications Android](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mesure des analyses mobiles {#measuring-mobile-analytics}
       + [Prise en main d’Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Impact des points de contact sur le parcours mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Impact des points de contact sur le Parcours mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyse du comportement des utilisateurs sur plusieurs Canaux](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Comment augmenter les taux d&#39;engagement et de rétention](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
