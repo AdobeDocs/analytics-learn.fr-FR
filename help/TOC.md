@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
 source-wordcount: '1872'
-ht-degree: 23%
+ht-degree: 24%
 
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 23%
       + [Utilisation de tableaux, de visualisations et de panneaux dans Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Visualisation Ligne dans Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Ajouter des tendances aux visualisations de ligne](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Ajout de lignes de tendance aux visualisations de lignes](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualisation graphique à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualisation Histogramme](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualisation des cartes](analysis-workspace/visualizations/map-visualization.md)
@@ -237,7 +237,7 @@ ht-degree: 23%
       + [Configuration des paramètres des cookies dans l’extension de lancement d’Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilisation du code personnalisé lors de la configuration de l’extension de lancement d’Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Utilisation d’une couche de données pour définir le nom de page et d’autres variables par lancement](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Ajouter des modules externes d’implémentation au lancement](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [Ajout de modules d’implémentation externes dans Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Utilisation de doPlugins dans l’extension Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Configuration du suivi facile des liens de téléchargement](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Configuration du suivi facile des liens de sortie](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
