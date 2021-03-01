@@ -1,8 +1,8 @@
 ---
 title: Amélioration de la publication auprès d’une audience Experience Cloud
-landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
-description: Des améliorations ont été apportées à la publication auprès d’une audience Experience Cloud. Vous pouvez désormais publier des audiences (segments) et les rendre disponibles six fois plus rapidement, réduisant le temps de latence actuel de 48 heures à environ 8 heures, voire plus rapidement, en fonction du trafic et de la taille du segment.
-feature: integration with experience cloud
+landing-page-description: Découvrez les publications d’audiences (segments) et rendez-les disponibles plus rapidement que jamais.
+description: Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences (segments) et les rendre disponibles six fois plus rapidement, faisant ainsi passer le temps de latence de 48 heures à environ 8 heures, voire plus court encore en fonction du trafic et de la taille du segment.
+feature: intégration à experience cloud
 topics: null
 audience: analyst
 activity: setup
@@ -12,19 +12,19 @@ kt: 4819
 translation-type: tm+mt
 source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 29%
+source-wordcount: '173'
+ht-degree: 52%
 
 ---
 
 
 # Amélioration de la publication auprès d’une audience Experience Cloud
 
-Des améliorations ont été apportées à la publication auprès d’une audience Experience Cloud. Vous pouvez maintenant publier des audiences ([!UICONTROL segments]) et les rendre disponibles six fois plus rapidement, réduisant le temps de latence actuel de 48 heures à environ 8 heures, et éventuellement plus rapidement, en fonction du trafic et de la taille du [!UICONTROL segment] .
+Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences ([!UICONTROL segments]) et les rendre disponibles six fois plus rapidement, réduisant le temps de latence actuel de 48 heures à environ 8 heures, et éventuellement plus rapidement, en fonction du trafic et de la taille [!UICONTROL du segment].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
-En outre, le nombre de [!UICONTROL segments] pouvant être publiés simultanément est passé de 20 à 75 par suite [!UICONTROL de]rapports.
-Pour plus d’informations, voir [Publication de segments vers l’Experience Cloud](https://docs.adobe.com/content/help/fr-FR/analytics/components/segmentation/segmentation-workflow/seg-publish.html) dans l’aide d’Analytics.
+De plus, le nombre de [!UICONTROL segments] pouvant être publiés simultanément est passé de 20 à 75 par [!UICONTROL suite de rapports].
+Pour plus d’informations, voir [Publier des segments dans l’Experience Cloud](https://docs.adobe.com/content/help/fr-FR/analytics/components/segmentation/segmentation-workflow/seg-publish.html) dans l’aide d’Analytics.
 
-Lisez également sur les [Audiences](https://docs.adobe.com/content/help/fr-FR/core-services/interface/audiences/audience-library.html) dans l’aide de l’Experience Cloud pour en savoir plus sur la bibliothèque [!UICONTROL d’]Audiences.
+Consultez également [Audiences](https://docs.adobe.com/content/help/fr-FR/core-services/interface/audiences/audience-library.html) dans l&#39;aide Experience Cloud pour en savoir plus sur la [!UICONTROL bibliothèque d&#39;Audiences].
