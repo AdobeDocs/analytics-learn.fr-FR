@@ -1,30 +1,31 @@
 ---
 title: Détection des anomalies dans le Report Builder
 description: Découvrez comment ajouter des mesures de détection des anomalies à vos requêtes de données, ainsi que créer un graphique créatif des données.
-feature: report builder
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 13%
 
 ---
 
 
-# [!UICONTROL Détection] des anomalies dans le [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+#  Détection des anomalies dans le  [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
-Découvrez comment ajouter des [!UICONTROL mesures de détection] des [!UICONTROL anomalies] à vos requêtes de données, ainsi que créer un graphique créatif des données.
+Découvrez comment ajouter [!UICONTROL la détection des anomalies] [!UICONTROL mesures] à vos requêtes de données, ainsi que créer un graphique créatif des données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
 
 [!UICONTROL La détection des anomalies utilise la modélisation statistique pour détecter automatiquement les tendances imprévues dans vos données.]
 
-Dans [!UICONTROL le Report Builder], vous pouvez renvoyer des valeurs [!UICONTROL de mesure] réelles, ainsi que des valeurs attendues et des limites supérieure et inférieure, pour ajouter plus de profondeur aux données que vous analysez et partagez.
+Dans [!UICONTROL Report Builder], vous pouvez renvoyer des valeurs [!UICONTROL mesures] réelles, ainsi que des valeurs attendues et des limites supérieure et inférieure, pour ajouter plus de profondeur aux données que vous analysez et partagez.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
