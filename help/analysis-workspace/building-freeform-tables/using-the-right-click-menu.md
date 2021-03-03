@@ -1,18 +1,19 @@
 ---
 title: Utilisation du menu contextuel en Analysis Workspace
 description: Apprenez à utiliser le menu contextuel d'Analysis Workspace pour accélérer les ventilations et plus encore.
-feature: freeform tables
+feature: Tableaux à structure libre
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -23,4 +24,4 @@ Apprenez à utiliser le menu contextuel d&#39;Analysis Workspace pour accélére
 
 >[!VIDEO](https://video.tv.adobe.com/v/23981/?quality=12)
 
-Remarque : Le menu de clic droit a été développé pour inclure [!DNL Date comparisons]la création d&#39; [!UICONTROL alertes], la copie, les actions d&#39; [!UICONTROL abandons] contextuelles, etc.
+Remarque : Le menu de clic droit a été développé encore plus pour inclure [!DNL Date comparisons], en créant [!UICONTROL alertes], en copiant, en contexte [!UICONTROL Abandon] actions, etc.
