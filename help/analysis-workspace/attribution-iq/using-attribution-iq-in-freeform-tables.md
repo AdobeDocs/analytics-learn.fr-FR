@@ -1,30 +1,31 @@
 ---
 title: Utilisation d’Attribution IQ dans les tableaux à structure libre
-description: attribution iq vous permet de modifier à la volée le modèle d’attribution en l’un des dix modèles basés sur des règles sur une colonne à structure libre.
-feature: attribution
+description: Attribution IQ vous permet de modifier à la volée le modèle d’attribution en l’un des dix modèles basés sur des règles sur une colonne à structure libre.
+feature: Attribution
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 12%
 
 ---
 
 
-# Utilisation de [!DNL Attribution IQ] la fonction [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
+# Utilisation de [!DNL Attribution IQ] dans [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
 
-[!DNL Attribution IQ] vous permet de modifier le [!UICONTROL modèle] d’attribution en n’importe lequel des dix modèles basés sur des règles sur une colonne [!UICONTROL à structure libre] à la volée.
+[!DNL Attribution IQ] vous permet de modifier le   modèle d’attribution en n’importe lequel des dix modèles basés sur des règles sur une colonne   Freeformcolumn à la volée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segmentation et les ventilations et vous permet de faire des comparaisons illimitées sur n’importe quelle dimension (même [!DNL props]!).
+Chaque attribution [!UICONTROL modèle] prend entièrement en charge la segmentation et les ventilations et vous permet de faire des comparaisons illimitées sur n&#39;importe quelle dimension (même [!DNL props] !).
 
 [!DNL Attribution IQ] est disponible exclusivement pour Analysis Workspace, pour les clients ayant les forfaits suivants :
 
