@@ -1,23 +1,24 @@
 ---
-title: adobe analytics - C'est plus que des données. Intelligence du client
+title: Adobe Analytics - C'est plus que des données. Intelligence du client
 description: Pour devenir une entreprise d'expérience, le marketing axé sur les données est essentiel. Donnez à vos analyses un nouveau niveau de maturité, des données aux statistiques en passant par l’action.
-feature: analytics basics
+feature: Concepts de base d’Analytics
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 2%
 
 ---
 
 
-# adobe analytics - C&#39;est plus que des données. Intelligence du client
+# Adobe Analytics - C&#39;est plus que des données. Intelligence du client
 
 Pour devenir une entreprise d&#39;expérience, le marketing axé sur les données est essentiel. Donnez à vos analyses un nouveau niveau de maturité, des données aux statistiques en passant par l’action.
 
