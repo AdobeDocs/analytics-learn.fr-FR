@@ -1,23 +1,24 @@
 ---
 title: Réorganisation et redimensionnement des visualisations dans Analysis Workspace
 description: Cette vidéo explique comment créer une mise en page personnalisée en redimensionnant, réorganisant et réorganisant les visualisations et les tableaux dans Analysis Workspace.
-feature: visualizations
+feature: Visualisations
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
-# Réorganisation et redimensionnement des [!UICONTROL visualisations] en Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
+# Réorganisation et redimensionnement [!UICONTROL Visualisations] en Analysis Workspace {#rearranging-and-resizing-visualizations-in-analysis-workspace}
 
 Cette vidéo explique comment créer une mise en page personnalisée en redimensionnant, réorganisant et réorganisant [!UICONTROL les visualisations] et les tableaux en Analysis Workspace.
 
