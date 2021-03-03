@@ -1,18 +1,19 @@
 ---
 title: Copier et insérer en Analysis Workspace
 description: Copier + Insérer permet de copier des visualisations d’un panneau ou d’un projet vers un autre, et de copier des panneaux complets d’un projet à l’autre.
-feature: projects
+feature: Panneaux
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
