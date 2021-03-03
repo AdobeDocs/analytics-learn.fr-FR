@@ -1,23 +1,24 @@
 ---
 title: Définition d’un projet Analysis Workspace comme Landing page
 description: Cette vidéo vous explique comment définir un projet comme landing page.
-feature: workspace basics
+feature: Concepts de base de l’espace de travail
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2364
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
 
-# Définition d’un projet Analysis Workspace comme Landing page {#setting-an-analysis-workspace-project-as-your-landing-page}
+# Définition d&#39;un projet Analysis Workspace en tant que Landing page {#setting-an-analysis-workspace-project-as-your-landing-page}
 
 Cette vidéo vous explique comment définir un projet comme landing page.
 
