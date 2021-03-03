@@ -1,18 +1,19 @@
 ---
 title: Modèle de tutoriel de formation dans Analysis Workspace
 description: 'Le didacticiel de formation Analysis Workspace présente aux utilisateurs une terminologie et des étapes courantes pour créer leur première analyse dans Workspace. '
-feature: projects
+feature: Panneaux
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 13%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
