@@ -1,19 +1,20 @@
 ---
 title: Modèle algorithmique dans Attribution IQ
 description: Le modèle d’attribution algorithmique d’Analysis Workspace utilise des techniques statistiques pour déterminer de manière dynamique la distribution optimale du crédit pour la mesure sélectionnée.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36205.jpg
 kt: 5554
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 2950bf5c89f1dc239c08ce0d9b2272f14da4e3d3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 91%
+source-wordcount: '74'
+ht-degree: 87%
 
 ---
 
@@ -24,4 +25,4 @@ Le modèle d’attribution algorithmique d’Analysis Workspace utilise des tech
 
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
-For more information, see the [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/attribution/algorithmic.html)
+Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=fr-FR)
