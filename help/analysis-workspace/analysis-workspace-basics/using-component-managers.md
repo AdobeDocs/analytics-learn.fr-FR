@@ -3,25 +3,26 @@ title: Utilisation des gestionnaires de composants dans Adobe Analytics
 seo-title: Utilisation des gestionnaires de composants dans Adobe Analytics
 description: 'Cette vidéo explique comment utiliser les gestionnaires de composants Alertes et Projets planifiés en Adobe Analytics, ainsi que d’autres fonctionnalités. Découvrez comment trouver facilement l''alerte ou le projet planifié que vous recherchez, ainsi que l''option Activer/désactiver les alertes. '
 seo-description: 'Cette vidéo explique comment utiliser les gestionnaires de composants Alertes et Projets planifiés en Adobe Analytics, ainsi que d’autres fonctionnalités. Découvrez comment trouver facilement l''alerte ou le projet planifié que vous recherchez, ainsi que l''option Activer/désactiver les alertes. '
-feature: workspace basics
+feature: Concepts de base de l’espace de travail
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 
-# Utilisation [!DNL Component Managers] de l’Adobe Analytics {#using-component-managers-in-adobe-analytics}
+# Utilisation de [!DNL Component Managers] en Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
-Cette vidéo explique comment utiliser les [!UICONTROL alertes] et les projets  [!DNL component managers] planifiés en Adobe Analytics, ainsi que d’autres fonctionnalités. Découvrez comment trouver facilement l&#39; [!UICONTROL alerte] ou le projet  planifié que vous recherchez, ainsi que l&#39;activation/désactivation des [!UICONTROL alertes].
+Cette vidéo explique comment utiliser les [!UICONTROL alertes] et [!UICONTROL projets planifiés] [!DNL component managers] en Adobe Analytics, ainsi que certaines fonctionnalités supplémentaires. Découvrez comment trouver facilement [!UICONTROL Alerte] ou [!UICONTROL Projet planifié] que vous recherchez ainsi que Activer/désactiver [!UICONTROL Alertes].
 
 >[!VIDEO](https://video.tv.adobe.com/v/24068/?quality=12)
