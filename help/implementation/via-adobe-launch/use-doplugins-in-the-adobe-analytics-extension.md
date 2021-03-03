@@ -1,24 +1,25 @@
 ---
 title: Utilisation de doPlugins dans l’extension Adobe Analytics
 description: Apprenez à utiliser l’Experience Platform Launch afin de mieux contrôler vos accès Adobe Analytics en exploitant la fonctionnalité doPlugins.
-feature: launch implementation
+feature: Lancement de l’implémentation
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
+role: '"Développeur, ingénieur de données"'
+level: Début
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 
-# Utilisation de doPlugins dans l’ [!UICONTROL extension Adobe Analytics] {#use-doplugins-in-the-adobe-analytics-extension}
+# Utilisez doPlugins dans l’Adobe Analytics [!UICONTROL Extension] {#use-doplugins-in-the-adobe-analytics-extension}
 
-Apprenez à utiliser l&#39;Adobe [!DNL Experience Platform Launch] afin d&#39;avoir plus de contrôle sur vos accès Adobe Analytics en exploitant la `doPlugins` fonctionnalité.
+Apprenez à utiliser l&#39;Adobe [!DNL Experience Platform Launch] afin de mieux contrôler vos accès Adobe Analytics en exploitant la fonctionnalité `doPlugins`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12)
