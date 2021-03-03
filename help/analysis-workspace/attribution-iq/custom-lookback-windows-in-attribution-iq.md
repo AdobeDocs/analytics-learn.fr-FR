@@ -1,19 +1,20 @@
 ---
 title: Fenêtres rétroactives personnalisées dans Attribution IQ
 description: Les fenêtres rétroactives personnalisées vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option augmente généralement la précision d’attribution pour les événements qui surviennent au début de la période du rapports en tenant compte des interactions survenues au cours des mois précédents.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36204.jpg
 kt: 5553
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 56%
+source-wordcount: '147'
+ht-degree: 55%
 
 ---
 
@@ -24,4 +25,4 @@ Les fenêtres rétroactives personnalisées vous permettent d’étendre la fen�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-For more information, see the [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)
+Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr-FR#intervalles-de-recherche-en-amont)
