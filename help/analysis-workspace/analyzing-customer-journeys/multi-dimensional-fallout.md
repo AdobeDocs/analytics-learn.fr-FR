@@ -1,24 +1,25 @@
 ---
 title: Abandon multidimensionnel en Analysis Workspace
 description: Les abandons en Analysis Workspace vous permettent de combiner et de faire correspondre des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
-feature: visualizations
+feature: Visualisations
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Multidimensional Fallout] en Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] en Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
 
 [!DNL Fallout] en Analysis Workspace vous permet de combiner et de faire correspondre des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
 
@@ -26,4 +27,4 @@ ht-degree: 0%
 
 Cette puissante fonctionnalité vous permet de définir plus facilement les étapes utilisateur à étudier.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
