@@ -1,31 +1,32 @@
 ---
 title: Utilisation du panneau Attribution IQ dans Analysis Workspace
 description: Dans cette vidéo, vous verrez le panneau Attribution IQ, un emplacement idéal pour le début lorsque vous élaborerez votre projet Analysis Workspace d'attribution.
-feature: attribution
+feature: Attribution
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '122'
+ht-degree: 2%
 
 ---
 
 
-# Utilisation du [!DNL Attribution IQ] panneau  en Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
+# Utilisation du [!DNL Attribution IQ] [!UICONTROL panneau] en Analysis Workspace {#using-the-attribution-iq-panel-in-analysis-workspace}
 
-Dans cette vidéo, vous verrez le [!DNL Attribution IQ] panneau , un emplacement idéal pour le début lorsque vous construirez votre projet d&#39;attribution Analysis Workspace.
+Dans cette vidéo, vous verrez le [!DNL Attribution IQ] [!UICONTROL panneau], un emplacement idéal pour le début lorsque vous élaborerez votre projet Analysis Workspace d&#39;attribution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
-Le [!DNL Attribution IQ][!UICONTROL Panel] en Analysis Workspace est un moyen de comparer rapidement l&#39;une des dix règles basées [!DNL attribution models] sur des règles d&#39;une manière visuelle. Voyez comment chaque modèle impacte une dimension à l’aide de [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots]et même d’une [!DNL Flow Diagram]. Le [!DNL Attribution] Groupe  d&#39;experts est un excellent point de départ pour une analyse d&#39;attribution plus sophistiquée.
+Le [!DNL Attribution IQ] [!UICONTROL Panel] en Analysis Workspace est un moyen de comparer rapidement l&#39;un des dix [!DNL attribution models] basés sur des règles d&#39;une manière visuelle. Voyez comment chaque modèle impacte une dimension à l&#39;aide de [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] et même d&#39;une [!DNL Flow Diagram]. Le [!DNL Attribution] [!UICONTROL panneau] est un excellent point de départ pour une analyse d&#39;attribution plus sophistiquée.
 
 ## Ressources supplémentaires {#additional-resources}
 
