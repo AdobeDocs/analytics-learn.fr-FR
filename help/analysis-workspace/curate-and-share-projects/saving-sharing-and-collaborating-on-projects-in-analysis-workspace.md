@@ -1,18 +1,19 @@
 ---
 title: Enregistrement, partage et collaboration sur des projets à Analysis Workspace
 description: Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d'autres destinataires et inviter d'autres personnes à collaborer sur votre projet.
-feature: curate and share
+feature: Traitement et partage
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 14%
 
 ---
 
@@ -23,4 +24,4 @@ Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour v
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
