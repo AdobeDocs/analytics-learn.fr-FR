@@ -1,26 +1,28 @@
 ---
 title: Suivi des journaux d’utilisation pour Analysis Workspace
 description: Sous Admin - Journaux - Utilisation et accès, vous pouvez mieux comprendre l’utilisation de Adobe Analytics par vos utilisateurs. Cette vidéo porte spécifiquement sur la mesure de l’utilisation des projets Workspace.
-feature: data configuration and collection
+feature: Configuration et collecte des données
 topics: null
-audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
+topic: Administration
+role: Administrateur
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 2%
 
 ---
 
 
 # Suivi des journaux d’utilisation pour Analysis Workspace
 
-Sous [!UICONTROL Admin] - [!UICONTROL Journaux] - [!UICONTROL Utilisation et accès], vous pouvez mieux comprendre l’utilisation de Adobe Analytics par vos utilisateurs. Cette vidéo se concentre spécifiquement sur la mesure de l&#39;utilisation des [!DNL Workspace] projets. Vous pouvez télécharger le fichier Excel utilisé dans cette vidéo à l’adresse https://adobe.ly/2ygP5ws
+Sous [!UICONTROL Admin] - [!UICONTROL Journaux] - [!UICONTROL Utilisation et accès], vous pouvez mieux comprendre l&#39;utilisation de l&#39;Adobe Analytics par vos utilisateurs. Cette vidéo porte spécifiquement sur la mesure de l&#39;utilisation du projet [!DNL Workspace]. Vous pouvez télécharger le fichier Excel utilisé dans cette vidéo à l’adresse https://adobe.ly/2ygP5ws
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html).
+Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html).
