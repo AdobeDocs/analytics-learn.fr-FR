@@ -1,24 +1,25 @@
 ---
-title: Ajouter des tendances aux visualisations de ligne
+title: Ajout de lignes de tendance aux visualisations de lignes
 description: Sous Paramètres de visualisation, vous pouvez choisir d’ajouter une régression ou une courbe de tendance moyenne mobile à vos séries de lignes, ce qui peut aider à représenter un modèle plus clair dans les données. Les options disponibles sont Linéaire, Logarithmique, Exponentielle, Puissance, Quadratique et Moyennes mobiles.
-feature: Visualizations
+feature: Visualisations
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
 
-# Ajouter des tendances aux visualisations de ligne
+# Ajout de lignes de tendance aux visualisations de lignes
 
 Sous [!UICONTROL Paramètres de visualisation], vous pouvez choisir d&#39;ajouter une régression ou une courbe de tendance moyenne mobile à votre série de lignes, ce qui peut aider à représenter un modèle plus clair dans les données. Les options disponibles sont Linéaire, Logarithmique, Exponentielle, Puissance, Quadratique et Moyennes mobiles.
 
