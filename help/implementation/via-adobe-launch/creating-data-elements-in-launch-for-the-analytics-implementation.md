@@ -1,24 +1,25 @@
 ---
 title: Création d’éléments de données au lancement pour l’implémentation d’Analytics
 description: Cette vidéo montre comment créer des éléments de données pour votre implémentation Analytics dans Launch, en fonction des variables et événements décidés et documentés dans un document de référence de conception de solution (DTS).
-feature: launch implementation
+feature: Lancement de l’implémentation
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
+role: '"Développeur, ingénieur de données"'
+level: Début
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
 
-# Création d’éléments [!UICONTROL de] données dans [!DNL Launch] pour l’ [!DNL Analytics] implémentation
+# Création des [!UICONTROL éléments de données] dans [!DNL Launch] pour l&#39;implémentation [!DNL Analytics]
 
-Cette vidéo montre comment créer des éléments [!UICONTROL de] données pour votre [!DNL Analytics] implémentation dans [!DNL Experience Platform Launch], en fonction des variables et événements décidés et documentés dans un document [!DNL Solution Design Reference] (DTS).
+Cette vidéo montre comment créer des [!UICONTROL éléments de données] pour votre mise en oeuvre [!DNL Analytics] dans [!DNL Experience Platform Launch], en fonction des variables et événements décidés et documentés dans un document [!DNL Solution Design Reference] (DTS).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
