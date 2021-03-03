@@ -3,25 +3,26 @@ title: Sélection d'une suite de rapports en Analysis Workspace
 seo-title: Sélection d’une suite de rapports en Analysis Workspace - Adobe Analytics
 description: Cette vidéo vous montre le sélecteur de suites de rapports.
 seo-description: Cette vidéo vous montre le sélecteur de suites de rapports. - Adobe Analytics
-feature: workspace basics
+feature: Concepts de base de l’espace de travail
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 3%
 
 ---
 
 
-# Selecting a [!UICONTROL Report Suite] in Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
+# Sélection d&#39;une [!UICONTROL suite de rapports] en Adobe Analytics {#selecting-a-report-suite-in-adobe-analytics}
 
-Cette vidéo vous emmène dans le sélecteur de suites [!UICONTROL de] rapports.
+Cette vidéo vous guide tout au long du sélecteur [!UICONTROL suite de rapports].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12)
