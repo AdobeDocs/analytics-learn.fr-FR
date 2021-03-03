@@ -1,28 +1,29 @@
 ---
 title: Améliorations de la zone de dépôt de segments en Analysis Workspace
 description: Les zones de dépôt de segments ont été améliorées afin que vous puissiez réellement déposer n’importe quoi dans un projet.
-feature: panels
+feature: Panneaux
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Améliorations de la zone de dépôt de segments] en Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Améliorations de la zone ] SegmentDrop en Analysis Workspace  {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL Les zones de dépôt de segments] ont été améliorées afin que vous puissiez réellement déposer n’importe quoi dans un projet.
+[!UICONTROL Les zones ] de dépôt de segments ont été améliorées afin que vous puissiez réellement déposer n’importe quoi dans un projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-Vous pouvez désormais supprimer des [!UICONTROL dimensions] complètes et [!UICONTROL des mesures], en plus de la prise en charge existante des éléments de [!UICONTROL dimension] , des plages de [!UICONTROL dates et des segments. ] En outre, nous avons amélioré la façon dont les éléments de [!UICONTROL dimension] &quot;non spécifié&quot; et &quot;aucun&quot; sont traités lorsqu’ils sont déposés dans la zone de dépôt de [!UICONTROL segment] .
+Vous pouvez désormais déposer les [!UICONTROL dimensions] complètes et [!UICONTROL mesures], en plus de la prise en charge existante des éléments [!UICONTROL dimension], des plages de dates  et des segments . En outre, nous avons amélioré la façon dont les éléments [!UICONTROL dimension] de &quot;non spécifié&quot; et &quot;aucun&quot; sont traités lorsqu&#39;ils sont déposés dans la zone de dépôt [!UICONTROL segment].
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
