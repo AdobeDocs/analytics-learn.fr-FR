@@ -1,18 +1,19 @@
 ---
 title: Introduction aux variables et Événements de vente au détail
 description: Si vous avez un site de vente au détail, il y a des variables et des événements qui ont été créés pour vous (n'êtes-vous pas spécial) ! Cette vidéo vous donnera un bref aperçu de ces variables et événements spécifiques à la vente au détail.
-feature: use cases
+feature: Cas d’utilisation
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
