@@ -1,19 +1,20 @@
 ---
 title: Utilisation de segments dans Analysis Workspace
 description: Découvrez comment appliquer des segments à des projets Analysis Workspace.
-feature: segmentation
+feature: Segmentation
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2104
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 35%
+source-wordcount: '32'
+ht-degree: 34%
 
 ---
 
