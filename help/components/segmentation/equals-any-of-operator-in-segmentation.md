@@ -1,17 +1,18 @@
 ---
 title: Utilisation de l’opérateur Est égal à n’importe lequel de dans la segmentation
 description: Est égal à l’un des opérateurs de segment et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer sur une liste d'éléments spécifiques, au lieu d'utiliser plusieurs instructions OU ou contient n'importe laquelle. L’utilisation de ces opérateurs au lieu de contient n’importe lequel de ces opérateurs permet également d’améliorer la vitesse de requête.
-feature: segmentation
+feature: Segmentation
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 4f8f8145a9d559e99d01783c6bf62f590f6c5410
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,4 +24,4 @@ Les opérateurs de segments &quot;Est égal à l’un des&quot; et &quot;N’est
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html).
