@@ -1,18 +1,19 @@
 ---
 title: Utilisation de Filtres (balises) dans le rail de gauche
 description: Les filtres (ou balises) sont un moyen rapide et facile de filtrer le rail de gauche en Analysis Workspace pour trouver les composants dont vous avez besoin. Tirez parti des balises prêtes à l’emploi fournies par Adobe ou ajoutez vos propres balises personnalisées pour organiser les composants associés.
-feature: workspace basics
+feature: Concepts de base de l’espace de travail
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32959.jpg
 kt: 4845
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '112'
 ht-degree: 8%
 
 ---
@@ -20,8 +21,8 @@ ht-degree: 8%
 
 # Utilisation de Filtres (balises) dans le rail de gauche
 
-Les filtres (ou balises) sont un moyen rapide et facile de filtrer le rail de gauche en Analysis Workspace pour trouver les [!UICONTROL composants] dont vous avez besoin. Tirez parti des balises prêtes à l’emploi fournies par Adobe ou ajoutez vos propres balises personnalisées pour organiser les [!UICONTROL composants]associés.
+Les filtres (ou balises) sont un moyen rapide et facile de filtrer le rail de gauche en Analysis Workspace pour trouver les [!UICONTROL composants] dont vous avez besoin. Tirez parti des balises prêtes à l’emploi fournies par Adobe ou ajoutez vos propres balises personnalisées pour organiser les [!UICONTROL composants] associés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/home.html)
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/home.html).
