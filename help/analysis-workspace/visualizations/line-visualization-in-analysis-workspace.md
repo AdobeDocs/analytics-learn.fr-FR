@@ -1,27 +1,28 @@
 ---
-title: Visualisation en ligne en Analysis Workspace
-description: La visualisation Ligne représente les mesures sur une période de tendance. Les paramètres de visualisation vous permettent de personnaliser l’aspect visuel de chaque ligne et incluent les paramètres Afficher l’axe X/Y, Afficher les étiquettes min/max et Afficher la ligne de tendance.
-feature: visualizations
+title: Visualisation Ligne dans Analysis Workspace
+description: La visualisation Ligne représente les mesures sur une période de tendance. Les paramètres de visualisation vous permettent de personnaliser l’aspect visuel de chaque ligne et incluent les paramètres Afficher l’axe X/Y, Afficher les libellés min/max et Afficher la ligne de tendance.
+feature: Visualisations
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
 
-# Visualisation en ligne en Analysis Workspace
+# Visualisation Ligne dans Analysis Workspace
 
-La visualisation Ligne représente les mesures sur une période de tendance. Les paramètres de visualisation vous permettent de personnaliser l’aspect visuel de chaque ligne et incluent les paramètres Afficher l’axe X/Y, Afficher les étiquettes min/max et Afficher la ligne de tendance.
+La visualisation Ligne représente les mesures sur une période de tendance. Les paramètres de visualisation vous permettent de personnaliser l’aspect visuel de chaque ligne et incluent les paramètres Afficher l’axe X/Y, Afficher les libellés min/max et Afficher la ligne de tendance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-En savoir plus dans la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/visualizations/line.html).
+Pour en savoir plus, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=fr-FR).
