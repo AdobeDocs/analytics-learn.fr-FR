@@ -1,25 +1,26 @@
 ---
 title: Liens internes en Analysis Workspace
 description: Les liens internes permettent aux analystes de créer des projets en Analysis Workspace pour amener les lecteurs du projet à afficher des panneaux et des visualisations exacts au sein du projet.
-feature: visualizations
+feature: Visualisations
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 1%
 
 ---
 
 
 # Liens internes en Analysis Workspace {#intra-linking-in-analysis-workspace}
 
-Les liens internes permettent aux analystes de créer des projets en Analysis Workspace pour amener les lecteurs du projet à afficher des panneaux et des [!UICONTROL visualisations] exacts au sein du projet.
+Les liens internes permettent aux analystes de créer des projets en Analysis Workspace afin de diriger les lecteurs du projet vers des panneaux exacts et [!UICONTROL visualisations] au sein du projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
