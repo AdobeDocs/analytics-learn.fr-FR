@@ -1,25 +1,26 @@
 ---
 title: Cliquer avec le bouton droit de la souris pour optimiser l’efficacité de Workspace
 description: Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. Des tableaux à structure libre aux visualisations des abandons, un clic droit vous rendra plus efficace et plus compétent dans Workspace.
-feature: workspace basics
+feature: Concepts de base de l’espace de travail
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 67%
 
 ---
 
 
-# Right-click for [!DNL Workspace] Efficiency
+# Cliquez avec le bouton droit pour [!DNL Workspace] Efficacité.
 
-Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].
+Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. De [!UICONTROL Tableaux à structure libre] à [!UICONTROL Visualisations des abandons], un clic droit vous rendra plus efficace et plus compétent en [!DNL Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
