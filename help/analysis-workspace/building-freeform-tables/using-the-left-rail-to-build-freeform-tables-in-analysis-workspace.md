@@ -1,18 +1,19 @@
 ---
 title: Utilisation du rail de gauche pour créer des tables à structure libre dans Analysis Workspace
 description: Découvrez comment utiliser le rail de gauche en Analysis Workspace pour rechercher, créer et ajouter des éléments aux tableaux à structure libre.
-feature: freeform tables
+feature: Tableaux à structure libre
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 36%
 
 ---
