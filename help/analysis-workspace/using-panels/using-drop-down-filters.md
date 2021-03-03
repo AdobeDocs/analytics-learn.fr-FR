@@ -1,17 +1,18 @@
 ---
 title: Utilisation de Filtres déroulants dans Analysis Workspace
 description: Dans cette vidéo, vous apprendrez à utiliser des filtres déroulants en Analysis Workspace pour modifier de manière dynamique le contenu d’un panneau.
-feature: panels
+feature: Panneaux
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -27,4 +28,4 @@ La zone de dépôt de panneau dispose désormais de fonctionnalités de filtrage
 
 Les listes déroulantes sont un moyen utile de consolider les projets et les groupes d&#39;étude. Par exemple, si vous disposez de plusieurs versions d’un projet qui fournissent un rapports spécifique au pays, vous pouvez désormais réduire ces projets en un seul projet et ajouter dans un pays une liste déroulante que les utilisateurs peuvent basculer.
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+Pour plus d&#39;informations, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
