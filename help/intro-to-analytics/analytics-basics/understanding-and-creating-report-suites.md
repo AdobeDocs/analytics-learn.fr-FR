@@ -1,24 +1,25 @@
 ---
 title: Compréhension et création de Report Suites
 description: Cette vidéo vous aidera à comprendre les suites de rapports et vous montrera comment les créer dans l’interface, afin que vous puissiez suivre et optimiser les personnes qui se rendent sur votre site.
-feature: analytics basics
+feature: Concepts de base d’Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 2%
 
 ---
 
 
-# Présentation et création de suites de [!UICONTROL rapports]
+# Comprendre et créer des [!UICONTROL Report Suites]
 
-Cette vidéo vous aide à comprendre ce que sont les suites [!UICONTROL de] rapports et vous montre comment les créer dans l&#39;interface, afin que vous puissiez suivre et optimiser le trafic provenant de votre site.
+Cette vidéo vous aide à comprendre ce que [!UICONTROL sont les suites de rapports] et vous montre comment les créer dans l&#39;interface, afin que vous puissiez suivre et optimiser le trafic qui arrive sur votre site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12)
