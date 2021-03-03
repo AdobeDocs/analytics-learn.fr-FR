@@ -1,28 +1,29 @@
 ---
 title: Analyse des contributions dans Analysis Workspace
 description: Cette vidéo présente l’Analyse des contributions et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
-feature: data science
+feature: Science des données
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '111'
 ht-degree: 10%
 
 ---
 
 
-# [!UICONTROL Analyse] des contributions en Analysis Workspace {#contribution-analysis-in-analysis-workspace}
+# [!UICONTROL Analyse des ] contributions en Analysis Workspace  {#contribution-analysis-in-analysis-workspace}
 
-Cette vidéo présente l’Analyse [!UICONTROL des] contributions et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
+Cette vidéo présente [!UICONTROL l’Analyse des contributions] et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
 
-[!UICONTROL L’Analyse] des contributions est disponible dans Analysis Workspace pour les clients de Adobe Analytics Premium.
+[!UICONTROL L’] analyse des contributions est disponible en Analysis Workspace pour les clients de Adobe Analytics Premium.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/anomaly_detection.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/anomaly_detection.html).
