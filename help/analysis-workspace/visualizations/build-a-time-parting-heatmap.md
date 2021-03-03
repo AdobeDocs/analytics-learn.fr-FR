@@ -1,24 +1,25 @@
 ---
 title: Création d'une carte thermique de répartition du temps en Analysis Workspace
 description: Découvrez comment porter votre analyse de partage de temps au niveau suivant en créant une visualisation de cartes des comportements.
-feature: visualizations
+feature: Visualisations
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 
 # Création d&#39;une carte thermique de répartition du temps en Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
 
-Apprenez à passer votre analyse de partage de temps au niveau suivant en créant une [!UICONTROL visualisation] de la carte des comportements.
+Découvrez comment porter votre analyse de partage de temps au niveau suivant en créant une carte thermique [!UICONTROL visualisation] des comportements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
