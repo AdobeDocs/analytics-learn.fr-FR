@@ -1,19 +1,21 @@
 ---
 title: Créer une analyse Campaign de prélancement avec Adobe Analytics
 description: Comment utiliser Adobe Analytics pour établir les bases du lancement d’une campagne paid media Advertising Cloud.
-feature: integration with ad cloud
+feature: Intégration d’Advertising Cloud
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
+topic: Intégrations
+role: Administrateur
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: f7065aa474339cc90c00a6ac13924ec8d4e41e5d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 92%
 
 ---
 
