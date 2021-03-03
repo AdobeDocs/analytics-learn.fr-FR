@@ -1,26 +1,27 @@
 ---
 title: Suites de rapports virtuelles en Adobe Analytics
-description: adobe analytics vous permet de créer des "suites de rapports virtuelles" pour vos utilisateurs, qui segmentent vos données et limitent les utilisateurs/groupes aux segments de données autorisés. Cette vidéo vous explique comment créer et utiliser des suites de rapports virtuelles.
-feature: vrs
+description: Adobe Analytics vous permet de créer des "suites de rapports virtuelles" pour vos utilisateurs, qui segmentent vos données et limitent les utilisateurs/groupes aux segments de données autorisés. Cette vidéo vous explique comment créer et utiliser des suites de rapports virtuelles.
+feature: VRS
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2325
+role: Professionnel
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Suites] de rapports virtuelles en Adobe Analytics {#virtual-report-suites-in-adobe-analytics}
+# [!UICONTROL Suite de rapports virtuelle ] en Adobe Analytics  {#virtual-report-suites-in-adobe-analytics}
 
-adobe analytics vous permet de créer des &quot;Report Suitesvirtuelles&quot; pour vos utilisateurs, qui segmentent vos données et limitent les utilisateurs/groupes aux segments de données autorisés. Cette vidéo vous explique comment créer et utiliser des suites [!UICONTROL de rapports]virtuelles.
+Adobe Analytics vous permet de créer des &quot;[!UICONTROL suites de rapports virtuelles]&quot; pour vos utilisateurs, qui segmentent vos données et limitent les utilisateurs/groupes aux segments de données autorisés. Cette vidéo vous explique comment créer et utiliser [!UICONTROL des suites de rapports virtuelles].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html).
+Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-about.html).
