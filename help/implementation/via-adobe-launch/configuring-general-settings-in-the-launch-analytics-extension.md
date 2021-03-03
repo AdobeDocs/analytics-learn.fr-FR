@@ -1,25 +1,26 @@
 ---
 title: Configuration des paramètres généraux dans l’extension de lancement d’Analytics
 description: Si vous débutez avec Launch, by Adobe et l'extension Adobe Analytics, cette vidéo peut vous aider à définir les paramètres généraux de la configuration, y compris la configuration du serveur de suivi.
-feature: launch implementation
+feature: Lancement de l’implémentation
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: '"Développeur, ingénieur de données"'
+level: Début
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 15%
 
 ---
 
 
-# Configuration des paramètres [!UICONTROL généraux] dans l’ [!DNL Launch Analytics] [!UICONTROL extension] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Configuration des [!UICONTROL Paramètres généraux] dans [!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Si vous venez de commencer avec l&#39;Experience Platform Launch et l&#39; [!UICONTROL extension]Adobe Analytics, cette vidéo peut vous aider à configurer les paramètres [!UICONTROL généraux] de la configuration, y compris la configuration du serveur de suivi.
+Si vous venez de commencer avec l&#39;Experience Platform Launch et l&#39;Adobe Analytics [!UICONTROL Extension], cette vidéo peut vous aider à paramétrer la partie [!UICONTROL Général] de la configuration, y compris à définir le serveur de suivi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
