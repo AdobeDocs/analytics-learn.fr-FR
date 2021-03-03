@@ -1,24 +1,25 @@
 ---
 title: Création de plages de dates personnalisées dans l’Analysis Workspace
 description: Cette vidéo vous explique comment utiliser les plages de dates en Analysis Workspace.
-feature: calendar
+feature: Calendrier
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
+role: Professionnel
+level: Début
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 0%
+source-wordcount: '44'
+ht-degree: 2%
 
 ---
 
 
-# Création de plages de [!UICONTROL dates] personnalisées en Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
+# Création de [!UICONTROL plages de dates] personnalisées dans Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
-Cette vidéo vous explique comment utiliser les plages de [!UICONTROL dates] en Analysis Workspace.
+Cette vidéo vous explique comment utiliser [!UICONTROL des plages de dates] en Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12)
