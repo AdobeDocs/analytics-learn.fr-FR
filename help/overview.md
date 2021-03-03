@@ -1,35 +1,36 @@
 ---
 title: Vidéos et Tutorials Analytics
-description: Collection de vidéos et de didacticiels pour Adobe Analytics.
-feature: overview
+description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
+feature: Concepts de base d’Analytics
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
+role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 46%
+source-wordcount: '309'
+ht-degree: 48%
 
 ---
 
 
 # Aperçu
 
-Bienvenue sur le site [!DNL Analytics] Tutorials.  L’utilisation de ces didacticiels et de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/landing/home.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics pour obtenir plus rapidement que jamais des informations sur les clients.  Pour démarrer,
-* Consultez la **&quot;Nouveautés&quot;** ci-dessous pour découvrir les nouveautés
-* **Le personnel sélectionne** certains de nos contenus préférés
-* Explorez le contenu par rubrique et sous-rubrique dans le volet de navigation de **gauche**
-* Utilisez le champ de **recherche** situé en haut de la page si vous savez ce que vous recherchez
+Bienvenue sur le site Tutorials [!DNL Analytics].  L&#39;utilisation de ces didacticiels ainsi que de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/landing/home.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics pour obtenir plus rapidement que jamais des informations sur les clients.  Pour démarrer,
+* Consultez la section **&quot;Nouveautés&quot;** ci-dessous pour consulter les dernières nouveautés
+* **Le personnel** de Pickshlight met en évidence certains de nos contenus préférés
+* Explorez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**
+* Utilisez le champ **search** en haut de la page si vous savez ce que vous recherchez
 
 ## Nouveautés
 
 * **[Cliquez avec le bouton droit de la souris sur Efficacité de l’espace de travail (Vidéo).](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. From[!UICONTROL Freeform Tables]to[!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in[!DNL Workspace].*
+   *Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. De [!UICONTROL Tableaux à structure libre] à [!UICONTROL Visualisations des abandons], un clic droit vous rendra plus efficace et plus compétent en [!DNL Workspace].*
 
 * **[Panneau Aperçu rapide en Analysis Workspace (vidéo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
@@ -73,7 +74,7 @@ Bienvenue sur le site [!DNL Analytics] Tutorials.  L’utilisation de ces didact
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="image miniature de la vidéo &quot;Aperçu Analysis Workspace&quot;" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="image miniature de la vidéo "Aperçu Analysis Workspace"" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
