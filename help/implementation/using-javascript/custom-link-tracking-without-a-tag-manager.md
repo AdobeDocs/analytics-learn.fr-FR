@@ -1,25 +1,26 @@
 ---
 title: Suivi de liens personnalisés sans gestionnaire de balises
 description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une vue de page. Dans cette vidéo, vous apprendrez comment coder une balise de suivi des liens à Analytics, si vous n’utilisez pas de gestionnaire de balises (comme un Experience Platform Launch). Consultez le code et apprenez un conseil important.
-feature: appmeasurement implementation
+feature: Implémentation d’AppMeasurement
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: '"Développeur, ingénieur de données"'
+level: Intermédiaire
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '297'
 ht-degree: 4%
 
 ---
 
 
-# Suivi de liens personnalisés sans gestionnaire de balises {#custom-link-tracking-without-a-tag-manager}
+# Suivi des liens personnalisés sans gestionnaire de balises {#custom-link-tracking-without-a-tag-manager}
 
-Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une vue de page. Dans cette vidéo, vous apprendrez comment coder une balise de suivi des liens à Analytics, si vous n’utilisez pas de gestionnaire de balises (tel qu’un Adobe [!DNL Experience Platform Launch]). Consultez le code et apprenez un conseil important.
+Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une vue de page. Dans cette vidéo, vous apprendrez comment coder une balise de suivi des liens à Analytics, si vous n’utilisez pas de gestionnaire de balises (tel que Adobe [!DNL Experience Platform Launch]). Consultez le code et apprenez un conseil important.
 
 ## Envoi d&#39;une balise s.tl() {#sending-an-s-tl-beacon}
 
@@ -30,7 +31,7 @@ Deux fonctions permettent d’envoyer des données en Adobe Analytics :
 
 >[!NOTE]
 >
->Dans cette vidéo, nous vous montrons comment coder un accès au lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises tel que Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation sur les meilleures pratiques pour la mise en oeuvre. Cependant, si vous devez coder dans un `s.tl()`, voici comment le faire.
+>Dans cette vidéo, nous vous montrons comment coder un accès au lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises tel que Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour la mise en oeuvre. Cependant, si vous devez coder dans un `s.tl()`, voici comment le faire.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
