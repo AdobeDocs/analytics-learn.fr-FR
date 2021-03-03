@@ -1,17 +1,18 @@
 ---
 title: Création d'un Document de besoins commerciaux
 description: 'Cette vidéo présente l''étape la plus importante de la définition de ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous souhaitez savoir sur votre site ? Écrivons-les et débuts pour décider comment nous allons les suivre. '
-feature: implementation basics
+feature: Concepts de base de l’implémentation
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
+role: '"Développeur, ingénieur de données"'
+level: Début
 translation-type: tm+mt
-source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,6 @@ Cette vidéo présente l&#39;étape la plus importante de la définition de ce d
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Téléchargez](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de DTS/BRD que vous pouvez utiliser pour définir votre site.
+[Téléchargez ](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de BRD/SDR que vous pouvez utiliser pour définir votre site.
 
-[Téléchargez](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) le BRD/SDR à partir de cette vidéo (et de la vidéo [](creating-and-maintaining-an-sdr.md)SDR).
+[](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Téléchargez le fichier BRD/SDR depuis cette vidéo (et la vidéo [ ](creating-and-maintaining-an-sdr.md)SDR).
