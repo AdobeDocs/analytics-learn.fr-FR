@@ -1,7 +1,7 @@
 ---
-title: Utilisation d’une couche de données sur votre site
-description: Il est recommandé d’utiliser une couche de données sur votre site lorsque vous travaillez avec l’Experience Cloud, notamment lorsque vous travaillez avec Adobe Analytics. Cette vidéo présente la couche de données et montre un exemple.
-feature: Concepts de base de l’implémentation
+title: Utilisation dʼune couche de données sur votre site
+description: Il est recommandé dʼutiliser une couche de données sur votre site lorsque vous travaillez avec Experience Cloud ou Adobe Analytics. Cette vidéo présente la couche de données et montre un exemple.
+feature: Concepts de base de la mise en œuvre
 topics: null
 activity: setup
 doc-type: feature video
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
-# Utilisation d’une couche de données sur votre site
+# Utilisation dʼune couche de données sur votre site
 
-Il est recommandé d’utiliser une couche de données sur votre site lorsque vous travaillez avec l’Experience Cloud, notamment lorsque vous travaillez avec Analytics. Cette vidéo présente la couche de données et montre un exemple.
+Il est recommandé dʼutiliser une couche de données sur votre site lorsque vous travaillez avec Experience Cloud ou Analytics. Cette vidéo présente la couche de données et montre un exemple.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12)
