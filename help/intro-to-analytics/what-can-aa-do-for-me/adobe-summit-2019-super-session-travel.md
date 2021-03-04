@@ -1,6 +1,6 @@
 ---
-title: Super session Adobe Summit 2019 - Voyage et accueil
-description: Reportez-vous aux clips organisés de la "super session" voyage & accueil au sommet 2019.
+title: Super session de lʼAdobe Summit 2019 - Voyage et hébergement
+description: Regardez des extraits de la « super session » Voyage et hébergement du Summit 2019
 feature: Cas d’utilisation
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 4%
+ht-degree: 75%
 
 ---
 
 
-# [!DNL Adobe Summit] Super session 2019 - Voyage et accueil
+# [!DNL Adobe Summit] Super session 2019 - Voyage et hébergement
 
-Voir les clips traités de la &quot;super session&quot; de voyage et d&#39;accueil au [!DNL Summit] 2019
+Regardez des extraits de la « super session » Voyage et hébergement du [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12)
