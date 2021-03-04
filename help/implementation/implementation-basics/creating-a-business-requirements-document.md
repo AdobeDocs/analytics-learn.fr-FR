@@ -1,7 +1,7 @@
 ---
-title: Création d'un Document de besoins commerciaux
-description: 'Cette vidéo présente l''étape la plus importante de la définition de ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous souhaitez savoir sur votre site ? Écrivons-les et débuts pour décider comment nous allons les suivre. '
-feature: Concepts de base de l’implémentation
+title: Création dʼun document dʼexigences commerciales
+description: 'Cette vidéo présente lʼétape la plus importante qui consiste à définir ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous voulez savoir sur votre site ? Mettons-les par écrit et commençons à décider comment nous allons les suivre. '
+feature: Concepts de base de la mise en œuvre
 topics: null
 activity: implement
 doc-type: feature video
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Création d&#39;un Document de besoins commerciaux
+# Création dʼun document dʼexigences commerciales
 
-Cette vidéo présente l&#39;étape la plus importante de la définition de ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous souhaitez savoir sur votre site ? Écrivons-les et débuts pour décider comment nous allons les suivre.
+Cette vidéo présente lʼétape la plus importante qui consiste à définir ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous voulez savoir sur votre site ? Mettons-les par écrit et commençons à décider comment nous allons les suivre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Téléchargez ](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de BRD/SDR que vous pouvez utiliser pour définir votre site.
+[Téléchargez](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de document BRD/SDR (document dʼexigences commerciales et document de conception de solutions) que vous pouvez utiliser pour définir votre site.
 
-[](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Téléchargez le fichier BRD/SDR depuis cette vidéo (et la vidéo [ ](creating-and-maintaining-an-sdr.md)SDR).
+[Téléchargez](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) le fichier BRD/SDR à partir de cette vidéo (et la [vidéo SDR](creating-and-maintaining-an-sdr.md)).
