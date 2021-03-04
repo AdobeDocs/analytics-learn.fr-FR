@@ -1,6 +1,6 @@
 ---
-title: Super session Adobe Summit 2019 - Vente au détail
-description: Reportez-vous aux clips organisés de la "super session" de vente au détail lors du sommet 2019.
+title: Super session de lʼAdobe Summit 2019 - Vente au détail
+description: Regardez des extraits de la « super session » vente au détail du Summit 2019
 feature: Cas d’utilisation
 topics: null
 activity: understand
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 5%
+ht-degree: 72%
 
 ---
 
 
 # [!DNL Adobe Summit] Super session 2019 - Vente au détail
 
-Voir les clips traités de la &quot;super session&quot; de vente au détail à [!DNL Summit] 2019
+Regardez des extraits de la « super session » vente au détail du [!DNL Summit] 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12)
