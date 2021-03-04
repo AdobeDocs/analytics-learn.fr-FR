@@ -1,8 +1,8 @@
 ---
-title: Utilisation de modèles personnalisés pour activer les utilisateurs chevronnés d’Analysis Workspace
-seo-title: Utilisation de modèles personnalisés pour activer les utilisateurs chevronnés d’Analysis Workspace
-description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier-coller/insérer pour mieux servir les utilisateurs novices de votre entreprise.
-seo-description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier-coller/insérer pour mieux servir les utilisateurs novices de votre entreprise.
+title: Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs dʼAnalysis Workspace
+seo-title: Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs dʼAnalysis Workspace
+description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier + coller/insérer pour aider les nouveaux utilisateurs de votre entreprise.
+seo-description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier + coller/insérer pour aider les nouveaux utilisateurs de votre entreprise.
 feature: Projets
 topics: null
 activity: use
@@ -16,21 +16,21 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Utilisation de modèles personnalisés pour activer les utilisateurs nouveaux d&#39;Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs dʼAnalysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
-Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier-coller/insérer pour mieux servir les utilisateurs novices de votre entreprise.
+Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier + coller/insérer pour aider les nouveaux utilisateurs de votre entreprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23234/?quality=12)
 
-En créant un modèle de blocs de création, les utilisateurs peuvent début plus rapidement leur analyse et s’assurer qu’ils suivent les meilleures pratiques définies par votre organisation.
+En créant un modèle de blocs de création, les utilisateurs peuvent commencer plus rapidement leur analyse et sʼassurer quʼils suivent les bonnes pratiques définies par votre organisation.
 
-Pour consulter des vidéos connexes, voir :
+Pour visionner des vidéos associées, consultez :
 
-* [Modèles personnalisés en Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Modèles personnalisés dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.html?lang=fr#analysis-workspace)
 
-* [Copier + Insérer dans Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Copier + Insérer dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html?lang=fr#analysis-workspace)
