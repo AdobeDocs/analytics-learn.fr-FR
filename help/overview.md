@@ -1,5 +1,5 @@
 ---
-title: Vidéos et Tutorials Analytics
+title: Vidéos et tutoriels Analytics
 description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 feature: Concepts de base d’Analytics
 topics: null
@@ -12,32 +12,32 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
 
 # Aperçu
 
-Bienvenue sur le site Tutorials [!DNL Analytics].  L&#39;utilisation de ces didacticiels ainsi que de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/landing/home.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics pour obtenir plus rapidement que jamais des informations sur les clients.  Pour démarrer,
-* Consultez la section **&quot;Nouveautés&quot;** ci-dessous pour consulter les dernières nouveautés
-* **Le personnel** de Pickshlight met en évidence certains de nos contenus préférés
-* Explorez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**
-* Utilisez le champ **search** en haut de la page si vous savez ce que vous recherchez
+Bienvenue sur le site dédié aux tutoriels [!DNL Analytics].  Lʼutilisation de ces tutoriels ainsi que de la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/landing/home.html) vous permettra de mieux comprendre comment utiliser Adobe Analytics afin dʼobtenir plus rapidement que jamais des informations sur les clients.  Pour démarrer,
+* Consultez la section **« Nouveautés »** ci-dessous pour prendre connaissance des dernières informations.
+* **La sélection du personnel** met en évidence certains de nos contenus préférés.
+* Découvrez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**.
+* Utilisez le champ **recherche** en haut de la page si vous savez ce que vous recherchez.
 
 ## Nouveautés
 
-* **[Cliquez avec le bouton droit de la souris sur Efficacité de l’espace de travail (Vidéo).](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Utilisation du clic droit pour optimiser lʼefficacité de Workspace (Vidéo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. De [!UICONTROL Tableaux à structure libre] à [!UICONTROL Visualisations des abandons], un clic droit vous rendra plus efficace et plus compétent en [!DNL Workspace].*
+   *Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. Des [!UICONTROL tableaux à structure libre] aux [!UICONTROL visualisations sur les abandons], un clic droit vous rendra plus efficace et compétent dans [!DNL Workspace].*
 
-* **[Panneau Aperçu rapide en Analysis Workspace (vidéo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
+* **[Panneau Quick Insights dans Analysis Workspace (Vidéo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
    <br>
    *Quick Insights fournit des conseils aux non-analystes et aux nouveaux utilisateurs d’Analysis Workspace pour savoir comment répondre rapidement et facilement à des besoins professionnels.*
 
-* **[Partage de projets en Analysis Workspace (vidéo)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
+* **[Partage de projets dans Analysis Workspace (Vidéo)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
 
    <br>
    *Le partage de projets est un moyen de démocratiser les données et les informations d’Analysis Workspace pour les utilisateurs de votre entreprise. Vous pouvez placer des destinataires dans l’un des trois rôles de projet, en fonction de l’expérience du projet que vous souhaitez leur proposer : Modifier, Dupliquer et Afficher.*
@@ -69,12 +69,12 @@ Bienvenue sur le site Tutorials [!DNL Analytics].  L&#39;utilisation de ces dida
     </a>
     </div>
     <p>
-    <em>Le didacticiel de formation Analysis Workspace présente aux utilisateurs une terminologie et des étapes courantes pour créer leur première analyse dans Workspace.</em>
+    <em>Le tutoriel de formation à Analysis Workspace vous présente la terminologie et les étapes nécessaires à la création de votre première analyse dans Workspace.</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="image miniature de la vidéo "Aperçu Analysis Workspace"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="Image miniature de la vidéo « Aperçu dʼAnalysis Workspace »" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
@@ -82,7 +82,7 @@ Bienvenue sur le site Tutorials [!DNL Analytics].  L&#39;utilisation de ces dida
     </a>
     </div>
     <p>
-    <em>Présentation générale de l'Analysis Workspace.</em>
+    <em>Présentation détaillée dʼAnalysis Workspace.</em>
     <p>
   </td>
 </tr>
