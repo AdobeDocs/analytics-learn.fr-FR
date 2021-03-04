@@ -1,8 +1,8 @@
 ---
-title: Modèles standard en Analysis Workspace
-seo-title: Modèles standard en Analysis Workspace
-description: Analysis Workspace vous donne un début d’en-tête sur votre analyse avec les modèles standard (anciennement appelés projets de démarrage).
-seo-description: Analysis Workspace vous donne un début d’en-tête sur votre analyse avec les modèles standard (anciennement appelés projets de démarrage).
+title: Modèles standard dans Analysis Workspace
+seo-title: Modèles standard dans Analysis Workspace
+description: Avec les modèles standard (anciennement appelés projets de lancement), Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analyse.
+seo-description: Avec les modèles standard (anciennement appelés projets de lancement), Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analyse.
 feature: Projets
 topics: null
 activity: use
@@ -16,15 +16,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Modèles standard en Analysis Workspace {#standard-templates-in-analysis-workspace}
+# Modèles standard dans Analysis Workspace {#standard-templates-in-analysis-workspace}
 
-Analysis Workspace vous donne un début principal sur votre analyse avec [!DNL Standard Templates] (anciennement appelé [!DNL Starter Projects])
+Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analyse avec les [!DNL Standard Templates] (anciennement appelés [!DNL Starter Projects])
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-[!DNL Standard Templates] sont des modèles entièrement personnalisables et partageables, conçus autour de sujets commerciaux courants avec de superbes visualisations intuitives pour rendre les connaissances beaucoup plus faciles à trouver. Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html).
+[!DNL Standard Templates] sont des modèles entièrement personnalisables et partageables, conçus autour de sujets commerciaux courants et dotés de superbes visualisations intuitives pour rendre les informations beaucoup plus faciles à trouver. Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/starter_projects.html).
