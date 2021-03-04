@@ -1,6 +1,6 @@
 ---
-title: Mesure Personnes en Adobe Analytics
-description: Adobe Analytics offre maintenant une mesure Personnes pour annuler le duplicata des visiteurs en fonction de Adobe Experience Cloud Device Co-op ! Cette vidéo fournit plus d'informations et vous explique comment commencer.
+title: Mesure Personnes dans Adobe Analytics
+description: Adobe Analytics propose désormais la mesure Personnes pour dédupliquer les visiteurs grâce à Adobe Experience Cloud Device Co-op ! Cette vidéo fournit dʼautres informations et vous montre par où commencer.
 feature: Mesures
 topics: null
 activity: use
@@ -14,19 +14,19 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 11%
+ht-degree: 91%
 
 ---
 
 
-# [!UICONTROL Adobe Analytics ]  PeopleMetricin  {#people-metric-in-adobe-analytics}
+# [!UICONTROL Mesure] [!UICONTROL Personnes] dans Adobe Analytics {#people-metric-in-adobe-analytics}
 
-Adobe Analytics offre désormais une mesure [!UICONTROL Personnes] aux visiteurs de duplicata en fonction de Adobe Experience Cloud [!UICONTROL Device Co-op] ! Cette vidéo fournit plus d&#39;informations et vous explique comment commencer.
+Adobe Analytics propose désormais la mesure [!UICONTROL Personnes] pour dédupliquer les visiteurs grâce à Adobe Experience Cloud [!UICONTROL Device Co-op] ! Cette vidéo fournit dʼautres informations et vous montre par où commencer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24037/?quality=12)
 
-Si vous faites partie de [!UICONTROL Device Co-op], vous pouvez calculer des mesures en fonction des personnes, et pas seulement des visiteurs.
+Si vous faites partie de [!UICONTROL Device Co-op], vous pouvez calculer des mesures en fonction des personnes, pas seulement des visiteurs.
 
-Pour plus d&#39;informations sur [!UICONTROL Device Co-op], consultez [cette documentation](https://marketing.adobe.com/resources/help/fr_FR/mcdc/).
+Pour plus dʼinformations sur [!UICONTROL Device Co-op], consultez [cette documentation](https://marketing.adobe.com/resources/help/fr_FR/mcdc/).
 
-Pour plus d’informations sur la mesure [!UICONTROL Personnes], consultez [cette documentation](https://marketing.adobe.com/resources/help/fr_FR/mcdc/mcdc-people.html).
+Pour plus dʼinformations sur la mesure [!UICONTROL Personne], consultez [cette documentation](https://marketing.adobe.com/resources/help/fr_FR/mcdc/mcdc-people.html).
