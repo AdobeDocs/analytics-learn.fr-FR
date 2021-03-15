@@ -9,12 +9,12 @@ doc-type: feature video
 team: Technical Marketing
 kt: 2362
 role: Professionnel
-level: Début
+level: Débutant
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
