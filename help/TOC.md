@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1871'
 ht-degree: 100%
 
