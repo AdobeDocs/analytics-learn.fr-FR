@@ -39,10 +39,10 @@ ht-degree: 99%
    + Personnalisation de lʼinterface utilisateur {#customizing-the-ui}
       + [Ajout de descriptions aux dimensions et aux mesures](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Utilisation de palettes de couleurs personnalisées dans Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [Extension Color EyeDropper pour la définition de palettes personnalisées](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
+      + [Extension Color Eyedropper pour la définition de palettes personnalisées](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
       + [Personnalisation du menu dans Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Renforcement de la sécurité dans Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Définissez Analysis Workspace comme page d’entrée.](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
+      + [Définissez Analysis Workspace comme page d’entrée](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Configuration dʼun projet Analysis Workspace en tant que page dʼaccueil](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
       + [Extension du mode sombre pour Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Accès à l’aide {#getting-help}
