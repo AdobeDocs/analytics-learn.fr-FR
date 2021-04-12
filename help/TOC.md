@@ -297,7 +297,7 @@ ht-degree: 99%
 + Outils supplémentaires {#additional-tools}
    + Tableaux de bord Analytics {#analytics-dashboards}
       + [Tableaux de bord d’Adobe Analytics : créateur de cartes de performance](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Appliquer des plages de dates personnalisées](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
+      + [Application de périodes personnalisées](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Utilisation des tableaux de bord Analytics in-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exportation en cours {#exporting}
    + À partir de lʼinterface utilisateur {#from-the-ui}
