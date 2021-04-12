@@ -5,7 +5,7 @@ breadcrumb-title: Tutoriels Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
 ht-degree: 99%
@@ -95,7 +95,7 @@ ht-degree: 99%
       + [Création automatique de tables à structure libre dans Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Utilisation des dimensions dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Utilisation de mesures dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Paramètres de ligne et de colonne dans les tables à structure libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Utilisation du générateur de tableaux à structure libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Réorganisation des lignes statiques dans Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -149,7 +149,7 @@ ht-degree: 99%
       + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Présentation des événements de conversion](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Utilisation de mesures dans une table à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensions {#dimensions}
       + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Présentation des variables de trafic (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
