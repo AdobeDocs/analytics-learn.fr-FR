@@ -1,15 +1,15 @@
 ---
 title: Mesure Personnes dans Adobe Analytics
 description: Adobe Analytics propose désormais la mesure Personnes pour dédupliquer les visiteurs grâce à Adobe Experience Cloud Device Co-op ! Cette vidéo fournit dʼautres informations et vous montre par où commencer.
-feature: Mesures
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: « Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable »
-level: Débutant
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,7 +1,7 @@
 ---
 title: Limiter l’accès à la suite de rapports dans Admin Console
 description: Les utilisateurs d'Adobe Analytics ont besoin d'accéder uniquement aux données appropriées. Découvrez comment utiliser Admin Console pour vous assurer que les utilisateurs peuvent uniquement accéder aux suites de rapports nécessaires à leur rôle. Suivez ces étapes rapides dans la Adobe Admin Console pour créer un profil de produits spécifique à une suite de rapports dans votre entreprise.
-feature: Gestion des utilisateurs
+feature: User Management
 topics: null
 activity: setup
 doc-type: technical video
@@ -9,8 +9,8 @@ team: Evangelism
 thumbnail: 37714.jpg
 kt: 5870
 topic: Administration
-role: Administrateur
-level: Début
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

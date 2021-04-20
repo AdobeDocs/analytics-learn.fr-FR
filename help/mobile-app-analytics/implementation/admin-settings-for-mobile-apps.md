@@ -1,15 +1,15 @@
 ---
 title: Paramètres administrateurs pour les applications mobiles
 description: Découvrez comment configurer les rapports dʼapplications mobiles dans Adobe Analytics, y compris les composants Lifecycle, le suivi de la localisation et les rapports dʼaccès en arrière-plan.
-feature: SDK Mobile
+feature: Mobile SDK
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
 topic: Mobile
-role: Administrateur
-level: Expérimenté
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

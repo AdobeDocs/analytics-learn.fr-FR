@@ -1,14 +1,14 @@
 ---
 title: Présentation du cycle Analytics
 description: Dans cette vidéo simple mais importante, découvrez les étapes nécessaires à lʼanalyse des données de votre site. La compréhension de ce processus peut faire toute la différence dans la réussite de votre programme Analytics.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3564
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,15 +1,15 @@
 ---
 title: Implémentation de modèles de suivi d'Advertising Analytics en moteurs de recherche
 description: Cette vidéo décrit les étapes de la mise en oeuvre de vos modèles de suivi depuis Advertising Analytics vers les moteurs de recherche pris en charge. La mise en oeuvre du modèle de suivi constitue l’étape essentielle pour collecter et transmettre vos données à Adobe Analytics.
-feature: Intégration d’Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: Intégrations
-role: Administrateur
-level: Intermédiaire
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

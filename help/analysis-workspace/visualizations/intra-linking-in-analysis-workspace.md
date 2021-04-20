@@ -1,14 +1,14 @@
 ---
 title: Liens internes en Analysis Workspace
 description: Les liens internes permettent aux analystes de créer des projets en Analysis Workspace pour amener les lecteurs du projet à afficher des panneaux et des visualisations exacts au sein du projet.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

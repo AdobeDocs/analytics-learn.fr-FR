@@ -1,14 +1,14 @@
 ---
 title: Fonction distincte de décompte approximatif dans les mesures calculées
 description: Une fonction de décompte approximatif distinct a été ajoutée au créateur de mesures calculées. Il s’agit d’une fonction longtemps attendue qui retournera le nombre approximatif distinct d’éléments de dimension pour une dimension sélectionnée.
-feature: Mesures calculées
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

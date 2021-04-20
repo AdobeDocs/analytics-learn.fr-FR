@@ -1,14 +1,14 @@
 ---
 title: Comprendre les différences entre les périphériques vocaux
 description: Découvrez comment comprendre les différentes performances et fonctionnalités des différents périphériques avec assistance vocale afin de vous aider à établir des priorités pour la feuille de route du produit.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

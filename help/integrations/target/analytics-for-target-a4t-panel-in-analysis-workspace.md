@@ -1,16 +1,16 @@
 ---
 title: Panneau Analytics for Target (A4T) dans Analysis Workspace
 description: Le panneau Analytics for Target (A4T) vous permet d’analyser en toute confiance vos activités et expériences Adobe Target dans Analysis Workspace.
-feature: Intégration Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Intégrations
-role: Professionnel
-level: Intermédiaire
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

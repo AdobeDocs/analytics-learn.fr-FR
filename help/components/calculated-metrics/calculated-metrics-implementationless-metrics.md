@@ -1,14 +1,14 @@
 ---
 title: Mesures calculées - Mesures sans implémentation
 description: Découvrez comment créer de nouvelles mesures en Adobe Analytics sans modifier votre mise en oeuvre.
-feature: Mesures calculées
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

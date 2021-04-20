@@ -1,15 +1,15 @@
 ---
 title: Cohort Analyse using Any Dimension
 description: L’option Dimension de cohortes personnalisées vous permet d’analyser les cohortes en utilisant des dimensions autres que le temps. Comparez les cohortes par Canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment la rétention (ou l’exécution) change par élément de dimension.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

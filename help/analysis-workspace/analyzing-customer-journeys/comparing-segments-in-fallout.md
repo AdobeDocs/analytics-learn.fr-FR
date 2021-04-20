@@ -1,15 +1,15 @@
 ---
 title: Comparaison de segments dans les abandons en Analysis Workspace
 description: Cette vidéo montre comment comparer des workflows clés sur différents segments dans Analysis Workspace.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

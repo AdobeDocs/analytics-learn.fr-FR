@@ -1,14 +1,14 @@
 ---
 title: Réduction des taux d’erreur et amélioration des taux de réussite dans votre application vocale
 description: Découvrez comment trouver des domaines d'amélioration pour votre application vocale avec des fonctionnalités telles que le taux de réussite et d'erreur et l'intention de secours.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

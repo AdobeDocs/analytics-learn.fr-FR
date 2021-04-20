@@ -1,14 +1,14 @@
 ---
 title: Utilisation du code personnalisé lors de la configuration de l’extension de lancement Analytics
 description: Si vous débutez avec Launch, by Adobe et l'extension Adobe Analytics, cette vidéo vous aidera à comprendre les options de fenêtre de code personnalisé, le timing de l'exécution du code, etc.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

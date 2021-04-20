@@ -1,14 +1,14 @@
 ---
 title: Utilisation de Dimensions dans les mesures calculées
 description: Les Dimensions sont désormais disponibles dans le créateur de mesures calculées. Ils peuvent être ajoutés à toute formule de mesure calculée pour créer un segment interne à la volée.
-feature: Mesures calculées
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Utilisation des mesures de participation dans Analysis Workspace
 description: Utilisez cette astuce simple pour obtenir n’importe quelle mesure de participation dans Analysis Workspace à tout moment.
-feature: Mesures
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

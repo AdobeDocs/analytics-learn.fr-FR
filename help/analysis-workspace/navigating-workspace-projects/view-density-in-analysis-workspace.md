@@ -1,14 +1,14 @@
 ---
 title: Densité des vues en Analysis Workspace
 description: Le paramètre Densité de la Vue sous Projet > Infos et paramètres vous permet de contrôler le remplissage vertical appliqué au rail de gauche et aux tableaux (forme libre et cohorte). Vous pouvez choisir entre Etendu (par défaut), Confortable ou Compact.
-feature: Projets
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

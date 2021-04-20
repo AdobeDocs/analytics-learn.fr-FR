@@ -1,14 +1,14 @@
 ---
 title: Astuces clients pour continuer votre parcours d’apprentissage d’Adobe Analytics
 description: Dans cet article, rencontrez trois clients Adobes qui ont des conseils et astuces pour vous sur la façon d'obtenir le plus de valeur d'Adobe Analytics.
-feature: Concepts de base de l’espace de travail
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

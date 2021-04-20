@@ -1,14 +1,14 @@
 ---
 title: Alertes intelligentes en Adobe Analytics
 description: Des alertes intelligentes mettent la puissance de la détection des anomalies directement dans votre boîte de réception ou sur votre téléphone. Etre immédiatement conscient des modifications importantes apportées à vos mesures et segments clés ne signifie pas manquer d’opportunités.
-feature: Science des données
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2338
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

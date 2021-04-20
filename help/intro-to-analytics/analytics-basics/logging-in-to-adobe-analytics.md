@@ -1,14 +1,14 @@
 ---
 title: Connexion à Adobe Analytics
 description: Dans cette vidéo, vous apprendrez à vous connecter, à gérer Analytics et à commencer votre analyse.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,15 +1,15 @@
 ---
 title: 'Utilisation des bonnes pratiques lors du suivi des applications d’une seule page (SPA) dans Adobe Analytics '
 description: Dans ce document, nous décrirons plusieurs bonnes pratiques que vous devez suivre et connaître lorsque vous utilisez Adobe Analytics pour effectuer le suivi des applications d’une seule page (SPA). Ce document se concentrera sur l’utilisation de l’Experience Platform Launch, qui est la méthode d’implémentation recommandée.
-feature: Concepts de base de l’implémentation
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Développeur, ingénieur de données"'
-level: Intermédiaire
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Dimensions de division du temps dans Analysis Workspace
 description: La division du temps prend l’horodatage des accès collectés et les divise en dimensions plus significatives, telles que "Heure du jour" ou "Jour de la semaine". Ces dimensions sont désormais prêtes à l'emploi en Analysis Workspace.
-feature: Tableaux à structure libre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

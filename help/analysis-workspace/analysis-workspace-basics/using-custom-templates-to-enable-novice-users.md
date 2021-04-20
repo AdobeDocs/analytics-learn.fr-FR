@@ -3,15 +3,15 @@ title: Utilisation de modèles personnalisés pour aider les nouveaux utilisateu
 seo-title: Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs dʼAnalysis Workspace
 description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier + coller/insérer pour aider les nouveaux utilisateurs de votre entreprise.
 seo-description: Cette vidéo explique comment rassembler des modèles personnalisés avec des fonctions de copier + coller/insérer pour aider les nouveaux utilisateurs de votre entreprise.
-feature: Projets
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

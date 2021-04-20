@@ -1,15 +1,15 @@
 ---
 title: Utilisation de l’Analyse à onglets multiples pour explorer l’attribution de base du marketing dans Analysis Workspace
 description: Il existe de nombreuses façons de faire évoluer votre méthodologie d’attribution avec Adobe Analytics. Dans cette vidéo, nous montrons comment vous pouvez obtenir des informations plus précises à partir du rapport Canaux marketing à l’aide d’une analyse croisée dans Workspace.
-feature: Canaux marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

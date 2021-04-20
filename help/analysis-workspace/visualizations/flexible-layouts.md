@@ -1,14 +1,14 @@
 ---
 title: Mises en page flexibles en Analysis Workspace
 description: L’Analyse de forme libre permet de modifier l’emplacement, la largeur et la hauteur des graphiques et des tableaux afin de créer un projet plus riche. Cette vidéo vous explique comment modifier votre mise en page.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

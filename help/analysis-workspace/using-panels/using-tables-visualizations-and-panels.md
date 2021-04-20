@@ -1,14 +1,14 @@
 ---
 title: Utilisation de tableaux, de visualisations et de panneaux dans Analysis Workspace
 description: Dans cette vidéo, vous apprendrez à utiliser les blocs de création de votre projet Analysis Workspace, à savoir les panneaux, les tableaux et les visualisations. Ces éléments sont la trame sur laquelle vos données sont peintes.
-feature: Panneaux
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

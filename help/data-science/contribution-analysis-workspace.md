@@ -1,14 +1,14 @@
 ---
 title: Analyse des contributions dans Analysis Workspace
 description: Cette vidéo présente l’Analyse des contributions et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
-feature: Science des données
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

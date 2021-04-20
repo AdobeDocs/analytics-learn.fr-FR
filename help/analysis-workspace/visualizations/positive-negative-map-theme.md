@@ -1,14 +1,14 @@
 ---
 title: Thème de mappage positif-négatif en Analysis Workspace
 description: Le nouveau thème de couleur positive/négative vous permet de représenter clairement les nombres positifs/négatifs sur une carte. Ce nouveau thème respectera également les modifications de polarité que vous apportez lorsque vous configurez le événement (dans Admin) ou que vous le créez dans les mesures calculées.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

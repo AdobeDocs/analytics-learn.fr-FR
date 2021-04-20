@@ -1,10 +1,10 @@
 ---
 title: Configuration des paramètres généraux du compte
 description: Lorsque vous configurez Adobe Analytics, la configuration des paramètres peut affecter la manière dont vos données sont collectées et stockées. Cette vidéo passe en revue certains des paramètres généraux. Vous pouvez également les modifier après l’implémentation, car il n’est jamais trop tard pour que vos données soient plus correctes.
-feature: Paramètres des suites de rapports
+feature: Report Suite Settings
 topic: Administration
-role: Administrateur
-level: Débutant
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

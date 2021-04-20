@@ -1,15 +1,15 @@
 ---
 title: Projets en lecture seule dans Analysis Workspace
 description: Les projets Workspace peuvent être partagés avec les utilisateurs en autorisant uniquement l’Affichage. Lorsqu’un destinataire Afficher ouvre le projet partagé, il bénéficie d’une expérience de projet plus restreinte, sans rail gauche et avec des interactions limitées.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36206.jpg
 kt: 5556
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

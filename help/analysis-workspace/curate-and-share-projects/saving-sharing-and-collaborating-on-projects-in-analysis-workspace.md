@@ -1,14 +1,14 @@
 ---
 title: Enregistrement, partage et collaboration sur des projets à Analysis Workspace
 description: Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d'autres destinataires et inviter d'autres personnes à collaborer sur votre projet.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

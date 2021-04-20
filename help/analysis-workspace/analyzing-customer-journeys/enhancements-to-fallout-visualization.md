@@ -1,15 +1,15 @@
 ---
 title: Améliorations de la visualisation des abandons en Analysis Workspace
 description: Cette vidéo présente les mises à jour de la visualisation des abandons qui ont été très demandées par les clients, y compris les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison de segments illimités et les pourcentages de conversion des points de contact de tendance au fil du temps.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

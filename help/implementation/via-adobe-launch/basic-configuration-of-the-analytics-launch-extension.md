@@ -1,14 +1,14 @@
 ---
 title: Configuration de base de l’extension de lancement d’Analytics
 description: Cette vidéo présente un moyen rapide de configurer l’extension Analytics dans Lancer pour un site de base.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

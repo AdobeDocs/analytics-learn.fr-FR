@@ -1,15 +1,15 @@
 ---
 title: État du suivi (pages ou écrans) dans une application mobile avec le SDK Experience Platform
 description: Les états représentent des écrans ou des vues dans votre application. Chaque fois quʼun nouvel état sʼaffiche dans votre application, par exemple lorsquʼun utilisateur navigue de la page dʼaccueil au fil dʼactualités, « trackState » peut être appelé pour envoyer le nom de lʼétat (nom de page dans Analytics), ainsi que des données supplémentaires. Cette vidéo vous explique comment procéder.
-feature: SDK Mobile
+feature: Mobile SDK
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: Mobile
-role: « Développeur, ingénieur de données »
-level: Expérimenté
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

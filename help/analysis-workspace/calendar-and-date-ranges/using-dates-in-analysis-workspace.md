@@ -1,14 +1,14 @@
 ---
 title: Utilisation de dates en Analysis Workspace
 description: '"Cette vidéo explique trois façons différentes de travailler avec les dates dans l’Analyse à structure libre : le calendrier, les éléments de plage de dates et les éléments de granularité. Non montré, un peu embarrassant : comment utiliser les dates pour activer les graphiques en courbes. "'
-feature: Calendrier
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

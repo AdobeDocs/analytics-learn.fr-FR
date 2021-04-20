@@ -1,15 +1,15 @@
 ---
 title: Visualisation du flux dans Analysis Workspace
 description: Cette vidéo vous guide tout au long de la visualisation Flux en Analysis Workspace. Vous pouvez utiliser le flux pour afficher et explorer le mouvement des utilisateurs, afin de mieux comprendre votre parcours client.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

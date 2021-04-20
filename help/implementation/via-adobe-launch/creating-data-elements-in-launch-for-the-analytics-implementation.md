@@ -1,14 +1,14 @@
 ---
 title: Création d’éléments de données au lancement pour l’implémentation d’Analytics
 description: Cette vidéo montre comment créer des éléments de données pour votre implémentation Analytics dans Launch, en fonction des variables et événements décidés et documentés dans un document de référence de conception de solution (DTS).
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

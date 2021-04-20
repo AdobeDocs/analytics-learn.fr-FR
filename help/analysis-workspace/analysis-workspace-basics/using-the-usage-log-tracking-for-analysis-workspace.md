@@ -3,7 +3,7 @@ title: Utilisation du suivi des journaux dʼutilisation pour Analysis Workspace
 seo-title: Utilisation du suivi des journaux dʼutilisation pour Analysis Workspace
 description: Cette vidéo vous explique comment utiliser le suivi des journaux dʼutilisation dans les projets Workspace, ce qui peut vous aider à mieux comprendre lʼutilisation dʼAdobe Analytics par vos utilisateurs.
 seo-description: Cette vidéo vous explique comment utiliser le suivi des journaux dʼutilisation dans les projets Workspace, ce qui peut vous aider à mieux comprendre lʼutilisation dʼAdobe Analytics par vos utilisateurs.
-feature: configuration et collecte de données
+feature: data configuration and collection
 topics: null
 audience: analyst, marketer
 activity: use

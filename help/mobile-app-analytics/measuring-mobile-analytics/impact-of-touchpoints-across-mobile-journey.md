@@ -1,15 +1,15 @@
 ---
 title: Impact des points de contact sur le parcours mobile
 description: Découvrez comment les utilisateurs dʼapplications mobiles sont influencés par les points de contact et quels canaux sont les plus importants pour votre application mobile à lʼaide dʼAttribution IQ. Identifiez les canaux qui sʼassocient pour générer des événements de réussite dans votre application mobile.
-feature: Concepts de base de Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

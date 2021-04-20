@@ -1,7 +1,7 @@
 ---
 title: Obtention de données dans des visualisations
 description: Lors de l’ajout de visualisations dans Analysis Workspace, il existe plusieurs manières d’y ajouter des données, selon le type de visualisation. Cette vidéo présente ces méthodes.
-feature: Visualisations
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

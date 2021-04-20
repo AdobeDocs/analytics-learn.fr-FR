@@ -1,15 +1,15 @@
 ---
 title: Paramètres du tableau de cohortes
 description: 'Il existe plusieurs paramètres de table de cohortes qui vous permettent de personnaliser votre vue de rétention ou d’exécution. Regardez-les surlignées dans cette vidéo. '
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

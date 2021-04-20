@@ -1,14 +1,14 @@
 ---
 title: Partage de composants incorporés dans Analysis Workspace
 description: Il arrive que vous souhaitiez partager un projet Analysis Workspace, mais vous oubliez également de partager les segments et les mesures que vous avez inclus avec vos collègues. Cette vidéo vous montre comment partager des segments et des mesures dans le processus de partage de vos projets afin que vos collègues puissent voir ce que vous avez prévu à chaque fois.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

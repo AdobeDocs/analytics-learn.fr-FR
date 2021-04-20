@@ -1,15 +1,15 @@
 ---
 title: Mesures calculées rapides en Analysis Workspace
 description: Vous pouvez désormais créer des mesures calculées à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement ou une division rapide en pourcentage avec quelques mesures dans votre tableau à structure libre, il vous suffit de sélectionner les mesures dans l’en-tête, de cliquer avec le bouton droit et de sélectionner l’opérateur de votre choix.  La nouvelle mesure calculée s’affiche à droite.
-feature: Mesures calculées
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

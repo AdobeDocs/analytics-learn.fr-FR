@@ -1,14 +1,14 @@
 ---
 title: Barre de menus en Analysis Workspace
 description: Analysis Workspace vient d'être encore plus facile à contrôler et à parcourir avec des menus mis à jour qui organisent les différentes options de gestion des projets et de l'analyse dans des catégories familières.
-feature: Projets
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

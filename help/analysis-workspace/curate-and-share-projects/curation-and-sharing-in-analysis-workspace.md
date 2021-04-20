@@ -1,14 +1,14 @@
 ---
 title: Traitement et partage dans Analysis Workspace
 description: Une fois que vous avez créé un projet en Analysis Workspace, vous pouvez le traiter (simplifier) et le partager avec d’autres équipes et individus de votre entreprise afin qu’ils puissent l’explorer et se servir de leurs données en toute autonomie. Cette vidéo vous explique comment traiter et partager.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

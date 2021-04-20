@@ -1,14 +1,14 @@
 ---
 title: Configuration du suivi facile des liens de sortie dans l’Experience Platform Launch
 description: En quelques clics seulement dans l’extension Adobe Analytics en Experience Platform Launch, vous pouvez début le suivi des liens de sortie sur votre site (liens qui mènent de votre site à un autre site). Cette vidéo vous montre comment la configurer.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

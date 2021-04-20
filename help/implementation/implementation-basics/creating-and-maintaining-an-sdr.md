@@ -1,14 +1,14 @@
 ---
 title: Création et conservation d’un document SDR
 description: Le document de conception de solution (SDR) est, pour ainsi dire, le plan directeur de votre site. Cette vidéo vous montre comment en créer un conjointement avec le document sur les exigences commerciales, vous fournissant ainsi une source de vérité à laquelle revenir de façon permanente lors de l’implémentation d’Adobe Analytics et à des fins de consultation ultérieure.
-feature: Concepts de base de la mise en œuvre
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: « Développeur, ingénieur de données »
-level: Débutant
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

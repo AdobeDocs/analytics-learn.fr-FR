@@ -1,14 +1,14 @@
 ---
 title: Trouver des opportunités pour augmenter l'engagement pour les applications vocales
 description: Apprenez à mieux comprendre la qualité de l'engagement sur votre application vocale en exploitant les fonctionnalités telles que la fréquence d'utilisation, la cohorte, les visites/utilisateurs et la durée de session.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

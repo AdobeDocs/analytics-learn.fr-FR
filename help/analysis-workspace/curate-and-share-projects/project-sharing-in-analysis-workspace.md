@@ -1,15 +1,15 @@
 ---
 title: Partage de projets dans Analysis Workspace
 description: 'Le partage de projets est un moyen de démocratiser les données et les informations d’Analysis Workspace pour les utilisateurs de votre entreprise. Vous pouvez placer des destinataires dans l’un des trois rôles de projet, en fonction de l’expérience du projet que vous souhaitez leur proposer : Modifier, Dupliquer et Afficher.'
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

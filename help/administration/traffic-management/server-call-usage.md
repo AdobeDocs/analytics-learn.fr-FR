@@ -3,7 +3,7 @@ title: Utilisation des appels serveur en Adobe Analytics
 seo-title: Utilisation des appels serveur en Adobe Analytics
 description: Le rapports d'utilisation des appels au serveur vous permettra de suivre exactement la part de votre engagement d'appel au serveur que vous avez utilisée à tout moment et vous avertira également de manière proactive lorsque vous approchez de votre engagement total.
 seo-description: Le rapports d'utilisation des appels au serveur vous permettra de suivre exactement la part de votre engagement d'appel au serveur que vous avez utilisée à tout moment et vous avertira également de manière proactive lorsque vous approchez de votre engagement total.
-feature: Configuration et collecte des données
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
@@ -11,8 +11,8 @@ author: Doug Moore
 team: Technical Marketing
 kt: 1665
 topic: Administration
-role: '"Administrateur, architecte"'
-level: Début
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

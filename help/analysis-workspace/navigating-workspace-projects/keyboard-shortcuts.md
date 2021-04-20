@@ -1,14 +1,14 @@
 ---
 title: Raccourcis clavier en Analysis Workspace
 description: 'Cette vidéo passe en revue les options de raccourci clavier en Analysis Workspace pour vous montrer comment vous déplacer plus rapidement et plus efficacement. '
-feature: Concepts de base de l’espace de travail
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

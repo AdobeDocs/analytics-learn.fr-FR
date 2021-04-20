@@ -1,14 +1,14 @@
 ---
 title: Menu contextuel continu en Analysis Workspace
 description: Analysis Workspace comprend de puissants menus avec un clic droit qui comprennent un certain nombre de fonctions puissantes. Cette vidéo explique comment utiliser les menus de clic droit dans Analysis Workspace.
-feature: Tableaux à structure libre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

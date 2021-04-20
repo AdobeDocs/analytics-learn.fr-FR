@@ -1,14 +1,14 @@
 ---
 title: Visualisation du diagramme de Venn en Analysis Workspace
 description: Vous pouvez afficher visuellement le chevauchement et l’intersection de segments en Analysis Workspace à l’aide de la visualisation du diagramme de Venn. Il est facile de créer des diagrammes de Venn incroyables et intelligents en quelques secondes. Cette vidéo vous montrera comment.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

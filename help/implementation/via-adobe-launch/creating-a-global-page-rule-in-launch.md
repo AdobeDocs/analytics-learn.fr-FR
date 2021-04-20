@@ -1,14 +1,14 @@
 ---
 title: Création d'une règle de page globale au lancement
 description: Certains points de données doivent être envoyés à Adobe Analytics sur chaque page. Cette vidéo montre comment configurer une règle de chargement de page globale pour envoyer ces points de données.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3588
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Utilisation de Filtres déroulants dans Analysis Workspace
 description: Dans cette vidéo, vous apprendrez à utiliser des filtres déroulants en Analysis Workspace pour modifier de manière dynamique le contenu d’un panneau.
-feature: Panneaux
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

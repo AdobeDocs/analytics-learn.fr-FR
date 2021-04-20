@@ -1,15 +1,15 @@
 ---
 title: Initialisation et affichage des mesures de cycle de vie avec le SDK Experience Platform
 description: Les mesures de cycle de vie sont des informations précieuses et prêtes à lʼemploi sur lʼutilisateur de votre application. Ces mesures contiennent des informations sur le cycle de vie de lʼutilisateur de lʼapplication, telles que les informations sur lʼappareil, les informations dʼinstallation ou de mise à niveau, le début de session et les temps de pause, etc. Dans cette vidéo, découvrez comment configurer des mesures de cycle de vie dans votre application et comment afficher les résultats dans un débogueur.
-feature: SDK Mobile
+feature: Mobile SDK
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2561
 topic: Mobile
-role: « Développeur, ingénieur de données »
-level: Expérimenté
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

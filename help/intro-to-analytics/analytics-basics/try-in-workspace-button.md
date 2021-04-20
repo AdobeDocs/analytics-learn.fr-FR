@@ -1,14 +1,14 @@
 ---
 title: Bouton Essayer dans Workspace dans Reports and Analytics
 description: La plupart des rapports dans Reports and Analytics contiennent un bouton Essayer dans Workspace qui vous permet de reproduire la vue actuelle dans Analysis Workspace à des fins de personnalisation.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: « Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable »
-level: Débutant
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

@@ -1,14 +1,14 @@
 ---
 title: Améliorations de la zone de dépôt de segments en Analysis Workspace
 description: Les zones de dépôt de segments ont été améliorées afin que vous puissiez réellement déposer n’importe quoi dans un projet.
-feature: Panneaux
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

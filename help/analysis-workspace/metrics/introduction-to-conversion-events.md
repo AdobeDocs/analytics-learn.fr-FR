@@ -1,14 +1,14 @@
 ---
 title: Présentation des Événements de conversion
 description: Dans cette vidéo, découvrez les "événements" de conversion ou la variable qui aide à effectuer le suivi des conversions sur votre site (commandes, abonnements, inscriptions, remplissage de formulaires, etc.).
-feature: Mesures
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

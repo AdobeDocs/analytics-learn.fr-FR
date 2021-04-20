@@ -1,14 +1,14 @@
 ---
 title: Utilisation d’une couche de données pour définir le nom de page et d’autres variables en Adobe Analytics par lancement
 description: L’utilisation d’une couche de données pour Analytics et d’autres solutions Experience Cloud est considérée comme une bonne pratique. Dans cette vidéo, vous allez découvrir comment extraire vos valeurs de la couche de données et les utiliser dans Lancer pour renseigner des variables en Adobe Analytics.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

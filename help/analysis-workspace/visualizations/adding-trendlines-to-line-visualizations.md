@@ -1,15 +1,15 @@
 ---
 title: Ajout de lignes de tendance aux visualisations de lignes
 description: Sous Paramètres de visualisation, vous pouvez choisir d’ajouter une régression ou une courbe de tendance moyenne mobile à vos séries de lignes, ce qui peut aider à représenter un modèle plus clair dans les données. Les options disponibles sont Linéaire, Logarithmique, Exponentielle, Puissance, Quadratique et Moyennes mobiles.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

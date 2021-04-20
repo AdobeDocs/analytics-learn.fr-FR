@@ -1,10 +1,10 @@
 ---
 title: Appliquer des plages de dates personnalisées aux projets de carte de performance mobile
 description: Cette vidéo vous explique comment gérer vos différentes options pour les plages de dates lorsque vous configurez vos projets d’analyse pour les périphériques mobiles, notamment en choisissant les plages prêtes à l’emploi que vous souhaitez afficher, ainsi qu’en créant vos propres plages de dates personnalisées.
-feature: Tableaux de bord Analytics
+feature: Analytics Dashboards
 topic: Mobile
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

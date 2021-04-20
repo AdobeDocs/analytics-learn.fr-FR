@@ -1,15 +1,15 @@
 ---
 title: Configuration de Advertising Analytics dans Adobe Analytics
 description: 'Cette vidéo vous explique comment configurer vos Report Suites pour utiliser Advertising Analytics, comment configurer un compte de recherche payante et les détails du rapports pour Advertising Analytics. '
-feature: Intégration d’Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: Intégrations
-role: Administrateur
-level: Intermédiaire
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Utilisation de plages de dates et de comparaisons en Analysis Workspace
 description: Dans cette vidéo, vous apprendrez à utiliser des dates, des plages de dates et des comparaisons de dates pour personnaliser vos tableaux et vos visualisations en fonction de la période appropriée.
-feature: Calendrier
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Modification de l’échelle/de l’axe sur les visualisations en Analysis Workspace
 description: Cette vidéo montre comment vous pouvez facilement modifier l'échelle (ou les limites d'axe) de l'axe Y sur un graphique en courbes de l'Analysis Workspace pour rendre les données plus difficiles à interpréter pour vous et les autres utilisateurs.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

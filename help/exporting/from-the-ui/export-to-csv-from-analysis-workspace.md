@@ -1,14 +1,14 @@
 ---
 title: Exporter au format CSV depuis Analysis Workspace
 description: Découvrez comment exporter des projets à structure libre au format CSV pour Analyse dans Excel et d’autres outils de BI.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Gestion des composants dans Analysis Workspace
 description: Vous pouvez gérer vos dimensions, segments, mesures et périodes directement dans Analysis Workspace. Il nʼest pas nécessaire de quitter votre projet pendant que vous recherchez un segment à partager.
-feature: Concepts de base de Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1988
-role: Professionnel
-level: Débutant
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

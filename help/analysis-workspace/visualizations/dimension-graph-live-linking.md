@@ -1,14 +1,14 @@
 ---
 title: Dimension-Graphique en ligne en direct dans Analysis Workspace
 description: Nous ne savons pas vraiment comment appeler cela, mais c'est sournois-cool. Lorsque vous créez un graphique linéaire à partir d’une valeur de dimension, vous pouvez désormais sélectionner différentes valeurs de dimension et modifier le graphique de manière dynamique. Regardez la vidéo pour en savoir plus !
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

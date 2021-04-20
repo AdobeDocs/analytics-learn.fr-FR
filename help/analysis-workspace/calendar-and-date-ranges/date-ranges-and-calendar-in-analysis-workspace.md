@@ -1,14 +1,14 @@
 ---
 title: Utilisation des plages de dates et des calendriers dans Analysis Workspace
 description: Vous pouvez utiliser des plages de dates personnalisées comme paramètres prédéfinis dans le calendrier de vos projets Analysis Workspace. Vous pouvez également les faire glisser sur le calendrier pour les appliquer rapidement en tant que plages de dates dans vos projets. Cette vidéo vous montre comment faire ces deux choses en Analysis Workspace à Adobe Analytics.
-feature: Calendrier
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

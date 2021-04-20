@@ -1,15 +1,15 @@
 ---
 title: Visualisation des abandons en Analysis Workspace
 description: Cette vidéo vous guide tout au long de la visualisation Abandons disponible en Analysis Workspace à Adobe Analytics. Utilisez l’option Abandon pour créer des entonnoirs ou afficher le flux publicitaire des utilisateurs sur les workflows clés de l’application ou du site.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

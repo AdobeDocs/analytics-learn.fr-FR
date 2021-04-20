@@ -1,14 +1,14 @@
 ---
 title: Expérience in-app des tableaux de bord d’Adobe Analytics
 description: Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder aux "Scorecards" créés ou partagés avec vous et y vue.
-feature: Tableaux de bord Analytics
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

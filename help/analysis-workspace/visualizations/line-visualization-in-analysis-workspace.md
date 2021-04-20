@@ -1,15 +1,15 @@
 ---
 title: Visualisation Ligne dans Analysis Workspace
 description: La visualisation Ligne représente les mesures sur une période de tendance. Les paramètres de visualisation vous permettent de personnaliser l’aspect visuel de chaque ligne et incluent les paramètres Afficher l’axe X/Y, Afficher les libellés min/max et Afficher la ligne de tendance.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

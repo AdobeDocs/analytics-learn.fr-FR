@@ -1,14 +1,14 @@
 ---
 title: Suivi de liens personnalisés sans gestionnaire de balises
 description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une vue de page. Dans cette vidéo, vous apprendrez comment coder une balise de suivi des liens à Analytics, si vous n’utilisez pas de gestionnaire de balises (comme un Experience Platform Launch). Consultez le code et apprenez un conseil important.
-feature: Implémentation d’AppMeasurement
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"Développeur, ingénieur de données"'
-level: Intermédiaire
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Configuration du suivi facile des liens de téléchargement dans l’Experience Platform Launch
 description: En quelques clics seulement dans Adobe Analytics Extension en Experience Platform Launch, vous pouvez début effectuer le suivi des liens de téléchargement sur votre site (liens qui téléchargent des fichiers non-navigateurs sur votre ordinateur). Cette vidéo vous montre comment la configurer.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Comprendre le comportement des utilisateurs sur les assistants vocaux
 description: Découvrez comment comprendre le comportement des utilisateurs et obtenir des informations en examinant les mesures clés telles que les principaux objectifs, les paramètres et l'authentification des utilisateurs.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

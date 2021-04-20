@@ -1,15 +1,15 @@
 ---
 title: Utilisation De La Fonction Moyenne Cumulée Pour Appliquer Le lissage Des Mesures
 description: Plus la période pendant laquelle une mesure est de tendance est longue, plus il est difficile de déterminer les tendances directionnelles de la mesure. Pour résoudre ce problème, la fonction Moyenne cumulée des mesures calculées peut être utilisée pour appliquer un lissage aux mesures en Analysis Workspace.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

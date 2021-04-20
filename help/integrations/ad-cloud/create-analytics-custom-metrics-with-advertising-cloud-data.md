@@ -1,16 +1,16 @@
 ---
 title: Créer des mesures personnalisées Analytics avec des données Advertising Cloud
 description: Mesures personnalisées utiles à créer lors de l’utilisation de données Advertising Cloud dans Adobe Analytics.
-feature: Intégration d’Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35119.jpg
 kt: 5476
-topic: Intégrations
-role: Professionnel
-level: Intermédiaire
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

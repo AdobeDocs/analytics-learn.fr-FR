@@ -1,14 +1,14 @@
 ---
 title: Gestion et suivi des données de l’application de l’assistant vocal
 description: 'Découvrez comment créer un tableau de bord personnalisé pour gérer et suivre les performances de votre application d''assistant vocal d''une manière simple, flexible, intuitive et visuelle. '
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Professionnel
-level: Intermédiaire
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

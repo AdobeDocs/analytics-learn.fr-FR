@@ -1,15 +1,15 @@
 ---
 title: Analyse de vente croisée à Analysis Workspace
 description: Le rapport Ventes croisées des rapports et analyses affiche la relation entre les produits d’une même chaîne de produits, de sorte que vous puissiez analyser les produits achetés ensemble. Dans cette vidéo, nous vous montrons comment créer le rapport Ventes croisées en Analysis Workspace et l'étendre encore plus à toute dimension ou classification à plusieurs valeurs.
-feature: Tableaux à structure libre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

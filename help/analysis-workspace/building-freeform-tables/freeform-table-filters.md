@@ -1,15 +1,15 @@
 ---
 title: Filtres de tableau à structure libre dans Analysis Workspace
 description: Les filtres offrent un meilleur contrôle sur les lignes de données partagées dans un tableau à structure libre.
-feature: Tableaux à structure libre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

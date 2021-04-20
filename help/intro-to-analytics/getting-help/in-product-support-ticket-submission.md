@@ -1,14 +1,14 @@
 ---
 title: Envoi du ticket d'assistance en ligne
 description: Vous pouvez désormais envoyer un ticket d’assistance à la clientèle directement dans l’interface utilisateur, ce qui simplifie le processus de résolution.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
-role: '"Professionnel, développeur, ingénieur de données, architecte, architecte de données, administrateur, responsable"'
-level: Début
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

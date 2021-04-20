@@ -1,15 +1,15 @@
 ---
 title: Suivi des journaux d’utilisation pour Analysis Workspace
 description: Sous Admin - Journaux - Utilisation et accès, vous pouvez mieux comprendre l’utilisation de Adobe Analytics par vos utilisateurs. Cette vidéo porte spécifiquement sur la mesure de l’utilisation des projets Workspace.
-feature: Configuration et collecte des données
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
 topic: Administration
-role: Administrateur
-level: Début
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

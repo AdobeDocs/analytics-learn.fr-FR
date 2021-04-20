@@ -1,14 +1,14 @@
 ---
 title: Ajouter une règle de lancement pour le Événement d’achat
 description: Cette vidéo montre comment utiliser l'extension de chaîne de produit dans Lancer pour effectuer le suivi des achats sur votre site, ce qui se traduit par les mesures Recettes, Commandes et Unités de votre analyse.
-feature: Lancement de l’implémentation
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"Développeur, ingénieur de données"'
-level: Début
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

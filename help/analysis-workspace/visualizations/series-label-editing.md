@@ -1,14 +1,14 @@
 ---
 title: Edition d'étiquettes de série en Analysis Workspace
 description: Présentation de certaines nouvelles fonctionnalités qui permettent aux analystes et aux marketeurs d’ajuster les libellés des graphiques en fonction de vos besoins de visualisation.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1906
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

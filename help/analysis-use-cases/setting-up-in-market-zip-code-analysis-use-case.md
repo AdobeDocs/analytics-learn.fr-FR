@@ -3,15 +3,15 @@ title: Configuration de l'Analyse de code postal dans le marché - un cas d'util
 seo-title: Configuration de l'Analyse de code postal dans le marché - un cas d'utilisation
 description: Dans ce cas d’utilisation, nous configurerons le système pour importer des codes postaux, les classer comme étant disponibles sur le marché ou en dehors du marché, puis nous utiliserons ces données en Analysis Workspace afin que nous puissions déterminer l’efficacité de nos campagnes marketing ciblées géographiquement.
 seo-description: Dans ce cas d’utilisation, nous configurerons le système pour importer des codes postaux, les classer comme étant disponibles sur le marché ou en dehors du marché, puis nous utiliserons ces données en Analysis Workspace afin que nous puissions déterminer l’efficacité de nos campagnes marketing ciblées géographiquement.
-feature: Cas d’utilisation
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

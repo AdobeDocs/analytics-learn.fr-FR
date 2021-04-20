@@ -1,15 +1,15 @@
 ---
 title: Développement de la visualisation Flux en Analysis Workspace
 description: Cette vidéo présente les différentes options de clic droit disponibles dans la visualisation Flux en Analysis Workspace. Les options incluent la création d’un segment à partir d’un chemin d’accès, la réduction de colonnes, etc.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

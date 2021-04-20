@@ -1,15 +1,15 @@
 ---
 title: Comparaisons de dates en Analysis Workspace
 description: 'Dans cette vidéo, nous allons vous montrer comment exploiter deux fonctions de comparaison de dates dans les tableaux à structure libre : ''ajouter une colonne de période'' et ''comparer des périodes''.'
-feature: Calendrier
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

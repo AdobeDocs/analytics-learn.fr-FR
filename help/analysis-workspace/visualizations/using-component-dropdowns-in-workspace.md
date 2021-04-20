@@ -1,7 +1,7 @@
 ---
 title: Utilisation des listes déroulantes de composants dans Workspace
 description: Les listes déroulantes de composants vous permettent de choisir parmi une liste de composants compatibles pour créer votre analyse. Vous pouvez également créer des composants directement à partir de la liste déroulante si vous ne trouvez pas ce dont vous avez besoin. Ces espaces continuent de fonctionner comme des zones de dépôt si vous avez un cas d’utilisation plus avancé.
-feature: Composants
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

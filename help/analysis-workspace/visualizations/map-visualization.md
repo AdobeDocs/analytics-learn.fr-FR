@@ -1,14 +1,14 @@
 ---
 title: Carte de la visualisation en Analysis Workspace
 description: Cette vidéo vous explique comment utiliser la nouvelle visualisation de carte en Analysis Workspace. La carte viz vous permet de vue des données mobiles (lat/long) ou Web (adresse IP) par rapport à une carte dynamique, ce qui vous permet d’avoir une idée de l’utilisation des clients dans le contexte de leur emplacement.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

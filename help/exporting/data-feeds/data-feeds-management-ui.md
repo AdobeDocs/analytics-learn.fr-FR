@@ -1,14 +1,14 @@
 ---
 title: Interface utilisateur de gestion des flux de données
 description: Le flux de données Adobe Analytics vous permet d’exporter des données brutes de parcours de navigation afin de les importer et de les fusionner avec d’autres sources de données dans un réseau EDW ou un lac de données. Vous pouvez créer et gérer vos propres flux de données dans Adobe Analytics. Cette vidéo vous montrera comment.
-feature: Flux de données
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Abandon multidimensionnel en Analysis Workspace
 description: Les abandons en Analysis Workspace vous permettent de combiner et de faire correspondre des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Professionnel
-level: Début
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
