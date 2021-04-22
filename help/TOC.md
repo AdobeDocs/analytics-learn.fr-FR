@@ -107,7 +107,7 @@ ht-degree: 93%
       + [Visualisation des données dans Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Types de visualisation](analysis-workspace/visualizations/visualization-types.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Obtention de données dans des visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilisation des listes déroulantes de composants dans Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisation Ligne dans Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Ajout de tendances aux visualisations linéaires](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
