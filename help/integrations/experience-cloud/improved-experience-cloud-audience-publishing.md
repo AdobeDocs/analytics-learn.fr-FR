@@ -2,13 +2,13 @@
 title: Amélioration de la publication auprès d’une audience Experience Cloud
 landing-page-description: Découvrez les publications d’audiences (segments) et rendez-les disponibles plus rapidement que jamais.
 description: Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences (segments) et les rendre disponibles six fois plus rapidement, faisant ainsi passer le temps de latence de 48 heures à environ 8 heures, voire plus court encore en fonction du trafic et de la taille du segment.
-feature: Experience Cloud Integration
+feature: Intégration d’Experience Cloud
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
-topic: Integrations
+topic: Intégrations
 role: Business Practitioner
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
