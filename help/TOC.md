@@ -4,11 +4,10 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -19,7 +18,7 @@ ht-degree: 99%
 + Introduction à Analytics {#intro-to-analytics}
    + Que peut faire Adobe Analytics pour moi ? {#what-can-aa-do-for-me}
       + [Comment Adobe Analysis Workspace peut changer votre entreprise](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [Plus que des données. Cʼest de lʼintelligence client](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Plus que des données. Cʼest lʼanalyse client](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei et Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [Cas dʼutilisation client - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Cas dʼutilisation client - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
@@ -30,11 +29,11 @@ ht-degree: 99%
    + Concepts de base d’Analytics {#analytics-basics}
       + [Bouton Essayer dans Workspace dans Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Mesure Personnes](intro-to-analytics/analytics-basics/people-metric.md)
-      + [Compréhension du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [Collecte des données Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [Présentation du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [Comment les données Analytics sont collectées](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Connexion à Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Présentation de lʼinterface utilisateur dʼAnalytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
-      + [Compréhension et création de suites de rapports](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Introduction à l’interface utilisateur d’Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
+      + [Comprendre et créer des suites de rapports](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (Prévisualisations technologiques)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + Personnalisation de lʼinterface utilisateur {#customizing-the-ui}
       + [Préférences utilisateur dans Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
@@ -52,9 +51,9 @@ ht-degree: 99%
       + [Aide pour Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Principes de base dʼAnalysis Workspace {#analysis-workspace-basics}
-      + [Introduction à Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Présentation dʼAnalysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Aperçu d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Création de nouveaux projets dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Création de nouveaux projets Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Création et gestion de modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modèles standard dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs dʼAnalysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -84,9 +83,9 @@ ht-degree: 99%
       + [Panneau Quick Insights dans Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilisation du panneau Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=fr)
       + [Panneau Observateurs simultanés de médias dans Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Utilisation des filtres déroulants](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [Utilisation de filtres déroulants](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Améliorations de la zone de dépôt de segments](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Améliorations de la zone de dépôt des segments](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + Création de tableaux à structure libre {#building-freeform-tables}
       + [Utilisation du rail de gauche pour créer des tables à structure libre dans Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -208,7 +207,7 @@ ht-degree: 99%
       + [Limiter l’accès à la suite de rapports dans Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [Personnaliser les paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
       + [Personnalisation des menus dans les rapports et analyses](administration/manage-report-suites/customize-menus.md)
       + [Configurer des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition des Filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
@@ -226,8 +225,8 @@ ht-degree: 99%
       + [Première mise en œuvre](implementation/implementation-basics/first-time-implementation.md)
       + [Mise en correspondance des variables contextData dans des props et des eVars avec des règles de traitement](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Comment identifier votre serveur de suivi et vos suites de rapports Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
-      + [Création dʼun document dʼexigences de lʼentreprise](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Création et mise à jour dʼun document de conception de solution](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Création dʼun document dʼexigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
+      + [Création et conservation d’un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Utilisation dʼune couche de données sur votre site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Avec Experience Platform Launch {#via-adobe-launch}
       + [Mise en œuvre dʼExperience Cloud sur les sites web avec Experience Platform Launch](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-websites-with-launch/index.html)
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics - Intégration de segments AAM dans Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analyser une Activité d’Cible automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configuration dʼAdvertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implémentation de modèles de suivi dans des moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
@@ -335,7 +335,7 @@ ht-degree: 99%
    + Power BI {#power-bi}
       + [Connecteur Adobe Analytics dans Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
-      + [Modèle Magento dʼAnalysis Workspace](integrations/magento/magento-analysis-workspace-template.md)
+      + [Modèle Magento d’Analysis Workspace](integrations/magento/magento-analysis-workspace-template.md)
 + Science des données {#data-science}
    + [Utilisation du machine learning et de lʼIA dʼAdobe Analytics pour les moments importants](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Détection des anomalies dans Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
@@ -357,7 +357,7 @@ ht-degree: 99%
       + [Utilisation du modèle de consommation audio dans Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Analyse des applications mobiles {#mobile-app-analytics}
    + Implémentation {#implementation}
-      + [Paramètres Administrateur pour les applications mobiles](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
+      + [Paramètres administrateurs pour les applications mobiles](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisation et affichage des mesures de cycle de vie avec le SDK Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Actions de suivi (liens personnalisés)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [État du suivi (pages ou écrans)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
@@ -365,14 +365,14 @@ ht-degree: 99%
       + [Mise en œuvre dans les applications iOS en Objective-C](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Mise en œuvre dans les applications Android](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mesure des analyses mobiles {#measuring-mobile-analytics}
-      + [Prise en main des analyses mobiles Adobe](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
+      + [Prise en main d’Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact des points de contact sur le parcours mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analyse du comportement des utilisateurs sur plusieurs canaux](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Comment augmenter les taux dʼengagement et de rétention](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [Utilisation dʼAnalysis Workspace pour créer des requêtes API 2.0](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [Utilisation de Report Builder pour apprendre à utiliser lʼAPI Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=fr)
-   + [Utilisation de Postman pour créer des requêtes API Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
+   + [Utilisation de Postman pour envoyer des demandes API Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Cas d’utilisation dʼAnalysis {#analysis-use-cases}
    + [Configuration de lʼanalyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Curriculum Analytics University](analytics-university/curriculum.md)
++ [Programme Analytics University](analytics-university/curriculum.md)
