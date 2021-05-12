@@ -1,39 +1,39 @@
 ---
-title: Programme d'études universitaires Adobe Analytics
-description: L’Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Dans le cursus, vous trouverez 4 modules distincts destinés à vous présenter la collecte et le rapports Adobe Analytics, qui peuvent être divisés et pliés en cours d'analyse numérique ou de marketing. Ce manuel d'introduction permettra aux professeurs et aux étudiants d'acquérir les connaissances nécessaires pour participer au défi mondial de Adobe Analytics chaque automne.
+title: Programme Adobe Analytics University
+description: Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Ce programme compte 4 modules distincts dont l’objectif est de vous présenter la collecte de données et le compte rendu des performances d’Adobe Analytics. Ces modules peuvent être divisés et incorporés à des cours portant sur l’analyse numérique ou le marketing. Grâce à ce manuel d’introduction, professeurs et étudiants peuvent acquérir les connaissances nécessaires pour participer au défi mondial proposé chaque automne par Adobe Analytics.
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 95%
 
 ---
 
 
 
-# Université Adobe Analytics
+# Adobe Analytics University
 
-## Contenu du cours Analytics
+## Contenu du cours d’Analytics
 
-L’Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Dans le cursus, vous trouverez 4 modules distincts destinés à vous présenter la collecte et le rapports Adobe Analytics, qui peuvent être divisés et pliés en cours d&#39;analyse numérique ou de marketing. Ce manuel d&#39;introduction permettra aux professeurs et aux étudiants d&#39;acquérir les connaissances nécessaires pour participer au défi mondial de Adobe Analytics chaque automne.
+Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Ce programme compte 4 modules distincts dont l’objectif est de vous présenter la collecte de données et le compte rendu des performances d’Adobe Analytics. Ces modules peuvent être divisés et incorporés à des cours portant sur l’analyse numérique ou le marketing. Grâce à ce manuel d’introduction, professeurs et étudiants peuvent acquérir les connaissances nécessaires pour participer au défi mondial proposé chaque automne par Adobe Analytics.
 
-### Voici ce que vous apprendrez :
+### Voici ce que vous apprendrez :
 
-*Il début avec les DONNÉES :*
+*Le tutoriel démarre avec les DONNÉES :*
 
-* Module de collecte de données (1) : cadre de l’implémentation, de la collecte, du rapports et de la validation des données
-* Module de stratégie et d&#39;architecture des données (2) les bases des variables de données, des stratégies et de l&#39;architecture
+* Module relatif à la collecte de données (1) : framework de l’implémentation, de la collecte, du compte rendu des performances et de la validation des données
+* Module relatif à la stratégie et à l’architecture des données (2) : concepts de base des variables, des stratégies et de l’architecture des données
 
-*Ensuite, vous combinerez ces DONNÉES avec INSIGHTS :*
+*Les modules suivants vous présentent comment combiner ces DONNÉES avec des INSIGHTS :*
 
-* Module Mesures et fonctionnalités d&#39;Adobe standard (3) : comment accéder aux mesures et rapports d&#39;indicateurs clés de performance et d&#39;analyses vitales et les vue-les
-* Module de base Analysis Workspace (4) - Avancement des visualisations des rapports d’analyse
+* Module relatif aux mesures et fonctionnalités standard d’Adobe (3) : comment accéder aux mesures et aux rapports essentiels des indicateurs clés de performance d’Analytics et afficher leur contenu
+* Module relatif aux fondamentaux d’Analysis Workspace (4) : perfectionnement des connaissances concernant les visualisations des comptes rendu de performances d’Analytics
 
-Ce programme d&#39;études avec des activités spécialement conçues à la fin de chaque section peut être combiné avec l&#39;environnement sandbox de l&#39;Université Adobe Analytics.
+Ce programme, qui comporte des activités spécifiques à la fin de chaque section, peut être combiné à l’environnement de test d’Adobe Analytics University.
 
 Inscrivez-vous ici pour y accéder : [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[Télécharger le PDF du curriculum](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[Télécharger le PDF du programme](assets/Adobe-Analytics-Curriculum_2021.pdf)
