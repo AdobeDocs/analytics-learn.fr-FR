@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -208,9 +208,9 @@ ht-degree: 98%
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Personnalisation des menus dans les rapports et analyses](administration/manage-report-suites/customize-menus.md)
-      + [Configurer des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
-      + [Définition des Filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
+      + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
+      + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
+      + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuration des paramètres de code postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuration des variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Gouvernance des données et RGPD {#data-governance-and-gdpr}
@@ -317,7 +317,7 @@ ht-degree: 98%
       + [Audience Analytics - Intégration de segments AAM dans Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [Analyser une Activité d’Cible automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [Analyse d’une activité de ciblage automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configuration dʼAdvertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implémentation de modèles de suivi dans des moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
