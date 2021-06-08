@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -120,7 +120,7 @@ ht-degree: 98%
       + [Liaisons en direct dans les graphiques à dimensions](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Basculement de la granularité](analysis-workspace/visualizations/granularity-toggle.md)
       + [Liaisons internes dans Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Thème positif - négatif de la carte ](analysis-workspace/visualizations/positive-negative-map-theme.md)
+      + [Thème positif - négatif de la carte](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Réorganisation et redimensionnement des visualisations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Éditeur de texte enrichi dans Analysis Workspace](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Modification des libellés de séries](analysis-workspace/visualizations/series-label-editing.md)
@@ -374,11 +374,11 @@ ht-degree: 98%
    + [Utilisation de Report Builder pour apprendre à utiliser l’API Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=fr)
    + [Utilisation de Postman pour envoyer des demandes API Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Cas d’utilisation d’Analysis {#analysis-use-cases}
-   + Recherche de site interne {#internal-site-search}
-      + [Définition des besoins métier de recherche de site interne](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Mise en oeuvre de variables de recherche interne à l’aide d’AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [Mise en oeuvre de variables de recherche interne à l’aide du SDK Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [Mappage des variables du SDK Web dans Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
-      + [Configuration des rapports de recherche de site interne](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
+   + Recherche interne au site {#internal-site-search}
+      + [Définition des besoins de votre entreprise en matière de recherche interne au site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Mise en œuvre de variables de recherche interne à lʼaide dʼAppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Mise en œuvre de variables de recherche interne à lʼaide du SDK Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Mise en correspondance de variables SDK Web dans Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Configuration des rapports de recherche interne au site](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Programme Analytics University](analytics-university/curriculum.md)
