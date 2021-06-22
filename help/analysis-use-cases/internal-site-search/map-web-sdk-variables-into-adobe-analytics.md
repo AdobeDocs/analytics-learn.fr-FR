@@ -1,5 +1,5 @@
 ---
-title: Mappage des variables du SDK Web dans Adobe Analytics
+title: Mise en correspondance de variables SDK Web dans Adobe Analytics
 description: Découvrez comment mapper des variables d’analyse du SDK Web à Adobe Analytics à l’aide de règles de traitement.
 feature: Cas d’utilisation
 role: Business Practitioner
@@ -7,15 +7,15 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-
-# Mappage des variables du SDK Web dans Adobe Analytics
+# Mise en correspondance de variables SDK Web dans Adobe Analytics
 
 Découvrez comment mapper des variables d’analyse du SDK Web à Adobe Analytics à l’aide de règles de traitement.
 
