@@ -1,17 +1,19 @@
 ---
-title: Programme Adobe Analytics University
+title: Programme Adobe Analytics pour l'éducation
 description: Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Ce programme compte 4 modules distincts dont l’objectif est de vous présenter la collecte de données et le compte rendu des performances d’Adobe Analytics. Ces modules peuvent être divisés et incorporés à des cours portant sur l’analyse numérique ou le marketing. Grâce à ce manuel d’introduction, professeurs et étudiants peuvent acquérir les connaissances nécessaires pour participer au défi mondial proposé chaque automne par Adobe Analytics.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
-workflow-type: ht
-source-wordcount: '240'
-ht-degree: 100%
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics University
+# Programme Adobe Analytics pour l&#39;éducation
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Contenu du cours d’Analytics
 
