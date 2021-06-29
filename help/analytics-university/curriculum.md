@@ -4,10 +4,10 @@ description: Adobe est fier de présenter ce contenu fondamental d’Analytics �
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe est fier de présenter ce contenu fondamental d’Analytics à votre unive
 
 Ce programme, qui comporte des activités spécifiques à la fin de chaque section, peut être combiné à l’environnement de test d’Adobe Analytics University.
 
-Inscrivez-vous ici pour y accéder : [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+Inscrivez-vous ici pour y accéder : [Enregistrement du cursus Analytics](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [Télécharger le PDF du programme](assets/Adobe-Analytics-Curriculum_2021.pdf)
