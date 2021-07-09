@@ -164,7 +164,7 @@ ht-degree: 98%
       + [Comparaison de dates dans Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Ajout de comparaisons mensuelles et annuelles antérieures aux tendances](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Analyse des parcours client {#analyzing-customer-journeys}
-      + [Cernez précisément vos données à lʼaide des Abandons et des Flux.](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Cernez précisément vos données à lʼaide des Abandons et des Flux](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ : analyses sur plusieurs appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualisation des abandons](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Améliorations de la visualisation des abandons](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -194,7 +194,7 @@ ht-degree: 98%
       + [Fenêtres rétroactives personnalisées dans Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Analyse des cohortes {#cohort-analysis}
       + [Analyse de cohortes dans Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
-      + [Cernez précisément vos données à lʼaide des Tableaux de cohortes.](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
+      + [Cernez précisément vos données à lʼaide des Tableaux de cohortes](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Aperçu des tableaux de cohortes](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Paramètres du tableau de cohortes](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Analyse de la perte de clientèle grâce à un tableau de cohortes](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -371,7 +371,7 @@ ht-degree: 98%
       + [Actions de suivi (liens personnalisés)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [État du suivi (pages ou écrans)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Mise en œuvre dans les applications iOS en Swift](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Mise en œuvre dans les applications iOS en Objective-C](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Mise en œuvre dans les applications iOS en Objective-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Mise en œuvre dans les applications Android](https://docs.adobe.com/content/help/fr-FR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mesure des analyses mobiles {#measuring-mobile-analytics}
       + [Prise en main d’Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
