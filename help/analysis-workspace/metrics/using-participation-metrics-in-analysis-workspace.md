@@ -1,26 +1,24 @@
 ---
-title: Utilisation des mesures de participation dans Analysis Workspace
+title: Utilisation des mesures de participation dans Analysis Workspace
 description: Utilisez cette astuce simple pour obtenir n’importe quelle mesure de participation dans Analysis Workspace à tout moment.
-feature: Metrics
+feature: Mesures
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
-role: Business Practitioner
+role: User
 level: Beginner
-exl-id: 336853ad-c273-4627-919b-3c86f97b60e3,1d8ee92d-6f76-4d59-b2ef-8829b03c2027,1d8ee92d-6f76-4d59-b2ef-8829b03c2027,336853ad-c273-4627-919b-3c86f97b60e3
-translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
 ---
 
-
-# Utilisation des mesures de participation dans Analysis Workspace
+# Utilisation des mesures de participation dans Analysis Workspace
 
 Utilisez cette astuce simple pour obtenir n’importe quelle mesure de participation dans Analysis Workspace à tout moment.
 
