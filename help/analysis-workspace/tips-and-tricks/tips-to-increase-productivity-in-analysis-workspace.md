@@ -1,25 +1,24 @@
 ---
-title: Conseils pour accroître la productivité en Analysis Workspace
-description: Dans cette vidéo, nous allons parcourir 4 conseils pour augmenter votre productivité et gagner du temps en Analysis Workspace.
-feature: Workspace Basics
+title: Conseils pour accroître votre productivité dans Analysis Workspace
+description: Dans cette vidéo, nous allons consulter 4 conseils pour accroître votre productivité et gagner du temps dans Analysis Workspace.
+feature: Concepts de base de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 32%
 
 ---
 
+# Conseils pour accroître votre productivité dans Analysis Workspace
 
-# Conseils pour accroître la productivité en Analysis Workspace
-
-Dans cette vidéo, nous allons parcourir 4 conseils pour augmenter votre productivité et gagner du temps en Analysis Workspace.
+Dans cette vidéo, nous allons consulter 4 conseils pour accroître votre productivité et gagner du temps dans Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12)
