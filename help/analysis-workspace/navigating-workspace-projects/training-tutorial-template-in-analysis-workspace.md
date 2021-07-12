@@ -1,27 +1,26 @@
 ---
-title: Modèle de tutoriel de formation dans Analysis Workspace
-description: 'Le didacticiel de formation Analysis Workspace présente aux utilisateurs une terminologie et des étapes courantes pour créer leur première analyse dans Workspace. '
-feature: Panels
+title: Modèle de tutoriel de formation dans Analysis Workspace
+description: 'Le tutoriel de formation à Analysis Workspace vous présente la terminologie et les étapes nécessaires à la création de votre première analyse dans Workspace. '
+feature: Panneaux
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 58%
 
 ---
 
+# Modèle de tutoriel de formation dans Analysis Workspace
 
-# Modèle de tutoriel de formation dans Analysis Workspace
-
-Le didacticiel de formation Analysis Workspace présente aux utilisateurs une terminologie et des étapes courantes pour créer leur première analyse dans Workspace.
+Le tutoriel de formation à Analysis Workspace vous présente la terminologie et les étapes nécessaires à la création de votre première analyse dans Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
 
-Ce modèle est disponible en tant que modèle standard dans le module Nouveau projet. Ce modèle vous permet de créer vos propres didacticiels, en les adaptant aux cas d’utilisation uniques de votre entreprise et à la structure des données (eVars, événements personnalisés).
+Ce modèle est disponible en tant que modèle standard dans le modal Nouveau projet . À partir de ce modèle, vous pouvez créer vos propres tutoriels, en les adaptant aux cas d’utilisation et à la structure de données uniques de votre entreprise (eVars, événements personnalisés).
