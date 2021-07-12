@@ -1,25 +1,24 @@
 ---
-title: 'Utilisation du créateur de règles de classification en Adobe Analytics '
-description: 'Découvrez comment utiliser le Créateur de règles de classification pour appliquer automatiquement des classifications basées sur des règles en Adobe Analytics. '
+title: 'Utilisation du créateur de règles de classification dans Adobe Analytics '
+description: 'Découvrez comment utiliser le Créateur de règles de classification pour appliquer automatiquement des classifications basées sur des règles dans Adobe Analytics. '
 feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 066d0ebf-1921-48be-8531-bdd766330825
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '47'
 ht-degree: 2%
 
 ---
 
+# Utilisation du [!UICONTROL Créateur de règles de classification] dans Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
-# Utilisation du [!UICONTROL Créateur de règles de classification] en Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
-
-Découvrez comment utiliser le [!UICONTROL Créateur de règles de classification] pour appliquer automatiquement des [!UICONTROL classifications] basées sur des règles en Adobe Analytics.
+Découvrez comment utiliser le [!UICONTROL Créateur de règles de classification] pour appliquer automatiquement des [!UICONTROL classifications] basées sur des règles dans Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12)
