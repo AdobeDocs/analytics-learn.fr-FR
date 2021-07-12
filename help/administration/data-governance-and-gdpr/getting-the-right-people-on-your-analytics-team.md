@@ -1,25 +1,24 @@
 ---
-title: Obtention des personnes appropriées dans votre équipe Analytics
-description: Il est très important d’avoir les bonnes personnes dans votre équipe lorsque vous implémentez Adobe Analytics et que vous analysez l’activité de votre site. Cette vidéo vous donne un aperçu rapide des différents rôles que vous souhaitez remplir.
-feature: Analytics Basics
+title: Trouver les personnes appropriées pour votre équipe Analytics
+description: Il est très important d’associer les bonnes personnes à votre équipe lorsque vous implémentez Adobe Analytics et que vous analysez l’activité sur votre site. Cette vidéo présente un aperçu rapide des différents rôles que vous souhaitez remplir.
+feature: Concepts de base d’Analytics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
-role: Administrator
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 2%
+source-wordcount: '99'
+ht-degree: 10%
 
 ---
 
+# Obtention des bonnes personnes sur votre équipe [!DNL Analytics]
 
-# Obtenir les bonnes personnes sur votre [!DNL Analytics] équipe
-
-Il est très important d’avoir les bonnes personnes dans votre équipe lorsque vous implémentez Adobe Analytics et que vous analysez l’activité de votre site. Cette vidéo vous donne un aperçu rapide des différents rôles que vous souhaitez remplir.
+Il est très important d’associer les bonnes personnes à votre équipe lorsque vous implémentez Adobe Analytics et que vous analysez l’activité sur votre site. Cette vidéo présente un aperçu rapide des différents rôles que vous souhaitez remplir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
