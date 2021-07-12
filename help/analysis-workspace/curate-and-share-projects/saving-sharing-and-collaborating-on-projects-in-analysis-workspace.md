@@ -1,27 +1,26 @@
 ---
-title: Enregistrement, partage et collaboration sur des projets à Analysis Workspace
-description: Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d'autres destinataires et inviter d'autres personnes à collaborer sur votre projet.
-feature: Curate and Share
+title: Enregistrement, partage et collaboration sur des projets dans Analysis Workspace
+description: Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d’autres destinataires et inviter d’autres personnes à collaborer sur votre projet.
+feature: Traitement et partage
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4108
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 14%
+source-wordcount: '87'
+ht-degree: 21%
 
 ---
 
+# Enregistrement, partage et collaboration sur des projets dans Analysis Workspace
 
-# Enregistrement, partage et collaboration sur des projets à Analysis Workspace
-
-Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d&#39;autres destinataires et inviter d&#39;autres personnes à collaborer sur votre projet.
+Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d’autres destinataires et inviter d’autres personnes à collaborer sur votre projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html).
