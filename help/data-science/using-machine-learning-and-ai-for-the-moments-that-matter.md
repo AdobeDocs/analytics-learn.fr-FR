@@ -1,25 +1,24 @@
 ---
-title: Utilisation de l'apprentissage automatique et de l'IA Adobe Analytics pour les moments importants
-description: L'intelligence de la clientèle n'a jamais été aussi prometteuse. Mais rassembler des données qui peuvent être utiles pour les utilisateurs de l'entreprise à travers l'organisation — et saisir les tendances importantes dans le temps pour agir sur elles — n'est pas quelque chose que même une équipe de data science avancée peut gérer seule. L'utilisation des données que vous collectez déjà à votre avantage est l'endroit où ces capacités d'IA Adobe Sensei et d'apprentissage automatique à Adobe Analytics brillent.
-feature: Data Science
+title: Utilisation du machine learning et de l’IA d’Adobe Analytics pour les moments importants
+description: Le service de renseignement client n'a jamais été aussi prometteur. Mais rassembler des données qui peuvent être utiles aux utilisateurs de l’entreprise dans l’ensemble de l’organisation — et saisir les tendances importantes dans le temps pour agir sur ces données — n’est pas quelque chose que même une équipe avancée de science des données peut gérer seule. L’utilisation des données que vous collectez déjà à votre avantage est l’endroit où ces fonctionnalités Adobe Sensei AI et d’apprentissage automatique dans Adobe Analytics brillent.
+feature: Science des données
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2340
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '160'
+ht-degree: 16%
 
 ---
 
+# Utilisation du machine learning et de l’IA d’Adobe Analytics pour les moments importants {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}
 
-# Utilisation de l&#39;apprentissage automatique et de l&#39;IA Adobe Analytics pour les moments qui comptent {#using-adobe-analytics-machine-learning-and-ai-for-the-moments-that-matter}
-
-L&#39;intelligence de la clientèle n&#39;a jamais été aussi prometteuse. Mais rassembler des données qui peuvent être utiles pour les utilisateurs de l&#39;entreprise à travers l&#39;organisation — et saisir les tendances importantes dans le temps pour agir sur elles — n&#39;est pas quelque chose que même une équipe de data science avancée peut gérer seule. L&#39;utilisation des données que vous collectez déjà à votre avantage est l&#39;endroit où ces capacités d&#39;IA Adobe Sensei et d&#39;apprentissage automatique à Adobe Analytics brillent.
+Le service de renseignement client n&#39;a jamais été aussi prometteur. Mais rassembler des données qui peuvent être utiles aux utilisateurs de l’entreprise dans l’ensemble de l’organisation — et saisir les tendances importantes dans le temps pour agir sur ces données — n’est pas quelque chose que même une équipe avancée de science des données peut gérer seule. L’utilisation des données que vous collectez déjà à votre avantage est l’endroit où ces fonctionnalités Adobe Sensei AI et d’apprentissage automatique dans Adobe Analytics brillent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12)
