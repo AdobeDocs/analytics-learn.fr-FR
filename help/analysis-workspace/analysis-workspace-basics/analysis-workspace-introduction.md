@@ -2,25 +2,24 @@
 title: 'Présentation rapide dʼAnalysis Workspace '
 seo-title: 'Présentation rapide dʼAnalysis Workspace '
 description: Aperçu rapide dʼAnalysis Workspace pour découvrir comment le produit prend en charge les novices et les experts en données.
-feature: Workspace Basics
+feature: Concepts de base de Workspace
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3268
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '48'
+exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '45'
 ht-degree: 100%
 
 ---
 
-
-# Présentation dʼAnalysis Workspace {#analysis-workspace-introduction}
+# Présentation d’Analysis Workspace {#analysis-workspace-introduction}
 
 Aperçu rapide dʼAnalysis Workspace pour découvrir comment le produit prend en charge les novices et les experts en données.
 
