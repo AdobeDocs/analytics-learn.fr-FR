@@ -1,27 +1,26 @@
 ---
-title: Configuration des paramètres des cookies dans l’extension de lancement d’Analytics
-description: Si vous débutez avec Launch, by Adobe et l’extension Adobe Analytics, cette vidéo vous aidera à comprendre si et comment définir les paramètres des cookies dans l’extension Analytics.
-feature: Launch Implementation
+title: Configuration des paramètres des cookies dans l’extension Analytics de Launch
+description: Si vous débutez avec Launch, par Adobe et l’extension Adobe Analytics, cette vidéo peut vous aider à comprendre si et comment définir les paramètres des cookies dans l’extension Analytics.
+feature: Mise en oeuvre de Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# Configuration des paramètres des cookies dans l’extension [!DNL Launch] [!DNL Analytics] {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-# Configuration des paramètres des cookies dans l&#39;extension [!DNL Launch] [!DNL Analytics] {#configuring-cookie-settings-in-the-launch-analytics-extension}
-
-Si vous débutez avec l&#39;Experience Platform Launch et l&#39;extension Adobe Analytics, cette vidéo peut vous aider à comprendre si et comment définir les paramètres du cookie dans l&#39;extension [!DNL Analytics].
+Si vous commencez à utiliser Experience Platform Launch et l’extension Adobe Analytics, cette vidéo peut vous aider à comprendre si et comment définir les paramètres du cookie dans l’extension [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 
-Pour plus d&#39;informations sur ces paramètres, consultez la [documentation](https://docs.adobelaunch.com/extension-reference/web/adobe-analytics-extension#cookies).
+Pour plus d’informations sur ces paramètres, consultez la [documentation](https://docs.adobelaunch.com/extension-reference/web/adobe-analytics-extension#cookies).
