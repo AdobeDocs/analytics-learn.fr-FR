@@ -1,29 +1,28 @@
 ---
 title: Analyse des contributions dans Analysis Workspace
-description: Cette vidéo présente l’Analyse des contributions et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
-feature: Data Science
+description: Cette vidéo présente l’analyse des contributions et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
+feature: Science des données
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 10%
+source-wordcount: '100'
+ht-degree: 31%
 
 ---
 
+# [!UICONTROL Analyse des contributions dans Analysis Workspace] {#contribution-analysis-in-analysis-workspace}
 
-# [!UICONTROL Analyse des ] contributions en Analysis Workspace  {#contribution-analysis-in-analysis-workspace}
-
-Cette vidéo présente [!UICONTROL l’Analyse des contributions] et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance de vos données.
+Cette vidéo décrit [!UICONTROL l’analyse des contributions] et sa capacité à utiliser l’apprentissage automatique pour expliquer rapidement et facilement les facteurs qui ont contribué à une tendance dans vos données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
 
-[!UICONTROL L’] analyse des contributions est disponible en Analysis Workspace pour les clients de Adobe Analytics Premium.
+[!UICONTROL L’] analyse des contributions est disponible dans Analysis Workspace pour les clients de Adobe Analytics Premium.
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/anomaly_detection.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/anomaly_detection.html).
