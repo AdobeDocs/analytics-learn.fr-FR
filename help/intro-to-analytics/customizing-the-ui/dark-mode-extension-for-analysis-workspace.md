@@ -1,27 +1,26 @@
 ---
-title: Extension du mode sombre pour Analysis Workspace
+title: Extension du mode sombre pour Analysis Workspace
 description: Activez l’extension Chrome Dark Reader pour rendre Analysis Workspace sombre.
-feature: Workspace Basics
+feature: Concepts de base de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae36e538-7ed7-4ca1-a321-a952ee405a9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 43%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
+# Extension du mode sombre pour Analysis Workspace
 
-# Extension du mode sombre pour Analysis Workspace
-
-Activez l’extension Dark Reader Chrome pour que [!UICONTROL Analysis Workspace] sombre soit activé.
+Activez l’extension Chrome Reader foncé pour rendre [!UICONTROL Analysis Workspace] sombre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
-**Remarque :** Il s’agit d’une extension Chrome publique et n’est pas affilié aux produits Adobes.
+**Remarque :**  Il s’agit d’une extension Chrome publique qui n’est pas affiliée aux produits Adobe.
