@@ -1,26 +1,25 @@
 ---
-title: Mesures calculées rapides en Analysis Workspace
-description: Vous pouvez désormais créer des mesures calculées à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement ou une division rapide en pourcentage avec quelques mesures dans votre tableau à structure libre, il vous suffit de sélectionner les mesures dans l’en-tête, de cliquer avec le bouton droit et de sélectionner l’opérateur de votre choix.  La nouvelle mesure calculée s’affiche à droite.
-feature: Calculated Metrics
+title: Mesures calculées rapides dans Analysis Workspace
+description: Vous pouvez désormais créer des mesures calculées à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec quelques mesures dans votre tableau à structure libre, sélectionnez simplement les mesures dans l’en-tête, cliquez avec le bouton droit et sélectionnez l’opérateur de votre choix.  La nouvelle mesure calculée s’affiche à droite.
+feature: Mesures calculées
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 1%
+source-wordcount: '124'
+ht-degree: 6%
 
 ---
 
+# [!UICONTROL Mesures calculées rapides] dans Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
-# Quick [!UICONTROL Calculs Metrics] en Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
-
-Vous pouvez désormais créer des [!UICONTROL mesures calculées] à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement ou une division rapide de pourcentage avec quelques [!UICONTROL mesures] dans votre [!UICONTROL tableau à structure libre], il vous suffit de sélectionner les [!UICONTROL mesures] dans l&#39;en-tête, de cliquer avec le bouton droit et de sélectionner l&#39;opérateur de votre choix.  La nouvelle mesure [!UICONTROL calculée] s’affiche à droite.
+Vous pouvez désormais créer des [!UICONTROL mesures calculées] à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec quelques [!UICONTROL mesures] dans votre [!UICONTROL tableau à structure libre], sélectionnez simplement les [!UICONTROL mesures] dans l’en-tête, cliquez avec le bouton droit et choisissez l’opérateur de votre choix.  La nouvelle [!UICONTROL mesure calculée] apparaîtra à droite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
