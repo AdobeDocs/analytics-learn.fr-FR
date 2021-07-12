@@ -1,25 +1,24 @@
 ---
-title: Préparation de l’Experience Platform Launch pour votre mise en oeuvre Analytics
-description: Avant d’implémenter Analytics dans le lancement, vous devez disposer de quelques documents et vous devez configurer quelques éléments dans le système, à la fois dans Analytics et dans le lancement. Cette vidéo passe en revue ces choses.
-feature: Launch Implementation
+title: Préparation d’Experience Platform Launch pour la mise en œuvre d’Analytics
+description: Avant de mettre en oeuvre Analytics dans Launch, vous devez disposer de certains documents prêts à l’emploi et vous devez configurer quelques éléments dans le système, à la fois dans Analytics et dans Launch. Cette vidéo passe en revue ces choses.
+feature: Mise en oeuvre de Launch
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# Préparation de [!DNL Experience Platform Launch] pour votre [!DNL Analytics] implémentation
 
-# Préparation de [!DNL Experience Platform Launch] pour votre mise en oeuvre [!DNL Analytics]
-
-Avant d&#39;utiliser l&#39;Experience Platform Launch pour implémenter [!DNL Analytics], vous devez disposer de quelques documents et vous souhaitez avoir déjà configuré quelques éléments dans le système, à la fois dans [!DNL Analytics] et dans [!DNL Launch]. Cette vidéo passe en revue ces choses.
+Avant d’utiliser Experience Platform Launch pour implémenter [!DNL Analytics], vous devez disposer de certains documents et vous souhaitez déjà configurer quelques éléments dans le système, à la fois dans [!DNL Analytics] et dans [!DNL Launch]. Cette vidéo passe en revue ces choses.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
