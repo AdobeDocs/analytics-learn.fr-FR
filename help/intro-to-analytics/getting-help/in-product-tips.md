@@ -1,25 +1,24 @@
 ---
-title: Conseils intégrés Analysis Workspace
-description: Les conseils de l’espace de travail vous permettent d’apprendre rapidement directement en Analysis Workspace, avec des liens vers des vidéos connexes afin que vous puissiez voir chaque conseil en action.
-feature: Workspace Basics
+title: Conseils et astuces dans Analysis Workspace
+description: Workspace Tips fournit un apprentissage rapide directement dans Analysis Workspace, avec des liens vers des vidéos connexes afin que vous puissiez voir chaque conseil en action.
+feature: Concepts de base de Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ad2e2c1a-c87b-4ee2-8b8c-6cc796c22f85
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 17%
 
 ---
 
+# Conseils et astuces dans Analysis Workspace {#analysis-workspace-in-product-tips}
 
-# Conseils sur les produits Analysis Workspace {#analysis-workspace-in-product-tips}
-
-[!UICONTROL Analyse ] WorkspaceTips fournit un apprentissage rapide directement dans  [!UICONTROL Analysis Workspace], avec des liens vers des vidéos connexes afin que vous puissiez voir chaque conseil en action.
+[!UICONTROL Analysis ] WorkspaceTips fournit un apprentissage rapide directement dans  [!UICONTROL Analysis Workspace], avec des liens vers des vidéos connexes afin que vous puissiez voir chaque conseil en action.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23135/?quality=12)
