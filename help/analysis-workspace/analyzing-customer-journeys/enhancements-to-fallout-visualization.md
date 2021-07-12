@@ -1,28 +1,27 @@
 ---
-title: Améliorations de la visualisation des abandons en Analysis Workspace
-description: Cette vidéo présente les mises à jour de la visualisation des abandons qui ont été très demandées par les clients, y compris les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison de segments illimités et les pourcentages de conversion des points de contact de tendance au fil du temps.
-feature: Visualizations
+title: Améliorations de la visualisation des abandons dans Analysis Workspace
+description: Cette vidéo présente les mises à jour de la visualisation Abandons qui ont été très demandées par les clients, notamment les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison d’un nombre illimité de segments et les pourcentages de conversion des points de contact de tendance au fil du temps.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 11%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
+# Améliorations apportées à [!DNL Fallout Visualization] dans Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-# Améliorations apportées à [!DNL Fallout Visualization] en Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
-
-Cette vidéo présente les mises à jour de [!DNL Fallout Visualization] qui ont été très demandées par les clients, y compris les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison de segments illimités et les pourcentages de conversion des points de contact de tendance au fil du temps.
+Cette vidéo présente les mises à jour de [!DNL Fallout Visualization] qui ont été très demandées par les clients, notamment les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison d’un nombre illimité de segments et les pourcentages de conversion des points de contact de tendance au fil du temps.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/fallout_flow.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/fallout_flow.html).
