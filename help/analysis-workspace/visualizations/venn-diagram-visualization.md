@@ -1,27 +1,26 @@
 ---
-title: Visualisation du diagramme de Venn en Analysis Workspace
-description: Vous pouvez afficher visuellement le chevauchement et l’intersection de segments en Analysis Workspace à l’aide de la visualisation du diagramme de Venn. Il est facile de créer des diagrammes de Venn incroyables et intelligents en quelques secondes. Cette vidéo vous montrera comment.
-feature: Visualizations
+title: Visualisation du diagramme de Venn dans Analysis Workspace
+description: Vous pouvez afficher visuellement le chevauchement et l’intersection de segments dans Analysis Workspace à l’aide de la visualisation du diagramme de Venn. Il est facile de créer des diagrammes de Venn étonnants et perspicaces en quelques secondes. Cette vidéo vous montre comment.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 655034a6-42b9-4437-961b-02ad3da57d83
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '104'
 ht-degree: 9%
 
 ---
 
+#  Visualisation   du diagramme de Venn dans Analysis Workspace {#venn-diagram-visualization-in-analysis-workspace}
 
-#  Diagramme de Venn  Visualisation en Analysis Workspace  {#venn-diagram-visualization-in-analysis-workspace}
-
-Vous pouvez afficher visuellement le chevauchement et l’intersection de [!UICONTROL segments] en Analysis Workspace à l’aide du diagramme [!UICONTROL Venn] [!UICONTROL visualisation]. Il est facile de créer en quelques secondes des diagrammes [!UICONTROL Venn] étonnants et intelligents. Cette vidéo vous montrera comment.
+Vous pouvez afficher visuellement le chevauchement et l’intersection des [!UICONTROL segments] dans Analysis Workspace à l’aide du [!UICONTROL diagramme de Venn] [!UICONTROL visualisation]. Il est facile de créer des diagrammes [!UICONTROL Venn] étonnants et pertinents en quelques secondes. Cette vidéo vous montre comment.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23987/?quality=12)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/venn.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/venn.html).
