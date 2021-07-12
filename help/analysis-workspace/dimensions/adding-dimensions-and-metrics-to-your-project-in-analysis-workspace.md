@@ -1,27 +1,26 @@
 ---
 title: Ajout de dimensions et de mesures à votre projet dans Analysis Workspace
-description: Dans cette vidéo, découvrez les dimensions et les mesures, la différence entre elles et comment les ajouter à vos tableaux et visualisations en Analysis Workspace. Découvrez également comment ajouter des mesures calculées prêtes à l’emploi.
+description: Dans cette vidéo, découvrez les dimensions et les mesures, la différence entre elles et comment les ajouter à vos tableaux et visualisations dans Analysis Workspace. Découvrez également comment ajouter des mesures calculées d’usine.
 feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,748ba7ff-a75d-4ecb-a5d8-5451d1922725
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 19%
+source-wordcount: '103'
+ht-degree: 26%
 
 ---
 
+# Ajout de [!UICONTROL Dimensions] et [!UICONTROL Mesures] à votre projet dans Analysis Workspace
 
-# Ajouter [!UICONTROL Dimensions] et [!UICONTROL Mesures] à votre projet dans Analysis Workspace
-
-Dans cette vidéo, découvrez [!UICONTROL dimensions] et [!UICONTROL mesures], la différence entre elles et comment les ajouter à vos tableaux et visualisations en Analysis Workspace. Découvrez également comment ajouter des [!UICONTROL mesures calculées prêtes à l’emploi].
+Dans cette vidéo, découvrez les [!UICONTROL dimensions] et [!UICONTROL mesures], la différence entre elles et comment les ajouter à vos tableaux et visualisations dans Analysis Workspace. Découvrez également comment ajouter des [!UICONTROL mesures calculées prêtes à l’emploi].
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
