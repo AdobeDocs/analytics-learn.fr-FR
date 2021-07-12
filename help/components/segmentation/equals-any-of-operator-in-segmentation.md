@@ -1,27 +1,26 @@
 ---
-title: Utilisation de l’opérateur Est égal à n’importe lequel de dans la segmentation
-description: Est égal à l’un des opérateurs de segment et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer sur une liste d'éléments spécifiques, au lieu d'utiliser plusieurs instructions OU ou contient n'importe laquelle. L’utilisation de ces opérateurs au lieu de contient n’importe lequel de ces opérateurs permet également d’améliorer la vitesse de requête.
+title: Utilisation de l’opérateur "Est égal à n’importe lequel" dans la segmentation
+description: Est égal à l’un des opérateurs et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou Contient n’importe lequel. L’utilisation de ces opérateurs au lieu de contient l’un de permet d’améliorer également la vitesse de requête.
 feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 
+# Utilisation de l’opérateur &quot;Est égal à n’importe lequel&quot; dans la segmentation
 
-# Utilisation de l’opérateur &quot;Est égal à n’importe quel de&quot; dans la segmentation
-
-Les opérateurs de segments &quot;Est égal à l’un des&quot; et &quot;N’est égal à aucun des&quot; ont été ajoutés au créateur de segments. Utilisez ces opérateurs pour filtrer sur une liste d&#39;éléments spécifiques, au lieu d&#39;utiliser plusieurs instructions OU ou &#39;Contient n&#39;importe lequel&#39;. L&#39;utilisation de ces opérateurs au lieu de &quot;contient n&#39;importe lequel&quot; contribuera également à améliorer la vitesse de requête.
+Des opérateurs de segment &quot;Est égal à l’un des&quot; et &quot;N’est égal à aucun des&quot; ont été ajoutés au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou &quot;Contient n’importe lequel&quot;. L’utilisation de ces opérateurs au lieu de &quot;contient n’importe lequel&quot; contribue également à améliorer la vitesse de requête.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html).
+Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
