@@ -1,25 +1,24 @@
 ---
-title: Paramètres de source de données de visualisation en Analysis Workspace
-description: Le mode de la source de données a été simplifié, ainsi que l’architecture sous-jacente des tables.
-feature: Visualizations
+title: Paramètres de source de données de visualisation dans Analysis Workspace
+description: Le modal de la source de données a été simplifié, ainsi que l’architecture de tableau sous-jacente.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f99a92a0-868b-476e-8cba-cb610b050435
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 2%
 
 ---
 
+#  [!UICONTROL Paramètres de source de données de visualisation ] dans Analysis Workspace {#visualization-data-source-settings-in-analysis-workspace}
 
-#  [!UICONTROL Visualisation] Paramètres de source de données en Analysis Workspace  {#visualization-data-source-settings-in-analysis-workspace}
-
-Le module [!UICONTROL source de données] a été simplifié, ainsi que l&#39;architecture de table sous-jacente.
+Le modal [!UICONTROL source de données] a été simplifié, ainsi que l’architecture de tableau sous-jacente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23729/?quality=12)
