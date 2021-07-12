@@ -1,25 +1,24 @@
 ---
-title: Configuration de base de l’extension de lancement d’Analytics
-description: Cette vidéo présente un moyen rapide de configurer l’extension Analytics dans Lancer pour un site de base.
-feature: Launch Implementation
+title: Configuration de base de l’extension Analytics de Launch
+description: Cette vidéo présente un moyen rapide de configurer l’extension Analytics dans Launch pour un site de base.
+feature: Mise en oeuvre de Launch
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 14%
 
 ---
 
-
 # Configuration de base de l’extension [!DNL Experience Platform Launch] pour Analytics
 
-Cette vidéo montre un moyen rapide de configurer l&#39;extension [!DNL Analytics] dans [!DNL Experience Platform Launch] pour un site de base.
+Cette vidéo montre un moyen rapide de configurer l’extension [!DNL Analytics] dans [!DNL Experience Platform Launch] pour un site de base.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
