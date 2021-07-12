@@ -1,24 +1,23 @@
 ---
 title: Sessions prenant en compte le contexte dans les suites de rapports virtuelles
-description: Il est désormais possible de modifier la définition d’une visite en Adobe Analytics de manière non destructive à l’aide d’une suite de rapports virtuelle. Nous vous montrons comment faire cela et les différentes options disponibles.
+description: Il est désormais possible de modifier la définition d’une visite dans Adobe Analytics de manière non destructive à l’aide d’une suite de rapports virtuelle. Nous vous montrons comment le faire et les différentes options disponibles.
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 7%
 
 ---
 
-
-# Sessions tenant compte du contexte dans [!UICONTROL Suites de rapports virtuelles] {#context-aware-sessions-in-virtual-report-suites}
+# Sessions contextuelles dans [!UICONTROL Suites de rapports virtuelles] {#context-aware-sessions-in-virtual-report-suites}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12)
 
@@ -26,6 +25,6 @@ Sections de cette vidéo :
 
 0:00 - Présentation et configuration des fonctionnalités
 
-2:45 - Utilisation de la fonction VRS en Analysis Workspace
+2:45 - Utilisation de suites de rapports virtuelles dans Analysis Workspace
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez [la documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html).
