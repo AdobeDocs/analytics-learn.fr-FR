@@ -1,25 +1,24 @@
 ---
-title: Utilisation du code personnalisé lors de la configuration de l’extension de lancement Analytics
-description: Si vous débutez avec Launch, by Adobe et l'extension Adobe Analytics, cette vidéo vous aidera à comprendre les options de fenêtre de code personnalisé, le timing de l'exécution du code, etc.
-feature: Launch Implementation
+title: Utilisation du code personnalisé lors de la configuration de l’extension Analytics Launch
+description: Si vous débutez avec Launch, par Adobe et l’extension Adobe Analytics, cette vidéo peut vous aider à comprendre les options de fenêtre de code personnalisé, le timing de l’exécution du code, etc.
+feature: Mise en oeuvre de Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
+# Utilisation du code personnalisé lors de la configuration de l’extension [!DNL Analytics] [!DNL Launch] {#using-custom-code-while-configuring-the-launch-analytics-extension}
 
-# Utilisation du code personnalisé lors de la configuration de l&#39;extension [!DNL Analytics] [!DNL Launch] {#using-custom-code-while-configuring-the-launch-analytics-extension}
-
-Si vous débutez avec Adobe Experience Platform Launch et l&#39;Adobe Analytics [!UICONTROL Extension], cette vidéo vous aidera à comprendre les options de fenêtre de code personnalisé, le timing de l&#39;exécution du code, etc.
+Si vous commencez à utiliser Adobe Experience Platform Launch et l’[!UICONTROL extension] Adobe Analytics, cette vidéo peut vous aider à comprendre les options de fenêtre de code personnalisé, le délai d’exécution du code, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=9)
