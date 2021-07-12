@@ -1,29 +1,28 @@
 ---
-title: Modifier les mesures entre les requêtes dans le Report Builder
-description: Vous pouvez désormais modifier les mesures de plusieurs demandes de données de Report Builder en même temps, avec les options d’ajout, de remplacement et de suppression.
+title: Modifier des mesures dans les demandes par Report Builder
+description: Vous pouvez désormais modifier les mesures de plusieurs demandes de données de Report Builder à la fois, avec les options d’ajout, de remplacement et de suppression.
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1769
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
+# Modifier les [!UICONTROL mesures] dans les demandes dans [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
-# Modifier [!UICONTROL Mesures] dans les requêtes dans [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
-
-Vous pouvez désormais modifier [!UICONTROL les mesures] à la fois dans plusieurs demandes de données [!UICONTROL Report Builder], avec les options d’ajout, de remplacement et de suppression.
+Vous pouvez désormais modifier les [!UICONTROL mesures] dans plusieurs demandes de données [!UICONTROL Report Builder] à la fois, avec des options d’ajout, de remplacement et de suppression.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
 
-Cette fonctionnalité s’ajoute aux fonctionnalités existantes de modification des [!UICONTROL suites de rapports], [!UICONTROL plages de dates], [!UICONTROL granularité] et [!UICONTROL segments] pour les requêtes. Vous pouvez modifier les requêtes en bloc à partir du menu contextuel ou de &quot;[!UICONTROL Modifier plusieurs]&quot; dans la fenêtre Gérer.
+Cette fonctionnalité s’ajoute aux fonctionnalités existantes pour la modification des [!UICONTROL suites de rapports], des [!UICONTROL plages de dates], de la [!UICONTROL granularité] et des [!UICONTROL segments] dans les demandes. Vous pouvez modifier les requêtes en bloc à partir du menu contextuel ou à partir de l’option &quot;[!UICONTROL Modifier plusieurs]&quot; de la fenêtre Gérer .
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez [la documentation](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html).
