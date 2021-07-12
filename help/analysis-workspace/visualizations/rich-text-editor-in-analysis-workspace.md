@@ -1,25 +1,24 @@
 ---
-title: Editeur de texte enrichi en Analysis Workspace
-description: Présentation de certaines nouvelles fonctionnalités qui permettent aux analystes et aux spécialistes du marketing d’appliquer des modifications à des visualisations (ou descriptions) de texte en Analysis Workspace - Gras, Italique, En-têtes, Liens Hyper, etc.
-feature: Visualizations
+title: Éditeur de texte enrichi dans Analysis Workspace
+description: Présentation de certaines nouvelles fonctionnalités qui permettent aux analystes et aux spécialistes du marketing d’appliquer la modification à des visualisations (ou descriptions) de texte dans Analysis Workspace - Gras, Italiques, En-têtes, Liens Hyper, etc.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 1%
+source-wordcount: '69'
+ht-degree: 18%
 
 ---
 
+# Éditeur de texte enrichi dans Analysis Workspace {#rich-text-editor-in-analysis-workspace}
 
-# Editeur de texte enrichi en Analysis Workspace {#rich-text-editor-in-analysis-workspace}
-
-Présentation de certaines nouvelles fonctionnalités qui permettent aux analystes et aux spécialistes du marketing d’appliquer des modifications à [!UICONTROL texte] [!UICONTROL visualisations] (ou descriptions) en Analysis Workspace : Gras, Italiques, En-têtes, Liens Hyper, etc.
+Présentation de certaines nouvelles fonctionnalités qui permettent aux analystes et aux spécialistes du marketing d’appliquer la modification à [!UICONTROL text] [!UICONTROL visualisations] (ou descriptions) dans Analysis Workspace : Gras, Italiques, En-têtes, Liens Hyper, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)
