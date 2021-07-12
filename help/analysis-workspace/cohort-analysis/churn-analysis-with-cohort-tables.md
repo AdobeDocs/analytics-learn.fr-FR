@@ -1,28 +1,27 @@
 ---
-title: Analyse des Églises avec des tables de cohortes
-description: Tableaux de cohortes offre deux types d’analyses - Rétention et Égalité. Bien que l’option Rétention indique le nombre d’utilisateurs retenus au fil du temps, elle indique le nombre d’utilisateurs perdus (1 - Rétention).
-feature: Visualizations
+title: Analyse de la perte de clientèle grâce à un tableau de cohortes
+description: 'Les tableaux de cohortes offrent deux types d’analyse : rétention et perte de clientèle. Bien que la rétention indique le nombre d’utilisateurs conservés au fil du temps, l’option Perte de clientèle indique le nombre d’utilisateurs perdus (1 - Rétention).'
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 12%
+source-wordcount: '88'
+ht-degree: 31%
 
 ---
 
+# Analyse de la perte de clientèle grâce à un tableau de cohortes {#churn-analysis-with-cohort-tables}
 
-#  Analyse de l’événement avec des tables de  [!UICONTROL cohortes] {#churn-analysis-with-cohort-tables}
-
-[!UICONTROL Les ] tables de cohortes offrent deux types d’analyses :   Retentionet  [!UICONTROL Churn]. Bien que [!UICONTROL Rétention] indique le nombre d’utilisateurs retenus dans le temps, l’option [!UICONTROL Churn] illustre le nombre d’utilisateurs perdus (1 - Rétention).
+[!UICONTROL Les ] tableaux de cohortes offrent deux types d’analyse :   Retenue et  [!UICONTROL perte de clientèle]. Bien que [!UICONTROL Rétention] indique combien d’utilisateurs sont conservés au fil du temps, l’option [!UICONTROL Perte] indique combien d’utilisateurs ont été perdus (1 - Rétention).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
+Pour plus dʼinformations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
