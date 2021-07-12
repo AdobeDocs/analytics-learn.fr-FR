@@ -1,28 +1,27 @@
 ---
-title: Présentation des tableaux de cohortes en Analysis Workspace
-description: Le paramètre Calcul variable des tables de cohortes peut être utilisé pour analyser les cohortes sur une période donnée, afin de comprendre comment les mêmes utilisateurs sont retenus (ou générés) au fil du temps.
-feature: Visualizations
+title: Présentation des tableaux de cohortes dans Analysis Workspace
+description: Le paramètre Calcul variable dans les tableaux de cohortes peut être utilisé pour analyser les cohortes d’une période à l’autre, afin de comprendre comment les mêmes utilisateurs sont conservés (ou générés) au fil du temps.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 12%
+source-wordcount: '84'
+ht-degree: 21%
 
 ---
 
+# [!UICONTROL Tableaux de cohortes] dans Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-# Présentation des [!UICONTROL tables de cohortes] en Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
-
-Le paramètre [!UICONTROL Calcul variable] dans [!UICONTROL Tables de cohortes] peut être utilisé pour analyser les [!UICONTROL cohortes] période sur période, afin de comprendre comment les mêmes utilisateurs sont conservés (ou [!UICONTROL churn]) au fil du temps.
+Le paramètre [!UICONTROL Calcul variable] dans [!UICONTROL Tableaux de cohortes] peut être utilisé pour analyser les [!UICONTROL cohortes] période par période, afin de comprendre comment les mêmes utilisateurs sont conservés (ou [!UICONTROL perte]) au fil du temps.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
+Pour plus dʼinformations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
