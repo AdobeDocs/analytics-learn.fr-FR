@@ -1,30 +1,29 @@
 ---
-title: Abandon multidimensionnel en Analysis Workspace
-description: Les abandons en Analysis Workspace vous permettent de combiner et de faire correspondre des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
-feature: Visualizations
+title: Abandon multidimensionnel dans Analysis Workspace
+description: Les abandons dans Analysis Workspace vous permettent de mélanger des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '80'
+ht-degree: 12%
 
 ---
 
+# [!DNL Multidimensional Fallout] dans Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
-# [!DNL Multidimensional Fallout] en Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
-
-[!DNL Fallout] en Analysis Workspace vous permet de combiner et de faire correspondre des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
+[!DNL Fallout] dans Analysis Workspace, vous permet de mélanger des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 
-Cette puissante fonctionnalité vous permet de définir plus facilement les étapes utilisateur à étudier.
+Cette puissante fonctionnalité vous offre plus de flexibilité pour définir les étapes utilisateur sur lesquelles vous souhaitez effectuer des recherches.
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/configuring-interdimensional-fallout.html).
