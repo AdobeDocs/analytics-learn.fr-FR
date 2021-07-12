@@ -3,23 +3,22 @@ title: Utilisation des gestionnaires de composants dans Adobe Analytics
 seo-title: Utilisation des gestionnaires de composants dans Adobe Analytics
 description: 'Cette vidéo explique comment utiliser les gestionnaires de composants Alertes et Projets planifiés dans Adobe Analytics, ainsi que dʼautres fonctionnalités. Découvrez comment trouver facilement lʼalerte ou le projet planifié que vous recherchez, ainsi que lʼoption Activer/désactiver les alertes. '
 seo-description: 'Cette vidéo explique comment utiliser les gestionnaires de composants Alertes et Projets planifiés dans Adobe Analytics, ainsi que dʼautres fonctionnalités. Découvrez comment trouver facilement lʼalerte ou le projet planifié que vous recherchez, ainsi que lʼoption Activer/désactiver les alertes. '
-feature: Workspace Basics
+feature: Concepts de base de Workspace
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '139'
+exl-id: 2230ca48-4b08-45cd-9674-fa3c4dd482d7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
-
 
 # Utilisation de [!DNL Component Managers] dans Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
