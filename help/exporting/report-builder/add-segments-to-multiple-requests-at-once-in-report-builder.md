@@ -1,27 +1,26 @@
 ---
-title: Ajouter des segments Adobe Analytics à plusieurs requêtes à la fois dans un Report Builder
-description: Cette vidéo vous montre comment utiliser le Report Builder pour ajouter des segments à toutes vos requêtes en même temps, ce qui vous permet de gagner du temps et de faire face à des problèmes.
+title: Ajout de segments Adobe Analytics à plusieurs requêtes à la fois par Report Builder
+description: Cette vidéo vous explique comment utiliser Report Builder pour ajouter simultanément des segments à toutes vos requêtes, ce qui vous permet de gagner du temps et de gagner du temps.
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '93'
+ht-degree: 20%
 
 ---
 
+# Ajout de segments Adobe Analytics à plusieurs requêtes à la fois dans [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
-# Ajouter les segments Adobe Analytics à plusieurs requêtes à la fois dans [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
-
-Cette vidéo vous montre comment utiliser [!UICONTROL Report Builder] pour ajouter des segments à toutes vos requêtes en même temps, ce qui vous permet de gagner du temps et de vous sentir mal.
+Cette vidéo vous explique comment utiliser [!UICONTROL Report Builder] pour ajouter simultanément des segments à toutes vos requêtes, ce qui vous permet de gagner du temps et vous évite des problèmes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/arb/index.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/arb/index.html).
