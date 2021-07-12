@@ -1,25 +1,24 @@
 ---
-title: Renforcement de la sécurité à Adobe Analytics
-description: Adobe Analytics est à la hauteur des dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des mots de passe difficiles à deviner et des restrictions d'identification par IP, cette vidéo vous montrera comment procéder.
-feature: Analytics Basics
+title: Renforcement de la sécurité dans Adobe Analytics
+description: Adobe Analytics est à la hauteur des dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des éléments tels que les mots de passe difficiles à deviner et les restrictions d’identification par IP, cette vidéo vous montrera comment procéder.
+feature: Concepts de base d’Analytics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2366
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 2%
+source-wordcount: '75'
+ht-degree: 16%
 
 ---
 
+# Renforcement de la sécurité dans Adobe Analytics {#enhancing-security-in-adobe-analytics}
 
-# Renforcement de la sécurité en Adobe Analytics {#enhancing-security-in-adobe-analytics}
-
-Adobe Analytics est à la hauteur des dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des mots de passe difficiles à deviner et des restrictions d&#39;identification par IP, cette vidéo vous montre comment procéder.
+Adobe Analytics est à la hauteur des dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des éléments tels que les mots de passe difficiles à deviner et les restrictions d’identification par IP, cette vidéo vous montre comment procéder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
