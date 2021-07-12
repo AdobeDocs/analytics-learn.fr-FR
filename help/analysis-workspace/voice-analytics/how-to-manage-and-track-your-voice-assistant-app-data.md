@@ -1,25 +1,24 @@
 ---
-title: Gestion et suivi des données de l’application de l’assistant vocal
-description: 'Découvrez comment créer un tableau de bord personnalisé pour gérer et suivre les performances de votre application d''assistant vocal d''une manière simple, flexible, intuitive et visuelle. '
-feature: Visualizations
+title: Gestion et suivi des données de l’application d’assistant vocal
+description: 'Découvrez comment créer un tableau de bord personnalisé pour gérer et suivre les performances de votre application d’assistant vocal de manière simple, flexible, intuitive et visuelle. '
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3fd55eac-e485-41b9-9178-c7add90fa292
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 1%
+source-wordcount: '71'
+ht-degree: 29%
 
 ---
 
+# Gestion et suivi des données de l’application d’assistant vocal {#how-to-manage-and-track-your-voice-assistant-app-data}
 
-# Gestion et suivi des données de votre application d’assistant vocal {#how-to-manage-and-track-your-voice-assistant-app-data}
-
-Découvrez comment créer un tableau de bord personnalisé pour gérer et suivre les performances de votre application d&#39;assistant vocal d&#39;une manière simple, flexible, intuitive et visuelle.
+Découvrez comment créer un tableau de bord personnalisé pour gérer et suivre les performances de votre application d’assistant vocal de manière simple, flexible, intuitive et visuelle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=9)
