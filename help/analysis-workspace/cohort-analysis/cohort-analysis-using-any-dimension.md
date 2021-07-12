@@ -1,28 +1,27 @@
 ---
-title: Cohort Analyse using Any Dimension
-description: L’option Dimension de cohortes personnalisées vous permet d’analyser les cohortes en utilisant des dimensions autres que le temps. Comparez les cohortes par Canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment la rétention (ou l’exécution) change par élément de dimension.
-feature: Visualizations
+title: Analyse de cohortes à partir de n’importe quelle dimension
+description: L’option Dimension de cohortes personnalisée vous permet d’analyser les cohortes à l’aide de dimensions autres que le temps. Comparer les cohortes par canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment la rétention (ou la perte de clientèle) change par élément de dimension.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 10%
+source-wordcount: '100'
+ht-degree: 28%
 
 ---
 
+# Analyse de cohortes à partir de n’importe quelle dimension {#cohort-analysis-using-any-dimension}
 
-#  CohortAnalysis à l’aide de n’importe quelle  [!UICONTROL Dimension] {#cohort-analysis-using-any-dimension}
-
-L&#39;option personnalisée [!UICONTROL cohorte] [!UICONTROL Dimension] vous permet d&#39;analyser les [!UICONTROL cohortes] à l&#39;aide de [!UICONTROL dimensions] autres que le temps. Comparez [!UICONTROL cohortes] par Canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment [!UICONTROL rétention] (ou [!UICONTROL churn]) change par [!UICONTROL dimension] élément.
+L’option [!UICONTROL Cohorte] [!UICONTROL Dimension] personnalisée vous permet d’analyser les [!UICONTROL cohortes] à l’aide de [!UICONTROL dimensions] autres que le temps. Comparez les [!UICONTROL cohortes] par canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment [!UICONTROL rétention] (ou [!UICONTROL perte]) change par [!UICONTROL élément de dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Pour plus d&#39;informations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
+Pour plus dʼinformations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
