@@ -1,27 +1,26 @@
 ---
-title: Présentation des classifications en Adobe Analytics
-description: Les classifications sont un moyen puissant d’ajouter des métadonnées (attributs descriptifs) à vos produits, campagnes, pages, clients, etc. Ces attributs peuvent vous aider à mieux comprendre vos efforts de marketing et d’expérience en vous permettant de regrouper des éléments similaires et de ventiler les données afin de mieux comprendre ce qui fonctionne ou non pour vous.
+title: Présentation des classifications dans Adobe Analytics
+description: Les classifications sont un moyen puissant d’ajouter des métadonnées (attributs descriptifs) à vos produits, campagnes, pages, clients, etc. Ces attributs peuvent vous aider à mieux comprendre vos efforts de marketing et d’expérience en vous permettant de regrouper des éléments similaires et de ventiler des données pour mieux comprendre ce qui fonctionne ou ne fonctionne pas pour vous.
 feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
+# Présentation des [!UICONTROL classifications] dans Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
 
-# Présentation des [!UICONTROL classifications] en Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
-
-[!UICONTROL Les ] classifications sont un moyen puissant d’ajouter des métadonnées (attributs descriptifs) à vos produits, campagnes, pages, clients, etc. Ces attributs peuvent vous aider à mieux comprendre vos efforts de marketing et d’expérience en vous permettant de regrouper des éléments similaires et de ventiler les données afin de mieux comprendre ce qui fonctionne ou non pour vous.
+ Les classifications sont un moyen puissant d’ajouter des métadonnées (attributs descriptifs) à vos produits, campagnes, pages, clients, etc. Ces attributs peuvent vous aider à mieux comprendre vos efforts de marketing et d’expérience en vous permettant de regrouper des éléments similaires et de ventiler des données pour mieux comprendre ce qui fonctionne ou ne fonctionne pas pour vous.
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
-Pour plus d&#39;informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/reference/classifications.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/reference/classifications.html).
