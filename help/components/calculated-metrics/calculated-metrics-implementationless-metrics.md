@@ -1,25 +1,24 @@
 ---
-title: Mesures calculées - Mesures sans implémentation
-description: Découvrez comment créer de nouvelles mesures en Adobe Analytics sans modifier votre mise en oeuvre.
-feature: Calculated Metrics
+title: Mesures calculées - Mesures sans mise en œuvre
+description: Découvrez comment créer des mesures dans Adobe Analytics sans modifier votre mise en oeuvre.
+feature: Mesures calculées
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '36'
+ht-degree: 16%
 
 ---
 
+# [!UICONTROL Mesures calculées] : Mesures sans implémentation {#calculated-metrics-implementation-less-metrics}
 
-# [!UICONTROL Mesures] calculées : Mesures sans mise en oeuvre  {#calculated-metrics-implementation-less-metrics}
-
-Découvrez comment créer de nouvelles [!UICONTROL mesures] en Adobe Analytics sans modifier votre implémentation.
+Découvrez comment créer des [!UICONTROL mesures] dans Adobe Analytics sans modifier votre implémentation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
