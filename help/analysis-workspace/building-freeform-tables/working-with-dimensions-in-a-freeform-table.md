@@ -1,6 +1,6 @@
 ---
 title: Utilisation des dimensions dans un tableau à structure libre
-description: Découvrez comment utiliser les dimensions dans des tableaux à structure libre, y compris les ajouter, les trier, les filtrer, les ventiler selon d’autres dimensions, etc.
+description: Découvrez comment utiliser les dimensions dans les tableaux à structure libre, notamment les ajouter, les trier, les filtrer, les ventiler selon d’autres dimensions, etc.
 feature: Dimensions
 topics: null
 activity: use
@@ -8,32 +8,31 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db,ac127eac-2752-424b-aa1b-18a9688d42db,73791a22-a4f1-4fc9-a192-b7aa1d8b9142
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
-
 # Utilisation des dimensions dans un tableau à structure libre
 
-Découvrez comment utiliser les dimensions dans des tableaux à structure libre, y compris les ajouter, les trier, les filtrer, les ventiler selon d’autres dimensions, etc.
+Découvrez comment utiliser les dimensions dans les tableaux à structure libre, notamment les ajouter, les trier, les filtrer, les ventiler selon d’autres dimensions, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
 
-Rubriques abordées dans la vidéo, y compris les heures :
+Rubriques abordées dans la vidéo, notamment les heures :
 
-* Notions de base (0:00)
+* Principes de base (0:00)
 * Guides de zone de dépôt (1:27)
 * Pagination et filtrage (2:45)
-* Ajouter les éléments de Dimension (4:30)
-* Éléments de la Dimension de prévisualisation (5:15)
+* Ajout d’éléments de Dimension (4:30)
+* Aperçu des éléments de Dimension (5:15)
 * Dimensions temporelles (5:59)
 * Tri (6:49)
-* Dimensions en tant que Filtres (8:30)
+* Dimensions comme filtres (8:30)
 * Ventilations (9:48)
-* Rapports classés, dans le temps et de tendances (13:11)
+* Rapports de classement, de dépassement de délai et de tendances (13:11)
