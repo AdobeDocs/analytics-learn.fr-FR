@@ -1,22 +1,21 @@
 ---
 title: Adobe Analytics - Plus que des données. Cʼest lʼanalyse client
 description: Pour devenir une entreprise créatrice dʼexpériences, le marketing piloté par les données est essentiel. Franchissez un cap avec vos analyses, des données aux informations pertinentes et à lʼaction.
-feature: Analytics Basics
+feature: Concepts de base d’Analytics
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '95'
+exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Analytics - Plus que des données. Cʼest lʼanalyse client
 
