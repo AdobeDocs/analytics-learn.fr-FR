@@ -1,43 +1,42 @@
 ---
-title: Utilisation de l’Analyse à onglets multiples pour explorer l’attribution de base du marketing dans Analysis Workspace
+title: Utilisation de l’analyse entre onglets pour explorer l’attribution marketing de base dans Analysis Workspace
 description: Il existe de nombreuses façons de faire évoluer votre méthodologie d’attribution avec Adobe Analytics. Dans cette vidéo, nous montrons comment vous pouvez obtenir des informations plus précises à partir du rapport Canaux marketing à l’aide d’une analyse croisée dans Workspace.
-feature: Marketing Channels
+feature: Canaux marketing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 33%
+source-wordcount: '292'
+ht-degree: 38%
 
 ---
 
-
-# Utilisation de l’Analyse à onglets multiples pour explorer l’attribution de base du marketing dans Analysis Workspace
+# Utilisation de l’analyse entre onglets pour explorer l’attribution marketing de base dans Analysis Workspace
 
 Il existe de nombreuses façons de faire évoluer votre méthodologie d’attribution avec Adobe Analytics. Dans cette vidéo, nous montrons comment vous pouvez obtenir des informations plus précises à partir du rapport Canaux marketing à l’aide d’une analyse croisée dans Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**MISE À JOUR** : Plusieurs améliorations ont été apportées  [!DNL Workspace] depuis la publication de cette vidéo. Nous laissons la vidéo en direct parce qu&#39;elle contient de bons conseils que vous devriez connaître de toute façon.
+**MISE À JOUR** : Plusieurs améliorations ont été apportées  [!DNL Workspace] depuis la publication de cette vidéo. Nous laissons la vidéo en direct parce qu&#39;elle contient de superbes conseils que vous devriez connaître de toute façon.
 
-**Tout d&#39;abord**, veillez à découvrir les  [!UICONTROL fonctionnalités de l&#39;] Attribution IQ qui vous aideront à approfondir encore votre analyse d&#39;attribution marketing. Les vidéos suivantes et les vidéos qui les entourent sont notamment disponibles :
+**Tout d’abord**, veillez à consulter les fonctionnalités  [!UICONTROL Attribution ] IQ qui vous aideront à approfondir encore votre analyse d’attribution marketing. Cela inclut les vidéos suivantes et les vidéos qui les entourent :
 
 * [Utilisation du panneau Attribution IQ](using-the-attribution-iq-panel.md)
-* [Ajouter des comparaisons côte à côte des modèles Attributions IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
-* [Modèle algorithmique dans Attribution IQ](algorithmic-model-in-attribution-iq.md)
-* [Fenêtres rétroactives personnalisées dans Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
+* [Ajout de comparaisons côte à côte de modèles Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
+* [Modèle algorithmique dans Attribution IQ](algorithmic-model-in-attribution-iq.md)
+* [Fenêtres rétroactives personnalisées dans Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
-**Deuxièmement**, si vous suivez les étapes de cette vidéo, sachez que vous pouvez  [utiliser le ](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) Générateur de tableau à structure libre pour configurer votre tableau.
+**Deuxièmement**, si vous suivez les étapes de cette vidéo, sachez que vous pouvez  [utiliser le ](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) générateur de tableau à structure libre pour configurer votre tableau.
 
-* 3:20 - Les dimensions à onglets croisés sont automatiquement dynamiques lorsqu’elles sont ignorées, ce qui signifie que leurs valeurs peuvent changer au fil du temps. Pour cette analyse, il est préférable d&#39;apporter des colonnes statiques à la place. Pour en savoir plus sur les colonnes dynamiques, consultez la vidéo à 6:33 : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 - Les paramètres de colonne peuvent désormais être mis à jour en bloc, au lieu de 1 par 1. Pour en savoir plus, voir la vidéo à 8:45 : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 - Les dimensions à onglets croisés sont automatiquement dynamiques lorsqu’elles sont déposées, ce qui signifie que leurs valeurs peuvent changer au fil du temps. Pour cette analyse, il est préférable de remplacer les colonnes statiques. En savoir plus sur les colonnes dynamiques à 6:33 de la vidéo : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 - Les paramètres de colonne peuvent désormais être mis à jour en bloc, au lieu de 1 par 1. En savoir plus à 8:45 de la vidéo : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Pour plus d&#39;informations sur ce sujet, veuillez consulter la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/attribution/models.html).
+Pour plus d’informations sur cette rubrique, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/attribution/models.html).
