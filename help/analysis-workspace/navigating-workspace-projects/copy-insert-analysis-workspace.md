@@ -1,27 +1,26 @@
 ---
-title: Copier et insérer en Analysis Workspace
-description: Copier + Insérer permet de copier des visualisations d’un panneau ou d’un projet vers un autre, et de copier des panneaux complets d’un projet à l’autre.
-feature: Panels
+title: Copier et insérer dans Analysis Workspace
+description: Copier + Insérer permet de copier des visualisations d’un panneau ou d’un projet vers un autre, ainsi que de copier des panneaux complets d’un projet à l’autre.
+feature: Panneaux
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 17%
 
 ---
 
+# Copier et insérer dans Analysis Workspace {#copy-and-insert-in-analysis-workspace}
 
-# Copier et insérer en Analysis Workspace {#copy-and-insert-in-analysis-workspace}
-
-Copier + Insérer permet de copier des visualisations d’un panneau ou d’un projet vers un autre, et de copier des panneaux complets d’un projet à l’autre.
+Copier + Insérer permet de copier des visualisations d’un panneau ou d’un projet vers un autre, ainsi que de copier des panneaux complets d’un projet à l’autre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
 
-Utilisez cette fonctionnalité pour organiser vos analyses en articles et projets de données logiques, ou obtenez un début principal en copiant à partir de modèles !
+Utilisez cette fonctionnalité pour organiser vos analyses en articles et projets de données logiques, ou partez en tête en copiant à partir de modèles !
