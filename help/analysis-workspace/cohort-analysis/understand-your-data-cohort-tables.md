@@ -1,21 +1,21 @@
 ---
-title: Cernez précisément vos données à lʼaide des Tableaux de cohortes.
+title: Cernez précisément vos données à lʼaide des Tableaux de cohortes
 description: Découvrez comment analyser un tableau de cohorte pour mieux comprendre la fidélisation des utilisateurs sur le long terme.
 feature: Analyse des cohortes
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
 exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 80%
 
 ---
 
-# Cernez précisément vos données à lʼaide des Tableaux de cohortes.
+# Cernez précisément vos données à lʼaide des Tableaux de cohortes
 
 Découvrez comment analyser un tableau de cohorte pour mieux comprendre la fidélisation des utilisateurs sur le long terme.
 
