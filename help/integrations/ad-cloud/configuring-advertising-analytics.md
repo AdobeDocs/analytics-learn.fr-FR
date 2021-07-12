@@ -1,30 +1,29 @@
 ---
-title: Configuration de Advertising Analytics dans Adobe Analytics
-description: 'Cette vidéo vous explique comment configurer vos Report Suites pour utiliser Advertising Analytics, comment configurer un compte de recherche payante et les détails du rapports pour Advertising Analytics. '
-feature: Advertising Cloud Integration
+title: Configuration d’Advertising Analytics dans Adobe Analytics
+description: 'Cette vidéo vous guide tout au long d’une présentation générale de la configuration de vos suites de rapports pour utiliser Advertising Analytics, de la configuration d’un compte de recherche payante et des détails de création de rapports pour Advertising Analytics. '
+feature: Intégration Advertising Cloud
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: Integrations
-role: Administrator
+topic: Intégrations
+role: Admin
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 4%
+source-wordcount: '94'
+ht-degree: 3%
 
 ---
 
+# Configuration de [!DNL Advertising Analytics] dans Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-# Configuration de [!DNL Advertising Analytics] en Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
-
-Cette vidéo vous guide tout au long d&#39;un examen de haut niveau sur la façon de configurer vos [!UICONTROL suites de rapports] pour utiliser [!DNL Advertising Analytics], sur la façon de configurer un compte de recherche payante et sur les détails du rapports pour [!DNL Advertising Analytics].
+Cette vidéo vous guide tout au long d’une présentation générale de la configuration de vos [!UICONTROL suites de rapports] pour utiliser [!DNL Advertising Analytics], de la configuration d’un compte de recherche payante et des détails de création de rapports pour [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
 ## Ressources supplémentaires {#additional-resources}
 
-Pour plus d’informations, voir la [documentation relative aux fonctionnalités](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html).
+Pour plus d’informations, voir la [documentation sur les fonctionnalités](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)
