@@ -1,26 +1,25 @@
 ---
-title: Réorganisation des lignes statiques en Analysis Workspace
-description: Vous pouvez réorganiser manuellement les lignes statiques dans le Générateur de tableau à structure libre. Cela vous permet d’organiser les rangées statiques du tableau dans l’ordre exact de vos besoins, par exemple, Visites, Commandes, puis Taux de conversion.
-feature: Freeform Tables
+title: Réorganisation des lignes statiques dans Analysis Workspace
+description: Vous pouvez réorganiser manuellement les lignes statiques dans le Générateur de tableau à structure libre. Cela vous permet d’organiser les lignes statiques du tableau dans l’ordre exact selon vos besoins, par exemple, Visites, Commandes, puis Taux de conversion.
+feature: Tableaux à structure libre
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '80'
+ht-degree: 17%
 
 ---
 
+# Réorganisation des lignes statiques dans Analysis Workspace
 
-# Réorganisation des lignes statiques en Analysis Workspace
-
-Vous pouvez réorganiser manuellement les lignes statiques dans le Générateur de tableau à structure libre. Cela vous permet d’organiser les rangées statiques du tableau dans l’ordre exact de vos besoins, par exemple, Visites, Commandes, puis Taux de conversion.
+Vous pouvez réorganiser manuellement les lignes statiques dans le Générateur de tableau à structure libre. Cela vous permet d’organiser les lignes statiques du tableau dans l’ordre exact selon vos besoins, par exemple, Visites, Commandes, puis Taux de conversion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
