@@ -1,25 +1,24 @@
 ---
-title: Modèles de Dimension dans la segmentation
-description: Les modèles de Dimension sont disponibles par le biais de l’engrenage pour toute dimension de la segmentation. Ces modèles s’avèrent particulièrement utiles pour la segmentation séquentielle et vous permettent de segmenter les valeurs persistantes d’une dimension (valeur par défaut), d’instances ou d’instances non répétées d’une dimension.
+title: Modèles de dimensions dans la segmentation
+description: Les modèles de Dimension sont disponibles par le biais de l’engrenage pour n’importe quelle dimension de la segmentation. Ces modèles s’avèrent principalement utiles pour la segmentation séquentielle. Ils vous permettent également de segmenter les valeurs persistantes d’une dimension (par défaut), d’instances ou d’instances non répétées d’une dimension.
 feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '87'
+ht-degree: 10%
 
 ---
 
+# [!UICONTROL Modèles de dimensions dans la segmentation]
 
-# [!UICONTROL Modèles ] de dimension dans la segmentation
-
-[!UICONTROL Les ] modèles Dimensionmodels sont disponibles via l’engrenage pour toute   dimension de la segmentation. Ces modèles s’avèrent particulièrement utiles pour la segmentation séquentielle et vous permettent de segmenter les valeurs persistantes d’une [!UICONTROL dimension] (valeur par défaut), d’instances ou d’instances non répétées d’une [!UICONTROL dimension].
+ Les modèles de dimension sont disponibles par le biais de l’engrenage pour n’importe quelle   dimension de la segmentation. Ces modèles s’avèrent principalement utiles pour la segmentation séquentielle. Ils vous permettent de segmenter les valeurs persistantes d’une [!UICONTROL dimension] (par défaut), d’instances ou d’instances non répétées d’une [!UICONTROL dimension].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
