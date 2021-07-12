@@ -1,25 +1,24 @@
 ---
-title: Introduction aux variables et Événements de vente au détail
-description: Si vous avez un site de vente au détail, il y a des variables et des événements qui ont été créés pour vous (n'êtes-vous pas spécial) ! Cette vidéo vous donnera un bref aperçu de ces variables et événements spécifiques à la vente au détail.
-feature: Use Cases
+title: Introduction aux variables et événements de vente au détail
+description: Si vous disposez d’un site de vente au détail, certains événements et variables ont été créés uniquement pour vous (n’êtes-vous pas spécial). Cette vidéo vous donne un aperçu rapide de ces variables et événements spécifiques à la vente au détail.
+feature: Cas d’utilisation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3cf9d641-bb99-40b3-a76b-d9ea62ee7548
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 2%
+source-wordcount: '86'
+ht-degree: 16%
 
 ---
 
+# Introduction aux variables et événements de vente au détail
 
-# Introduction aux variables et Événements de vente au détail
-
-Si vous avez un site de vente au détail, il y a des variables et des événements qui ont été créés pour vous (n&#39;êtes-vous pas spécial) ! Cette vidéo vous donnera un bref aperçu de ces variables et événements spécifiques à la vente au détail.
+Si vous disposez d’un site de vente au détail, certains événements et variables ont été créés uniquement pour vous (n’êtes-vous pas spécial). Cette vidéo vous donne un aperçu rapide de ces variables et événements spécifiques à la vente au détail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
