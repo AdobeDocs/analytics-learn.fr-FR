@@ -1,25 +1,24 @@
 ---
-title: Présentation du Parcours de la voix de l’utilisateur
-description: Découvrez comment comprendre le parcours client sur l’application vocale en observant le chemin de flux et les abandons afin d’identifier les actions les plus courantes, la séquence de ces actions et le moment et l’endroit où les utilisateurs abandonnent le parcours.
-feature: Visualizations
+title: Compréhension du parcours vocal de l’utilisateur
+description: Découvrez comment comprendre le parcours client sur l’application vocale en examinant le chemin de flux et les abandons pour identifier les actions les plus courantes, la séquence de ces actions et le moment et l’endroit où les utilisateurs abandonnent le parcours.
+feature: Visualisations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 11%
 
 ---
 
+# Compréhension du parcours vocal de l’utilisateur {#understanding-the-user-s-voice-journey}
 
-# Présentation du Parcours de la voix de l’utilisateur {#understanding-the-user-s-voice-journey}
-
-Découvrez comment comprendre le parcours client sur l’application vocale en examinant le chemin [!UICONTROL flow] et [!UICONTROL fuites] pour identifier les actions les plus courantes, la séquence de ces actions et le moment et l’endroit où les utilisateurs abandonnent le parcours.
+Découvrez comment comprendre le parcours client sur l’application vocale en examinant le chemin [!UICONTROL flow] et [!UICONTROL abandon] pour identifier les actions les plus courantes, la séquence de ces actions et le moment et l’endroit où les utilisateurs abandonnent le parcours.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
