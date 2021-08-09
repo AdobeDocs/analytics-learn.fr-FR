@@ -32,4 +32,4 @@ Les personnalisations de la [!UICONTROL table de cohortes] incluent la possibili
 
 La ligne moyenne est particulièrement utile pour afficher l’ensemble [!UICONTROL rétention] ou [!UICONTROL perte] plutôt que par des lignes [!UICONTROL de cohorte] individuelles.
 
-Pour plus d’informations sur l’analyse de [!UICONTROL cohorte], consultez la [documentation](Rhttps://docs.adobe.com/help/fr-Fr/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Pour plus d’informations sur l’analyse de [!UICONTROL cohorte], consultez la [documentation](https://docs.adobe.com/help/fr-Fr/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
