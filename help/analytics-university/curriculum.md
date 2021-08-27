@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 76%
 
 Adobe est fier de présenter ce contenu fondamental d’Analytics à votre université. Ce programme compte 4 modules distincts dont l’objectif est de vous présenter la collecte de données et le compte rendu des performances d’Adobe Analytics. Ces modules peuvent être divisés et incorporés à des cours portant sur l’analyse numérique ou le marketing. Grâce à ce manuel d’introduction, professeurs et étudiants peuvent acquérir les connaissances nécessaires pour participer au défi mondial proposé chaque automne par Adobe Analytics.
 
-### Un nouveau cours pour vous aider à préparer
+### Un nouveau cours pour vous aider dans votre préparation
 
-Pour préparer l’apprentissage et l’enseignement du cursus d’analyse, nous avons lancé un nouveau cours sur Adobe Education Exchange où vous pouvez apprendre à enseigner tous les concepts de base décrits ci-dessous. Nous vous recommandons de commencer par ce cours pour vous assurer que vous êtes prêt à éduquer vos étudiants sur les 4 modules principaux et au-delà.
+Pour vous préparer à l’apprentissage et à l’enseignement du programme Analytics, nous avons lancé un tout nouveau cours sur Adobe Education Exchange. Vous pouvez ainsi découvrir comment enseigner l’ensemble des concepts de base décrits ci-dessous. Nous vous recommandons de démarrer par ce cours afin de vous assurer d’être prêt à enseigner ces 4 modules de base et davantage à vos étudiants.
 
-Inscrivez-vous au cours ici : [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
+Inscrivez-vous au cours ici : [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### Voici ce que vous apprendrez :
 
