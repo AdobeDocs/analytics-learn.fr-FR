@@ -1,6 +1,6 @@
 ---
 title: Affichage des mesures de performances d’Analysis Workspace
-description: Différents facteurs peuvent influencer les performances d’un projet dans Analysis Workspace. Grâce à l’option Performances, vous pouvez voir les facteurs qui affectent les performances de votre projet, notamment les facteurs de réseau, de navigateur et de projet.
+description: Différents facteurs peuvent influencer les performances d’un projet dans Analysis Workspace. Grâce à l’option Performances, vous pouvez voir les facteurs qui affectent les performances de votre projet, notamment les facteurs relatifs au réseau, au navigateur et au projet.
 feature: Analysis Workspace
 topic: 'Administration '
 role: User, Admin
@@ -9,16 +9,16 @@ doc-type: feature video
 thumbnail: 335737.jpg
 kt: KT-8456
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 
 # Affichage des mesures de performances d’Analysis Workspace
 
-Différents facteurs peuvent influencer les performances d’un projet dans Analysis Workspace. Grâce à l’option Performances, vous pouvez voir les facteurs qui affectent les performances de votre projet, notamment les facteurs de réseau, de navigateur et de projet.
+Différents facteurs peuvent influencer les performances d’un projet dans Analysis Workspace. Grâce à l’option Performances, vous pouvez voir les facteurs qui affectent les performances de votre projet, notamment les facteurs relatifs au réseau, au navigateur et au projet.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
