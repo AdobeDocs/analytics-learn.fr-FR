@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -212,13 +212,13 @@ ht-degree: 96%
    + [Rapports en temps réel dans Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
    + Paramètres de l’entreprise {#company-settings}
-      + [Mettre en place les restrictions de domaine de courriel](administration/company-settings/enforce-email-domain-restrictions.md)
-      + [Afficher les fonctionnalités disponibles de votre compte](administration/company-settings/view-your-accounts-available-features.md)
+      + [Mettre Mise en place ldes restrictions de domaine de courrield’e-mail](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
    + Gestion des utilisateurs {#user-management}
       + [Ajouter un administrateur à Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limiter l’accès à la suite de rapports dans Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Transfert de ressources utilisateur vers un autre utilisateur](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [Vérifiez l’identifiant IMS lié pour éviter les problèmes de connexion.](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [Vérification de l’ID IMS lié pour éviter les problèmes de connexion](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
@@ -227,8 +227,8 @@ ht-degree: 96%
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuration des paramètres de code postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuration des variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Activation du paramètre Horodatage (facultatif)](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
-      + [Configuration de règles de robots dans Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
+      + [Activation du paramètre de date et heure facultatif](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [Configuration de règles de bots dans Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Gouvernance des données et RGPD {#data-governance-and-gdpr}
       + [Gouvernance des données et RGPD dans Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Trouver les personnes appropriées pour votre équipe Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
@@ -320,7 +320,7 @@ ht-degree: 96%
       + [Exporter au format CSV à partir d’Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Présentation de Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Envoi d’une demande de Data Warehouse par SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Envoi d’une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
