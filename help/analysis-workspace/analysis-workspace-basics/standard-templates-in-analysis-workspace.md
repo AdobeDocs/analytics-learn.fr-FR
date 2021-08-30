@@ -1,9 +1,9 @@
 ---
 title: Modèles standard dans Analysis Workspace
-seo-title: Modèles standard dans Analysis Workspace
+seo-title: Standard Templates in Analysis Workspace
 description: Avec les modèles standard (anciennement appelés projets de lancement), Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analyse.
-seo-description: Avec les modèles standard (anciennement appelés projets de lancement), Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analyse.
-feature: Projets
+seo-description: Analysis Workspace gives you a head start on your analysis with Standard Templates (formerly called Starter Projects)
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -13,9 +13,9 @@ kt: 1963
 role: User
 level: Beginner
 exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '106'
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -26,4 +26,4 @@ Analysis Workspace vous permet dʼavoir une longueur dʼavance dans votre analys
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
-[!DNL Standard Templates] sont des modèles entièrement personnalisables et partageables, conçus autour de sujets commerciaux courants et dotés de superbes visualisations intuitives pour rendre les informations beaucoup plus faciles à trouver. Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/starter_projects.html).
+[!DNL Standard Templates] sont des modèles entièrement personnalisables et partageables, conçus autour de sujets commerciaux courants et dotés de superbes visualisations intuitives pour rendre les informations beaucoup plus faciles à trouver. Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=fr).

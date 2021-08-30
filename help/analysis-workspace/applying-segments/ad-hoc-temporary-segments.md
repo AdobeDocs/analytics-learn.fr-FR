@@ -11,10 +11,10 @@ kt: 2010
 role: User
 level: Beginner
 exl-id: 22c449af-0660-4166-841a-9c1e77924350
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 5%
+source-wordcount: '122'
+ht-degree: 4%
 
 ---
 
@@ -26,4 +26,4 @@ Avez-vous jamais voulu créer rapidement un segment simple pour répondre à une
 
 Les segments ad hoc fonctionnent dans le projet dans lequel ils sont créés, mais ils ne sont pas enregistrés de manière permanente, sauf si vous choisissez de les enregistrer.
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation sur les fonctionnalités](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation sur les fonctionnalités](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).

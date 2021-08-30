@@ -10,10 +10,10 @@ kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 33%
+source-wordcount: '59'
+ht-degree: 15%
 
 ---
 
@@ -23,4 +23,4 @@ Cette vidéo vous explique comment partager et gérer des [!UICONTROL segments] 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/segment/seg_manage.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=en).

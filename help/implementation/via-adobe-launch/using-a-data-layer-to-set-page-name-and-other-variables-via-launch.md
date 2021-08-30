@@ -1,7 +1,7 @@
 ---
 title: Utilisation d’une couche de données pour définir le nom de page et d’autres variables dans Adobe Analytics via Launch
 description: L’utilisation d’une couche de données pour Analytics et d’autres solutions Experience Cloud est considérée comme une bonne pratique. Dans cette vidéo, vous allez découvrir comment extraire vos valeurs de la couche de données et les utiliser dans Launch pour renseigner les variables dans Adobe Analytics.
-feature: Mise en oeuvre de Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ L’utilisation d’une couche de données pour [!DNL Analytics] et d’autres s
 
 ## Couches de données {#data-layers}
 
-Il est recommandé d’utiliser une couche de données lorsque vous utilisez des données sur votre site et des solutions Adobe Experience Cloud, en particulier avec Adobe Analytics. Une _couche de données_ est une structure d’objets JavaScript que les développeurs insèrent sur les pages. Les couches de données peuvent être utilisées par les outils de suivi (y compris les systèmes de gestion des balises tels que [!DNL Experience Platform Launch]) pour renseigner les rapports. Vous trouverez des informations supplémentaires sur les couches de données dans la [documentation Experience Cloud](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) ou sur le [site W3C](https://www.w3.org/).
+Il est recommandé d’utiliser une couche de données lorsque vous utilisez des données sur votre site et des solutions Adobe Experience Cloud, en particulier avec Adobe Analytics. Une _couche de données_ est une structure d’objets JavaScript que les développeurs insèrent sur les pages. Les couches de données peuvent être utilisées par les outils de suivi (y compris les systèmes de gestion des balises tels que [!DNL Experience Platform Launch]) pour renseigner les rapports. Vous trouverez des informations supplémentaires sur les couches de données dans la [documentation Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) ou sur le [site W3C](https://www.w3.org/).
 
 Voir également le blog [Data Layers : De Buzzword à Best Practice, ](https://theblog.adobe.com/data-layers-buzzword-best-practice/), qui vous donne de superbes informations sur les couches de données, ainsi que quelques exemples.
 

@@ -1,7 +1,7 @@
 ---
 title: Analyse de cohortes à partir de n’importe quelle dimension
 description: L’option Dimension de cohortes personnalisée vous permet d’analyser les cohortes à l’aide de dimensions autres que le temps. Comparer les cohortes par canal marketing, région de campagne, page de produits, etc. pour mieux comprendre comment la rétention (ou la perte de clientèle) change par élément de dimension.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 28%
+ht-degree: 17%
 
 ---
 
@@ -24,4 +24,4 @@ L’option [!UICONTROL Cohorte] [!UICONTROL Dimension] personnalisée vous perme
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Pour plus dʼinformations, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/cohort_analysis.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

@@ -10,10 +10,10 @@ kt: 4104
 role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,748ba7ff-a75d-4ecb-a5d8-5451d1922725
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 26%
+source-wordcount: '100'
+ht-degree: 24%
 
 ---
 
@@ -23,4 +23,4 @@ Dans cette vidéo, découvrez les [!UICONTROL dimensions] et [!UICONTROL mesures
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=fr).

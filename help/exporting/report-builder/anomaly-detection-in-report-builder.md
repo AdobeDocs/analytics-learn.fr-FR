@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 32%
+ht-degree: 30%
 
 ---
 
@@ -27,4 +27,4 @@ Découvrez comment ajouter des [!UICONTROL mesures de [!UICONTROL  détection de
 
 Dans [!UICONTROL Report Builder], vous pouvez renvoyer les valeurs [!UICONTROL réelles ], ainsi que les valeurs attendues et les limites supérieure et inférieure, pour ajouter plus de profondeur aux données que vous analysez et partagez.
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en).

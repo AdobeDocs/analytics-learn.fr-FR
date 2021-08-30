@@ -1,7 +1,7 @@
 ---
 title: Visualisation des abandons dans Analysis Workspace
 description: Cette vidéo vous guide tout au long de la visualisation Abandons disponible dans Analysis Workspace dans Adobe Analytics. Utilisez Abandons pour créer des entonnoirs ou afficher le flux utilisateur sur les processus clés d’application/de site.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2275
 role: User
 level: Beginner
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 24%
+ht-degree: 10%
 
 ---
 
@@ -24,4 +24,4 @@ Cette vidéo vous guide tout au long de [!DNL Fallout visualization] disponible 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/fallout_flow.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

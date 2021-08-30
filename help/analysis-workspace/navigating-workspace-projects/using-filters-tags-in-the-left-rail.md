@@ -1,7 +1,7 @@
 ---
 title: Utilisation de filtres (balises) dans le rail de gauche
 description: Les filtres (ou balises) sont un moyen simple et rapide de filtrer le rail de gauche dans Analysis Workspace pour trouver les composants dont vous avez besoin. Tirez parti des balises d’usine fournies par Adobe ou ajoutez vos propres balises personnalisées pour organiser les composants associés.
-feature: Concepts de base de Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 4845
 role: User
 level: Beginner
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 28%
+source-wordcount: '105'
+ht-degree: 19%
 
 ---
 
@@ -24,4 +24,4 @@ Les filtres (ou balises) sont un moyen simple et rapide de filtrer le rail de ga
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/home.html)
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

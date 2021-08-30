@@ -1,7 +1,7 @@
 ---
 title: Partage de composants incorporés dans Analysis Workspace
 description: Vous souhaitez parfois partager un projet Analysis Workspace, mais vous oubliez de partager les segments et les mesures que vous avez inclus avec vos collègues. Cette vidéo explique comment partager des segments et des mesures lors du partage de vos projets afin que les collègues voient ce que vous avez prévu à chaque fois.
-feature: Traitement et partage
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2295
 role: User
 level: Beginner
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '136'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ Parfois, vous souhaitez partager un projet Analysis Workspace, mais vous oubliez
 
 >[!VIDEO](https://video.tv.adobe.com/v/24713/?quality=12)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/curate.html).
+Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

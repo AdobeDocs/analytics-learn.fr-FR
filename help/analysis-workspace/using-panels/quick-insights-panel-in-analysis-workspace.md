@@ -1,7 +1,7 @@
 ---
 title: Panneau Quick Insights dans Analysis Workspace
 description: Quick Insights fournit des conseils aux non-analystes et aux nouveaux utilisateurs d’Analysis Workspace pour savoir comment répondre rapidement et facilement à des besoins professionnels.
-feature: Panneaux
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 5838
 role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 88%
 
 ---
 
@@ -24,4 +24,4 @@ Quick Insights fournit des conseils aux non-analystes et aux nouveaux utilisateu
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-Pour plus d’informations, consultez la [documentation ](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/panels/quickinsight.html).
+Pour plus d’informations, consultez la [documentation ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html).

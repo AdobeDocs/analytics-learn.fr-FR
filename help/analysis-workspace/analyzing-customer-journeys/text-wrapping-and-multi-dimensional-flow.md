@@ -1,7 +1,7 @@
 ---
 title: Encapage de texte et flux multidimensionnel dans Analysis Workspace
 description: Cette vidéo montre comment activer et désactiver la troncation des étiquettes dans votre visualisation de flux. En outre, apprenez à faire glisser des dimensions sur votre flux pour une analyse de flux multidimensionnelle.
-feature: Visualisations
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '88'
+ht-degree: 10%
 
 ---
 
@@ -25,4 +25,4 @@ Cette vidéo montre comment activer et désactiver la troncation des étiquettes
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/fr_FR/analytics/analysis-workspace/flow.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).

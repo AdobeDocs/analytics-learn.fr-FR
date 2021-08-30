@@ -1,21 +1,21 @@
 ---
 title: Panneau Analytics for Target (A4T) dans Analysis Workspace
 description: Le panneau Analytics for Target (A4T) vous permet d’analyser en toute confiance vos activités et expériences Adobe Target dans Analysis Workspace.
-feature: Intégration d’Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Intégrations
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 85%
+source-wordcount: '72'
+ht-degree: 72%
 
 ---
 
@@ -25,4 +25,4 @@ Le panneau [!DNL Analytics for Target][!UICONTROL  (A4T) vous permet d’analyse
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-Pour en savoir plus, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+Pour en savoir plus, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html).

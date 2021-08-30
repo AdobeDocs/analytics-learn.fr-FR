@@ -12,10 +12,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ Dans cette vidéo, vous verrez le [!DNL Attribution IQ] [!UICONTROL panneau], un
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 Le [!DNL Attribution IQ] [!UICONTROL panneau] d’Analysis Workspace permet de comparer rapidement l’une des dix [!DNL attribution models] basées sur des règles d’une manière visuelle. Découvrez comment chaque modèle impacte une dimension à l’aide de [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] et même d’une balise [!DNL Flow Diagram]. Le [!DNL Attribution] [!UICONTROL panneau] est un excellent point de départ pour une analyse d’attribution plus sophistiquée.
-
-## Ressources supplémentaires {#additional-resources}
-
-* [Documentation sur les fonctionnalités](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/use_attribution_iq.html)

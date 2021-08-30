@@ -1,7 +1,7 @@
 ---
 title: Utilisation de l’analyse entre onglets pour explorer l’attribution marketing de base dans Analysis Workspace
 description: Il existe de nombreuses façons de faire évoluer votre méthodologie d’attribution avec Adobe Analytics. Dans cette vidéo, nous montrons comment vous pouvez obtenir des informations plus précises à partir du rapport Canaux marketing à l’aide d’une analyse croisée dans Workspace.
-feature: Canaux marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Il existe de nombreuses façons de faire évoluer votre méthodologie d’attrib
 * 4:30 - Les paramètres de colonne peuvent désormais être mis à jour en bloc, au lieu de 1 par 1. En savoir plus à 8:45 de la vidéo : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Pour plus d’informations sur cette rubrique, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/analysis-workspace/attribution/models.html).
+Pour plus d’informations sur cette rubrique, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr).

@@ -9,14 +9,13 @@ team: Technical Marketing
 kt: 4818
 role: Architect
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '95'
+exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Labs] (Aperçus de technologie) avec Adobe Analytics
 
@@ -26,4 +25,4 @@ ht-degree: 100%
 
 Lors de l’utilisation d’un prototype [!DNL Labs], vous pouvez évaluer la fonctionnalité dans le contexte de vos propres données et cas d’utilisation professionnels.
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/content/help/fr-FR/analytics/analyze/tech-previews/overview.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=fr).

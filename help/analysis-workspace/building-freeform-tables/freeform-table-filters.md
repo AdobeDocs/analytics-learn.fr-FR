@@ -1,7 +1,7 @@
 ---
 title: Filtres de tableau à structure libre dans Analysis Workspace
 description: Les filtres offrent un meilleur contrôle sur les lignes de données partagées dans un tableau à structure libre.
-feature: Tableaux à structure libre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 2%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,6 @@ Les filtres offrent un meilleur contrôle sur les lignes de données partagées 
 
 Dans Analysis Workspace, nous offrons désormais plus de contrôle de filtrage, avec 11 opérateurs de critères de filtrage &amp; ET/OU.
 
-Pour plus d’informations sur les filtres disponibles, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/pagination_filtering_sorting.html).
+Pour plus d’informations sur les filtres disponibles, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en).
 
 **Remarque :** Les caractères spéciaux avancés ne sont pas disponibles dans Analysis Workspace.

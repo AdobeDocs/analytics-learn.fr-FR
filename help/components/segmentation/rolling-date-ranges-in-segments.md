@@ -10,9 +10,9 @@ kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '104'
 ht-degree: 4%
 
 ---
@@ -23,4 +23,3 @@ Adobe Analytics vous permet de répondre à des questions du type &quot;Quelle �
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
-Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).
