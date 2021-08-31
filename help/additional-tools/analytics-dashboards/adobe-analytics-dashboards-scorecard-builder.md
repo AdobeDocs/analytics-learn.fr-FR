@@ -1,7 +1,7 @@
 ---
 title: 'Tableaux de bord d’Adobe Analytics : créateur de cartes de performance'
 description: Dans cette vidéo, découvrez comment créer et partager des "Fiches d’évaluation" dans Analysis Workspace afin de les afficher sur les tableaux de bord Adobe Analytics (application mobile).
-feature: Tableaux de bord Analytics
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 5286
 role: User
 level: Beginner
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 38%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ Dans cette vidéo, découvrez comment créer et partager des &quot;Fiches d’é
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
 
-Pour plus dʼinformations, consultez la [documentation](https://docs.adobe.com/help/fr-FR/analytics/analyze/mobapp/home.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en).

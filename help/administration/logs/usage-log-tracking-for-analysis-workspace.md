@@ -1,7 +1,7 @@
 ---
 title: Suivi des journaux d’utilisation pour Analysis Workspace
 description: Sous Admin - Journaux - Utilisation et accès, vous pouvez mieux comprendre l’utilisation d’Adobe Analytics par vos utilisateurs. Cette vidéo porte spécifiquement sur la mesure de l’utilisation des projets Workspace.
-feature: Configuration et collecte de données
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 18%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ Sous [!UICONTROL Admin] - [!UICONTROL Journaux] - [!UICONTROL Utilisation et acc
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en).
