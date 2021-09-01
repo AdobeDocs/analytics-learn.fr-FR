@@ -1,18 +1,16 @@
 ---
 title: Basculement de la granularité dans Analysis Workspace
 description: Un sélecteur de granularité a été ajouté aux paramètres de visualisation de tendance pour vous permettre d’ajuster très facilement la granularité de vos données d’une minute à l’autre. Le paramètre permet d’ajuster le graphique et le tableau source, ce qui vous permet d’afficher et de manipuler le tableau.
-feature: Visualisations
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23548.jpg
 kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

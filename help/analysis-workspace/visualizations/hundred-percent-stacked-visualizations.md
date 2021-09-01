@@ -1,18 +1,16 @@
 ---
 title: Visualisations 100 % Empilées Dans Analysis Workspace
 description: Dans cette vidéo, vous apprendrez à définir vos visualisations empilées sous forme de pourcentages plutôt que de valeurs brutes uniquement.
-feature: Visualisations
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
