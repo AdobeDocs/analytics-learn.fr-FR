@@ -1,24 +1,24 @@
 ---
-title: Mesures fondamentales dans Adobe Analytics
-description: Cette vidéo fournit une description conceptuelle des mesures de base du visiteur dans Adobe Analytics et de la manière dont elles sont liées. Vous trouverez également plusieurs exemples de cas d’utilisation pour savoir quand utiliser Pages vues, Visites et Visiteurs uniques dans les rapports.
+title: Mesures de base dans Adobe Analytics
+description: Cette vidéo fournit une description conceptuelle des mesures de base se rapportant aux visiteurs dans Adobe Analytics et de la manière dont elles sont liées les unes aux autres. Vous découvrirez également plusieurs exemples de cas dʼutilisation pour savoir quand utiliser les mesures Vues de page, Visites et Visiteurs uniques dans les rapports.
 feature: Metrics
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 336483.jpg
 kt: KT-8646
-source-git-commit: 70e465b504060b2898b502d2da7f0a5cd2f4beb0
-workflow-type: tm+mt
+exl-id: c91e8ee4-16b9-4f93-b2a5-5e10b415143d
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Mesures de base dans Adobe Analytics
 
-# Mesures fondamentales dans Adobe Analytics
-
-Cette vidéo fournit une description conceptuelle des mesures de base du visiteur dans Adobe Analytics et de la manière dont elles sont liées. Vous trouverez également plusieurs exemples de cas d’utilisation pour savoir quand utiliser Pages vues, Visites et Visiteurs uniques dans les rapports.
+Cette vidéo fournit une description conceptuelle des mesures de base se rapportant aux visiteurs dans Adobe Analytics et de la manière dont elles sont liées les unes aux autres. Vous découvrirez également plusieurs exemples de cas dʼutilisation pour savoir quand utiliser les mesures Vues de page, Visites et Visiteurs uniques dans les rapports.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-Pour plus d’informations dans la documentation, voir [Pages vues](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [Visites](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) et [Visiteurs uniques](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html).
+Pour plus dʼinformations dans la documentation, voir [Vues de page](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=fr), [Visites](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr) et [Visiteurs uniques](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr).
