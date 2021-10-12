@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
 workflow-type: tm+mt
-source-wordcount: '2201'
+source-wordcount: '2209'
 ht-degree: 99%
 
 ---
@@ -410,3 +410,4 @@ ht-degree: 99%
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Programme Analytics University](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
++ [Les fondamentaux d’Analytics pour les utilisateurs professionnels ont été abandonnés.](retired-courses/retire-fundamentals-for-business-users-course.md)
