@@ -3,7 +3,7 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + Segmentation {#segmentation}
       + [Présentation du créateur de segments](components/segmentation/segment-builder-overview.md)
       + [Recherche et création de segments](components/segmentation/finding-and-creating-segments.md)
-      + [Séquences avant/après dans la segmentation séquentielle](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Utilisation de plages de dates flottantes dans les segments](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Comparaison de segments dans Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Conteneurs de segments](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [Utilisation de segments en tant que dimensions dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=fr)
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=fr)
       + [Segmentation séquentielle](components/segmentation/sequential-segmentation.md)
+      + [Séquences avant/après dans la segmentation séquentielle](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentation sur des comptes de dimensions distincts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modèles de dimensions dans la segmentation](components/segmentation/dimension-models-in-segmentation.md)
       + [Utilisation de l’opérateur Est égal à un(e) dans la segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
@@ -317,7 +317,7 @@ ht-degree: 99%
    + [Adobe Labs (prévisualisations technologiques)](additional-tools/adobe-labs-technology-previews.md)
    + Tableaux de bord Analytics {#analytics-dashboards}
       + [Tableaux de bord d’Adobe Analytics : créateur de cartes de performance](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Visualisations pour les Fiches d’évaluation mobiles](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
+      + [Visualisations pour les cartes de performance mobiles](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Application de périodes personnalisées](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Utilisation des tableaux de bord Analytics in-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exportation en cours {#exporting}
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Programme Analytics University](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Les fondamentaux d’Analytics pour les utilisateurs professionnels ont été abandonnés.](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Les fondamentaux d’Analytics pour les utilisateurs professionnels ont été retirés](retired-courses/retire-fundamentals-for-business-users-course.md)
