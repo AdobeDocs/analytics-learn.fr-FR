@@ -1,24 +1,23 @@
 ---
 title: Création de plages de dates personnalisées dans Analysis Workspace
-description: Cette vidéo vous explique comment utiliser les plages de dates dans Analysis Workspace.
-feature: Calendrier
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+description: Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de ce qui est prédéfini dans le produit. Cette vidéo vous montre comment créer trois exemples de plages de dates personnalisées.
+feature: Calendar
 kt: 2113
+thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 6%
 
 ---
 
-# Création de [!UICONTROL périodes personnalisées] dans Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
+# Création d’une personnalisation [!UICONTROL Périodes] dans Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
-Cette vidéo vous explique comment utiliser les [!UICONTROL périodes] dans Analysis Workspace.
+Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de ce qui est prédéfini dans le produit. Cette vidéo vous montre comment créer trois exemples de plages de dates personnalisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
+
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).
