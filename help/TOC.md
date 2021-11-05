@@ -55,7 +55,7 @@ ht-degree: 99%
       + [Présentation d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Aperçu d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Création de nouveaux projets Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [Création dʼun projet Workspace à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Création dʼun projet Espace de travail à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Création et gestion de modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modèles standard dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -69,12 +69,12 @@ ht-degree: 99%
       + [7 conseils et astuces pour Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Conseils pour accroître votre productivité dans Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Astuces clients pour continuer votre parcours d’apprentissage d’Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-   + Navigation dans les projets Workspace {#navigating-workspace-projects}
+   + Navigation dans les projets Espace de travail {#navigating-workspace-projects}
       + [Démarrage de votre premier projet dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Modèle de tutoriel de formation dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copier et insérer dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Création d’une table des matières](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Cliquer avec le bouton droit de la souris pour optimiser l’efficacité de Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Cliquer avec le bouton droit de la souris pour optimiser l’efficacité de Espace de travail](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Raccourcis clavier](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Barre de menu](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Gestion de projet](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
@@ -113,7 +113,7 @@ ht-degree: 99%
       + [Cas dʼutilisation des visualisations](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Utilisation des listes déroulantes des composants dans Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Utilisation des listes déroulantes des composants dans Espace de travail](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisations sous forme de surface et aires empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualisations sous forme de barres et barres empilées](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisation des graphiques à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -317,7 +317,7 @@ ht-degree: 99%
    + [Adobe Labs (prévisualisations technologiques)](additional-tools/adobe-labs-technology-previews.md)
    + Tableaux de bord Analytics {#analytics-dashboards}
       + [Tableaux de bord d’Adobe Analytics : créateur de cartes de performance](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
-      + [Visualisations pour les Fiches d’évaluation mobiles](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
+      + [Visualisations pour les cartes de performance mobiles](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Application de périodes personnalisées](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Utilisation des tableaux de bord Analytics in-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + Exportation en cours {#exporting}
@@ -410,4 +410,4 @@ ht-degree: 99%
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Programme Analytics University](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Les fondamentaux d’Analytics pour les utilisateurs professionnels ont été abandonnés.](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Le module Fondamentaux dʼAnalytics pour les utilisateurs professionnels a été supprimé.](retired-courses/retire-fundamentals-for-business-users-course.md)
