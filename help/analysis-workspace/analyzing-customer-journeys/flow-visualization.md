@@ -1,27 +1,23 @@
 ---
 title: Visualisation du flux dans Analysis Workspace
-description: Cette vidéo vous guide tout au long de la visualisation Flux dans Analysis Workspace. Vous pouvez utiliser Flux pour afficher et explorer le mouvement des utilisateurs afin de mieux comprendre le parcours de vos clients.
+description: Les visualisations Flux permettent d’explorer les parcours exacts que les clients ont avec votre marque. Le flux peut être appliqué aux pages, aux canaux marketing et à toute autre dimension ou combinaison de dimensions que vous collectez.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
 role: User
 level: Beginner
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c1acb8df5e4937f53dae2cdea7d0714c41b1c98
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 18%
+source-wordcount: '94'
+ht-degree: 14%
 
 ---
 
 # [!DNL Flow Visualization] dans Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-Cette vidéo vous guide tout au long de [!DNL Flow visualization] dans Analysis Workspace. Vous pouvez utiliser [!DNL Flow] pour afficher et explorer le mouvement des utilisateurs, afin de mieux comprendre votre [!DNL customer journey].
+Les visualisations Flux permettent d’explorer les parcours exacts que les clients ont avec votre marque. Le flux peut être appliqué aux pages, aux canaux marketing et à toute autre dimension ou combinaison de dimensions que vous collectez.
 
->[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en).
