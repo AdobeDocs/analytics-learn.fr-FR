@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
+source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
-source-wordcount: '2226'
+source-wordcount: '2225'
 ht-degree: 98%
 
 ---
@@ -381,7 +381,7 @@ ht-degree: 98%
       + [Ajout d’une règle Launch pour l’événement d’achat](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Super session du Summit 2019 - Vente au détail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=fr)
 + Media Analytics {#media-analytics}
-   + Mesure de Media Analytics {metric-media-analytics}
+   + Mesure de Media Analytics {#measuring-media-analytics}
       + [Panneau Durée de lecture du média](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Utilisation du modèle de consommation audio dans Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Analyse des applications mobiles {#mobile-app-analytics}
