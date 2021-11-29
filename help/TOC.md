@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2231'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -293,7 +293,7 @@ ht-degree: 99%
       + [Segmentation sur des comptes de dimensions distincts](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modèles de dimensions dans la segmentation](components/segmentation/dimension-models-in-segmentation.md)
       + [Utilisation de l’opérateur Est égal à un(e) dans la segmentation](components/segmentation/equals-any-of-operator-in-segmentation.md)
-      + [Webinaire Analytics Insider - Stratégies de segmentation client](components/segmentation/customer-segmentation-strategies.md)
+      + [Webinaire Analytics Insider - Stratégies de segmentation client](components/segmentation/customer-segmentation-strategies.md)
    + Mesures calculées {#calculated-metrics}
       + [Fonction distincte de décompte approximatif dans les mesures calculées](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ dans les mesures calculées](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=fr)
