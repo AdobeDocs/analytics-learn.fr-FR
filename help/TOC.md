@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: ht
-source-wordcount: '2231'
-ht-degree: 100%
+source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
+workflow-type: tm+mt
+source-wordcount: '2235'
+ht-degree: 99%
 
 ---
 
@@ -225,6 +225,7 @@ ht-degree: 100%
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Configuration de la détection de recherche payante](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
