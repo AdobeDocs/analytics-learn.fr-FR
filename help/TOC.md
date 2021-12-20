@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2235'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 99%
       + [Modèle de tutoriel de formation dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copier et insérer dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Création d’une table des matières](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Cliquer avec le bouton droit de la souris pour optimiser l’efficacité de Espace de travail](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Cliquer avec le bouton droit de la souris pour optimiser l’efficacité d’Espace de travail](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Raccourcis clavier](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Barre de menu](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Gestion de projet](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
@@ -225,7 +225,7 @@ ht-degree: 99%
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
-      + [Configuration de la détection de recherche payante](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
