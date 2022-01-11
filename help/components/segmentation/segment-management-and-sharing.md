@@ -2,11 +2,12 @@
 title: Gestion et partage de segments dans Adobe Analytics
 description: Vous pouvez créer des segments performants, mais pourquoi les conserver à vous-même ? Dans cette vidéo, vous découvrirez quelques conseils sur le partage et la gestion de vos segments afin que vous et d’autres puissiez profiter de la bonté.
 feature: Segmentation
+thumbnail: 25402.jpg
 kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: 0a89dbee943292e969e1a971411e4af0468f58cb
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 9%

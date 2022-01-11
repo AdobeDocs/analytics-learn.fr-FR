@@ -1,16 +1,14 @@
 ---
 title: Utilisation de l’opérateur "Est égal à n’importe lequel" dans la segmentation
-description: Est égal à l’un des opérateurs et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou Contient n’importe lequel. L’utilisation de ces opérateurs au lieu de contient l’un de permet d’améliorer également la vitesse de requête.
+description: Est égal à l’un des opérateurs de segment et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou Contient n’importe lequel. L’utilisation de ces opérateurs au lieu de contient l’un de permet d’améliorer également la vitesse de requête.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 32960.jpg
 team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 4%
