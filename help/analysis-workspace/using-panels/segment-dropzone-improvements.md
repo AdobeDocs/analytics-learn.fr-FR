@@ -1,6 +1,6 @@
 ---
-title: Améliorations des zones de dépôt de segments dans Analysis Workspace
-description: Les zones de dépôt de segments ont été améliorées afin que vous puissiez déposer n’importe quoi dans un projet.
+title: Améliorations de la zone de dépôt de segments dans Analysis Workspace
+description: Les zones de dépôt de segments ont été améliorées afin que vous puissiez déposer tout ce que vous souhaitez nʼimporte où dans un projet.
 feature: Panels
 topics: null
 activity: use
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Segment] Améliorations de la zone de dépôt dans Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
+# Améliorations de la zone de dépôt de [!UICONTROL Segments] dans Analysis Workspace {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL Segment] Les zones de dépôt ont été améliorées afin que vous puissiez déposer n’importe quoi dans un projet.
+Les zones de dépôt de [!UICONTROL Segments] ont été améliorées afin que vous puissiez déposer tout ce que vous souhaitez n’importe où dans un projet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-Désormais, vous pouvez déposer l’intégralité [!UICONTROL dimensions] et [!UICONTROL mesures], en plus de la prise en charge existante de [!UICONTROL dimension] éléments, [!UICONTROL plages de dates] et [!UICONTROL segments]. De plus, nous avons amélioré la façon dont [!UICONTROL dimension] les éléments &quot;non spécifié&quot; et &quot;aucun&quot; sont traités lorsqu’ils sont déposés dans la variable [!UICONTROL segment] zone de dépôt.
+Vous pouvez désormais déposer des [!UICONTROL dimensions] et des [!UICONTROL mesures] complètes, en plus des éléments de [!UICONTROL dimension], des [!UICONTROL périodes] et des [!UICONTROL segments] déjà pris en charge. De plus, nous avons amélioré la façon dont les éléments de [!UICONTROL dimension] avec la valeur « non spécifié » et « aucun » sont traités lorsqu’ils sont déposés dans la zone de dépôt de [!UICONTROL segments].
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=fr).
