@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2248'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -228,7 +228,7 @@ ht-degree: 99%
       + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
