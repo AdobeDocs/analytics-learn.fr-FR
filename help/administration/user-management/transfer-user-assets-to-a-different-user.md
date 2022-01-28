@@ -1,20 +1,19 @@
 ---
 title: Transfert de ressources utilisateur vers un autre utilisateur
 description: La gestion des groupes et des utilisateurs de rapports sur la page Gestion utilisateur vous permet de gérer des utilisateurs et des groupes, ainsi que de contrôler l’accès aux rapports, outils et suites de rapports. Vous pouvez affecter des éléments de compte d’utilisateur tels que des tableaux de bord, des événements de calendrier, des signets, etc. d’un compte d’utilisateur à celui d’un autre par le biais de la gestion des utilisateurs dans Adobe Analytics.
-feature: Outils d’administration, Gestion des utilisateurs
-topic: 'Administration, migration '
+feature: Admin Tools, User Management
+topic: Administration, Migration
 role: User, Admin
 level: Intermediate, Experienced
-doc-type: feature video
 thumbnail: 335745.jpg
-kt: KT-8459
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8459
+exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 40%
+source-wordcount: '118'
+ht-degree: 54%
 
 ---
-
 
 # Transfert de ressources utilisateur vers un autre utilisateur
 
