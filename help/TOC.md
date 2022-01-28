@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configuration des classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configuration des variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configuration des classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuration des paramètres de code postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Configuration des variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Activation du paramètre de date et heure facultatif](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configuration de règles de bots dans Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Gouvernance des données et RGPD {#data-governance-and-gdpr}
