@@ -1,6 +1,6 @@
 ---
 title: Suivi des liens personnalisés sans gestionnaire de balises
-description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Experience Platform Launch). Consultez le code et apprenez un conseil important.
+description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Experience Platform Launch). Consultez le code et découvrez un conseil important.
 feature: Appmeasurement Implementation
 topics: null
 activity: implement
@@ -11,32 +11,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # Suivi des liens personnalisés sans gestionnaire de balises {#custom-link-tracking-without-a-tag-manager}
 
-Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Adobe [!DNL Experience Platform Launch]). Consultez le code et apprenez un conseil important.
+Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Adobe [!DNL Experience Platform Launch]). Consultez le code et découvrez un conseil important.
 
 ## Envoi d’une balise s.tl() {#sending-an-s-tl-beacon}
 
-Deux fonctions envoient des données dans Adobe Analytics :
+Deux fonctions envoient des données dans Adobe Analytics :
 
-1. s.t() - Une balise &quot;track&quot;, qui est un accès à la page vue, qui incrémente les pages vues pour le nom de page donné, ainsi que la définition d’autres variables
-1. s.tl() : balise &quot;Lien de suivi&quot;, souvent appelée accès/balise &quot;lien personnalisé&quot;, qui n’incrémente pas les pages vues et ignore la variable pageName . Il est généralement utilisé pour effectuer le suivi des actions plus petites sur la page qui ne chargent pas de nouvelle page/nouvel écran, ou d’autres actions qui n’entraînent pas de nouveau chargement de page.
+1. s.t() - Une balise de « suivi », qui est un accès à la page vue, qui incrémente les pages vues pour le nom de page donné, ainsi que la définition d’autres variables.
+1. s.tl() - Une balise « lien de suivi », souvent appelée accès/balise « lien personnalisé », qui n’incrémente pas les pages vues et ignore la variable pageName. Elle est généralement utilisée pour effectuer le suivi des actions plus petites sur la page qui ne chargent pas de nouvelle page/nouvel écran, ou d’autres actions qui n’entraînent pas de nouveau chargement de page.
 
 >[!NOTE]
 >
->Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises tel que Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment le faire.
+>Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## Exemple de code {#sample-code}
 
-Voici l’exemple de code utilisé sur le lien personnalisé dans la vidéo :
+Voici l’exemple de code utilisé sur le lien personnalisé dans la vidéo :
 
 ```JavaScript
 <a href="#" onclick="
