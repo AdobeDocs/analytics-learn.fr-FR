@@ -24,7 +24,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segmentation et les ventilations et vous permet d’effectuer des comparaisons illimitées sur n’importe quelle dimension (y compris [!DNL props] !).
+Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segmentation et les ventilations et vous permet d’effectuer des comparaisons illimitées sur n’importe quelle dimension (y compris [!DNL props]!).
 
 [!DNL Attribution IQ] est disponible exclusivement pour Analysis Workspace, pour les clients disposant des packages suivants :
 
