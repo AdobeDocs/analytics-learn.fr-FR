@@ -1,7 +1,7 @@
 ---
 title: Comprendre et créer des suites de rapports
 description: Cette vidéo vous aide à comprendre ce que sont les suites de rapports, et vous montre comment les créer dans lʼinterface, afin que vous puissiez suivre et optimiser lʼanalyse des personnes qui se rendent sur votre site.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
