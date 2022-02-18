@@ -1,5 +1,5 @@
 ---
-title: Amélioration de la publication auprès d’une audience Experience Cloud
+title: Amélioration de la publication auprès d’une audience Experience Cloud
 landing-page-description: Découvrez les publications d’audiences (segments) et rendez-les disponibles plus rapidement que jamais.
 description: Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences (segments) et les rendre disponibles six fois plus rapidement, faisant ainsi passer le temps de latence de 48 heures à environ 8 heures, voire plus court encore en fonction du trafic et de la taille du segment.
 feature: Experience Cloud Integration
@@ -13,19 +13,19 @@ role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
-# Amélioration de la publication auprès d’une audience Experience Cloud
+# Amélioration de la publication auprès d’une audience Experience Cloud
 
-Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences ([!UICONTROL segments]) et les rendre disponibles six fois plus rapidement, ce qui réduit le temps de latence actuel de 48 heures à environ 8 heures, voire plus rapidement, en fonction du trafic et de la taille du [!UICONTROL segment].
+Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences ([!UICONTROL segments]) et les rendre disponibles six fois plus rapidement, ce qui réduit le temps de latence actuel de 48 heures à environ 8 heures, voire plus rapidement, en fonction du trafic et de la taille du [!UICONTROL segment].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
 En outre, le nombre de [!UICONTROL segments] pouvant être publiés simultanément est passé de 20 à 75 par [!UICONTROL suite de rapports].
-Pour plus d’informations, voir [Publication de segments sur l’Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html) dans l’aide d’Analytics.
+Pour plus d’informations, consultez la section [Publication de segments dans Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=fr) dans l’aide d’Analytics.
 
-Lisez également la section [Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=fr) de l’aide Experience Cloud pour plus d’informations sur la [!UICONTROL bibliothèque d’audiences].
+Lisez également la rubrique [Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=fr) dans l’aide d’Experience Cloud pour plus d’informations sur la [!UICONTROL Bibliothèque d’audiences].
