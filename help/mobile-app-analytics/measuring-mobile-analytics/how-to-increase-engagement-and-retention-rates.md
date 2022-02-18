@@ -1,7 +1,7 @@
 ---
 title: Comment augmenter les taux dʼengagement et de rétention
 description: Identifiez les audiences impliquées par leur comportement à lʼaide de cohortes et découvrez les causes sous-jacentes de lʼattractivité de vos applications mobiles. Utilisez des algorithmes de science de données dans Segment IQ pour connaître les différences et les similitudes entre les segments.
-feature: Concepts de base de Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
