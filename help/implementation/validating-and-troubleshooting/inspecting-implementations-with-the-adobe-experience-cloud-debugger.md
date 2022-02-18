@@ -1,6 +1,6 @@
 ---
-title: Inspection des mises en œuvre avec Adobe Experience Cloud Debugger
-description: Le débogueur Experience Cloud est un outil qui permet aux utilisateurs d’inspecter et de déboguer les balises Experience Cloud. Cette vidéo explique comment utiliser l’Experience Cloud Debugger pour inspecter les implémentations d’Analytics.
+title: Inspection des implémentations avec Adobe Experience Cloud Debugger
+description: Experience Cloud Debugger est un outil permettant aux utilisateurs d’inspecter et de déboguer les balises Experience Cloud. Cette vidéo explique comment utiliser Experience Cloud Debugger afin dʼinspecter les implémentations Analytics.
 feature: Validation
 topics: null
 activity: implement
@@ -11,17 +11,17 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# Inspection des implémentations avec le [!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
+# Inspection des implémentations à lʼaide dʼ[!DNL Adobe Experience Cloud Debugger] {#inspecting-implementations-with-the-adobe-experience-cloud-debugger}
 
-[!DNL Experience Cloud debugger] est un outil qui permet aux utilisateurs d’inspecter et de déboguer les balises Experience Cloud. Cette vidéo explique comment utiliser [!DNL Experience Cloud Debugger] pour inspecter les implémentations de [!DNL Analytics].
+[!DNL Experience Cloud debugger] est un outil permettant aux utilisateurs d’inspecter et de déboguer les balises Experience Cloud. Cette vidéo explique comment utiliser [!DNL Experience Cloud Debugger] pour inspecter les implémentations [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
 
-Vous apprendrez à voir ce qui se déclenche sur différentes pages, à charger des noms conviviaux de variables et à exporter les résultats pour des cas d’utilisation avancés.
+Vous découvrirez comment voir quelles balises sont déclenchées sur différentes pages, charger des noms de variables conviviaux et exporter les résultats pour des cas dʼutilisation avancés.
 
