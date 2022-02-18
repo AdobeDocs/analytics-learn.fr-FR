@@ -1,7 +1,7 @@
 ---
 title: Comment identifier votre serveur de suivi et vos suites de rapports Analytics
 description: Lors de la configuration dʼAdobe Analytics ou de son référencement dans dʼautres solutions Experience Cloud, il est souvent utile ou même nécessaire de connaître le « serveur de suivi » Analytics que vous utilisez, ainsi que la « suite de rapports » dans laquelle vous envoyez des données. Cette vidéo vous montre comment localiser les deux valeurs, que vous ayez ou non déjà mis en œuvre Adobe Analytics.
-feature: Concepts de base de la mise en œuvre
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '305'
+source-wordcount: '303'
 ht-degree: 100%
 
 ---
