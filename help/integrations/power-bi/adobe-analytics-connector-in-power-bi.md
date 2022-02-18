@@ -1,7 +1,7 @@
 ---
 title: Connecteur Adobe Analytics dans Power BI
 description: Dans cette vidéo sur le connecteur Adobe Analytics, nous allons découvrir comment créer et charger une requête, modifier le format des données, créer une visualisation et enfin publier sur le service en ligne.
-feature: « Intégration tierce »
+feature: Third-party Integration
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
