@@ -1,5 +1,5 @@
 ---
-title: Configuration des paramètres de code postal dans Adobe Analytics
+title: Configuration des paramètres de code postal dans Adobe Analytics
 seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
 description: Dans cette vidéo, vous apprendrez à configurer les paramètres de code postal afin de pouvoir effectuer une analyse en fonction des données de cette région.
 seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
@@ -15,16 +15,16 @@ role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configuration des [!UICONTROL paramètres de code postal] dans Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Configuration des paramètres de [!UICONTROL code postal] dans Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-Dans cette vidéo, vous apprendrez à configurer les paramètres [!UICONTROL zip] et de code postal afin de pouvoir effectuer une analyse en fonction des données de cette région.
+Dans cette vidéo, vous apprendrez à configurer les paramètres de [!UICONTROL code postal] afin de pouvoir effectuer une analyse en fonction des données de cette région.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-Pour plus d’informations sur les paramètres [!UICONTROL code postal], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Pour plus d’informations sur les paramètres de [!UICONTROL code postal], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=fr).
