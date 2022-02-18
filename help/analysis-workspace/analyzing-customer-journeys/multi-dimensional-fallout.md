@@ -1,6 +1,6 @@
 ---
-title: Abandon multidimensionnel dans Analysis Workspace
-description: Les abandons dans Analysis Workspace vous permettent de mélanger des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
+title: Abandons multidimensionnels dans Analysis Workspace
+description: Dans Analysis Workspace, vous pouvez grâce aux abandons combiner et associer des dimensions et des mesures comme points de contact dans les entonnoirs et les workflows.
 feature: Visualizations
 topics: null
 activity: use
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# [!DNL Multidimensional Fallout] dans Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] dans Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
 
-[!DNL Fallout] dans Analysis Workspace, vous permet de mélanger des dimensions et des mesures en tant que points de contact dans les entonnoirs et les workflows.
+Dans Analysis Workspace, vous pouvez grâce aux [!DNL Fallout] combiner et associer des dimensions et des mesures comme points de contact dans les entonnoirs et les workflows.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 
-Cette puissante fonctionnalité vous offre plus de flexibilité pour définir les étapes utilisateur sur lesquelles vous souhaitez effectuer des recherches.
+Grâce à cette puissante fonctionnalité, vous disposez d’une plus grande flexibilité pour définir les étapes des utilisateurs sur lesquelles vous souhaitez en savoir plus.
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=en).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=fr).
