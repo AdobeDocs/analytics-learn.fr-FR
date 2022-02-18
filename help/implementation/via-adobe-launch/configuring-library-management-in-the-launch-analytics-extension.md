@@ -1,6 +1,6 @@
 ---
 title: Configuration de la gestion des bibliothèques pour Analytics
-description: Si vous commencez à utiliser l’extension Experience Platform Launch pour Adobe Analytics, cette vidéo peut vous aider à gérer la bibliothèque de la configuration, y compris à sélectionner les suites de rapports dans lesquelles vous souhaitez envoyer des données.
+description: Si vous commencez à utiliser l’extension Experience Platform Launch pour Adobe Analytics, cette vidéo peut vous aider à gérer les bibliothèques de la configuration, y compris à sélectionner les suites de rapports dans lesquelles vous souhaitez envoyer des données.
 feature: Launch Implementation
 topics: null
 activity: implement
@@ -11,22 +11,22 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
-# Configuration de [!UICONTROL Gestion des bibliothèques] pour [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configuration de la [!UICONTROL gestion des bibliothèques] pour [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Si vous commencez à utiliser Experience Platform Launch et l’[!UICONTROL extension] Adobe Analytics, cette vidéo peut vous aider à [!UICONTROL Gestion des bibliothèques], y compris à sélectionner les [!UICONTROL suites de rapports] dans lesquelles envoyer des données.
+Si vous commencez à utiliser l’[!UICONTROL extension] Experience Platform Launch pour Adobe Analytics, cette vidéo peut vous aider à [!UICONTROL gérer les bibliothèques], y compris à sélectionner les [!UICONTROL suites de rapports] dans lesquelles vous souhaitez envoyer des données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
-Pour plus d’informations sur les aspects de ce cas pratique, consultez les rubriques de documentation suivantes :
+Pour plus d’informations sur les aspects de ce cas d’utilisation, consultez les rubriques de documentation suivantes :
 
-[Codes postaux](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
+[Codes postaux](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=fr)
 
 [Classifications](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=fr)
 
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
