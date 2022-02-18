@@ -1,6 +1,6 @@
 ---
-title: Utilisation de l’opérateur "Est égal à n’importe lequel" dans la segmentation
-description: Est égal à l’un des opérateurs de segment et N’est égal à aucun des opérateurs de segment a été ajouté au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou Contient n’importe lequel. L’utilisation de ces opérateurs au lieu de contient l’un de permet d’améliorer également la vitesse de requête.
+title: Utilisation de l’opérateur Est égal à lʼun(e) de dans la segmentation
+description: Les opérateurs de segment Est égal à lʼun(e) de et N’est égal à aucun des ont été ajoutés au Créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou Contient n’importe lequel. L’utilisation de ces opérateurs à la place de Contient n’importe lequel permet également d’améliorer la vitesse des requêtes.
 feature: Segmentation
 thumbnail: 32960.jpg
 team: Technical Marketing
@@ -9,16 +9,16 @@ role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Utilisation de l’opérateur &quot;Est égal à n’importe lequel&quot; dans la segmentation
+# Utilisation de l’opérateur « Est égal à l’un(e) de » dans la segmentation
 
-Des opérateurs de segment &quot;Est égal à l’un des&quot; et &quot;N’est égal à aucun des&quot; ont été ajoutés au créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou &quot;Contient n’importe lequel&quot;. L’utilisation de ces opérateurs au lieu de &quot;contient n’importe lequel&quot; contribue également à améliorer la vitesse de requête.
+Les opérateurs de segment « Est égal à lʼun(e) de » et « Nʼest égale à aucun des » ont été ajoutés au Créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou « Contient n’importe lequel ». L’utilisation de ces opérateurs au lieu de « Contient nʼimporte lequel » permet également dʼaméliorer la vitesse des requêtes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html)
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr)
