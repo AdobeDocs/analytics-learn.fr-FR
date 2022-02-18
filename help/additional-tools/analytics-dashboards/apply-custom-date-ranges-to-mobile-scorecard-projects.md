@@ -1,7 +1,7 @@
 ---
 title: Application de périodes personnalisées aux projets de carte de performance mobile
-description: Cette vidéo explique comment gérer les différentes options pour les périodes lorsque vous configurez vos projets d’analyse pour les périphériques mobiles, notamment en sélectionnant les plages d’usine que vous souhaitez afficher, ainsi qu’en créant vos propres plages de dates personnalisées.
-feature: Tableaux de bord Analytics
+description: Cette vidéo explique comment gérer vos différentes options pour les périodes lorsque vous configurez vos projets dʼanalyse pour les appareils mobiles, y compris le choix des périodes prêtes à lʼemploi que vous souhaitez afficher, ainsi que la création de vos propres périodes personnalisées.
+feature: Analytics Dashboards
 topic: Mobile
 role: User
 level: Beginner
@@ -10,15 +10,15 @@ thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 28%
+workflow-type: ht
+source-wordcount: '112'
+ht-degree: 100%
 
 ---
 
 # Application de périodes personnalisées aux projets de carte de performance mobile
 
-Cette vidéo explique comment gérer les différentes options pour les périodes lorsque vous configurez vos projets d’analyse pour les périphériques mobiles, notamment en sélectionnant les plages d’usine que vous souhaitez afficher, ainsi qu’en créant vos propres plages de dates personnalisées.
+Cette vidéo explique comment gérer vos différentes options pour les périodes lorsque vous configurez vos projets dʼanalyse pour les appareils mobiles, y compris le choix des périodes prêtes à lʼemploi que vous souhaitez afficher, ainsi que la création de vos propres périodes personnalisées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
