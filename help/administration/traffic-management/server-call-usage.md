@@ -1,9 +1,9 @@
 ---
-title: Utilisation de l’appel au serveur dans Adobe Analytics
-seo-title: Utilisation de l’appel au serveur dans Adobe Analytics
-description: La création de rapports sur l’utilisation de l’appel au serveur vous permettra de suivre exactement la quantité de votre engagement d’appel au serveur que vous avez utilisée à tout moment et vous alertera également de manière proactive lorsque vous approchez de votre engagement total.
-seo-description: La création de rapports sur l’utilisation de l’appel au serveur vous permettra de suivre exactement la quantité de votre engagement d’appel au serveur que vous avez utilisée à tout moment et vous alertera également de manière proactive lorsque vous approchez de votre engagement total.
-feature: Configuration et collecte de données
+title: Utilisation de l’appel au serveur dans Adobe Analytics
+seo-title: Server Call Usage in Adobe Analytics
+description: La création de rapports relative à l’utilisation des appels au serveur vous permet de connaître à n’importe quel moment le nombre exact d’engagements d’appel au serveur que vous avez utilisé. Cela vous alerte également de façon dynamique lorsque la limite de votre nombre d’engagements total est bientôt atteinte.
+seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
@@ -15,16 +15,16 @@ role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Utilisation de l’appel au serveur ] dans Adobe Analytics {#server-call-usage-in-adobe-analytics}
+# [!UICONTROL Utilisation de l’appel au serveur] dans Adobe Analytics {#server-call-usage-in-adobe-analytics}
 
-[!UICONTROL La création de rapports d’] utilisation de l’appel au serveur vous permettra de suivre exactement la quantité de votre engagement d’appel au serveur que vous avez utilisée à un moment donné et vous alertera également de manière proactive lorsque vous approchez de votre engagement total.
+La création de rapports relative à l’[!UICONTROL utilisation des appels au serveur] vous permet de connaître à n’importe quel moment le nombre exact d’engagements d’appel au serveur que vous avez utilisé. Cela vous alerte également de façon dynamique lorsque la limite de votre nombre d’engagements total est bientôt atteinte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-Il peut s’avérer difficile de rester en phase avec la consommation d’appels au serveur de votre entreprise, ce qui peut entraîner une frustration liée aux dépassements de délai. Avec la création de rapports [!UICONTROL Utilisation de l’appel au serveur] , vous pouvez suivre exactement la quantité de votre engagement d’appel au serveur que vous avez utilisée à un moment donné et vous alertera également de manière proactive lorsque vous approchez de votre engagement total. Le tableau de bord qui l’accompagne vous permet d’analyser où sont utilisés vos appels de serveur. Vous pouvez ainsi corriger les implémentations obsolètes ou travailler avec des collègues pour réduire les volumes de données moins importantes qui peuvent être collectées.
+Il peut s’avérer difficile de rester à jour en ce qui concerne la consommation d’appels au serveur de votre entreprise, ce qui peut entraîner une frustration liée aux dépassements. Avec la création de rapports relative à l’[!UICONTROL utilisation des appels au serveur], vous pouvez connaître à n’importe quel moment le nombre exact d’engagements d’appel au serveur que vous avez utilisé. Cela vous alerte également de façon dynamique lorsque la limite de votre nombre d’engagements total est bientôt atteinte. Le tableau de bord qui l’accompagne vous permet d’analyser où sont utilisés vos appels au serveur. Vous pouvez ainsi corriger les implémentations incontrôlées ou travailler avec des collègues pour réduire les volumes de données moins importantes qui peuvent être collectées.
