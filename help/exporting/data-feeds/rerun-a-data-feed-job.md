@@ -1,24 +1,24 @@
 ---
 title: Réexécution d’une tâche de flux de données
-description: L’interface utilisateur des flux de données dans Adobe Analytics facilite la gestion des flux de données. Si vous avez accès à la gestion des flux de données, vous pouvez exécuter à nouveau une tâche de flux de données vous-même à l’aide de l’interface utilisateur des flux de données, sans avoir à l’équipe d’assistance clientèle pour renvoyer les fichiers de flux de données récents.
-feature: Flux de données, configuration et collecte de données
+description: L’interface utilisateur des flux de données d’Adobe Analytics facilite beaucoup la gestion des flux de données. Si vous avez accès à la gestion des flux de données, vous pouvez exécuter à nouveau une tâche de flux de données vous-même à l’aide de l’interface utilisateur des flux de données sans que l’équipe du service clientèle n’envoie à nouveau les fichiers de flux de données récents.
+feature: Data Feeds, Data Configuration and Collection
 topic: Administration
 role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 335748.jpg
 kt: KT-8465
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-
 # Réexécution d’une tâche de flux de données
 
-L’interface utilisateur des flux de données dans Adobe Analytics facilite la gestion des flux de données. Si vous avez accès à la gestion des flux de données, vous pouvez exécuter à nouveau une tâche de flux de données vous-même à l’aide de l’interface utilisateur des flux de données, sans avoir à l’équipe d’assistance clientèle pour renvoyer les fichiers de flux de données récents.
+L’interface utilisateur des flux de données d’Adobe Analytics facilite beaucoup la gestion des flux de données. Si vous avez accès à la gestion des flux de données, vous pouvez exécuter à nouveau une tâche de flux de données vous-même à l’aide de l’interface utilisateur des flux de données sans que l’équipe du service clientèle n’envoie à nouveau les fichiers de flux de données récents.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)
