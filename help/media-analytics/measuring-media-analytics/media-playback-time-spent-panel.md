@@ -1,24 +1,24 @@
 ---
-title: Panneau Durée de lecture du média
-description: Le panneau Temps passé sur la lecture multimédia permet aux utilisateurs du média de comprendre leur audience en fonction de la durée de visionnage au cours de la journée par rapport à une granularité donnée. Vous pouvez également effectuer un "zoom avant" sur une période de la journée ou créer des segments temporels séquentiels afin d’afficher clairement l’avance et la sortie des portions tout au long de la journée.
+title: Panneau Temps de lecture de média
+description: Le panneau Temps de lecture de média permet aux utilisateurs du média de comprendre leur audience en fonction de la durée de visionnage au cours de la journée par rapport à une granularité donnée. Vous pouvez également effectuer un « zoom avant » sur une période de la journée ou créer des segments temporels séquentiels afin d’afficher clairement l’entrée et la sortie des portions tout au long de la journée.
 feature: Panels
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 338699.jpg
 kt: 9379
-source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
-workflow-type: tm+mt
+exl-id: 100f33bb-9a2f-4181-835b-16537e02cd80
+source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
+# Panneau Temps de lecture de média
 
-# Panneau Durée de lecture du média
-
-Le panneau Temps passé sur la lecture multimédia permet aux utilisateurs du média de comprendre leur audience en fonction de la durée de visionnage au cours de la journée par rapport à une granularité donnée. Vous pouvez également effectuer un &quot;zoom avant&quot; sur une période de la journée ou créer des segments temporels séquentiels afin d’afficher clairement l’avance et la sortie des portions tout au long de la journée.
+Le panneau Temps de lecture de média permet aux utilisateurs du média de comprendre leur audience en fonction de la durée de visionnage au cours de la journée par rapport à une granularité donnée. Vous pouvez également effectuer un « zoom avant » sur une période de la journée ou créer des segments temporels séquentiels afin d’afficher clairement l’entrée et la sortie des portions tout au long de la journée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=fr).
