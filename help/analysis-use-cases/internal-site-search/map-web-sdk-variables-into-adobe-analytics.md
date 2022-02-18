@@ -1,7 +1,7 @@
 ---
-title: Mise en correspondance de variables SDK Web dans Adobe Analytics
-description: Découvrez comment mettre en correspondance des variables Analytics du SDK Web vers Adobe Analytics à lʼaide de règles de traitement.
-feature: Cas d’utilisation
+title: Mappage de variables SDK web dans Adobe Analytics
+description: Découvrez comment mapper des variables Analytics du SDK web vers Adobe Analytics à lʼaide de règles de traitement.
+feature: Use Cases
 role: User
 level: Intermediate
 doc-type: feature video
@@ -9,20 +9,20 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 38%
+workflow-type: ht
+source-wordcount: '133'
+ht-degree: 100%
 
 ---
 
-# Mise en correspondance de variables SDK Web dans Adobe Analytics
+# Mappage de variables SDK web dans Adobe Analytics
 
-Découvrez comment mettre en correspondance des variables Analytics du SDK Web vers Adobe Analytics à lʼaide de règles de traitement.
+Découvrez comment mapper des variables Analytics du SDK web vers Adobe Analytics à lʼaide de règles de traitement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
 
-## Informations supplémentaires 
+## Informations supplémentaires
 
-Pour obtenir la liste des variables mappées automatiquement du SDK Web à Adobe Analytics, consultez cette [documentation](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html)
+Pour obtenir une liste des variables mappées automatiquement entre le SDK web et Adobe Analytics, consultez cette [documentation](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=fr).
 
-**REMARQUE :** lors de la configuration des règles de traitement, il se peut que la variable &quot;a.x.[your schema]&quot; ne soit pas automatiquement indiquée dans la liste déroulante. S&#39;il n&#39;y en a pas, ne paniquez pas. Saisissez-le simplement selon le format et ajoutez-le en tant que variable contextData . Après en avoir ajouté un ou deux, vous pouvez constater que d’autres sont chargés en différé.
+**REMARQUE :** lors de la configuration des règles de traitement, il se peut que la variable « a.x.[your schema] » ne soit pas automatiquement indiquée dans la liste déroulante. S’il n’y en a pas, ne paniquez pas. Saisissez-la simplement selon le format et ajoutez-la comme variable contextData. Après en avoir ajouté une ou deux, vous pouvez constater que d’autres sont chargées en différé.
