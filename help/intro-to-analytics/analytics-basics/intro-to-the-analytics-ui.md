@@ -1,7 +1,7 @@
 ---
 title: Introduction à l’interface utilisateur d’Analytics
 description: Cette vidéo vous oriente vers l’interface Adobe Analytics et vous montre où se trouvent les outils nécessaires à l’implémentation et à l’exécution d’analyses.
-feature: Concepts de base d’Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: f979ce69-935d-4273-a5dc-b09aee82166d
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '69'
+source-wordcount: '67'
 ht-degree: 100%
 
 ---
