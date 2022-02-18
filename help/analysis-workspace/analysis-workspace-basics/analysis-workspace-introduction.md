@@ -1,8 +1,8 @@
 ---
 title: 'Présentation rapide dʼAnalysis Workspace '
-seo-title: 'Présentation rapide dʼAnalysis Workspace '
+seo-title: Quick Introduction To Analysis Workspace
 description: Aperçu rapide dʼAnalysis Workspace pour découvrir comment le produit prend en charge les novices et les experts en données.
-feature: Concepts de base de Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -14,7 +14,7 @@ level: Beginner
 exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '45'
+source-wordcount: '38'
 ht-degree: 100%
 
 ---
