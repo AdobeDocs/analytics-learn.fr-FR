@@ -1,24 +1,24 @@
 ---
-title: Utilisation de la visualisation sous forme d’anneau
-description: Dans cette vidéo, découvrez comment ajouter et configurer la visualisation Anneau dans votre projet Analysis Workspace.
-feature: Visualisations
+title: Utilisation de la visualisation en anneau
+description: Dans cette vidéo, découvrez comment ajouter et configurer la visualisation en anneau dans votre projet Analysis Workspace.
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334309.jpg
 kt: 8130
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 26%
+exl-id: 24f6db24-f8b3-4506-964c-da23e0e0b505
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '59'
+ht-degree: 100%
 
 ---
 
+# Utilisation de la visualisation en anneau
 
-# Utilisation de la visualisation sous forme d’anneau
-
-Dans cette vidéo, découvrez comment ajouter et configurer la visualisation Anneau dans votre projet Analysis Workspace.
+Dans cette vidéo, découvrez comment ajouter et configurer la visualisation en anneau dans votre projet Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=en).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=fr).
