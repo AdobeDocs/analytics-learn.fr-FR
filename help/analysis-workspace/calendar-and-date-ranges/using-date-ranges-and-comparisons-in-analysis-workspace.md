@@ -1,6 +1,6 @@
 ---
-title: Utilisation de périodes et de comparaisons de dates dans Analysis Workspace
-description: Dans cette vidéo, vous apprendrez à utiliser les dates, plages de dates et comparaisons de dates afin de personnaliser vos tableaux et visualisations pour la période appropriée.
+title: Utilisation de périodes et de comparaisons dans Analysis Workspace
+description: Dans cette vidéo, découvrez comment utiliser les dates, les périodes ainsi que les comparaisons de dates afin de personnaliser vos tableaux et vos visualisations en fonction de la période appropriée.
 feature: Calendar
 thumbnail: 30753.jpg
 team: Technical Marketing
@@ -9,15 +9,15 @@ role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 27%
+ht-degree: 100%
 
 ---
 
-# Utilisation [!UICONTROL Périodes] et comparaisons dans Analysis Workspace
+# Utilisation de [!UICONTROL périodes] et de comparaisons dans Analysis Workspace
 
-Dans cette vidéo, vous apprendrez à utiliser les dates, [!UICONTROL plages de dates], ainsi que des comparaisons de dates afin de personnaliser vos tableaux et visualisations pour la période appropriée.
+Dans cette vidéo, découvrez comment utiliser les dates, les [!UICONTROL périodes] ainsi que les comparaisons de dates afin de personnaliser vos tableaux et vos visualisations en fonction de la période appropriée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
