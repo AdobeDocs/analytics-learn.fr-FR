@@ -1,6 +1,6 @@
 ---
-title: Fenêtres rétroactives personnalisées dans Attribution IQ
-description: Les fenêtres rétroactives personnalisées vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option permet généralement d’accroître la précision de l’attribution pour les événements qui se produisent au début de la période de création des rapports en tenant compte des interactions qui se sont produites au cours du ou des mois précédents.
+title: Intervalles de recherche en amont personnalisés dans Attribution IQ
+description: Les intervalles de recherche en amont personnalisés vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option permet généralement d’accroître la précision de l’attribution pour les événements qui se produisent au début de la période de création des rapports en tenant compte des interactions qui se sont produites au cours du ou des mois précédents.
 feature: Attribution
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Intermediate
 exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
-# Fenêtres rétroactives personnalisées dans Attribution IQ
+# Intervalles de recherche en amont personnalisés dans Attribution IQ
 
-Les fenêtres rétroactives personnalisées vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option permet généralement d’accroître la précision de l’attribution pour les événements qui se produisent au début de la période de création des rapports en tenant compte des interactions qui se sont produites au cours du ou des mois précédents.
+Les intervalles de recherche en amont personnalisés vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option permet généralement d’accroître la précision de l’attribution pour les événements qui se produisent au début de la période de création des rapports en tenant compte des interactions qui se sont produites au cours du ou des mois précédents.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-Pour plus d’informations, voir la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr#lookback-windows)
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr#lookback-windows)
