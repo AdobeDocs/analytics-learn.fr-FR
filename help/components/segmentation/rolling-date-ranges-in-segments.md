@@ -1,6 +1,6 @@
 ---
-title: Utilisation de plages de dates flottantes dans les segments
-description: 'Adobe Analytics vous permet de répondre à des questions du type : Quelle était ma moyenne glissante de 60 jours pour les recettes ? ou - Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ? en incluant des plages de dates variables dans les segments. Cette vidéo vous montre comment le faire.'
+title: Périodes flottantes dans les segments
+description: 'Adobe Analytics vous permet de répondre à des questions du type : quelle était la moyenne glissante de mon chiffre d’affaires sur 60 jours ? ou encore Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ? en incluant des périodes flottantes dans les segments. Cette vidéo vous explique la procédure à suivre.'
 feature: Segmentation
 topics: null
 activity: use
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
-# Périodes cumulées [!UICONTROL Périodes] dans [!UICONTROL Segments] {#rolling-date-ranges-in-segments}
+# [!UICONTROL Périodes] flottantes dans les [!UICONTROL segments] {#rolling-date-ranges-in-segments}
 
-Adobe Analytics vous permet de répondre à des questions du type &quot;Quelle était ma moyenne glissante de 60 jours pour les recettes ?&quot; ou &quot;Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ?&quot; en incluant des [!UICONTROL plages de dates variables] dans [!UICONTROL segments]. Cette vidéo vous montre comment le faire.
+Adobe Analytics vous permet de répondre à des questions du type « Quelle était la moyenne glissante de mon chiffre d’affaires sur 60 jours ? » ou « Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ? » en incluant des [!UICONTROL périodes] flottantes dans les [!UICONTROL segments]. Cette vidéo vous explique la procédure à suivre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
