@@ -1,6 +1,6 @@
 ---
-title: Création de plages de dates personnalisées dans Analysis Workspace
-description: Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de ce qui est prédéfini dans le produit. Cette vidéo vous montre comment créer trois exemples de plages de dates personnalisées.
+title: Création de périodes personnalisées dans Analysis Workspace
+description: Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de celles préconfigurées dans le produit. Cette vidéo vous explique comment créer trois exemples de périodes personnalisées.
 feature: Calendar
 kt: 2113
 thumbnail: 23975.jpg
@@ -8,16 +8,16 @@ role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
 source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Création d’une personnalisation [!UICONTROL Périodes] dans Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
+# Création de [!UICONTROL périodes] personnalisées dans Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
-Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de ce qui est prédéfini dans le produit. Cette vidéo vous montre comment créer trois exemples de plages de dates personnalisées.
+Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de celles préconfigurées dans le produit. Cette vidéo vous explique comment créer trois exemples de périodes personnalisées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).
