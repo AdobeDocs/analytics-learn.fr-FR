@@ -2,7 +2,7 @@
 title: Première mise en œuvre dʼAdobe Analytics
 landing-page-description: Cette vidéo de quelques minutes vous guide tout au long du processus d’utilisation des données d’Adobe Analytics.
 description: La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, cette vidéo vous guidera en quelques minutes tout au long du processus d’utilisation des données.
-feature: Concepts de base de la mise en œuvre
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
