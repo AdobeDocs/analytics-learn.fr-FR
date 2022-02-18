@@ -12,14 +12,14 @@ level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
 
 # Utilisation dʼAnalysis Workspace pour créer des requêtes API Adobe Analytics 2.0 {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-Dans cette vidéo, nous vous expliquons comment tirer profit dʼAnalysis Workspace afin de créer automatiquement des requêtes API 2.0. Grâce au débogage de lʼinterface utilisateur, vous pouvez copier et coller directement des requêtes JSON dans nʼimporte quel client API pour renvoyer des données [!DNL Analytics]. Vous pouvez désormais activer le débogueur plus facilement en accédant à Aide de Workspace > Activer le débogueur.
+Dans cette vidéo, nous vous expliquons comment tirer profit dʼAnalysis Workspace afin de créer automatiquement des requêtes API 2.0. Grâce au débogage de lʼinterface utilisateur, vous pouvez copier et coller directement des requêtes JSON dans nʼimporte quel client API pour renvoyer des données [!DNL Analytics]. Vous pouvez désormais activer le débogueur plus facilement en accédant à Aide de l’espace de travail > Activer le débogueur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
 
