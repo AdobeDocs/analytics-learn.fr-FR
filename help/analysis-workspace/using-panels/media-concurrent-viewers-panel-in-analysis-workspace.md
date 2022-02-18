@@ -1,7 +1,7 @@
 ---
-title: Panneau Observateurs simultanés de médias dans Analysis Workspace
-description: Pour les clients Media Analytics, le panneau Observateurs simultanés de médias vous permet de déterminer où s’est produit le pic d’accès simultanés ou où des abandons ont eu lieu, ce qui vous permet de mieux comprendre la qualité du contenu et l’engagement des observateurs, ainsi que de vous aider à résoudre les problèmes ou à planifier le volume/l’échelle.
-feature: Panneaux
+title: Panneau Observateurs simultanés de médias dans Analysis Workspace
+description: Pour les clients Media Analytics, le panneau Observateurs simultanés de médias vous permet de déterminer où s’est produit le pic d’accès simultanés ou où des abandons ont eu lieu, ce qui vous permet de mieux comprendre la qualité du contenu et l’engagement des observateurs, ainsi que de vous aider à résoudre les problèmes ou à planifier le volume et l’échelle.
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Intermediate
 exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 17%
+workflow-type: ht
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
-# Panneau Observateurs simultanés de médias dans Analysis Workspace
+# Panneau Observateurs simultanés de médias dans Analysis Workspace
 
-Pour les clients Media Analytics, le panneau Observateurs simultanés de médias vous permet de déterminer où s’est produit le pic d’accès simultanés ou où des abandons ont eu lieu, ce qui vous permet de mieux comprendre la qualité du contenu et l’engagement des observateurs, ainsi que de vous aider à résoudre les problèmes ou à planifier le volume/l’échelle.
+Pour les clients Media Analytics, le panneau Observateurs simultanés de médias vous permet de déterminer où s’est produit le pic d’accès simultanés ou où des abandons ont eu lieu, ce qui vous permet de mieux comprendre la qualité du contenu et l’engagement des observateurs, ainsi que de vous aider à résoudre les problèmes ou à planifier le volume et l’échelle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-Pour plus d’informations, consultez la [documentation ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=en#analysis-workspace).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=fr).
