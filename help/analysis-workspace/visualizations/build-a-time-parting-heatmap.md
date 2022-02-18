@@ -1,6 +1,6 @@
 ---
-title: Création d’une carte thermique des tranches horaires dans Analysis Workspace
-description: Découvrez comment ramener votre analyse de répartition du temps au niveau supérieur en créant une visualisation de carte thermique des comportements.
+title: Création d’une carte thermique de répartition du temps dans Analysis Workspace
+description: Découvrez comment booster votre analyse de répartition du temps en créant une visualisation de carte thermique des comportements.
 feature: Visualizations
 doc-type: feature video
 thumbnail: 26991.jpg
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
 source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Création d’une carte thermique des tranches horaires dans Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
+# Création d’une carte thermique de répartition du temps dans Analysis Workspace {#build-a-time-parting-heatmap-in-analysis-workspace}
 
-Découvrez comment ramener votre analyse de répartition du temps au niveau suivant en créant une carte thermique [!UICONTROL visualisation] des comportements.
+Découvrez comment booster votre analyse de répartition du temps en créant une [!UICONTROL visualisation] de carte thermique des comportements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
