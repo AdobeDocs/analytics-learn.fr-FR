@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
+source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
 workflow-type: tm+mt
-source-wordcount: '2254'
+source-wordcount: '2268'
 ht-degree: 99%
 
 ---
@@ -214,6 +214,9 @@ ht-degree: 99%
 + Reports and Analytics {#reports-and-analytics}
    + [Rapports en temps réel dans Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
+   + Compétences clés en administration {#key-admin-skills}
+      + [Créer une communauté plus forte](administration/key-admin-skills/empowered-community.md)
+      + [Simplifier et consacrer moins de temps à la formation des utilisateurs](administration/key-admin-skills/simplify-training-users.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
