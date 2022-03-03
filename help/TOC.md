@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
 source-wordcount: '2280'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -235,10 +235,10 @@ ht-degree: 98%
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
-      + [Configuration des classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configurer les classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configuration des variables de hiérarchie](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Configuration des variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Configuration des classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
+      + [Configurer les variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configurer les classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
