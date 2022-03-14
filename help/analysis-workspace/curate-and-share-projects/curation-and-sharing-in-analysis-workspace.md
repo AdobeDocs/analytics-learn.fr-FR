@@ -8,14 +8,14 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341021.jpg
 kt: 2294
-source-git-commit: 5791ddd8ef948d74148bc4c2d4834a69ce879858
+source-git-commit: 8cba2c4f9d7daa5befe4f6bd90afed066dbbfea9
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 89%
+source-wordcount: '124'
+ht-degree: 90%
 
 ---
 
-# titre Traitement et partage dans Analysis Workspace
+# Traitement et partage dans Analysis Workspace
 
 Une fois que vous avez créé un projet dans Analysis Workspace, vous pouvez le [!UICONTROL traiter] (simplifier) et le partager avec d’autres équipes et individus de votre entreprise afin qu’ils puissent l’explorer et utiliser les données en libre-service. Cette vidéo vous explique comment travailler avec le [!UICONTROL traitement] et le partage.
 
