@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 34749.jpg
 kt: 9830
-source-git-commit: 404ec61f8e1ad389f9d0f51d60ce5d9634b0a38c
+exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
+source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
 workflow-type: tm+mt
-source-wordcount: '3644'
+source-wordcount: '3690'
 ht-degree: 1%
 
 ---
-
 
 # Guide complet de transition vers Adobe Analytics à partir des Google Analytics
 
@@ -268,20 +268,19 @@ Cependant, je vous recommande vivement d’utiliser Adobe Analytics et les Googl
 
 De nombreuses ressources sont disponibles au-delà de ce guide pour vous aider à améliorer votre stratégie :
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home) (qui contient des tutoriels, des vidéos, de la documentation et des forums de la communauté)
-* [Adobe de groupes d’utilisateurs](https://analytics-augs.adobe.com/) (il s’agit d’un centre d’événements gérés par la communauté qui permet aux utilisateurs de se connecter les uns aux autres et d’améliorer leurs implémentations. Il est conseillé de vérifier également les autres régions, car elles sont basées sur certains fuseaux horaires.)
-* Canal YouTube
-   * [Groupes d’utilisateurs Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)
-* Canaux Slack
-   * [Mesurer le tchat](https://www.measure.chat/)
-* et plus encore 
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home) - Contient des tutoriels, des vidéos, de la documentation et des forums de la communauté.
+* [Adobe de groupes d’utilisateurs](https://analytics-augs.adobe.com/) - Un hub d’événements gérés par la communauté pour aider les utilisateurs à se connecter les uns aux autres et améliorer leurs mises en oeuvre. Ces événements étant basés sur un fuseau horaire spécifique, il est préférable de vérifier également quelles autres régions sont exécutées.
+* [Canal YouTube des groupes d’utilisateurs Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Impossible de créer une session de groupe d’utilisateurs Adobe Analytics ? Regardez les précédentes sessions de groupes d’utilisateurs à travers le monde pour en savoir plus sur l’utilisation de l’outil par vos pairs.
+* [Mesurer le canal du Slack de conversation](https://www.measure.chat/) - Connectez-vous avec les utilisateurs d’Adobe Analytics à travers le monde et partagez les leçons du secteur, posez des questions à vos pairs et rejoignez des groupes d’intérêt axés sur les mesures.
+* et plus encore !
 
 ## Auteur
 
 Ce document a été rédigé par :
 
-![Jennifer Dugan](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
+
+Jennifer Dungan, responsable de l’optimisation chez Torstar
 
 Champion Adobe Analytics
 
-Jennifer Dugan, responsable de l&#39;optimisation chez Torstar
