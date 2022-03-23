@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
+source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2286'
 ht-degree: 98%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 98%
       + [Super session du Summit 2019 - Voyage et hébergement](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Super session du Summit 2019 - Vente au détail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Super session du Summit 2019 - Technologie de pointe](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Transitioning from other platforms {#transitioning-from-other-platforms}
+   + Transition à partir d’autres plateformes {#transitioning-from-other-platforms}
       + [Transition à partir des Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Concepts de base d’Analytics {#analytics-basics}
       + [Bouton Essayer dans l’espace de travail dans Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
@@ -78,7 +78,7 @@ ht-degree: 98%
       + [Création d’une table des matières](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Clic avec le bouton droit pour optimiser l’efficacité de l’espace de travail](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Raccourcis clavier](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Annotations in Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Annotations dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Barre de menu](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Gestion de projet](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [Annulation d’actions dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -184,7 +184,7 @@ ht-degree: 98%
       + [Traitement et partage dans Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Lien direct vers un projet](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Téléchargement de 50 000 éléments au format CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exporter au format CSV à partir d’Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=fr)
+      + [Exportation au format CSV et PDF à partir d’Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Partage de composants intégrés](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Planification et téléchargement de projets](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Partage de projets dans Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -217,7 +217,7 @@ ht-degree: 98%
 + Reports and Analytics {#reports-and-analytics}
    + [Rapports en temps réel dans Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
-   + Key Admin Skills {#key-admin-skills}
+   + Compétences clés en administration {#key-admin-skills}
       + [Créer une communauté plus forte](administration/key-admin-skills/empowered-community.md)
       + [Simplifier et consacrer moins de temps à la formation des utilisateurs](administration/key-admin-skills/simplify-training-users.md)
       + [Trouver les personnes appropriées pour votre équipe Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
@@ -234,12 +234,12 @@ ht-degree: 98%
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Configuration des canaux marketing](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Create marketing channel processing rules](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Création de règles de traitement des canaux marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurer les classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
-      + [Configure hierarchy variables](administration/manage-report-suites/configure-hierarchy-variables.md)
+      + [Configuration des variables de hiérarchie](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Configurer les variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurer les classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
