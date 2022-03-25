@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
 source-wordcount: '2286'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 98%
       + [Super session du Summit 2019 - Voyage et hébergement](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Super session du Summit 2019 - Vente au détail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Super session du Summit 2019 - Technologie de pointe](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Transition à partir d’autres plateformes {#transitioning-from-other-platforms}
-      + [Transition à partir des Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+   + Transitionner à partir d’autres plateformes {#transitioning-from-other-platforms}
+      + [Transitionner à partir de Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Concepts de base d’Analytics {#analytics-basics}
       + [Bouton Essayer dans l’espace de travail dans Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Présentation du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -233,13 +233,13 @@ ht-degree: 98%
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
-      + [Configuration des canaux marketing](administration/manage-report-suites/set-up-marketing-channels.md)
-      + [Création de règles de traitement des canaux marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
+      + [Configurer des canaux marketing](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [Créer des règles de traitement des canaux marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurer les classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
-      + [Configuration des variables de hiérarchie](administration/manage-report-suites/configure-hierarchy-variables.md)
+      + [Configurer les variables de hiérarchie](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Configurer les variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurer les classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
