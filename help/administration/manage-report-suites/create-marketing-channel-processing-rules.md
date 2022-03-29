@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 76%
 
 ---
 
@@ -21,5 +21,9 @@ ht-degree: 100%
 Dans cette vidéo, nous examinons comment configurer des règles de traitement pour les canaux marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Pour optimiser l’efficacité des canaux marketing pour Attribution IQ et Customer Journey Analytics, nous avons publié certains articles. [bonnes pratiques révisées](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=fr).
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=fr).

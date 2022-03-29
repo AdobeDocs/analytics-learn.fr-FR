@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
 workflow-type: tm+mt
-source-wordcount: '2286'
+source-wordcount: '2294'
 ht-degree: 99%
 
 ---
@@ -162,7 +162,7 @@ ht-degree: 99%
       + [Présentation des variables de trafic (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Présentation des variables de conversion (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Utilisation des dimensions dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=fr)
-   + Calendrier et plages de dates {#calendar-and-date-ranges}
+   + Calendrier et périodes {#calendar-and-date-ranges}
       + [Utilisation de dates dans Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Application de périodes réutilisables dans votre projet](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Utilisation de périodes et de comparaisons dans Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -343,6 +343,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Présentation de Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envoi d’une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Envoi de rapports Data Warehouse dans l’extraction de données Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
