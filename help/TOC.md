@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
-source-wordcount: '2294'
-ht-degree: 99%
+source-wordcount: '2299'
+ht-degree: 98%
 
 ---
 
@@ -151,6 +151,7 @@ ht-degree: 99%
       + [Segments au niveau du panneau](analysis-workspace/using-panels/panel-level-segments.md)
       + [Utilisation de segments en tant que dimensions dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Segments rapides dans Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Mesures {#metrics}
       + [Compréhension des mesures de base des visiteurs](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=fr)
