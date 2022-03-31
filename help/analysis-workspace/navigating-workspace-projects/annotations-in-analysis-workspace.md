@@ -1,24 +1,24 @@
 ---
-title: Annotations dans Analysis Workspace
-description: Dans Workspace, les annotations vous permettent de communiquer efficacement des nuances de données contextuelles et des informations aux utilisateurs de votre entreprise. Vous pouvez annoter une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. pour mieux informer les utilisateurs sur les raisons pour lesquelles ils voient ce qu’ils voient dans les graphiques en courbes, les tableaux, etc.
+title: Annotations dans Analysis Workspace
+description: Les annotations de l’espace de travail vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Vous pouvez annoter une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. afin de mieux informer les utilisateurs de ce qui se cache derrière les données des graphiques linéaires, des tableaux, etc.
 feature: Annotations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341266.jpg
 kt: 9978
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
-workflow-type: tm+mt
+exl-id: 9b67b953-80c0-4a0c-bc57-8183338691c5
+source-git-commit: 6997a3939f53de32605d814f0a788288f9d6cb90
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
+# Annotations dans Analysis Workspace
 
-# Annotations dans Analysis Workspace
-
-Dans Workspace, les annotations vous permettent de communiquer efficacement des nuances de données contextuelles et des informations aux utilisateurs de votre entreprise. Vous pouvez annoter une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. pour mieux informer les utilisateurs sur les raisons pour lesquelles ils voient ce qu’ils voient dans les graphiques en courbes, les tableaux, etc.
+Les annotations de l’espace de travail vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Vous pouvez annoter une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. afin de mieux informer les utilisateurs de ce qui se cache derrière les données des graphiques linéaires, des tableaux, etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=fr).
