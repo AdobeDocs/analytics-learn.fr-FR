@@ -1,6 +1,6 @@
 ---
 title: Comment Adobe Analysis Workspace peut changer votre entreprise
-landing-page-description: Avec Analysis Workspace, vous pouvez effectuer des analyses ad hoc, des analyses flexibles, des analyses de cohortes et des analyses d’abandons.
+landing-page-description: Découvrez comment effectuer des analyses ad hoc, des analyses flexibles, des analyses de cohortes et des analyses d’abandons à l’aide d’Analysis Workspace.
 description: Analysis Workspace constitue une nouvelle interface simple d’utilisation dans Adobe Analytics. Dans Analysis Workspace, vous pouvez faire des analyses Ad hoc, des analyses personnalisées, des analyses de cohortes, et des analyses des abandons. Vous pouvez également partager l’environnement de travail de l’analyse avec tous les membres de votre société, et sa fonction glisser-déposer permet à chacun d’analyser facilement les données et d’obtenir rapidement des informations.
 feature: Workspace Basics
 topics: null
@@ -11,10 +11,10 @@ kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 89%
 
 ---
 
