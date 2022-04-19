@@ -3,7 +3,7 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
+source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 97%
@@ -360,7 +360,7 @@ ht-degree: 97%
       + [Détection des anomalies dans Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modification des mesures dans plusieurs demandes](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilisation de Report Builder pour apprendre à utiliser l’API Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Prise en main de Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [Prise en main du Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [Planification d’une requête de Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
       + [Utiliser les options de remise avancées par Report Builder pour les Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Intégrations {#integrations}
