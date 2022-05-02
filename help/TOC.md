@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 96%
       + [Extension Color Eyedropper pour la définition de palettes personnalisées](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
       + [Personnalisation du menu dans Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Renforcement de la sécurité dans Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Définir Analysis Workspace comme page d’entrée](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
+      + [Définir Analysis Workspace comme page de destination](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [Définition d’un projet Analysis Workspace en tant que page de destination](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
       + [Extension du mode sombre pour Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + Accès à l’aide {#getting-help}
@@ -154,7 +154,7 @@ ht-degree: 96%
       + [Segments au niveau du panneau](analysis-workspace/using-panels/panel-level-segments.md)
       + [Utilisation de segments en tant que dimensions dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
-      + [Segments rapides dans Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [Segments rapides dans Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Mesures {#metrics}
       + [Compréhension des mesures de base des visiteurs](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=fr)
@@ -225,10 +225,10 @@ ht-degree: 96%
       + [Créer une communauté plus forte](administration/key-admin-skills/empowered-community.md)
       + [Simplifier et consacrer moins de temps à la formation des utilisateurs](administration/key-admin-skills/simplify-training-users.md)
       + [Trouver les personnes appropriées pour votre équipe Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [Asseyez-vous à la table](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Avoir une place à table](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
       + [Raconter des histoires percutantes avec des données](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [Traduire le langage technique Adobe Analytics d’une manière non technique](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [Utilisation transversale](administration/key-admin-skills/working-cross-functionally.md)
+      + [Traduire le langage technique Adobe Analytics en un langage accessible à tous](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Travailler à la transversale](administration/key-admin-skills/working-cross-functionally.md)
       + [Posez-vous les bonnes questions ?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Présentation de Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Envoi d’une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Envoi de rapports Data Warehouse dans l’extraction de données Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Envoi de rapports Data Warehouse au format Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
@@ -387,7 +387,7 @@ ht-degree: 96%
       + [Créer des mesures personnalisées Analytics avec des données Advertising Cloud](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Création de rapports d’entrée sur le site Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Création de tableaux de bord Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Analyses ad hoc {#ad-hoc-analytics}
+   + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Utilisation du convertisseur de projets pour déplacer des projets d’Ad Hoc Analysis vers Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Connecteur Adobe Analytics dans Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
