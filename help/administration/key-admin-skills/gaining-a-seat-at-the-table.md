@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 98%
+source-wordcount: '1283'
+ht-degree: 94%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-« Avoir une place à table ». Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu’est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est valorisée et appréciée. Je vais vous montrer comment avoir une place à table aidera votre entreprise et votre carrière en tant qu’administrateur/administratrice Adobe Analytics.
+« Avoir une place à table ». Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu’est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est valorisée et appréciée. Je vais vous montrer comment gagner un siège à la table aidera votre entreprise et votre carrière en tant qu&#39;utilisateur Adobe Analytics, que votre rôle officiel soit celui d&#39;administrateur, d&#39;analyste de données ou autre chose que votre carte de visite indique.
 
 ## Pourquoi avoir une place à table ?
 
-Tout d’abord, intéressons-nous à autre chose. Le rôle des analystes de données a évolué. Les analystes ne peuvent plus s’asseoir derrière leurs écrans d’ordinateur en se concentrant uniquement sur les eVars, les événements et les sProps. Vous, en tant qu’administrateur/administratrice, avez la responsabilité de vous assurer que votre entreprise prend les bonnes décisions basées sur les données. Mais pour cela, vous devez être là où ces décisions sont prises, plutôt que d’essayer de faire parler les chiffres assis(e) à votre bureau.
+Tout d’abord, intéressons-nous à autre chose. Le rôle des professionnels des données a évolué. Ils ne peuvent plus s’asseoir derrière leurs écrans d’ordinateur en se concentrant uniquement sur les eVars, les événements et les sProps. Vous, en tant qu’administrateur/administratrice, avez la responsabilité de vous assurer que votre entreprise prend les bonnes décisions basées sur les données. Mais pour cela, vous devez être là où ces décisions sont prises, plutôt que d’essayer de faire parler les chiffres assis(e) à votre bureau.
 
 Voici trois raisons pour lesquelles vous devez être là.
 
