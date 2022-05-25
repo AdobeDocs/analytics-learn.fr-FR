@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Avoir une place à table
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Pourquoi avoir une place à table ?
 
-Tout d’abord, intéressons-nous à autre chose. Le rôle de l’administrateur/administratrice Analytics a évolué. Les administrateurs ne peuvent plus s’asseoir derrière leurs écrans d’ordinateur en se concentrant uniquement sur les eVars, les événements et les sProps. Vous, en tant qu’administrateur/administratrice, avez la responsabilité de vous assurer que votre entreprise prend les bonnes décisions basées sur les données. Mais pour cela, vous devez être là où ces décisions sont prises, plutôt que d’essayer de faire parler les chiffres assis(e) à votre bureau.
+Tout d’abord, intéressons-nous à autre chose. Le rôle des analystes de données a évolué. Les analystes ne peuvent plus s’asseoir derrière leurs écrans d’ordinateur en se concentrant uniquement sur les eVars, les événements et les sProps. Vous, en tant qu’administrateur/administratrice, avez la responsabilité de vous assurer que votre entreprise prend les bonnes décisions basées sur les données. Mais pour cela, vous devez être là où ces décisions sont prises, plutôt que d’essayer de faire parler les chiffres assis(e) à votre bureau.
 
 Voici trois raisons pour lesquelles vous devez être là.
 
