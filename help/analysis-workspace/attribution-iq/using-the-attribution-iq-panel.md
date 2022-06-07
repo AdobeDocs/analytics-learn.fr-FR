@@ -25,4 +25,4 @@ Dans cette vidéo, vous allez découvrir le [!DNL Attribution IQ] [!UICONTROL Pa
 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
-Le [!DNL Attribution IQ] [!UICONTROL Panneau] d’Analysis Workspace permet de comparer visuellement et rapidement l’un des dix [!DNL attribution models] basés sur des règles. Découvrez comment chaque modèle impacte une dimension à l’aide de [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] et même d’un [!DNL Flow Diagram]. Le panneau [!DNL Attribution]  est un excellent point de départ pour une analyse d’attribution plus sophistiquée.
+Le [!DNL Attribution IQ] [!UICONTROL Panneau] d’Analysis Workspace permet de comparer visuellement et rapidement l’un des dix [!DNL attribution models] basés sur des règles. Découvrez comment chaque modèle impacte une dimension à l’aide de [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] et même d’un [!DNL Flow Diagram]. Le [!UICONTROL panneau] [!DNL Attribution] est un excellent point de départ pour une analyse d’attribution plus sophistiquée.
