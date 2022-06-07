@@ -71,7 +71,7 @@ Dans GA4, les utilisateurs ont plus d’options pour personnaliser et ajouter le
 
 ![image2](assets/ga-to-aa_2.png)
 
-C&#39;est probablement la chose qui vous manquera le plus en arrivant chez Adobe ; ils n’ont pas d’écran d’accueil préconfiguré pour vous, mais vous pouvez facilement configurer un espace de travail personnalisé pour répliquer ce dont vous avez besoin à partir de ce qui précède et, si vous le souhaitez, le définir comme votre écran d’entrée. Nous y reviendrons plus tard (ou consultez la section 2.1.2.1 Espace de travail Adobe).
+C’est probablement la chose qui vous manquera le plus en arrivant chez Adobe ; ils n’ont pas d’écran d’accueil préconfiguré pour vous, mais vous pouvez facilement configurer un espace de travail personnalisé pour répliquer ce dont vous avez besoin à partir de ce qui précède et, si vous le souhaitez, le définir comme votre écran d’entrée. Nous y reviendrons plus tard (ou consultez la section 2.1.2.1 Espace de travail Adobe).
 
 #### 2.1.2. Report Builders sur site
 
@@ -182,7 +182,7 @@ Les rapports Conversion personnalisée et Trafic personnalisé sont tous deux de
 
 Le rapport Médias est destiné aux fichiers vidéo ou audio dans lesquels vous avez configuré un suivi spécial des médias.
 
-Rapports personnalisés est une section dans laquelle un utilisateur peut personnaliser les colonnes et les ventilations qu’il a créées dans l’interface des rapports et les enregistrer en tant que rapport personnalisé. Cependant, comme nous l’avons mentionné ci-dessus, Espace de travail permet des ventilations et des corrélations beaucoup plus puissantes. Tout ce qui est personnalisé devrait simplement y être fait là. C’était une bonne solution avant l’existence de Espace de travail.
+Rapports personnalisés est une section dans laquelle un utilisateur peut personnaliser les colonnes et les ventilations qu’il a créées dans l’interface des rapports et les enregistrer en tant que rapport personnalisé. Cependant, comme nous l’avons mentionné ci-dessus, Espace de travail permet des ventilations et des corrélations beaucoup plus puissantes. Tout ce qui est personnalisé devrait simplement y être fait là. C’était une bonne solution avant l’existence de Workspace.
 
 La section Signets est similaire aux rapports personnalisés, où les rapports fréquemment utilisés pouvaient être marqués d’un signet dans l’interface des rapports afin de faciliter leur recherche.
 
