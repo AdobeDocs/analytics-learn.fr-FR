@@ -1,23 +1,23 @@
 ---
-title: Prise en main du Report Builder
-description: Découvrez les principes de base de l’utilisation de Report Builder, notamment l’installation, la connexion et les demandes de données.
+title: Prise en main du Report Builder
+description: Découvrez les principes de base régissant l’utilisation du Report Builder, notamment l’installation, la connexion et les demandes de données.
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
+# Prise en main de [!DNL Report Builder]
 
-# Commencer avec [!DNL Report Builder] 
-
-Découvrez les principes de base de l’utilisation de [!DNL Report Builder], y compris l’installation, la connexion et les demandes de données.
+Découvrez les principes de base régissant l’utilisation du [!DNL Report Builder], notamment l’installation, la connexion et les demandes de données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
 
