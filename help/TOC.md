@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
 source-wordcount: '2365'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -56,11 +56,11 @@ ht-degree: 98%
    + Principes de base d’Analysis Workspace {#analysis-workspace-basics}
       + [Présentation d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Aperçu d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navigation dans la nouvelle page d’entrée](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Mises à jour de la page d’entrée Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [Accéder à la nouvelle page de destination](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Mises à jour de la page de destination d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Création de nouveaux projets Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Création dʼun projet d’espace de travail à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
-      + [Création et gestion de modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [Créer et gérer des modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modèles standard dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Comprendre comment les données sont intégrées à votre projet Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -97,7 +97,7 @@ ht-degree: 98%
       + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Améliorations de la zone de dépôt des segments](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Panneaux et rapports de l’espace de travail de résumé suivant/précédent et de page](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Panneaux et rapports Suivant/précédent et Résumé de la page dans Workspace](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Création de tableaux à structure libre {#building-freeform-tables}
       + [Compréhension de vos données à lʼaide des tableaux à structure libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Utilisation du rail de gauche pour créer des tableaux à structure libre dans Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -184,7 +184,7 @@ ht-degree: 98%
       + [Options supplémentaires dans la visualisation des flux](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [Enveloppement de texte et flux multidimensionnel](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Organisation et partage de projets {#curate-and-share-projects}
-      + [Enregistrement, partage et collaboration sur des projets dans Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Enregistrer, partager et travailler en collaboration sur des projets dans Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Traitement et partage dans Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Lien direct vers un projet](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Téléchargement de 50 000 éléments au format CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [Raconter des histoires percutantes avec des données](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Traduire le langage technique Adobe Analytics en un langage accessible à tous](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Travailler à la transversale](administration/key-admin-skills/working-cross-functionally.md)
-      + [Posez-vous les bonnes questions ?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [Posez-vous les bonnes questions ?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
@@ -351,7 +351,7 @@ ht-degree: 98%
       + [Exportation au format CSV à partir d’Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Présentation de Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Envoi d’une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Envoyer une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Envoi de rapports Data Warehouse au format Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
@@ -363,9 +363,9 @@ ht-degree: 98%
       + [Détection des anomalies dans Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modification des mesures dans plusieurs demandes](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilisation de Report Builder pour apprendre à utiliser l’API Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Prise en main du Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [Planification d’une requête de Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Utiliser les options de remise avancées par Report Builder pour les Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Prise en main du Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [Planifier une requête du Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Utiliser les options de diffusion avancées du Report Builder pour Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Intégrations {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Amélioration de la publication auprès d’une audience Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
@@ -406,8 +406,8 @@ ht-degree: 98%
       + [Super session du Summit 2019 - Voyage et hébergement](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=fr)
    + Vente au détail {#retail}
       + [Introduction aux variables et événements de vente au détail](vertical-specific/retail/intro-to-retail-variables-and-events.md)
-      + [Ajout de variables et d’événements de base de vente au détail aux règles Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
-      + [Ajout d’une règle Launch pour l’événement d’achat](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
+      + [Ajouter des variables et des événements de base de vente au détail aux règles Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+      + [Ajouter une règle Launch pour l’événement d’achat](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Super session du Summit 2019 - Vente au détail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=fr)
 + Media Analytics {#media-analytics}
    + Mesure de Media Analytics {#measuring-media-analytics}
