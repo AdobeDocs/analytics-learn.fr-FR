@@ -1,6 +1,6 @@
 ---
 title: Aide pour Adobe Analytics
-description: À un moment donné, nous aurons tous besoin d'aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
+description: À un moment donné, nous aurons tous besoin d’aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
 feature: Analytics Basics
 topics: null
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Aide pour Adobe Analytics
 
-À un moment donné, nous aurons tous besoin d&#39;aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
+À un moment donné, nous aurons tous besoin d’aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
