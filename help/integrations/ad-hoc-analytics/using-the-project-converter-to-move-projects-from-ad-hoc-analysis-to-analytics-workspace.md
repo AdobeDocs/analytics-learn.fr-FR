@@ -18,7 +18,7 @@ ht-degree: 100%
 
 ---
 
-# Utilisation du convertisseur de projets pour déplacer des projets d’[!DNL Ad Hoc Analysis] vers [!UICONTROL Analytics Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
+# Utilisation du convertisseur de projets pour déplacer des projets d’[!DNL Ad Hoc Analysis] vers [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
 Le convertisseur de projets [!UICONTROL Ad Hoc Analysis] convertit en toute transparence les projets [!UICONTROL Ad Hoc Analysis] (AHA) en projets [!UICONTROL Analysis Workspace] en un clic de bouton.
 
