@@ -1,6 +1,6 @@
 ---
 title: Préférences utilisateur dans Adobe Analytics
-description: La page Composants - Préférences utilisateur vous permet de gérer les paramètres dʼAnalysis Workspace et des composants associés au niveau de lʼutilisateur. Par exemple, vous pouvez choisir une suite de rapports et une palette de couleurs par défaut. Les préférences utilisateur sʼappliquent à tous les nouveaux projets et panneaux.
+description: La page Composants - Préférences utilisateur vous permet de gérer les paramètres dʼAnalysis Workspace et des composants associés au niveau de lʼutilisateur. Par exemple, vous pouvez choisir une suite de rapports et une palette de couleurs par défaut. Les préférences utilisateur sʼappliquent à tous les nouveaux projets et panneaux.
 feature: Workspace Basics
 topic: Personalization
 role: User, Admin
