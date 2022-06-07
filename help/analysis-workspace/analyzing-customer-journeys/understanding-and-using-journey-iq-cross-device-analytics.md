@@ -86,7 +86,7 @@ Parfois, il faut un certain temps à vos utilisateurs pour se connecter et à [!
 
 À quoi cela sert-il ? Rappelez-vous le parcours d’utilisateur d’Isabelle évoqué dans la discussion ci-dessus :
 
-Parcours ![[!DNL Cross-Device Analytics]](assets/cda-isabelle-journey-cross-device-analytics.png)
+![[!DNL Cross-Device Analytics]Parcours](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’achat, et que le [!DNL Co-op Graph] ou [!DNL Private Graph] n’aient pas associé les appareils d’Isabelle avant un certain temps après son achat. Mais la recherche en amont de 30 jours proposée par Analytics sur l’ensemble des appareils lui permet de redéfinir le comportement passé d’Isabelle au niveau de la personne, ce qui vous permet d’avoir une vue d’ensemble de son parcours dont vous avez besoin.
 
@@ -96,14 +96,14 @@ Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’
 
 ## Conditions préalables pour [!UICONTROL Analytics sur l’ensemble des appareils]
 
-Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultimate]](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-analytics.html?lang=fr). Depuis septembre 2019, les clients [!DNL Analytics Ultimate] qui remplissent les conditions préalables répertoriées ci-dessous peuvent utiliser Analytics sur l’ensemble des appareils. Les conditions préalables pour Analytics sur l’ensemble des appareils sont les suivantes :
+Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultimate]](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-analytics.html). Depuis septembre 2019, les clients [!DNL Analytics Ultimate] qui remplissent les conditions préalables répertoriées ci-dessous peuvent utiliser Analytics sur l’ensemble des appareils. Les conditions préalables pour Analytics sur l’ensemble des appareils sont les suivantes :
 
 * Votre société doit être membre d’[!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=fr), ou utilisez un [!DNL Adobe Experience Platform Identity Service Private Graph].
 * Vous devez implémenter tous les éléments requis pour [!DNL Co-op Graph] ou [!DNL Private Graph], y compris [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) ainsi que la synchronisation des identifiants avec le graphique. Veuillez noter qu’en plus des exigences techniques, le [!DNL Co-op Graph] a d’autres exigences légales et contractuelles.
 * Il n’est actuellement pas possible d’utiliser deux organisations IMS avec un seul [!DNL Private Graph]. Vous devez donc effectuer une normalisation sur une seule organisation IMS. Dans certains cas, il est possible pour un client avec plusieurs organisations IMS d’utiliser le [!DNL Co-op Graph] conjointement avec Analytics sur l’ensemble des appareils.
 * Le [!DNL Co-op graph] et le [!DNL Private Graph], ainsi que certains composants d’Analytics sur l’ensemble des appareils, sont hébergés dans [!DNL Microsoft Azure]. Cela signifie que les données [!DNL Analytics] sont copiées entre le centre de traitement des données d’Adobe et la présence d’Adobe dans [!DNL Microsoft Azure]. Certaines données [!DNL Analytics] seront stockées dans [!DNL Azure]. Votre entreprise doit souscrire à cet arrangement.
 * Analytics sur l’ensemble des appareils nécessite une [!UICONTROL suite de rapports] « sur l’ensemble des appareils ». En d’autres termes, la [!UICONTROL suite de rapports] que vous utilisez pour Analytics sur l’ensemble des appareils doit inclure des données provenant de plusieurs types d’appareils ou « surfaces » différents, tels que le web pour ordinateur de bureau, le web mobile et l’application mobile. Depuis septembre 2019, le volume des appels au serveur pour cette [!UICONTROL suite de rapports] doit être de 100 millions d’appels au serveur par jour ou moins. (Les limites du volume des appels au serveur augmenteront au cours des prochains mois.)
-* Depuis septembre 2019, le [!DNL Co-op Graph] et le [!DNL Private Graph] ne sont disponibles qu’en Amérique du Nord. Le planning relatif à la présence des graphiques dans les zones EMEA et APAC sera annoncé ultérieurement. Si vous vous trouvez dans ces régions, nous vous encourageons à à examiner ces conditions préalables dès à présent afin d’être prêt lorsque le graphique sera disponible.
+* Depuis septembre 2019, le [!DNL Co-op Graph] et le [!DNL Private Graph] ne sont disponibles qu’en Amérique du Nord. Le planning relatif à la présence des graphiques dans les zones EMEA et APAC sera annoncé ultérieurement. Si vous vous trouvez dans ces régions, nous vous encourageons à examiner ces conditions préalables dès à présent afin d’être prêt lorsque le graphique sera disponible.
 
 ## Interprétation des données sur l’ensemble des appareils
 
@@ -152,7 +152,7 @@ Avec les analyses entre appareils et Analysis Workspace, vous pouvez visualiser
 
 Vous utilisez probablement plusieurs [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr) pour analyser la façon dont les utilisateurs réussissent à passer par une série donnée d’étapes avant d’atteindre le succès. Saviez-vous que votre vue de ces [!DNL Fallout visualizations] est limitée lors de l’utilisation d’analyses traditionnelles basées sur les appareils ? Pour réussir un « abandon », l’étape suivante doit se produire dans le même navigateur ou la même application que l’étape précédente. Dans les analyses basées sur un appareil, vous ne connaissez pas les personnes qui ont réussi l’étape suivante sur un autre appareil.
 
-Ne vous inquiétez pas, Analytics sur l’ensemble des appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c&#39;est de savoir si la personne a finalement réussi quelque part dans sa tâche.
+Ne vous inquiétez pas, Analytics sur l’ensemble des appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c’est de savoir si la personne a finalement réussi quelque part dans sa tâche.
 
 *[!DNL Fallout]avec CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
