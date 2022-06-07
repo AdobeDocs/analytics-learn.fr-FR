@@ -24,4 +24,4 @@ Les filtres (ou balises) sont un moyen simple et rapide de filtrer le rail de ga
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr)
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html?lang=fr)
