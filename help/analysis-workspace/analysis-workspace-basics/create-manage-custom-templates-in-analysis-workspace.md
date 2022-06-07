@@ -1,5 +1,5 @@
 ---
-title: Création et gestion de modèles personnalisés dans Analysis Workspace
+title: Créer et gérer des modèles personnalisés dans Analysis Workspace
 description: Dans cette vidéo, vous apprendrez comment créer des modèles personnalisés dans Analysis Workspace, afin que vous et votre équipe puissiez débuter à partir dʼun ensemble spécifique de rapports.
 feature: Projects
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
 source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Création et gestion de modèles personnalisés dans Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
+# Créer et gérer des modèles personnalisés dans Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
 Dans cette vidéo, vous apprendrez comment créer des modèles personnalisés dans Analysis Workspace, afin que vous et votre équipe puissiez débuter à partir dʼun ensemble spécifique de rapports.
 
