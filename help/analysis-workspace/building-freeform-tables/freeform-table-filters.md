@@ -24,7 +24,7 @@ Les filtres permettent de mieux contrôler les lignes de données partagées dan
 
 >[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
 
-Dans Analysis Workspace, nous offrons désormais plus de contrôle de filtrage, avec 11 critères de filtrage &amp; opérateurs ET/OU.
+Dans Analysis Workspace, nous offrons désormais plus de contrôle de filtrage, avec 11 critères de filtrage &amp; opérateurs AND/OR.
 
 Pour plus d’informations sur les filtres disponibles, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=fr#cja-workspace).
 
