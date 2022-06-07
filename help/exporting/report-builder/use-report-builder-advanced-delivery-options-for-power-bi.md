@@ -1,24 +1,24 @@
 ---
-title: Utiliser les options de remise avancées par Report Builder pour les Power BI
-description: Dans cette vidéo, vous apprendrez à configurer une planification avancée pour envoyer un classeur de Report Builder à Power BI.
+title: Utiliser les options de diffusion avancées du Report Builder pour Power BI
+description: Dans cette vidéo, vous allez apprendre à configurer un planning avancé pour envoyer un classeur du Report Builder vers Power BI.
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 342377.jpg
 kt: 9874
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: b1b8d519-c035-498b-ac40-a939a019a616
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
+# Utiliser les options de diffusion avancées du [!DNL Report Builder] pour Power BI
 
-# Utilisation [!DNL Report Builder] options de diffusion avancées pour Power BI
-
-Dans cette vidéo, découvrez comment configurer une planification avancée pour envoyer un classeur de Report Builder à Power BI.
+Dans cette vidéo, découvrez comment configurer un planning avancé pour envoyer un classeur du Report Builder vers Power BI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=en).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=fr).
