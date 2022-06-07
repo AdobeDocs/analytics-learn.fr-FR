@@ -24,4 +24,4 @@ Pour les clients Media Analytics, le panneau Observateurs simultanés de média
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=fr).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=fr#analysis-workspace).
