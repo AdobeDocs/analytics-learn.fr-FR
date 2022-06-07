@@ -25,4 +25,4 @@ Découvrez comment mapper des variables Analytics du SDK web vers Adobe Analyt
 
 Pour obtenir une liste des variables mappées automatiquement entre le SDK web et Adobe Analytics, consultez cette [documentation](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=fr).
 
-**REMARQUE :** lors de la configuration des règles de traitement, il se peut que la variable « a.x.[your schema] » ne soit pas automatiquement indiquée dans la liste déroulante. S’il n’y en a pas, ne paniquez pas. Saisissez-la simplement selon le format et ajoutez-la comme variable contextData. Après en avoir ajouté une ou deux, vous pouvez constater que d’autres sont chargées en différé.
+**REMARQUE :** lors de la configuration des règles de traitement, il se peut que la variable « a.x.[your schema] » ne soit pas automatiquement indiquée dans la liste déroulante. S’il n’y en a pas, ne paniquez pas. Saisissez-la simplement selon le format et ajoutez-la comme variable contextData. Après en avoir ajouté une ou deux, vous pouvez constater que d’autres sont chargées en différé.
