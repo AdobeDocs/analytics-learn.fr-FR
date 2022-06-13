@@ -1,28 +1,26 @@
 ---
-title: Création dʼun document dʼexigences commerciales
-description: 'Cette vidéo présente lʼétape la plus importante qui consiste à définir ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous voulez savoir sur votre site ? Mettons-les par écrit et commençons à décider comment nous allons les suivre. '
+title: Création d’un document d’exigences commerciales
+description: 'Découvrez l’étape primordiale de la définition des données comportementales que vous souhaitez capturer et analyser dans Adobe Analytics. Que doit comprendre votre entreprise sur la manière dont les visiteurs utilisent vos propriétés numériques ? Écrivez d’abord ces exigences, puis décidez comment elles seront capturées à l’aide d’événements, de dimensions et de mesures Analytics. '
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3580
+thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 6%
 
 ---
 
-# Création dʼun document dʼexigences commerciales
+# Création d’un document d’exigences commerciales
 
-Cette vidéo présente lʼétape la plus importante qui consiste à définir ce dont vous souhaitez effectuer le suivi avec Adobe Analytics. Quelles sont les choses que vous voulez savoir sur votre site ? Mettons-les par écrit et commençons à décider comment nous allons les suivre.
+Découvrez l’étape primordiale de la définition des données comportementales que vous souhaitez capturer et analyser dans Adobe Analytics. Que doit comprendre votre entreprise sur la manière dont les visiteurs utilisent vos propriétés numériques ? Écrivez d’abord ces exigences, puis décidez comment elles seront capturées à l’aide d’événements, de dimensions et de mesures Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Téléchargez](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) un exemple de document BRD/SDR (document dʼexigences commerciales et document de conception de solutions) que vous pouvez utiliser pour définir votre site.
+[Télécharger](assets/aa-implementation-playbook.xlsx) un exemple de modèle Excel pour documenter les exigences et la conception de collecte de données pour vos propriétés numériques.
 
-[Téléchargez](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) le fichier BRD/SDR à partir de cette vidéo (et la [vidéo SDR](creating-and-maintaining-an-sdr.md)).
+[Télécharger](assets/geometrixx-clothiers-brd-sdr.xlsx) le document Excel présenté dans cette vidéo et/ou visionnez les [vidéo de référence sur la conception de solution](creating-and-maintaining-an-sdr.md).
