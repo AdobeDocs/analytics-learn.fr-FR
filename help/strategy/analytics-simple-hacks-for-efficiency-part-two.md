@@ -1,10 +1,11 @@
 ---
 title: Des solutions simples pour une plus grande efficacité et un libre-service - deuxième partie
-description: 'Découvrez les principaux défis auxquels sont confrontées les équipes d’Analytics aujourd’hui et nos recommandations pour les surmonter à l’aide de stratégies intégrées aux outils. '
+description: Découvrez les principaux défis auxquels sont confrontées les équipes d’Analytics aujourd’hui et nos recommandations pour les surmonter à l’aide de stratégies intégrées aux outils.
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '802'
 ht-degree: 6%
 
 ---
@@ -94,3 +95,5 @@ Utilisez des annotations pour créer des références à la documentation de la 
 Utilisez l’API de création de rapports pour déplacer les rapports standard depuis [!UICONTROL Workspace] aux rapports et aux tableaux de bord planifiés. De plus, profitez des [!UICONTROL Analysis Workspace] pour créer des requêtes d’API.
 
 Nous espérons que vous avez trouvé cet article sur les stratégies in-tool précieux. Pour plus d’informations sur les solutions efficaces pour une plus grande efficacité en dehors de la plateforme Adobe Analytics, cliquez sur [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
+
+Pour en savoir plus sur la stratégie et le leadership de la pensée, voir [Succès des clients](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.

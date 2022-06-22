@@ -1,10 +1,11 @@
 ---
 title: Piratages simples pour une plus grande efficacité et un libre-service - 1ère partie
-description: 'Découvrez les principaux défis auxquels sont confrontées les équipes d’analyse et nos recommandations pour les surmonter à l’aide de stratégies en dehors de l’interface utilisateur d’Adobe Analytics. '
+description: Découvrez les principaux défis auxquels sont confrontées les équipes d’analyse et nos recommandations pour les surmonter à l’aide de stratégies en dehors de l’interface utilisateur d’Adobe Analytics.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ D&#39;autres défis majeurs auxquels sont confrontés les analystes :
    * Créer des PME au sein des différentes équipes de l’organisation
    * Créer leur présence en contribuant à la socialisation des versions et des victoires
    * Utiliser les heures de bureau régulières pour former les formateurs et réduire les tâches ad hoc
+
+Pour en savoir plus sur la stratégie et le leadership de la pensée, voir [Succès des clients](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.

@@ -1,10 +1,11 @@
 ---
 title: Maîtriser les renseignements sur les clients avec Virtual Analyst et Segment IQ
-description: 'Découvrez l’importance de l’utilisation de l’intelligence artificielle et de l’apprentissage automatique (IA/ML). Découvrez les avantages et les succès remportés par les clients mondiaux grâce à l’analyste virtuel et à Segment IQ pour détecter les anomalies, éviter les valeurs aberrantes et optimiser le retour sur investissement. '
+description: Découvrez l’importance de l’utilisation de l’intelligence artificielle et de l’apprentissage automatique (IA/ML). Découvrez les avantages et les succès remportés par les clients mondiaux grâce à l’analyste virtuel et à Segment IQ pour détecter les anomalies, éviter les valeurs aberrantes et optimiser le retour sur investissement.
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1086'
+source-wordcount: '1104'
 ht-degree: 4%
 
 ---
@@ -121,3 +122,5 @@ Soyez informé en permanence des anomalies au sein de vos données, que vous soy
 **stock de produit épuisé :** &quot;Les personnes achetant des objets connectés Fitbit étaient six fois plus susceptibles d’être &quot;en rupture de stock&quot; que les autres clients. Nous avons donc commandé plus d’articles Fitbit.&quot; → Impressions réalisées évitées et davantage de commandes de jours fériés terminées
 
 Pour plus d’informations, consultez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
+
+Pour en savoir plus sur la stratégie et le leadership de la pensée, voir [Succès des clients](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
