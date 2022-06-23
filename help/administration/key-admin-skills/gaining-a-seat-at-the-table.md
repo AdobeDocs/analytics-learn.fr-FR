@@ -9,9 +9,9 @@ thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1283'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-« Avoir une place à table ». Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu’est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est valorisée et appréciée. Je vais vous montrer comment gagner un siège à la table aidera votre entreprise et votre carrière en tant qu&#39;utilisateur Adobe Analytics, que votre rôle officiel soit celui d&#39;administrateur, d&#39;analyste de données ou autre chose que votre carte de visite indique.
+« Avoir une place à table ». Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu’est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est valorisée et appréciée. Je vais vous montrer comment avoir une place à table aidera votre entreprise et votre carrière en tant qu’utilisateur Adobe Analytics, que votre rôle officiel soit celui d’administrateur, d’analyste de données ou autre chose.
 
 ## Pourquoi avoir une place à table ?
 
