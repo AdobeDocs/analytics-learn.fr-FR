@@ -1,6 +1,6 @@
 ---
 title: Vidéos et tutoriels Analytics
-description: 'Tirez le meilleur parti d’Adobe Analytics.  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en tirer parti pour votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes. '
+description: 'Tirez le meilleur parti d’Adobe Analytics.  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes. '
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,9 +9,9 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '345'
+ht-degree: 100%
 
 ---
 
@@ -19,26 +19,26 @@ ht-degree: 0%
 
 # Tutoriels Analytics
 
-Tirez le meilleur parti de [!DNL Adobe Analytics].  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en tirer parti pour votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
+Tirez le meilleur parti de [!DNL Adobe Analytics].  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
 
 Pour démarrer,
-* Voir **&quot;Nouveautés&quot;** section ci-dessous pour connaître les dernières mises à jour et fonctionnalités
+* Consultez la section **« Nouveautés »** ci-dessous pour prendre connaissance des dernières informations et fonctionnalités.
 * **La sélection du personnel** met en évidence certains de nos contenus préférés.
 * Découvrez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**.
-* Utilisez la variable **search** champ en haut de la page si vous savez ce que vous souhaitez apprendre
+* Utilisez le champ **recherche** en haut de la page si vous savez ce que vous souhaitez apprendre.
 
-Des expériences d&#39;apprentissage organisées par rôle et niveau de compétence sont également proposées dans la section Cours. Connectez-vous simplement à Adobe ID et accédez à **Formation > Cours recommandés** dans le volet de navigation supérieur.
+Des expériences d’apprentissage organisées par rôle et niveau de compétence sont également proposées dans la section Cours. Connectez-vous simplement avec votre Adobe ID et accédez à **Formation > Cours recommandés** dans le volet de navigation supérieur.
 
 ## Nouveautés
 
-* **[Créateur de Fiche d’évaluation mobile Adobe Analytics (vidéo)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *Découvrez comment créer et partager des fiches d’évaluation mobiles créées dans [!DNL Analysis Workspace] pour vos utilisateurs en charge de l’exécution.*
+* **[Créateur de cartes de performance mobiles Adobe Analytics (vidéo)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *Découvrez comment créer et partager des cartes de performance mobiles créées dans [!DNL Analysis Workspace] pour vos utilisateurs en charge de l’exécution.*
 
-* **[Application de Fiche d’évaluation mobile Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Découvrez comment télécharger l’application de Fiche d’évaluation mobile et afficher les Fiches d’évaluation mobiles créées dans [!DNL Analysis Workspace].*
+* **[Application Cartes de performance mobiles Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *Découvrez comment télécharger l’application Cartes de performance mobiles et afficher les cartes de performance mobiles créées dans [!DNL Analysis Workspace].*
 
-* **[Annotations dans l’espace de travail (vidéo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement des nuances et des informations contextuelles aux utilisateurs de votre entreprise. Annotez une période ou une plage de dates avec les problèmes de données connus, les jours fériés, les lancements de campagne, etc., afin d’informer davantage les utilisateurs sur les raisons de ce qu’ils voient dans les graphiques en courbes, les tableaux, etc.*
+* **[Annotations dans Workspace (vidéo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *Les annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Annotez une date ou une période avec des problèmes de données connus, des jour fériés, des lancements de campagne, etc. pour mieux informer les utilisateurs sur ce qu’ils voient quand ils regardent des graphiques en ligne, des tableaux, etc.*
 
 ## Sélection du personnel
 
