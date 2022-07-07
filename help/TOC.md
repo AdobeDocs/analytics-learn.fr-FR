@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Super session du Summit 2019 - Voyage et hébergement](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Super session du Summit 2019 - Vente au détail](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Super session du Summit 2019 - Technologie de pointe](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Responsable de la stratégie et de la pensée{#strategy}
-      + [Partie 1 - Bases simples pour une plus grande efficacité](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [Partie 2 - Bases simples pour une plus grande efficacité](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Maîtriser les renseignements sur les clients avec Virtual Analyst et Segment IQ dans Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+   + Stratégie et leadership {#strategy}
+      + [Partie 1 - Astuces simples pour une plus grande efficacité](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Partie 2 - Astuces simples pour une plus grande efficacité](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Maîtriser l’intelligence client avec Virtual Analyst et Segment IQ dans Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Transitionner à partir d’autres plateformes {#transitioning-from-other-platforms}
       + [Transitionner à partir de Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Concepts de base d’Analytics {#analytics-basics}
@@ -159,8 +159,8 @@ ht-degree: 97%
       + [Comparaison des segments dans les abandons](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [Visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Options supplémentaires dans la visualisation des flux](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Améliorations des flux 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Enveloppement de texte et flux multidimensionnel](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
+      + [Améliorations des flux 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Habillage de texte et flux multidimensionnel](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Application de segments {#applying-segments}
       + [Application de segments à votre projet Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Utilisation de segments dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -235,14 +235,14 @@ ht-degree: 97%
       + [Traduire le langage technique Adobe Analytics en un langage accessible à tous](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Travailler à la transversale](administration/key-admin-skills/working-cross-functionally.md)
       + [Posez-vous les bonnes questions ?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + Conseils et bonnes pratiques concernant l’administration {#admin-tips}
-      + [Téléchargement du manuel de mise en oeuvre](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+   + Conseils et bonnes pratiques pour les administrateurs {#admin-tips}
+      + [Télécharger le manuel relatif à l’implémentation](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [Créer des conventions d’affectation de noms normalisées](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Créer des modèles de code normalisés](administration/admin-tips/create-standardized-code-templates.md)
-      + [Création de vidéos et de formations de base](administration/admin-tips/create-basic-videos-and-training.md)
-      + [Créer un site Adobe Analytics interne](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-      + [Utilisation d’une suite de rapports globale](administration/admin-tips/use-a-global-report-suite.md)
-      + [Création d’un projet d’actualités et d’annonces](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Créer des vidéos et des formations de base](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Créer un site Adobe Analytics interne](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Utiliser une suite de rapports globale](administration/admin-tips/use-a-global-report-suite.md)
+      + [Créer un projet d’actualités et d’annonces](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
@@ -284,8 +284,8 @@ ht-degree: 97%
       + [Compréhension et création de suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr)
       + [Mise en correspondance des variables contextData dans des props et des eVars avec des règles de traitement](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Comment identifier votre serveur de suivi et vos suites de rapports Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
-      + [Création d’un document d’exigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Création et conservation d’un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Créer un document d’exigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
+      + [Créer et conserver un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Utilisation d’une couche de données sur votre site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Avec Experience Platform Launch {#via-adobe-launch}
       + [Mise en œuvre d’Experience Cloud sur les sites web avec Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
