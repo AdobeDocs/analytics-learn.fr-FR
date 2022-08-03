@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: ht
-source-wordcount: '2432'
-ht-degree: 100%
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+workflow-type: tm+mt
+source-wordcount: '2422'
+ht-degree: 99%
 
 ---
 
@@ -151,15 +151,12 @@ ht-degree: 100%
       + [Paramètres des sources de données des tableaux et visualisations](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Création d’une carte thermique de répartition du temps](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analyse des parcours client {#analyzing-customer-journeys}
-      + [Compréhension de vos données à lʼaide des Abandons et des Flux](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ : analyses sur plusieurs appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Comprendre vos données : abandons et flux](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Parcours IQ - Analyse entre appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualisation des abandons](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Améliorations de la visualisation des abandons](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Abandons multidimensionnels](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Comparaison des segments dans les abandons](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [Visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Options supplémentaires dans la visualisation des flux](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Améliorations des flux 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Développement de la visualisation de flux](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Améliorations du flux 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [Habillage de texte et flux multidimensionnel](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Application de segments {#applying-segments}
       + [Application de segments à votre projet Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)

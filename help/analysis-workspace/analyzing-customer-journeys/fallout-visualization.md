@@ -1,27 +1,24 @@
 ---
-title: Visualisation des abandons dans Analysis Workspace
-description: Cette vidéo vous présente la visualisation des abandons, disponible dans Analysis Workspace qui est intégré à Adobe Analytics. Utilisez les abandons pour créer des entonnoirs ou afficher le cheminement des utilisateurs dans les workflows clés des applications/sites.
+title: Création d’un rapport de visualisation des abandons
+description: Découvrez les cas pratiques des rapports d’abandons et comment configurer ce rapport dans Analysis Workspace. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# [!DNL Fallout Visualization] dans Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Création d’un rapport de visualisation des abandons
 
-Cette vidéo vous présente la [!DNL Fallout visualization], disponible dans Analysis Workspace qui est intégré à Adobe Analytics. Utilisez les [!DNL Fallout] pour créer des entonnoirs ou afficher le cheminement des utilisateurs dans les workflows clés des applications/sites.
+Découvrez les cas pratiques de rapports d’abandons et comment configurer ce rapport dans [!DNL Analysis Workspace]. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).
