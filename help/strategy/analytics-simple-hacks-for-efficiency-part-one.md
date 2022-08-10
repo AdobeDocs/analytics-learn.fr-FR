@@ -3,10 +3,10 @@ title: Astuces simples pour une plus grande efficacité et un meilleur libre-ser
 description: Découvrez les principaux défis auxquels sont confrontées les équipes d’analyse et nos recommandations pour les surmonter à l’aide de stratégies en dehors de l’interface utilisateur d’Adobe Analytics.
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: ht
+source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -86,4 +86,4 @@ Les autres défis majeurs auxquels sont confrontés les analystes :
    * Établir leur présence en contribuant à la socialisation des versions et des succès
    * Utiliser les heures de bureau standard pour former les formateurs et réduire les tâches ad hoc
 
-Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
+Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

@@ -3,10 +3,10 @@ title: Des astuces simples pour une plus grande efficacité et un meilleur libre
 description: Découvrez les principaux défis auxquels sont confrontées les équipes Analytics aujourd’hui et nos recommandations pour les surmonter à l’aide de stratégies intégrées aux outils.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -96,4 +96,4 @@ Utilisez l’API de création de rapports pour déplacer les rapports standard d
 
 Nous espérons que vous avez trouvé utile cet article sur les stratégies intégrées aux outils. Pour plus d’informations sur les solutions amélioratrices d’efficacité en dehors de la plateforme Adobe Analytics, cliquez [ici](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
+Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).

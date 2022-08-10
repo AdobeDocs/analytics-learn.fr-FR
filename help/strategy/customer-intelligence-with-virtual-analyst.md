@@ -3,10 +3,10 @@ title: Maîtriser l’intelligence client avec Virtual Analyst et Segment IQ
 description: Découvrez l’importance de l’utilisation de l’intelligence artificielle et du machine learning (IA/ML). Découvrez les avantages et consultez les témoignages concrets de clients internationaux qui utilisent Virtual Analyst et Segment IQ pour détecter les anomalies, éviter les valeurs aberrantes et optimiser le retour sur investissement.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1104'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Restez informé des anomalies dans vos données à tout moment, que vous soyez a
 
 Pour plus d’informations, regardez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Pour en savoir plus sur la stratégie et le leadership éclairé, consultez nos ressources dédiées au [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
+Pour en savoir plus sur la stratégie et le leadership éclairé, consultez nos ressources dédiées au [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
