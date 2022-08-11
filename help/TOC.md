@@ -154,7 +154,7 @@ ht-degree: 99%
       + [Création d’une visualisation d’abandon](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Création d’une visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Utilisation conjointe des abandons et flux](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Parcours IQ - Analyse entre appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Journey IQ : analyses sur plusieurs appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Application de segments {#applying-segments}
       + [Application de segments à votre projet Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Utilisation de segments dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
