@@ -4,9 +4,9 @@ description: Découvrez les principaux défis auxquels sont confrontées les éq
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Un libre-service efficace est souvent un exercice visant à supprimer les obstac
 
 ## Optimisation des performances de Workspace
 
-La page d’aide d’[!UICONTROL Analysis Workspace] sur les performances présente les facteurs de réseau, de navigateur et de projet qui affectent les performances du projet. Stimulez l’adoption en créant des tableaux de bord plus rapides. Elle fournit également des liens vers des conseils relatifs à l’optimisation et est accessible dans le menu [!UICONTROL Workspace] sous **[!UICONTROL Aide]** > **[!UICONTROL Performances]**.
+La page d’aide d’[!UICONTROL Analysis Workspace] sur les performances présente les facteurs de réseau, de navigateur et de projet qui affectent les performances du projet. Stimulez l’adoption en créant des tableaux de bord plus rapides. Elle fournit également des liens vers des conseils relatifs à l’optimisation et est accessible dans le menu [!UICONTROL Espace de travail] sous **[!UICONTROL Aide]** > **[!UICONTROL Performances]**.
 
 ## Association de panneaux Workspace internes/interconnectés
 
@@ -52,7 +52,7 @@ Utilisez l’association de panneaux pour améliorer les performances de [!UICON
 
 ## Créer un référentiel de connaissances
 
-* Par défaut, définissez Workspace pour tous sur une bibliothèque permanente de ressources d’auto-développement.
+* Par défaut, définissez Espace de travail pour tous sur une bibliothèque permanente de ressources d’auto-développement.
 * Profitez de liens de qualité venant d’Adobe Experience League.
 * Partagez des vidéos sur les nouveautés depuis la chaîne YouTube Adobe Analytics.
 * Partagez un planning d’heures de bureau.
@@ -96,4 +96,4 @@ Utilisez l’API de création de rapports pour déplacer les rapports standard d
 
 Nous espérons que vous avez trouvé utile cet article sur les stratégies intégrées aux outils. Pour plus d’informations sur les solutions amélioratrices d’efficacité en dehors de la plateforme Adobe Analytics, cliquez [ici](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
