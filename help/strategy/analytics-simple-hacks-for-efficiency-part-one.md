@@ -4,9 +4,9 @@ description: Découvrez les principaux défis auxquels sont confrontées les éq
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ Les autres défis majeurs auxquels sont confrontés les analystes :
    * Établir leur présence en contribuant à la socialisation des versions et des succès
    * Utiliser les heures de bureau standard pour former les formateurs et réduire les tâches ad hoc
 
-Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
