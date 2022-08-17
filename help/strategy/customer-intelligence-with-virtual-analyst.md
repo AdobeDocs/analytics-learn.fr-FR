@@ -4,9 +4,9 @@ description: Découvrez l’importance de l’utilisation de l’intelligence ar
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Restez informé des anomalies dans vos données à tout moment, que vous soyez a
 
 Pour plus d’informations, regardez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Pour en savoir plus sur la stratégie et le leadership éclairé, consultez nos ressources dédiées au [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Pour en savoir plus sur la stratégie et le leadership éclairé, consultez nos ressources dédiées au [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
