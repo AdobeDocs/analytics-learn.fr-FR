@@ -4,9 +4,9 @@ user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Analytics
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2416'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
       + [Accéder à la nouvelle page de destination](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Mises à jour de la page de destination d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Création de nouveaux projets Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [Création dʼun projet d’espace de travail à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Création dʼun projet de Workspace à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Créer et gérer des modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modèles standard dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilisation de modèles personnalisés pour aider les nouveaux utilisateurs d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [Modèle de tutoriel de formation dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copier et insérer dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Création d’une table des matières](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Clic avec le bouton droit pour optimiser l’efficacité de l’espace de travail](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Clic avec le bouton droit pour optimiser l’efficacité de Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Raccourcis clavier](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Annotations dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Barre de menu](analysis-workspace/navigating-workspace-projects/menu-bar.md)
@@ -151,9 +151,9 @@ ht-degree: 99%
       + [Paramètres des sources de données des tableaux et visualisations](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Création d’une carte thermique de répartition du temps](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analyse des parcours client {#analyzing-customer-journeys}
-      + [Création d’une visualisation d’abandon](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Création d’une visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Utilisation conjointe des abandons et flux](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Créer une visualisation des abandons](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Créer une visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Utiliser les abandons et les flux ensemble](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ : analyses sur plusieurs appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Application de segments {#applying-segments}
       + [Application de segments à votre projet Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
