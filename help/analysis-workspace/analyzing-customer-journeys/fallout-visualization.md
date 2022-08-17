@@ -1,6 +1,6 @@
 ---
-title: Création d’une visualisation d’abandon
-description: Dans Analysis Workspace, les visualisations Abandons permettent d’explorer les endroits où les clients abandonnent les flux clés de vos propriétés numériques. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
+title: Créer une visualisation des abandons
+description: Dans Analysis Workspace, les visualisations des abandons permettent de comprendre à quelle étape les clients quittent ou abandonnent les flux clés sur vos propriétés numériques. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# Création d’une visualisation d’abandon
+# Créer une visualisation des abandons
 
-Visualisations des abandons dans [!DNL Analysis Workspace] sont utilisés pour explorer les domaines où les clients abandonnent ou abandonnent des flux clés sur vos propriétés numériques. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
+Dans [!DNL Analysis Workspace], les visualisations des abandons permettent de comprendre à quelle étape les clients quittent ou abandonnent les flux clés sur vos propriétés numériques. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
