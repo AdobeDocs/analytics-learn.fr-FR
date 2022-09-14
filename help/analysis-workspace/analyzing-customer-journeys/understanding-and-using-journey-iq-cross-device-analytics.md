@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1529'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Continuez à lire pour en savoir plus sur :
 
 ## Fonctionnement de la fonctionnalité [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à la fonction [!DNL Adobe Experience Platform Identity Service], en utilisant la variable [!DNL Device Graph] pour identifier la manière dont les périphériques sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur l’ensemble des appareils dispose de fonctionnalités et d’outils inégalés pour aider votre entreprise à comprendre l’utilisation de plusieurs appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à [!DNL Adobe Experience Platform Identity Service], en utilisant [!DNL Device Graph] pour identifier la manière dont les périphériques sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur l’ensemble des appareils dispose de fonctionnalités et d’outils inégalés pour aider votre entreprise à comprendre l’utilisation de plusieurs appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ Terminez la configuration des suites de rapports virtuelles et enregistrez-la. L
 
 ### Redéfinition de l’historique
 
-Parfois, la connexion de vos utilisateurs et la connexion de l’ [!DNL Device Graph] pour les identifier et les mapper ensemble sur leurs appareils. Analytics sur l’ensemble des appareils utilise une période de recherche arrière de 30 jours, ce qui lui permet de redéfinir un visiteur précédemment non identifié en tant que personne jusqu’à 30 jours auparavant.
+Parfois, il faut un certain temps à vos utilisateurs pour se connecter et à [!DNL Device Graph] pour les identifier et les associer à leurs appareils. Analytics sur l’ensemble des appareils utilise une période de recherche arrière de 30 jours, ce qui lui permet de redéfinir un visiteur précédemment non identifié en tant que personne jusqu’à 30 jours auparavant.
 
 À quoi cela sert-il ? Rappelez-vous le parcours d’utilisateur d’Isabelle évoqué dans la discussion ci-dessus :
 
 ![[!DNL Cross-Device Analytics]Parcours](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’achat, et que la variable [!DNL Device Graph] n&#39;a pas cartographié les appareils d&#39;Isabelle avant son achat. Mais la recherche en amont de 30 jours proposée par Analytics sur l’ensemble des appareils lui permet de redéfinir le comportement passé d’Isabelle au niveau de la personne, ce qui vous permet d’avoir une vue d’ensemble de son parcours dont vous avez besoin.
+Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’achat, et que [!DNL Device Graph] n’ait pas associé les appareils d’Isabelle avant un certain temps après son achat. Mais la recherche en amont de 30 jours proposée par Analytics sur l’ensemble des appareils lui permet de redéfinir le comportement passé d’Isabelle au niveau de la personne, ce qui vous permet d’avoir une vue d’ensemble de son parcours dont vous avez besoin.
 
 >[!NOTE]
 >
@@ -98,10 +98,10 @@ Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’
 
 Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultimate]](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-analytics.html). Depuis septembre 2019, les clients [!DNL Analytics Ultimate] qui remplissent les conditions préalables répertoriées ci-dessous peuvent utiliser Analytics sur l’ensemble des appareils. Les conditions préalables pour Analytics sur l’ensemble des appareils sont les suivantes :
 
-* Votre entreprise doit utiliser la variable [!DNL Adobe Experience Platform Identity Service Device Graph].
-* Vous devez mettre en oeuvre tous les éléments requis pour la variable [!DNL Device Graph] inclusion [Identifiant Experience Cloud (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr) et synchronisation des identifiants avec le graphique.
+* Votre entreprise doit utiliser [!DNL Adobe Experience Platform Identity Service Device Graph].
+* Vous devez implémenter tous les éléments requis pour [!DNL Device Graph], y compris [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr), ainsi que la synchronisation des identifiants avec le graphique.
 * Il n’est actuellement pas possible d’utiliser deux organisations IMS avec un seul [!DNL Device Graph]. Vous devez donc effectuer une normalisation sur une seule organisation IMS.
-* Le [!DNL Device Graph], ainsi que certains composants des analyses entre appareils sont hébergés dans [!DNL Microsoft Azure]. Cela signifie que les données [!DNL Analytics] sont copiées entre le centre de traitement des données d’Adobe et la présence d’Adobe dans [!DNL Microsoft Azure]. Certaines données [!DNL Analytics] seront stockées dans [!DNL Azure]. Votre entreprise doit souscrire à cet arrangement.
+* [!DNL Device Graph], ainsi que certains composants d’Analytics sur l’ensemble des appareils, sont hébergés dans [!DNL Microsoft Azure]. Cela signifie que les données [!DNL Analytics] sont copiées entre le centre de traitement des données d’Adobe et la présence d’Adobe dans [!DNL Microsoft Azure]. Certaines données [!DNL Analytics] seront stockées dans [!DNL Azure]. Votre entreprise doit souscrire à cet arrangement.
 * Analytics sur l’ensemble des appareils nécessite une [!UICONTROL suite de rapports] « sur l’ensemble des appareils ». En d’autres termes, la [!UICONTROL suite de rapports] que vous utilisez pour Analytics sur l’ensemble des appareils doit inclure des données provenant de plusieurs types d’appareils ou « surfaces » différents, tels que le web pour ordinateur de bureau, le web mobile et l’application mobile. Depuis septembre 2019, le volume des appels au serveur pour cette [!UICONTROL suite de rapports] doit être de 100 millions d’appels au serveur par jour ou moins. (Les limites du volume des appels au serveur augmenteront au cours des prochains mois.)
 
 ## Interprétation des données sur l’ensemble des appareils
@@ -144,7 +144,7 @@ Vous êtes-vous déjà demandé combien de personnes interagissent avec votre ma
 
 Avec les analyses entre appareils et Analysis Workspace, vous pouvez visualiser la manière dont les utilisateurs passent d’un appareil à un autre au fil du temps dans [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=fr). Vous pouvez voir où ils abandonnent dans leur parcours, et où ils continuent.
 
-*[!DNL Flow]avec CDA*
+*[!DNL Flow] avec CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### [!DNL Fallout] entre appareils
@@ -153,7 +153,7 @@ Vous utilisez probablement plusieurs [[!DNL Fallout visualizations]](https://exp
 
 Ne vous inquiétez pas, Analytics sur l’ensemble des appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c’est de savoir si la personne a finalement réussi quelque part dans sa tâche.
 
-*[!DNL Fallout]avec CDA*
+*[!DNL Fallout] avec CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +162,7 @@ Comme Analytics sur l’ensemble des appareils crée une couche de données mult
 
 Supposons, par exemple, que vous souhaitiez comprendre à quelle fréquence un téléphone mobile est le premier appareil utilisé dans une interaction qui, finalement, mène au succès. Ceci représente le « taux d’acquisition » du téléphone mobile. CDA + [!DNL Attribution IQ] vous permet d’effectuer cette analyse :
 
-*[!DNL Attribution IQ]avec CDA*
+*[!DNL Attribution IQ] avec CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Pour plus d’informations, consultez la [[!DNL Cross-Device Analytics] documentation d’aide](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=fr).
