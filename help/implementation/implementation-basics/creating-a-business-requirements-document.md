@@ -1,6 +1,6 @@
 ---
 title: Créer un document d’exigences commerciales
-description: 'Découvrez l’étape primordiale de la définition des données comportementales que vous souhaitez capturer et analyser dans Adobe Analytics. Que doit comprendre votre entreprise sur la manière dont les visiteurs utilisent vos propriétés numériques ? Écrivez d’abord ces exigences, puis décidez comment elles seront capturées à l’aide d’événements, de dimensions et de mesures Analytics. '
+description: Découvrez l’étape primordiale de la définition des données comportementales que vous souhaitez capturer et analyser dans Adobe Analytics. Que doit comprendre votre entreprise sur la manière dont les visiteurs utilisent vos propriétés numériques ? Écrivez d’abord ces exigences, puis décidez comment elles seront capturées à l’aide d’événements, de dimensions et de mesures Analytics.
 feature: Implementation Basics
 team: Technical Marketing
 kt: 3580
@@ -9,7 +9,7 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
 

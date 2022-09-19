@@ -1,6 +1,6 @@
 ---
 title: Paramètres du tableau de cohortes
-description: 'Plusieurs paramètres de tableau de cohorte vous permettent de personnaliser votre vue de la rétention ou de l’attrition. Ces paramètres sont mis en avant dans cette vidéo. '
+description: Plusieurs paramètres de tableau de cohorte vous permettent de personnaliser votre vue de la rétention ou de l’attrition. Ces paramètres sont mis en avant dans cette vidéo.
 feature: Visualizations
 topics: null
 activity: use
@@ -12,7 +12,7 @@ role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
 

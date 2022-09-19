@@ -1,5 +1,5 @@
 ---
-title: 'Calcul de la rétention variable dans les tableaux de cohortes '
+title: Calcul de la rétention variable dans les tableaux de cohortes
 description: Le paramètre Calcul variable dans les tableaux de cohortes peut être utilisé pour analyser les cohortes période par période, afin de comprendre comment les mêmes utilisateurs sont conservés (ou perdus) au fil du temps.
 feature: Visualizations
 topics: null
@@ -12,7 +12,7 @@ role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 

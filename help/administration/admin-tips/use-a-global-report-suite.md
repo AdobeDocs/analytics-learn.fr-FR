@@ -10,7 +10,7 @@ thumbnail: 10536.jpg
 kt: 10536
 exl-id: 490addfd-b810-4f15-b065-e0e58048c882
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 100%
 
@@ -49,11 +49,11 @@ Effectuer une migration à partir d’une stratégie à balisage multiple avec u
 
 Ce document a été rédigé par :
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, responsable de la plateforme Digital Analytics chez NortonLifeLock
 Adobe Analytics Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, conseillère principale chez Adobe

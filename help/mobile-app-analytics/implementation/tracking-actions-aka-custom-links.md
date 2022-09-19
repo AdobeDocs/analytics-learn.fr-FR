@@ -1,6 +1,6 @@
 ---
 title: Suivi des actions (liens personnalisés) dans une application mobile avec le SDK Experience Platform
-description: 'Les actions désignent des événements qui se produisent dans votre application mobile. Dans cette vidéo, découvrez comment utiliser l’API trackAction afin de suivre et mesurer une action. '
+description: Les actions désignent des événements qui se produisent dans votre application mobile. Dans cette vidéo, découvrez comment utiliser l’API trackAction afin de suivre et mesurer une action.
 feature: Mobile SDK
 topics: null
 activity: implement
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 

@@ -1,6 +1,6 @@
 ---
 title: Vidéos et tutoriels Analytics
-description: 'Tirez le meilleur parti d’Adobe Analytics.  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes. '
+description: Tirez le meilleur parti d’Adobe Analytics.  Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,7 +9,7 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 

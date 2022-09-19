@@ -1,6 +1,6 @@
 ---
 title: Activation du transfert côté serveur dans Experience Platform Launch
-description: 'Découvrez comment utiliser Experience Platform Launch pour que vos accès Adobe Analytics soient automatiquement envoyés à Adobe Audience Manager par le biais du transfert côté serveur. '
+description: Découvrez comment utiliser Experience Platform Launch pour que vos accès Adobe Analytics soient automatiquement envoyés à Adobe Audience Manager par le biais du transfert côté serveur.
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -13,7 +13,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 

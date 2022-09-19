@@ -1,5 +1,5 @@
 ---
-title: 'Utilisation des bonnes pratiques lors du suivi des applications monopages (SPA) dans Adobe Analytics '
+title: Utilisation des bonnes pratiques lors du suivi des applications monopages (SPA) dans Adobe Analytics
 description: Dans ce document, nous décrirons plusieurs bonnes pratiques que vous devez suivre et connaître lorsque vous utilisez Adobe Analytics pour effectuer le suivi des applications monopages (SPA). Ce document se concentre sur l’utilisation d’Experience Platform Launch, qui est la méthode d’implémentation recommandée.
 feature: Implementation Basics
 topics: spa
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1669'
 ht-degree: 100%
 
@@ -141,4 +141,4 @@ Pour afficher les accès, utilisez un débogueur ou un programme de renifleur de
 ## Ressources supplémentaires {#additional-resources}
 
 * [Discussion sur les SPA sur les forums Adobe](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=fr)
-* [Sites d’architecture de référence pour montrer comment implémenter une application monopage dans Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=fr)
+* [Sites d’architecture de référence pour montrer comment implémenter une application monopage dans Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)

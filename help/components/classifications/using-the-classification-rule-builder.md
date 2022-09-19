@@ -1,6 +1,6 @@
 ---
-title: 'Utilisation du Créateur de règles de classification dans Adobe Analytics '
-description: 'Découvrez comment utiliser le Créateur de règles de classification pour appliquer automatiquement des classifications basées sur des règles dans Adobe Analytics. '
+title: Utilisation du Créateur de règles de classification dans Adobe Analytics
+description: Découvrez comment utiliser le Créateur de règles de classification pour appliquer automatiquement des classifications basées sur des règles dans Adobe Analytics.
 feature: Classifications
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 066d0ebf-1921-48be-8531-bdd766330825
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
 

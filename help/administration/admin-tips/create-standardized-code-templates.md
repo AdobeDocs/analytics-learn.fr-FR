@@ -10,7 +10,7 @@ thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 100%
 
@@ -40,11 +40,11 @@ Idéalement, il suffira de modifier ce document pour le site suivant où vous me
 
 Ce document a été rédigé par :
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, responsable de la plateforme Digital Analytics chez NortonLifeLock
 Adobe Analytics Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, conseillère principale chez Adobe
