@@ -10,10 +10,10 @@ kt: 4102
 role: User
 level: Beginner
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 82%
 
 ---
 
@@ -24,3 +24,7 @@ Dans cette vidéo, vous découvrirez comment créer un projet dans Analysis Wor
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Prise en main d’Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr), disponible gratuitement sur Experience League !
