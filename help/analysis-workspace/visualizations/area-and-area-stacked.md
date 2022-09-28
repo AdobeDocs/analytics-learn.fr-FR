@@ -4,14 +4,13 @@ description: Dans cette vidéo, découvrez comment ajouter des visualisations Su
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
 exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ Dans cette vidéo, découvrez comment ajouter des visualisations Surface et Aire
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=fr#).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !

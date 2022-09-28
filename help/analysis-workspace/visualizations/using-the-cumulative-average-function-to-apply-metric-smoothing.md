@@ -2,19 +2,15 @@
 title: Utilisation de la fonction moyenne cumulée pour appliquer le lissage des mesures
 description: Plus une mesure s’affiche en tendance pendant longtemps, plus il est difficile de déterminer les tendances directionnelles pour cette mesure. Pour résoudre ce problème, la fonction Moyenne cumulée des mesures calculées peut être utilisée pour appliquer un lissage aux mesures dans Analysis Workspace.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 84%
 
 ---
 
@@ -23,3 +19,7 @@ ht-degree: 100%
 Plus une [!UICONTROL mesure] s’affiche en tendance pendant longtemps, plus il est difficile de déterminer les tendances directionnelles pour cette [!UICONTROL mesure]. Pour résoudre ce problème, la [!UICONTROL fonction] [!UICONTROL Moyenne cumulée] des [!UICONTROL mesures calculées] peut être utilisée pour appliquer un lissage aux [!UICONTROL mesures] dans Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !

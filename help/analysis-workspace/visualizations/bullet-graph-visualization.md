@@ -2,17 +2,15 @@
 title: Visualisation du graphique à puces dans Analysis Workspace
 description: Les graphiques à puces sont un moyen utile d’afficher la progression vers (ou dépassant) un objectif de votre analyse. Ils vous offrent une autre manière de visualiser le succès de votre entreprise.
 feature: Visualizations
-activity: use
-doc-type: feature video
 kt: 2116
 role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 82%
 
 ---
 
@@ -23,3 +21,7 @@ Les graphiques à [!UICONTROL puces] sont un moyen utile d’afficher la progres
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !

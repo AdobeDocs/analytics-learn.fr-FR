@@ -2,16 +2,15 @@
 title: Liens internes dans Analysis Workspace
 description: Les liens internes permettent aux analystes de créer des projets dans Analysis Workspace afin d’orienter les lecteurs du projet vers des panneaux et des visualisations exacts au sein du projet.
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23724.jpg
 kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 80%
 
 ---
 
@@ -22,3 +21,7 @@ Les liens internes permettent aux analystes de créer des projets dans Analysis�
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
 Les liens internes peuvent également être utilisés pour créer des tables des matières et raconter des histoires de données plus efficaces dans l’ensemble. La création de liens entre projets est désormais possible en raison de la nouvelle fonctionnalité d’hyperlien.
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !
