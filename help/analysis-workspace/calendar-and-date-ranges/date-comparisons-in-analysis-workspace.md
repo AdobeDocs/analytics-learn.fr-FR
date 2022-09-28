@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 85%
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,9 @@ Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie de deux cours :
+>
+> * [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [Filtrage de vos données à l’aide d’une segmentation et de dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr)
+>
+> Les deux sont disponibles gratuitement sur Experience League !
