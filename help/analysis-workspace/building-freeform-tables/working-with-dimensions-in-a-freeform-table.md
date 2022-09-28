@@ -2,19 +2,15 @@
 title: Utilisation des dimensions dans un tableau à structure libre
 description: 'Découvrez comment utiliser les dimensions dans les tableaux à structure libre : ajout, tri, ventilation en fonction d’autres dimensions, etc.'
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 83%
 
 ---
 
@@ -36,3 +32,7 @@ Rubriques abordées dans la vidéo et marqueurs temporels :
 * Dimensions comme filtres (8:30)
 * Ventilations (9:48)
 * Rapports de classement, de dépassement de délai et de tendance (13:11)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
