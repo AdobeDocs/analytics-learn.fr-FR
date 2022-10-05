@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 333043.jpg
 kt: 7709
 exl-id: 91d8ae87-b5cb-4d65-a59b-04dd2674a5a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 79%
 
 ---
 
@@ -23,3 +23,7 @@ Dans cette vidéo, découvrez les paramètres concernant les référents, en les
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Configuration et administration des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !

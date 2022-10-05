@@ -7,10 +7,10 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 81%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
@@ -31,4 +31,8 @@ Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segm
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !

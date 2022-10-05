@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 342377.jpg
 kt: 9874
 exl-id: b1b8d519-c035-498b-ac40-a939a019a616
-source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '101'
+ht-degree: 76%
 
 ---
 
@@ -22,3 +22,7 @@ Dans cette vidéo, découvrez comment configurer un planning avancé pour envoye
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Exportation et démocratisation des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !

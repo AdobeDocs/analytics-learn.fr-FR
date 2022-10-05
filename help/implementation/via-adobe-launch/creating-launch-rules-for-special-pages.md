@@ -10,10 +10,10 @@ kt: 3590
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Outre les données qui s’affichent sur chaque page, vous disposez de données qui doivent simplement s’afficher sur une page. Cette vidéo vous explique comment fusionner ces données avec les données de chaque page et les envoyer dans Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

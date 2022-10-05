@@ -2,7 +2,6 @@
 title: Analyse de la perte de clientèle grâce à un tableau de cohortes
 description: 'Les tableaux de cohortes offrent deux types d’analyse : rétention et perte de clientèle. Bien que la rétention indique le nombre d’utilisateurs conservés au fil du temps, l’option Perte de clientèle indique le nombre d’utilisateurs perdus (1 - Rétention).'
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 80%
 
 ---
 
@@ -25,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !

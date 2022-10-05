@@ -10,10 +10,10 @@ kt: 3588
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 84%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Il existe des points de données que vous souhaitez envoyer dans Adobe Analytics sur chaque page. Cette vidéo montre comment configurer une règle de chargement de page globale dans laquelle envoyer ces points de données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

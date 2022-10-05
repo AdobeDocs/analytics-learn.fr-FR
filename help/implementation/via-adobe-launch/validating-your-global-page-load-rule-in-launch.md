@@ -10,10 +10,10 @@ kt: 3589
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 Lorsque vous implémentez Adobe Analytics sur votre site, Adobe vous recommande de valider ce que vous faites en cours de route. [!DNL Experience Cloud debugger] vous permet d’y parvenir. Cette vidéo montre comment valider la [!UICONTROL règle] de chargement global de page avec le [!DNL debugger].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

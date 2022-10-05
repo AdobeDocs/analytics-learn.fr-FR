@@ -1,25 +1,21 @@
 ---
 title: Première mise en œuvre dʼAdobe Analytics
-landing-page-description: Cette vidéo de quelques minutes vous guide tout au long du processus d’utilisation des données d’Adobe Analytics.
-description: La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, cette vidéo vous guidera en quelques minutes tout au long du processus d’utilisation des données.
+description: Découvrez comment démarrer et exécuter les données Adobe Analytics en quelques minutes.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 2362
 role: User
 level: Beginner
+kt: 2362
+thumbnail: 25456.jpg
 exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 29%
 
 ---
 
 # Première mise en œuvre dʼAdobe Analytics {#first-time-adobe-analytics-implementation}
 
-La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, cette vidéo vous guidera en quelques minutes tout au long du processus d’utilisation des données.
+La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, apprenez à utiliser les données Adobe Analytics en quelques minutes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)

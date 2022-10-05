@@ -1,27 +1,23 @@
 ---
-title: Comment Adobe Analysis Workspace peut changer votre entreprise
-landing-page-description: Découvrez comment effectuer des analyses ad hoc, des analyses flexibles, des analyses de cohortes et des analyses d’abandons à l’aide d’Analysis Workspace.
-description: Analysis Workspace constitue une nouvelle interface simple d’utilisation dans Adobe Analytics. Dans Analysis Workspace, vous pouvez faire des analyses Ad hoc, des analyses personnalisées, des analyses de cohortes, et des analyses des abandons. Vous pouvez également partager l’environnement de travail de l’analyse avec tous les membres de votre société, et sa fonction glisser-déposer permet à chacun d’analyser facilement les données et d’obtenir rapidement des informations.
+title: Changement d’activité avec Adobe Analysis Workspace
+description: Découvrez les types d’analyses disponibles dans Analysis Workspace, tels que Ad Hoc, Cohort et Abandon. Utilisez les fonctions de glisser-déposer pour analyser les données facilement et rapidement.
 feature: Workspace Basics
-topics: null
-activity: understand
-doc-type: value video
-team: Technical Marketing
-kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+kt: 4382
+thumbnail: 31501.jpg
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
-# Comment Adobe Analysis Workspace peut changer votre entreprise
+# Changement d’activité avec Adobe Analysis Workspace
 
-[!UICONTROL Analysis Workspace] constitue une nouvelle interface simple d’utilisation dans Adobe Analytics. Dans [!UICONTROL Analysis Workspace], vous pouvez faire [!UICONTROL des analyses Ad hoc], [!UICONTROL des analyses personnalisées], [!UICONTROL des analyses de cohortes], et [!UICONTROL des analyses des abandons]. Vous pouvez également partager l’environnement de travail de l’analyse avec tous les membres de votre société, et sa fonction glisser-déposer permet à chacun d’analyser facilement les données et d’obtenir rapidement des informations.
+En savoir plus sur les types d’analyses disponibles dans [!DNL Analysis Workspace], par exemple [!DNL Ad Hoc],[!DNL Cohort], et [!DNL Fallout]. Utilisez les fonctions de glisser-déposer pour analyser les données facilement et rapidement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-En savoir plus sur Adobe Analysis Workspace [ICI](https://www.adobe.com/fr/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search).
+[En savoir plus sur Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)

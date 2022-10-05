@@ -2,7 +2,6 @@
 title: Paramètres du tableau de cohortes
 description: Plusieurs paramètres de tableau de cohorte vous permettent de personnaliser votre vue de la rétention ou de l’attrition. Ces paramètres sont mis en avant dans cette vidéo.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '145'
+ht-degree: 84%
 
 ---
 
@@ -33,3 +32,7 @@ Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilit
 La ligne moyenne est particulièrement utile pour visualiser la [!UICONTROL rétention] ou l’[!UICONTROL attrition] dans son ensemble, plutôt que par lignes de [!UICONTROL cohortes] individuelles.
 
 Pour plus d’informations concernant l’analyse des [!UICONTROL cohortes], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !

@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 81%
 
 ---
 
@@ -26,3 +26,7 @@ Découvrez comment ajouter des [!UICONTROL mesures] de [!UICONTROL détection de
 Dans [!UICONTROL Report Builder], vous pouvez renvoyer les [!UICONTROL mesures] réelles, ainsi que les valeurs attendues et les limites supérieures et inférieures, pour ajouter plus de profondeur aux données que vous analysez et partagez.
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Exportation et démocratisation des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !

@@ -10,10 +10,10 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 85%
 
 ---
 
@@ -25,3 +25,6 @@ ht-degree: 100%
 
 Vous découvrirez comment voir quelles balises sont déclenchées sur différentes pages, charger des noms de variables conviviaux et exporter les résultats pour des cas dʼutilisation avancés.
 
+>[!INFO]
+>
+> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

@@ -1,43 +1,44 @@
 ---
-title: Utilisation dʼune couche de données pour définir le nom de page et dʼautres variables dans Adobe Analytics via Launch
-description: L’utilisation d’une couche de données pour Analytics et d’autres solutions Experience Cloud est considérée comme une bonne pratique. Dans cette vidéo, vous allez découvrir comment extraire vos valeurs de la couche de données et les utiliser dans Launch pour renseigner les variables dans Adobe Analytics.
+title: Utilisation d’une couche de données pour définir des variables Analytics via des balises
+description: Découvrez l’utilisation d’une couche de données pour l’approvisionnement de données Analytics et d’autres solutions Experience Cloud.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
-kt: 1852
 role: Developer, Data Engineer
 level: Beginner
+kt: 1852
+thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 9%
 
 ---
 
-# Utilisation d’une couche de données pour définir le nom de page et d’autres variables via [!DNL Experience Platform Launch] {#using-a-data-layer-to-set-page-name-and-other-variables-in-adobe-analytics-via-launch}
+# Utilisez une couche de données pour définir des variables Analytics via [!DNL Tags] {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
 
-L’utilisation d’une couche de données pour [!DNL Analytics] et d’autres solutions Experience Cloud est considérée comme une bonne pratique. Dans cette vidéo, vous allez découvrir comment extraire vos valeurs de la couche de données et les utiliser dans [!DNL Experience Platform Launch] pour renseigner les variables dans Adobe Analytics.
+Utilisation d’une couche de données pour [!DNL Analytics] et d’autres solutions Experience Cloud sont une bonne pratique. Dans cette vidéo, découvrez comment extraire des valeurs de la couche de données et les utiliser dans [!DNL Experience Platform Tags] pour renseigner des variables dans Adobe Analytics.
 
 ## Couches de données {#data-layers}
 
-Une bonne pratique consiste à utiliser une couche de données lorsque vous utilisez des données sur votre site et les solutions Adobe Experience Cloud, en particulier avec Adobe Analytics. Une _couche de données_ est une structure d’objets JavaScript que les développeurs insèrent sur les pages. Les couches de données peuvent être utilisées par les outils de suivi (y compris les systèmes de Tag Management comme [!DNL Experience Platform Launch]) afin de renseigner des rapports. En savoir plus sur les couches de données dans la [documentation d’Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=fr) ou sur le [site W3C](https://www.w3.org/).
+A _couche de données_ est une structure d’objets JavaScript que les développeurs ajoutent aux pages web numériques. Les solutions Analytics utilisent finalement la couche de données pour remplir les rapports. Systèmes de gestion des balises, notamment [!DNL Experience Platform Tags]) sont les intermédiaires qui lisent la couche de données, mettent en correspondance les valeurs avec les variables et envoient ces données aux solutions d’expérience numérique.
 
-Consultez également le billet de blog [Couches de données : de l’expression à la mode à la bonne pratique](https://theblog.adobe.com/data-layers-buzzword-best-practice/), qui fournit de précieuses informations sur les couches de données ainsi que quelques exemples.
+Consultez des informations supplémentaires sur les couches de données dans la variable [Documentation Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=fr) et le blog [Couches de données : De Buzzword à la bonne pratique](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
 
-## Couches de données, [!DNL Experience Platform Launch] et Adobe Analytics (rien que ça !) {#data-layers-launch-and-adobe-analytics-oh-my}
+## Couches de données, [!DNL Experience Platform Tags], et Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
-1. Créez une couche de données standard à utiliser sur votre site, qui peut être référencée par [!DNL Experience Platform Launch].
+1. Définissez ou identifiez une norme de couche de données à utiliser sur votre site.
 
-   1. Insérez cette couche de données aussi haut que possible dans l’en-tête de la page, avant l’appel à [!DNL Experience Platform Launch], de sorte que les valeurs puissent être utilisées immédiatement par [!DNL Launch] et par les solutions d’Adobe qui doivent être élevées sur la page, comme Adobe Target.
+   1. Positionnez la couche de données aussi haut que possible dans la section head de la page et avant l’appel à [!DNL Experience Platform Tags]. Cela permet d’accéder immédiatement aux valeurs par [!DNL Tags] et par Adobe des solutions qui doivent figurer en haut de la page, comme Adobe Target.
 
 1. Renseignez les données de la couche de données.
-1. Dans [!DNL Experience Platform Launch], créez des « [!UICONTROL éléments de données] » qui référencent les points de données dans la couche de données et qui peuvent être utilisés dans [!DNL Experience Platform Launch], dans les [!UICONTROL règles], les [!UICONTROL extensions], etc.
-1. Utilisez les [!UICONTROL éléments de données] dans les variables globales de l’extension [!DNL Analytics] ou dans une règle, en attribuant les valeurs dans [!UICONTROL props], [!UICONTROL eVars], [!UICONTROL pageName] ou d’autres variables [!DNL Analytics].
+1. Dans [!DNL Experience Platform Tags], créez &quot;[!UICONTROL éléments de données]&quot; qui mappent les points de données dans la couche de données. Ces éléments de données sont utilisés dans l’ensemble des [!DNL Experience Platform Tags] in [!UICONTROL rules] et [!UICONTROL extensions].
+1. Dans le [!DNL Analytics] section des variables globales de l’extension ou dans une [!DNL Tags rule], affectez les valeurs dans [!UICONTROL éléments de données] to [!UICONTROL props], [!UICONTROL eVars], [!UICONTROL pageName], etc. [!DNL Analytics] .
 1. Déclenchez une balise qui envoie les données dans [!DNL Analytics].
 
 La vidéo suivante vous guide tout au long du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+
+>[!NOTE]
+>
+>La couche de données spécifique utilisée dans cette vidéo peut ne pas être considérée comme une &quot;bonne pratique&quot; pour votre entreprise. Il est recommandé d’utiliser une couche de données pour exporter des données importantes vers vos solutions de marketing numérique.
