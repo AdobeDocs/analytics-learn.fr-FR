@@ -1,6 +1,6 @@
 ---
 title: Mesures calculées rapides dans Analysis Workspace
-description: Vous pouvez désormais créer des mesures calculées à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec quelques mesures dans votre tableau à structure libre, sélectionnez simplement les mesures dans l’en-tête, cliquez avec le bouton droit et sélectionnez l’opérateur de votre choix.  La nouvelle mesure calculée s’affiche à droite.
+description: Vous pouvez désormais créer des mesures calculées à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec des mesures dans votre tableau à structure libre, sélectionnez simplement les mesures dans l’en-tête, faites un clic droit et sélectionnez l’opérateur de votre choix.  La nouvelle mesure calculée s’affiche à droite.
 feature: Calculated Metrics
 thumbnail: 23126.jpg
 kt: 1666
@@ -8,18 +8,18 @@ role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL Mesures calculées] rapides dans Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
-Vous pouvez désormais créer des [!UICONTROL mesures calculées] à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec quelques [!UICONTROL mesures] dans votre [!UICONTROL tableau à structure libre], il vous suffit de sélectionner la variable [!UICONTROL mesures] dans l’en-tête , cliquez avec le bouton droit et sélectionnez l’opérateur de votre choix.  La nouvelle [!UICONTROL mesure calculée] s’affiche à droite.
+Vous pouvez désormais créer des [!UICONTROL mesures calculées] à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec des [!UICONTROL mesures] dans votre [!UICONTROL tableau à structure libre], sélectionnez simplement les [!UICONTROL mesures] dans l’en-tête, cliquez avec le bouton droit et sélectionnez l’opérateur de votre choix.  La nouvelle [!UICONTROL mesure calculée] s’affiche à droite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
