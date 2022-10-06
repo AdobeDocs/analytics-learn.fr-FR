@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Découvrez tous nos clics droits préférés dans Analysis Workspace et comment
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
