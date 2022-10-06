@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Découvrez les paramètres des tableaux à structure libre dans Analysis Worksp
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
