@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -41,7 +41,12 @@ Des expériences d’apprentissage organisées par rôle et niveau de compétenc
    *Les annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Annotez une période ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. Cela indique aux utilisateurs pourquoi des irrégularités apparaissent dans les graphiques en courbes, les tableaux, etc.*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## Sélection du personnel
