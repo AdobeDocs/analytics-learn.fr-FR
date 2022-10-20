@@ -1,24 +1,24 @@
 ---
-title: Visualisation de synthèse des mesures clés
-description: Découvrez la visualisation sous forme de graphiques combinés dans Analysis Workspace. La visualisation de synthèse des mesures clés vous permet de visualiser le niveau de tendance d’une mesure importante au cours d’une seule période. Il vous permet également de comparer les performances des mesures sur deux périodes. (Doit comporter entre 60 et 160 caractères, mais compte 244 caractères)
+title: Visualisation du résumé des mesures clés
+description: Découvrez comment la visualisation de synthèse des mesures clés vous permet de voir comment une mesure importante est en tendance sur une seule période.
 feature: Visualizations
 role: User
 level: Beginner
 kt: 11270
 thumbnail: 3410003.jpeg
 last-substantial-update: 2022-10-11T00:00:00Z
-source-git-commit: 08d9f0a196306c44f3397fb5e1d396483222f8c1
+source-git-commit: 7e543468111051b51e9dffcf0d4438c2d058b51d
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 83%
+source-wordcount: '79'
+ht-degree: 44%
 
 ---
 
 
-# Visualisation de synthèse des mesures clés
+# Visualisation du résumé des mesures clés
 
-Découvrez la visualisation sous forme de graphiques combinés dans Analysis Workspace. La visualisation de synthèse des mesures clés vous permet de visualiser le niveau de tendance d’une mesure importante au cours d’une seule période. Il vous permet également de comparer les performances des mesures sur deux périodes.
+Découvrez la visualisation de synthèse des mesures clés dans Analysis Workspace, qui vous permet de visualiser les tendances d’une mesure importante au cours d’une seule période. Elle vous permet également de comparer les performances des mesures sur deux périodes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=en).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=fr).
