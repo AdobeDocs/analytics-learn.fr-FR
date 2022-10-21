@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), disponible gratuitement sur Experience League !
