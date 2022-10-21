@@ -9,9 +9,9 @@ thumbnail: 333605.jpg
 kt: 7997
 exl-id: 78ead867-77ed-4ef7-ac87-43a14a60edee
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Découvrez comment utiliser le SDK Web pour implémenter des variables Analytic
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Implémentation et mesure de la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Implémenter et mesurer la recherche interne de site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
