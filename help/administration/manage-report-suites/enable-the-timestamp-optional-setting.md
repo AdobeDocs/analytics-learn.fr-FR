@@ -10,9 +10,9 @@ thumbnail: 335740.jpg
 kt: KT-8455
 exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Les horodatages facultatifs nous permettent de mélanger les données horodatée
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Configuration et administration des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), disponible gratuitement sur Experience League !
