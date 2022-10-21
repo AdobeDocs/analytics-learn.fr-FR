@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
 source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation
 
 >[!INFO]
 >
-> Cette vidéo fait partie de deux cours :
+> Cette vidéo fait partie de deux cours :
 >
 > * [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrage de vos données à l’aide d’une segmentation et de dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr)
+> * [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> Les deux sont disponibles gratuitement sur Experience League !
+> Les deux sont disponibles gratuitement sur Experience League !
