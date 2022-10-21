@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ Pour plus d’informations, consultez la [documentation](https://experienceleagu
 
 >[!INFO]
 >
-> Cette vidéo fait partie de deux cours :
-> * [Prise en main d’Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr)
-> * [Filtrage de vos données à l’aide d’une segmentation et de dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr)
+> Cette vidéo fait partie de deux cours :
+> * [Prise en main d’Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> Les deux sont disponibles gratuitement sur Experience League !
+> Les deux sont disponibles gratuitement sur Experience League !
 
