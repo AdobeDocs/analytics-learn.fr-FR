@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Le nouveau thème de couleur positive/négative vous permet de représenter clai
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Utiliser des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !
