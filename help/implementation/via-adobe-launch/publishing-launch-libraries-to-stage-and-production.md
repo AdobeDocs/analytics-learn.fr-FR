@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Une fois votre implémentation terminée sur votre serveur de développement, vo
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
