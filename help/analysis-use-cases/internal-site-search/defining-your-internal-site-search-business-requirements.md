@@ -9,9 +9,9 @@ thumbnail: 333511.jpg
 kt: 7987
 exl-id: a6d26b85-3e04-4444-bbd7-89a476bfea07
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Lorsque vous décidez dʼeffectuer le suivi de la recherche interne sur votre si
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Implémentation et mesure de la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Implémenter et mesurer la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
