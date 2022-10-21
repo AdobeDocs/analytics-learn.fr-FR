@@ -8,9 +8,9 @@ role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
 source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Lorsque vous effectuerez une analyse sur votre site, vous utiliserez souvent des
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Filtrage de vos données à l’aide d’une segmentation et de dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), disponible gratuitement sur Experience League !
 
