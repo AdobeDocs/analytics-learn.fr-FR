@@ -10,9 +10,9 @@ thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Data Warehouse fait référence à la copie de données Analytics pour les rappo
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Exportation et démocratisation des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
