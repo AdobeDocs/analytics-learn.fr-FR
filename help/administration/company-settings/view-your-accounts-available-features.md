@@ -9,9 +9,9 @@ thumbnail: 335742.jpg
 kt: 8463
 exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Les paramètres Afficher les niveaux d’accès aux fonctionnalités sous la sec
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Configuration et administration des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !
