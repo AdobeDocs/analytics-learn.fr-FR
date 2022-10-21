@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '90'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ Lors de la création de segments, les conteneurs d’accès, de visites et de vi
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr).
+
+>[!INFO]
+>
+> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), disponible gratuitement sur Experience League !
