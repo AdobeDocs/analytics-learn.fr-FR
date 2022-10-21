@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Découvrez comment booster votre analyse de répartition du temps en créant une
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Utiliser les visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), disponible gratuitement sur Experience League !
