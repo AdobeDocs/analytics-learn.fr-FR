@@ -3,14 +3,13 @@ title: Utilisation de l’opérateur Est égal à lʼun(e) de dans la segmentati
 description: Les opérateurs de segment Est égal à lʼun(e) de et N’est égal à aucun des ont été ajoutés au Créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OR ou Contient n’importe lequel. L’utilisation de ces opérateurs à la place de Contient n’importe lequel permet également d’améliorer la vitesse des requêtes.
 feature: Segmentation
 thumbnail: 32960.jpg
-team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '138'
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: ht
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
@@ -22,3 +21,7 @@ Les opérateurs de segment « Est égal à lʼun(e) de » et « Nʼest ég
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr)
+
+>[!INFO]
+>
+> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr), disponible gratuitement sur Experience League !
