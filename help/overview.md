@@ -1,6 +1,6 @@
 ---
 title: Vidéos et tutoriels Analytics
-description: Tirez le meilleur parti d’Adobe Analytics. Utilisez ces tutoriels pour découvrir les fonctionnalités d’Analytics et en tirer parti pour votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
+description: Tirez le meilleur parti d’Adobe Analytics. Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 80%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Tutoriels Analytics
 
-Tirez le meilleur parti de [!DNL Adobe Analytics]. Utilisez ces tutoriels pour découvrir les fonctionnalités d’Analytics et en tirer parti pour votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
+Tirez le meilleur parti d’[!DNL Adobe Analytics]. Utilisez ces tutoriels pour maîtriser les fonctionnalités d’Analytics et en faire profiter votre entreprise. Ce contenu est destiné aux administrateurs, aux analystes de données, aux spécialistes du marketing, aux développeurs et aux architectes.
 
 Pour démarrer,
 
@@ -38,7 +38,7 @@ Des expériences d’apprentissage organisées par rôle et niveau de compétenc
    *Découvrez comment télécharger l’application Cartes de performance mobiles et afficher les cartes de performance mobiles créées dans [!DNL Analysis Workspace].*
 
 * **[Annotations dans Workspace (vidéo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Les annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Annotez une période ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. Cela indique aux utilisateurs pourquoi des irrégularités apparaissent dans les graphiques en courbes, les tableaux, etc.*
+   *Les annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Annotez une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. Cela indique aux utilisateurs pourquoi des irrégularités apparaissent dans les graphiques linéaires, les tableaux, etc.*
 
 </div>
 

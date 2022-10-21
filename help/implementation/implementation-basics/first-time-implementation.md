@@ -1,6 +1,6 @@
 ---
-title: Première mise en œuvre dʼAdobe Analytics
-description: Découvrez comment démarrer et exécuter les données Adobe Analytics en quelques minutes.
+title: Première implémentation dʼAdobe Analytics
+description: Découvrez comment commencer à utiliser des données Adobe Analytics en quelques minutes.
 feature: Implementation Basics
 role: User
 level: Beginner
@@ -10,12 +10,12 @@ exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
-# Première mise en œuvre dʼAdobe Analytics {#first-time-adobe-analytics-implementation}
+# Première implémentation dʼAdobe Analytics {#first-time-adobe-analytics-implementation}
 
-La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, apprenez à utiliser les données Adobe Analytics en quelques minutes.
+La mise en œuvre d’Adobe Analytics n’a jamais été aussi facile. Si vous découvrez notre solution, découvrez comment commencer à utiliser des données Adobe Analytics en quelques minutes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25456/?quality=12)
