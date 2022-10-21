@@ -10,9 +10,9 @@ thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Pour plus dʼinformations, consultez la [documentation](https://experienceleague
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Exportation et démocratisation des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
