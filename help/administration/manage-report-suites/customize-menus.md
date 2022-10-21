@@ -10,9 +10,9 @@ thumbnail: 333035.jpg
 kt: 7707
 exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Pour plus dʼinformations, consultez la [documentation](https://experienceleague
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Configuration et administration des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr), disponible gratuitement sur Experience League !
