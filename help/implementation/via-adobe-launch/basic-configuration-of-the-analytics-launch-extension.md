@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Cette vidéo présente un moyen rapide de configurer l’extension [!DNL Analyti
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
