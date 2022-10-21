@@ -10,9 +10,9 @@ thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Vous devrez parfois contacter Adobe en cas d’échec de la diffusion du flux de
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Exportation et démocratisation des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
