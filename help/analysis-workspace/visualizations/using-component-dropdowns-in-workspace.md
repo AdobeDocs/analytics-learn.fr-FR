@@ -8,9 +8,9 @@ thumbnail: 332601.jpg
 kt: 7477
 exl-id: e63c845f-7160-4fb4-9161-a513797e753a
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Les listes déroulantes de composants vous permettent de choisir dans une liste 
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Utilisation des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Utiliser les visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations), disponible gratuitement sur Experience League !
