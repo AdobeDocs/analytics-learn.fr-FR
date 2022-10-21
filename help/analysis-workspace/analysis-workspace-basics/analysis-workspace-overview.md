@@ -1,6 +1,6 @@
 ---
 title: Aperçu d’Analysis Workspace
-description: Obtenez un aperçu général d’Analysis Workspace, y compris la création et les modèles de projet, les panneaux, les visualisations, les dimensions, les mesures, les segments et les fonctionnalités à forte valeur ajoutée.
+description: Obtenez un aperçu général d’Analysis Workspace, y compris la création de projets, les modèles de projet, les panneaux, les visualisations, les dimensions, les mesures, les segments et les fonctionnalités à forte valeur ajoutée.
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ kt: 2474
 thumbnail: 26266.jpg
 exl-id: a975a004-d044-47f6-b4ff-d6158a467c2a
 source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 # Aperçu d’Analysis Workspace {#analysis-workspace-overview}
 
-Obtenez un aperçu général d’Analysis Workspace, y compris la création et les modèles de projet, les panneaux, les visualisations, les dimensions, les mesures, les segments et les fonctionnalités à forte valeur ajoutée.
+Obtenez un aperçu général d’Analysis Workspace, y compris la création de projets, les modèles de projet, les panneaux, les visualisations, les dimensions, les mesures, les segments et les fonctionnalités à forte valeur ajoutée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12)
