@@ -9,9 +9,9 @@ thumbnail: 333604.jpg
 kt: 7996
 exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Dans cette vidéo, nous passons en revue les étapes d’implémentation de vari
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Implémentation et mesure de la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Implémenter et mesurer la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
