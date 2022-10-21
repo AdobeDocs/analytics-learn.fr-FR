@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Dans cette vidéo, découvrez les variables de trafic, y compris [!UICONTROL Nom
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
