@@ -8,9 +8,9 @@ role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segm
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Attribution de valeur aux points de contact numériques dans le Parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), disponible gratuitement sur Experience League !
