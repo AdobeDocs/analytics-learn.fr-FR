@@ -1,5 +1,5 @@
 ---
-title: Créer et gérer un document de référence de conception de solution (SDR)
+title: Créer et conserver un document de conception de solution (SDR)
 description: Le document de référence de conception de solution (SDR) est le plan directeur des exigences commerciales et de la conception de collecte de données pour Analytics sur vos propriétés numériques. Découvrez comment créer et gérer ce document en tant que source de vérité pour votre solution d’analyse.
 feature: Implementation Basics
 role: Developer, Data Engineer
@@ -8,13 +8,13 @@ kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
-# Créer et gérer un document de référence de conception de solution (SDR){#create-and-maintain-a-solution-design-reference-document}
+# Créer et conserver un document de conception de solution (SDR){#create-and-maintain-a-solution-design-reference-document}
 
 Le document de référence de conception de solution (SDR) est le plan directeur des exigences commerciales et de la conception de collecte de données pour Analytics sur vos propriétés numériques. Découvrez comment créer et gérer ce document en tant que source de vérité pour votre solution d’analyse.
 
@@ -26,4 +26,4 @@ Le document de référence de conception de solution (SDR) est le plan directeur
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
