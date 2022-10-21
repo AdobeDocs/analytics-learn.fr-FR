@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Pour obtenir une liste des variables mappées automatiquement entre le SDK web e
 
 >[!INFO]
 >
-> Cette vidéo fait partie de plusieurs cours, [Configuration et administration des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=fr) et [Implémentation et mesure de la recherche de site interne](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie de plusieurs cours, [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) et [Implémenter et mesurer la recherche interne de site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponibles gratuitement sur Experience League !
