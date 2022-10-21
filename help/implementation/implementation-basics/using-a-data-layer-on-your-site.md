@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: a357b5a9-b1f3-449c-9f6e-31613211c009
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Une bonne pratique consiste à utiliser une couche de données sur votre site lo
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Mise en oeuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !
