@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Cette vidéo décrit trois différentes manières d’utiliser les dates dans l�
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours [Filtrage de vos données à l’aide d’une segmentation et de dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation et les dates personnalisées](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr), disponible gratuitement sur Experience League !
