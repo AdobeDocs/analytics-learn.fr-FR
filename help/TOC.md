@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutoriels Analytics](overview.md)
 + Introduction à Analytics {#intro-to-analytics}
-   + [Présentation de l’analyse](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Présentation d’Analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + Que peut faire Adobe Analytics pour moi ? {#what-can-aa-do-for-me}
       + [Comment Adobe Analysis Workspace peut changer votre entreprise](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [Plus que des données. C’est l’analyse client](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -136,7 +136,7 @@ ht-degree: 99%
       + [Ajout de lignes de tendances aux visualisations en ligne](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualisation Carte](analysis-workspace/visualizations/map-visualization.md)
       + [Visualisations de la Synthèse des chiffres et de la Synthèse des modifications](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
-      + [Visualisation récapitulative des mesures clés](analysis-workspace/visualizations/key-metric-summary.md)
+      + [Visualisation du résumé des mesures clés](analysis-workspace/visualizations/key-metric-summary.md)
       + [Visualisation textuelle](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualisation en graphique de dispersion](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualisation Treemap](analysis-workspace/visualizations/treemap-visualization.md)
