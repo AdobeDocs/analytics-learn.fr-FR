@@ -1,24 +1,22 @@
 ---
-title: Ajout de descriptions de dimensions et de mesures dans Adobe Analytics
-description: Cette vidéo vous explique comment ajouter du contexte à vos rapports, mesures et dimensions dans Adobe Analytics.
+title: Ajout de descriptions de dimension et de mesure dans Adobe Analytics
+description: Découvrez comment ajouter du contexte aux dimensions et aux mesures dans Adobe Analytics.
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2352
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25453.jpg
+kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 0%
 
 ---
 
-# Ajout de descriptions de [!UICONTROL dimensions] et de [!UICONTROL mesure] dans Adobe Analytics {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# Ajout de descriptions de dimension et de mesure dans [!DNL Adobe Analytics] {#add-dimension-and-metric-descriptions-in-adobe-analytics}
 
-Cette vidéo vous explique comment ajouter du contexte à vos rapports, [!UICONTROL mesures] et [!UICONTROL dimensions] dans Adobe Analytics.
+Découvrez comment ajouter du contexte aux dimensions et aux mesures dans [!DNL Adobe Analytics]. Utilisez le champ de description si le nom attribué à vos rapports et mesures ne fournit pas suffisamment de clarté aux utilisateurs de votre entreprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
