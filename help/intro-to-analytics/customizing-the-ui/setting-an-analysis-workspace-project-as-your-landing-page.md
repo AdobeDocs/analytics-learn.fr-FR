@@ -1,24 +1,23 @@
 ---
-title: Définition d’un projet Analysis Workspace en tant que page de destination
-description: Cette vidéo vous explique comment définir un projet en tant que page de destination.
+title: Définir un projet Analysis Workspace comme page d’entrée
+description: Découvrez un moyen efficace d’amener facilement des utilisateurs novices à accéder aux données du projet d’analyse de l’espace de travail
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2364
 role: User
 level: Beginner
+activity: use
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
-# Définition d’un projet Analysis Workspace en tant que page de destination {#setting-an-analysis-workspace-project-as-your-landing-page}
+# Définir un projet Analysis Workspace comme page d’entrée {#set-an-analysis-workspace-project-as-your-landing-page}
 
-Cette vidéo vous explique comment définir un projet en tant que page de destination.
+Découvrez un moyen efficace d’amener facilement des utilisateurs débutants dans les données de projet d’analyse de l’espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/25460/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
