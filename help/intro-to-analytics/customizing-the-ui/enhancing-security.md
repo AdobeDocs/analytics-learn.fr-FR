@@ -1,24 +1,23 @@
 ---
-title: Renforcement de la sécurité dans Adobe Analytics
-description: Adobe Analytics est conforme aux dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des éléments tels que les mots de passe difficiles à deviner et les restrictions d’identification par IP, cette vidéo vous montrera comment procéder.
+title: Amélioration de la sécurité
+description: Découvrez les paramètres du Gestionnaire de sécurité dans Paramètres de la société pour contrôler l’accès à Adobe Analytics.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Renforcement de la sécurité dans Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Amélioration de la sécurité {#enhance-security}
 
-Adobe Analytics est conforme aux dernières normes de sécurité. Si votre entreprise souhaite étendre cette sécurité avec des éléments tels que les mots de passe difficiles à deviner et les restrictions d’identification par IP, cette vidéo vous montrera comment procéder.
+Découvrez les paramètres du Gestionnaire de sécurité dans Paramètres de la société pour contrôler l’accès à Adobe Analytics. Cela inclut les mots de passe difficiles à deviner, les fonctionnalités d’expiration et de récupération des mots de passe, ainsi que les restrictions de domaine de courriel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
