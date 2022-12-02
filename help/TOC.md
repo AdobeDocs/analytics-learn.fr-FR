@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
+source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
 workflow-type: tm+mt
-source-wordcount: '2383'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 96%
 
 ---
 
@@ -91,9 +91,9 @@ ht-degree: 97%
       + [Panneau Observateurs simultanés de médias dans Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Panneau Temps de lecture de médias](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=fr)
       + [Utiliser les filtres déroulants](analysis-workspace/using-panels/using-drop-down-filters.md)
-      + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Améliorations de la zone de dépôt des segments](analysis-workspace/using-panels/segment-dropzone-improvements.md)
-      + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
+      + [Sélection de segments pour un panneau](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+      + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Panneaux et rapports Suivant/précédent et Résumé de la page dans Workspace](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Création de tableaux à structure libre {#building-freeform-tables}
       + [Compréhension de vos données à lʼaide des tableaux à structure libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
@@ -155,7 +155,7 @@ ht-degree: 97%
       + [Utilisation de segments dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Segments ad hoc (temporaires)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Utilisation de différents modèles Attribution IQ avec des segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=fr)
-      + [Segments au niveau du panneau](analysis-workspace/using-panels/panel-level-segments.md)
+      + [Sélection de segments pour un panneau](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Utilisation de segments en tant que dimensions dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segments rapides dans Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
