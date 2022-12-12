@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 95%
+source-wordcount: '2372'
+ht-degree: 93%
 
 ---
 
@@ -152,11 +152,10 @@ ht-degree: 95%
       + [Journey IQ : analyses sur plusieurs appareils](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Application de segments {#applying-segments}
       + [Application de segments à votre projet Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Utilisation de segments dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Segments ad hoc (temporaires)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Application de segments ad hoc](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Utilisation de différents modèles Attribution IQ avec des segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=fr)
       + [Sélection de segments pour un panneau](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Utilisation de segments en tant que dimensions dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [Utilisation de segments comme Dimensions dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilisation de segments pour limiter les données dans Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segments rapides dans Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Mesures {#metrics}
