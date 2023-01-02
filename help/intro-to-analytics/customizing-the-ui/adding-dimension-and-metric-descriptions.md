@@ -1,5 +1,5 @@
 ---
-title: Ajout de descriptions de dimension et de mesure dans Adobe Analytics
+title: Ajout de descriptions de dimensions et de mesures dans Adobe Analytics
 description: Découvrez comment ajouter du contexte aux dimensions et aux mesures dans Adobe Analytics
 feature: Workspace Basics
 role: User
@@ -9,9 +9,9 @@ thumbnail: 25453.jpg
 kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
 source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
