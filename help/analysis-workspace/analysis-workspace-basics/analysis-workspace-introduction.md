@@ -1,5 +1,5 @@
 ---
-title: Présentation rapide d’Analysis Workspace
+title: Présentation rapide dʼAnalysis Workspace
 description: Découvrez rapidement comment Analysis Workspace prend en charge les novices et les experts en données.
 feature: Workspace Basics
 role: User
@@ -8,16 +8,16 @@ kt: 3268
 thumbnail: 23961.jpg
 exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
 source-git-commit: 75462db3406811be3264b0a4dbdd6f7cdf257736
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Présentation rapide d’Analysis Workspace {#introduction-to-analysis-workspace}
+# Présentation rapide dʼAnalysis Workspace {#introduction-to-analysis-workspace}
 
 Découvrez rapidement comment Analysis Workspace prend en charge les novices et les experts en données.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Suivez cette vidéo en regardant la vidéo de présentation d’Analysis Workspace ou en prenant une [cours d&#39;introduction gratuit](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr) ici, Experience League !
+Suivez cette vidéo en regardant la vidéo de présentation d’Analysis Workspace ou en prenant une [cours d’introduction gratuit](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr) ici, Experience League !
