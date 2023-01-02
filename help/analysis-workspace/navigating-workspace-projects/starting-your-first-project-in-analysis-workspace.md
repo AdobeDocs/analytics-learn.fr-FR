@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
