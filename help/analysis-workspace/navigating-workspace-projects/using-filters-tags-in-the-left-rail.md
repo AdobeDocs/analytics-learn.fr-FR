@@ -8,9 +8,9 @@ kt: 4845
 thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Découvrez comment utiliser des filtres, appelés balises, dans Analysis Workspa
 
 >[!INFO]
 >
-> Cette vidéo fait partie d&#39;un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League !
