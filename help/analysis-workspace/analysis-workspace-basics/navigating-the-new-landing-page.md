@@ -1,20 +1,20 @@
 ---
-title: Accéder à la nouvelle page de destination
+title: Parcourir la nouvelle landing page Analysis Workspace
 description: Découvrez comment tirer le meilleur parti de la nouvelle page de destination d’Analytics et de ses fonctionnalités.
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10295
-thumbnail: 334278.jpeg
+thumbnail: 334278.jpg
 exl-id: bb141630-a441-4049-afe0-5f9de2a33089
-source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Accéder à la nouvelle page de destination
+# Parcourir la nouvelle landing page Analysis Workspace
 
 Découvrez comment tirer le meilleur parti de la nouvelle page de destination d’Analytics et de ses fonctionnalités.
 
