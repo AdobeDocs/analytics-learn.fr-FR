@@ -1,7 +1,7 @@
 ---
 title: Implémentation des modèles de suivi dans des moteurs de recherche à partir d’Advertising Analytics
 description: Cette vidéo vous guide tout au long des étapes nécessaires à l’implémentation de vos modèles de suivi d’Advertising Analytics vers les moteurs de recherche pris en charge. L’implémentation du modèle de suivi est l’étape essentielle pour collecter et transmettre vos données à Adobe Analytics.
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,10 +11,10 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
