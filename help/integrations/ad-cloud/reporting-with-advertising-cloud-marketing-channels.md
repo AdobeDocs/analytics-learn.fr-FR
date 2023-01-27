@@ -1,26 +1,22 @@
 ---
-title: Reporting avec les canaux marketing Advertising 
-description: Fonctionnement des données d’entrée des affichages publicitaires et des clics publicitaires Advertising  avec les canaux marketing Adobe Analytics
+title: Rapports avec les canaux marketing Advertising Cloud
+description: Découvrez comment les données d’entrée de clics et de vues publicitaires Advertising Cloud fonctionnent avec les canaux marketing Adobe Analytics.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35115.jpg
-kt: 5472
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35115.jpg
+kt: 5472
 exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '43'
+ht-degree: 11%
 
 ---
 
 # Reporting avec les canaux marketing Advertising 
 
-Fonctionnement des données d’entrée des affichages publicitaires et des clics publicitaires Advertising  avec les [!UICONTROL canaux marketing] Adobe Analytics.
+Découvrez le fonctionnement des données d’entrée de clics et de vues publicitaires Advertising Cloud avec Adobe Analytics [!UICONTROL Canaux marketing].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)

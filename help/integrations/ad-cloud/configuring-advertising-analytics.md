@@ -1,26 +1,23 @@
 ---
-title: Configuration d’Advertising Analytics dans Adobe Analytics
-description: Cette vidéo explique de façon détaillée comment configurer vos suites de rapports pour utiliser Advertising Analytics. Elle présente également comment configurer un compte de référencement payant et les détails de création de rapports pour Advertising Analytics.
+title: Configuration d’Advertising Analytics dans Adobe Analytics
+description: Configurez vos suites de rapports pour utiliser Advertising Analytics.
 feature: Advertising Integration
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-kt: 1642
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23119.jpg
+kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '59'
+ht-degree: 27%
 
 ---
 
-# Configuration d’[!DNL Advertising Analytics] dans Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
+# Configurer [!DNL Advertising Analytics] dans Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-Cette vidéo explique de façon détaillée comment configurer vos [!UICONTROL suites de rapports] pour utiliser [!DNL Advertising Analytics]. Elle présente également comment configurer un compte de référencement payant et les détails de création de rapports pour [!DNL Advertising Analytics].
+Obtenez une révision de haut niveau sur la configuration de votre [!UICONTROL suites de rapports] à utiliser [!DNL Advertising Analytics], comment configurer un compte de recherche payante et générer des rapports pour [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
