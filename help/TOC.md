@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 96%
+source-wordcount: '2344'
+ht-degree: 93%
 
 ---
 
@@ -112,34 +112,33 @@ ht-degree: 96%
       + [Cas dʼutilisation des visualisations](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Utilisation des listes déroulantes de composants dans l’espace de travail](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualisations sous forme de surface et aires empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualisations sous forme de barres et barres empilées](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
-      + [Visualisation des graphiques à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [Utilisation des listes déroulantes de composants dans Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Visualisations avec aires et zones empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualisations en barres et en barres empilées](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Visualisation de graphique à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualisation en anneau](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualisation Histogramme](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualisation en ligne](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Graphiques combinés](analysis-workspace/visualizations/combo-charts.md)
-      + [Ajout de lignes de tendances aux visualisations en ligne](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
-      + [Visualisation Carte](analysis-workspace/visualizations/map-visualization.md)
-      + [Visualisations de la Synthèse des chiffres et de la Synthèse des modifications](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [Ajout de lignes de tendance aux visualisations en ligne](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Visualisation des cartes](analysis-workspace/visualizations/map-visualization.md)
+      + [Visualisations Synthèse des chiffres et Synthèse des changements](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualisation du résumé des mesures clés](analysis-workspace/visualizations/key-metric-summary.md)
-      + [Visualisation textuelle](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Visualisation de texte](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualisation en graphique de dispersion](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualisation Treemap](analysis-workspace/visualizations/treemap-visualization.md)
-      + [Visualisation du diagramme de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Utilisation de la fonction moyenne cumulée pour appliquer le lissage des mesures](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
-      + [Mises en page flexibles](analysis-workspace/visualizations/flexible-layouts.md)
+      + [Visualisation de diagramme de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [Utilisation de la fonction de moyenne cumulée pour appliquer le lissage des mesures](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Dispositions flexibles](analysis-workspace/visualizations/flexible-layouts.md)
       + [Modification de l’échelle et de l’axe sur les visualisations](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Liaisons en direct dans les graphiques à dimensions](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Basculement de la granularité](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Lien direct Dimension-graphique](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [Bascule de granularité](analysis-workspace/visualizations/granularity-toggle.md)
       + [Liens internes dans Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [Thème positif - négatif de la carte](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Réorganisation et redimensionnement des visualisations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personnalisation des légendes des visualisations](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [Visualisations empilées à 100 %](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [Paramètres des sources de données des tableaux et visualisations](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
-      + [Création d’une carte thermique de répartition du temps](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+      + [Visualisations 100 % empilées](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [Paramètres de source de données de tableau et de visualisation](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [Création dʼune carte thermique de répartition du temps](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Analyse des parcours client {#analyzing-customer-journeys}
       + [Créer une visualisation des abandons](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Créer une visualisation de flux](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
