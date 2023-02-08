@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Découvrez l’étape primordiale de la définition des données comportementales que vous souhaitez capturer et analyser dans Adobe Analytics. Que doit comprendre votre entreprise sur la manière dont les visiteurs utilisent vos propriétés numériques ? Notez d’abord ces exigences, puis décidez de la façon de les capturer à l’aide d’événements, de dimensions et de mesures Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Téléchargez](assets/aa-implementation-playbook.xlsx) un exemple de modèle Excel pour documenter les exigences et la conception de collecte de données pour vos propriétés numériques.
 

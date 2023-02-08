@@ -7,10 +7,10 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Le document de référence de conception de solution (SDR) est le plan directeur des exigences commerciales et de la conception de collecte de données pour Analytics sur vos propriétés numériques. Découvrez comment créer et gérer ce document en tant que source de vérité pour votre solution d’analyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [Téléchargez](assets/aa-implementation-playbook.xlsx) un exemple de modèle Excel pour documenter les exigences et la conception de collecte de données pour vos propriétés numériques.
 

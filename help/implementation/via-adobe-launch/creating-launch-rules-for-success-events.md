@@ -2,18 +2,14 @@
 title: Création de règles Launch pour les événements de succès
 description: Cette vidéo vous explique comment utiliser Launch pour effectuer le suivi des événements de conversion (ou événements de succès) sur votre site. Cela s’affiche dans le cas d’utilisation du suivi d’un processus d’application sur un exemple de site.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '100'
-ht-degree: 100%
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +17,7 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment utiliser [!DNL Experience Platform Launch] pour effectuer le suivi des événements de conversion (ou événements de succès) sur votre site. Cela s’affiche dans le cas d’utilisation du suivi d’un processus d’application sur un exemple de site.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
 
 >[!INFO]
 >

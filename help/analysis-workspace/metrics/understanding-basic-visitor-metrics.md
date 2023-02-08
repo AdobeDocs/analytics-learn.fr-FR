@@ -6,10 +6,10 @@ kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 [!UICONTROL Pages vues], [!UICONTROL Visites] et [!UICONTROL Visiteurs]. Cette courte vidéo vous donne des informations de base sur ces mesures, qui sont essentielles à la compréhension du trafic sur le site web.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
 
 >[!INFO]
 >
