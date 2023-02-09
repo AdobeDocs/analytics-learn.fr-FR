@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
 source-wordcount: '2344'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 93%
       + [Présentation rapide d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Aperçu d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigation dans la nouvelle page de destination](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Création dʼun projet de Workspace à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Création d’un projet de Workspace à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Créer et gérer des modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Comprendre comment les données sont intégrées à votre projet Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Mesures de base dans Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
@@ -92,19 +92,19 @@ ht-degree: 93%
       + [Suites de rapports multiples dans Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Panneaux et rapports Suivant/précédent et Résumé de la page dans Workspace](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Création de tableaux à structure libre {#building-freeform-tables}
-      + [Présentation des données : tableaux à structure libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [Utilisation du rail de gauche pour créer des tableaux à structure libre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Cerner précisément ses données à l’aide des tableaux à structure libre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [Utiliser le rail de gauche pour créer des tableaux à structure libre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Glisser-déposer facilement dans des projets vierges](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [Utilisation des dimensions dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [Utilisation des mesures dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Utiliser les dimensions dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Utiliser les mesures dans un tableau à structure libre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Paramètres de ligne et de colonne dans les tableaux à structure libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Totaux des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
-      + [Utilisation du créateur de tableau à structure libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Clic droit pour optimiser l’efficacité de l’espace de travail](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [Réorganisation des lignes statiques](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utilisation de Attribution IQ dans les tableaux à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=fr)
+      + [Utiliser le créateur de tableaux à structure libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Clic avec le bouton droit pour optimiser l’efficacité de Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=fr)
+      + [Réorganiser les lignes statiques](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [Utiliser Attribution IQ dans les tableaux à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=fr)
       + [Analyse des ventes croisées](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [Filtres de tableau à structure libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [Filtres des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensions de répartition du temps](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisations {#visualizations}
       + [Visualisation des données dans Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
@@ -191,7 +191,7 @@ ht-degree: 93%
       + [Intervalles de recherche en amont personnalisés dans Attribution IQ](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + Analyse des cohortes {#cohort-analysis}
       + [Analyse de cohortes dans Analysis Workspace](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
-      + [Cernez précisément vos données à lʼaide des Tableaux de cohortes](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
+      + [Cernez précisément vos données à l’aide des Tableaux de cohortes](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [Aperçu des tableaux de cohortes](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [Paramètres du tableau de cohortes](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [Analyse de la perte de clientèle grâce à un tableau de cohortes](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -278,7 +278,7 @@ ht-degree: 93%
       + [Configuration des paramètres des cookies dans l’extension Analytics Launch](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilisation du code personnalisé lors de la configuration de l’extension Analytics de Launch](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Utilisation d’une couche de données pour définir le nom de page et d’autres variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Ajout de plug-ins dʼimplémentation dans Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [Ajout de plug-ins d’implémentation dans Launch](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Utilisation de doPlugins dans l’extension Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Configuration du suivi facile des liens de téléchargement](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Configuration du suivi facile des liens de sortie](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -318,7 +318,7 @@ ht-degree: 93%
       + [Attribution IQ dans les mesures calculées](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=fr)
       + [Mesures calculées - créateur de mesures](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Mesures calculées - fonctions](components/calculated-metrics/calculated-metrics-functions.md)
-      + [Mesures calculées - Mesures ne nécessitant pas dʼimplémentation](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [Mesures calculées - Mesures ne nécessitant pas d’implémentation](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Mesures calculées - mesures segmentées](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Mesures calculées - sélecteur de mesure](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Mesures calculées rapides dans Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
@@ -374,13 +374,13 @@ ht-degree: 93%
    + Ad Cloud {#ad-cloud}
       + [Configuration d’Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implémentation de modèles de suivi dans des moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Présentation de l’intégration d’Analytics pour Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Présentation de l’intégration d’Analytics pour Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [Création d’une analyse de prélancement d’une campagne](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Reporting avec les canaux marketing Advertising Cloud](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Création de profils de parcours de site Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Création de segments Analytics pour l’activation et le reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Création d’alertes Advertising Cloud avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Créer des mesures personnalisées Analytics avec des données Advertising Cloud](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Création d’alertes Advertising Cloud avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Créer des mesures personnalisées Analytics avec des données Advertising Cloud](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Création de rapports d’entrée sur le site Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Création de tableaux de bord Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
@@ -430,12 +430,12 @@ ht-degree: 93%
 + Cas d’utilisation d’Analysis {#analysis-use-cases}
    + Recherche interne au site {#internal-site-search}
       + [Définition des besoins de votre entreprise en matière de recherche interne au site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [Implémentation de variables de recherche interne à lʼaide dʼAppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [Implémentation de variables de recherche interne à lʼaide du SDK Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Implémentation de variables de recherche interne à l’aide d’AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implémentation de variables de recherche interne à l’aide du SDK Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Mappage de variables SDK Web dans Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Configuration des rapports de recherche interne au site](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Programme Analytics University](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Le module Fondamentaux dʼAnalytics pour les utilisateurs professionnels a été supprimé.](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [Experience League LIVE](exl-live/exl-live-overview.md)
++ [Le module Fondamentaux d’Analytics pour les utilisateurs professionnels a été supprimé.](retired-courses/retire-fundamentals-for-business-users-course.md)
 
