@@ -1,5 +1,5 @@
 ---
-title: Utilisation des mesures dans un tableau à structure libre
+title: Utiliser les mesures dans un tableau à structure libre
 description: Découvrez les différentes manières d’utiliser les mesures dans un tableau à structure libre dans Analysis Workspace.
 feature: Freeform Tables
 thumbnail: 40817.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: f7d282f4-027d-4093-a0b5-8d2c0a053317,0ec8b5ca-379e-45be-b077-514af318f42a
 source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Utilisation des mesures dans un tableau à structure libre
+# Utiliser les mesures dans un tableau à structure libre
 
 Découvrez les différentes manières d’utiliser les mesures dans un tableau à structure libre dans Analysis Workspace.
 
@@ -22,4 +22,4 @@ Découvrez les différentes manières d’utiliser les mesures dans un tableau �
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie du cours [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League.
