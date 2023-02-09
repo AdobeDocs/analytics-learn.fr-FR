@@ -1,5 +1,5 @@
 ---
-title: Totaux des tableaux à structure libre dans Analysis Workspace
+title: Totaux des tableaux à structure libre dans Analysis Workspace
 description: Découvrez ce qui affecte les totaux dans les tableaux à structure libre, ainsi que comment les activer et les désactiver.
 feature: Freeform Tables
 thumbnail: 29273.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 source-git-commit: 0f81e30dbee6bc52b3fcbf7f6c91a6c85cc33755
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Totaux des tableaux à structure libre dans Analysis Workspace
+# Totaux des tableaux à structure libre dans Analysis Workspace
 
 Découvrez ce qui affecte les totaux dans les tableaux à structure libre, ainsi que comment les activer et les désactiver.
 
@@ -22,4 +22,4 @@ Découvrez ce qui affecte les totaux dans les tableaux à structure libre, ainsi
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie du cours [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League.
