@@ -1,5 +1,5 @@
 ---
-title: Filtres de tableau à structure libre dans Analysis Workspace
+title: Filtres de tableaux à structure libre dans Analysis Workspace
 description: Les filtres permettent de mieux contrôler les lignes de données partagées dans un tableau à structure libre.
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Filtres de tableau à structure libre dans Analysis Workspace
+# Filtres de tableaux à structure libre dans Analysis Workspace
 
 Les filtres permettent de mieux contrôler les lignes de données partagées dans un [!DNL freeform table].
 
@@ -28,4 +28,4 @@ Pour plus d’informations sur les filtres disponibles, consultez la [documentat
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League !
