@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2349'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -342,7 +342,7 @@ ht-degree: 99%
       + [Application de périodes personnalisées](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Utilisation des tableaux de bord Analytics in-app](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [Créer des vues détaillées personnalisées](additional-tools/analytics-dashboards/create-custom-detail-views.md)
-      + [Articles de données pour les tableaux de bord d’analyse](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
+      + [Récits de données pour les tableaux de bord Analytics](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + Exportation en cours {#exporting}
    + À partir de l’interface utilisateur {#from-the-ui}
       + [Exportation au format CSV à partir d’Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
