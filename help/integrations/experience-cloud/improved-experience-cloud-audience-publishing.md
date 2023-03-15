@@ -1,6 +1,7 @@
 ---
 title: Amélioration de la publication auprès d’une audience Experience Cloud
 landing-page-description: Découvrez les publications d’audiences (segments) et rendez-les disponibles plus rapidement que jamais.
+short-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences (segments) et les rendre disponibles six fois plus rapidement, ce qui réduit le temps de latence actuel de 48 heures à environ 8 heures, voire plus rapidement, en fonction du trafic et de la taille du segment.
 feature: Experience Cloud Integration
 topics: null
@@ -12,9 +13,9 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
-source-wordcount: '165'
+source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
