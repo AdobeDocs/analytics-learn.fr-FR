@@ -10,8 +10,8 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Les [!UICONTROL suites de rapports virtuelles] peuvent être organisées de manière à inclure et exclure des [!UICONTROL dimensions], des [!UICONTROL mesures] et des [!UICONTROL segments] dans Analysis Workspace, ce qui s’avère très utile si vous partagez ces données avec d’autres équipes qui n’ont besoin que d’une tranche spécifique des données ou si vous utilisez une autre nomenclature de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 Si la personnalisation des composants est activée, la [!UICONTROL suite de rapports virtuelle] n’est accessible que dans Analysis Workspace.
 
