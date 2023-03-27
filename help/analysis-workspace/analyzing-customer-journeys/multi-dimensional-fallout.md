@@ -11,7 +11,7 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Dans Analysis Workspace, vous pouvez grâce aux [!DNL Fallout] combiner et associer des dimensions et des mesures comme points de contact dans les entonnoirs et les workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 Grâce à cette puissante fonctionnalité, vous disposez d’une plus grande flexibilité pour définir les étapes des utilisateurs sur lesquelles vous souhaitez en savoir plus.
 
