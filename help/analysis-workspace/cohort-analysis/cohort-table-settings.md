@@ -10,7 +10,7 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Plusieurs paramètres de ¨ vous permettent de personnaliser votre vue de la [!UICONTROL rétention] ou de l’[!UICONTROL attrition]. Ces paramètres sont mis en avant dans cette vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilités suivantes :
 
