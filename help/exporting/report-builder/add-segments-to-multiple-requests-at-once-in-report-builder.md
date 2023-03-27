@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment utiliser [!UICONTROL Report Builder] pour ajouter des segments à toutes vos requêtes en même temps, ce qui vous permet de gagner du temps et vous évite des problèmes.
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=fr).
 
