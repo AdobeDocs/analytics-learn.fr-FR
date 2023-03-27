@@ -7,7 +7,7 @@ kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Les modèles de [!UICONTROL dimensions] sont disponibles par le biais de l’engrenage pour n’importe quelle [!UICONTROL dimension] de la segmentation. Ces modèles s’avèrent principalement utiles pour la segmentation séquentielle. Ils vous permettent également de segmenter les valeurs persistantes d’une [!UICONTROL dimension] (par défaut), d’instances ou d’instances non répétées d’une [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
 
 >[!INFO]
 >
