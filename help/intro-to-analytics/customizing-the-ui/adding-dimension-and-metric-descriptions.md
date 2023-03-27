@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25453.jpg
 kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Découvrez comment ajouter du contexte aux dimensions et aux mesures dans [!DNL Adobe Analytics]. Utilisez le champ de description si le nom attribué à vos rapports et mesures ne fournit pas suffisamment de clarté aux utilisateurs de votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
