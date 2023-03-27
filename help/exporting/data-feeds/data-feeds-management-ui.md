@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '139'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Le [!UICONTROL flux de données] Adobe Analytics vous permet d’exporter des données de flux de clics brutes afin de les importer et de les fusionner avec d’autres sources de données dans un entrepôt de données dʼentreprise ou un lac de données. Adobe Analytics vous permet de créer et gérer vos propres [!UICONTROL Flux de données]. Regardez cette vidéo pour découvrir comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=fr#).
 
