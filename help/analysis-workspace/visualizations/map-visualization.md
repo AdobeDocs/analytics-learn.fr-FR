@@ -7,7 +7,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment utiliser la visualisation des cartes dans Analysis Workspace. La visualisation des cartes vous permet d’afficher les données [!UICONTROL mobiles (lat/long)] ou web (adresse IP) par rapport à une carte dynamique, ce qui vous permet d’avoir une idée de l’utilisation des clients dans le contexte de leur emplacement.
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette visualisation, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=fr).
 
