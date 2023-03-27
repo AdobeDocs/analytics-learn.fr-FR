@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez comment ajouter des [!UICONTROL mesures] de [!UICONTROL détection des anomalies] à vos requêtes de données et créer un graphique créatif des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL La détection des anomalies] utilise la modélisation statistique pour détecter automatiquement les tendances imprévues dans vos données.
 
@@ -29,4 +29,4 @@ Pour plus d’informations sur cette fonctionnalité, consultez la [documentatio
 
 >[!INFO]
 >
-> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
+> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
