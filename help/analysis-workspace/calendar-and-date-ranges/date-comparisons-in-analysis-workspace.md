@@ -7,7 +7,7 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment tirer parti de deux fonctionnalités de comparaison de dates dans les [!UICONTROL tableaux à structure libre] : « [!UICONTROL Ajouter une colonne de période] » et « [!UICONTROL Comparer des périodes] ».
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 Les comparaisons de dates sont un moyen facile d’approfondir vos tableaux Analysis Workspace actuels et vous aideront à mettre facilement vos données actuelles en perspective avec les performances historiques.
 
@@ -31,4 +31,4 @@ Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation
 > * [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
 > * [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> Les deux sont disponibles gratuitement sur Experience League !
+> Les deux sont disponibles gratuitement sur Experience League !
