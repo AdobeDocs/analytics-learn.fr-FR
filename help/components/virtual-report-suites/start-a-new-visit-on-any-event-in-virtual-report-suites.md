@@ -10,8 +10,8 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Cette vidéo montre comment utiliser des événements pour déclencher le début d’une nouvelle visite dans Adobe Analytics à l’aide des paramètres de visite d’une [!UICONTROL suite de rapports virtuelle].
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 Vous pouvez redéfinir le contexte d’une visite dans Adobe Analytics par le biais de paramètres de délai d’expiration personnalisés, en ignorant les accès en arrière-plan ou en déclenchant une nouvelle visite au lancement de l’application. Grâce à cela, nous étendons cette fonctionnalité afin que vous puissiez déclencher une nouvelle visite pour n’importe quelle combinaison d’événements, plutôt que par le seul biais d’un lancement d’application.
