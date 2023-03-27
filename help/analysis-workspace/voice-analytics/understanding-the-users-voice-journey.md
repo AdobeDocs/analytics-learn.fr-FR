@@ -10,8 +10,8 @@ kt: 2903
 role: User
 level: Intermediate
 exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenez le parcours client sur l’application vocale en observant le chemin du [!UICONTROL flux] et lʼ[!UICONTROL abandon] pour identifier les actions les plus courantes, la séquence de ces actions et quand et où les utilisateurs abandonnent le parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
