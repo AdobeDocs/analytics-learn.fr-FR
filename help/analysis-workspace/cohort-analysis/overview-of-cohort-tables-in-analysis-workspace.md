@@ -11,7 +11,7 @@ kt: 2477
 role: User
 level: Intermediate
 exl-id: 3c0b0814-61b0-43ad-b69c-9e55555d4edd
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Le paramètre [!UICONTROL Calcul variable] dans les [!UICONTROL tableaux de cohortes] peut être utilisé pour analyser les [!UICONTROL cohortes] période par période, afin de comprendre comment les mêmes utilisateurs sont conservés (ou [!UICONTROL perdus]) au fil du temps.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).
 
