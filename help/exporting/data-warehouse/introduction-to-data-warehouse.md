@@ -8,7 +8,7 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 L’outil de requête [!UICONTROL Data Warehouse] d’Adobe Analytics permet d’interroger les données brutes. [!UICONTROL Data Warehouse] peut traiter un nombre illimité de lignes dans une seule demande pour des rapports distincts téléchargés et planifiés. Cette vidéo présente cet outil et offre une présentation détaillée de la création d’un rapport [!UICONTROL Data Warehouse].
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
 
 >[!INFO]
 >
