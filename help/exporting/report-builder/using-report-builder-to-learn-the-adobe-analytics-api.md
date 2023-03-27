@@ -10,8 +10,8 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] est un outil que nous connaissons et apprécions tous. Et si je vous disais que vous pouviez utiliser ce que vous savez de [!UICONTROL Report Builder] pour améliorer encore vos compétences Adobe Analytics ? Dans cette vidéo, nous allons découvrir comment traiter les demandes de débogage de [!UICONTROL Report Builder] et les utiliser pour apprendre à concevoir vos propres requêtes d’API [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **MISE À JOUR** : [!UICONTROL Report Builder] a légèrement mis à jour la manière dont il demande les données. Vous pouvez toujours utiliser l’approche de cette vidéo, mais les informations seront légèrement différentes dans un débogueur.
 
