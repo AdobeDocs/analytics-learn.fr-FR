@@ -8,7 +8,7 @@ level: Intermediate
 thumbnail: 23119.jpg
 kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez en détails comment configurer vos [!UICONTROL suites de rapports] pour utiliser [!DNL Advertising Analytics] et comment configurer un compte de référencement payant et les détails de création de rapports pour [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
 ## Ressources supplémentaires {#additional-resources}
 
