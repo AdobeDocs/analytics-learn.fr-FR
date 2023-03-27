@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: 33634.jpg
 kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 953ba61db6f3fb50ab4caa57c402ec6f75b7831f
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d’autres destinataires et inviter d’autres personnes à collaborer sur votre projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=fr).
 
