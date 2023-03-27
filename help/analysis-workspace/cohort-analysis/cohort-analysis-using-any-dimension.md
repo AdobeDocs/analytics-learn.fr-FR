@@ -10,7 +10,7 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 L’option [!UICONTROL Dimension] de [!UICONTROL cohortes] personnalisée vous permet d’analyser les [!UICONTROL cohortes] à partir de [!UICONTROL dimensions] autres que le temps. Comparez les [!UICONTROL cohortes] par canal marketing, zone géographique de la campagne, page produit, etc. pour mieux comprendre comment la [!UICONTROL rétention] (ou lʼ[!UICONTROL attrition]) évolue selon lʼélément de [!UICONTROL dimension].
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).
 
