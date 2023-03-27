@@ -7,7 +7,7 @@ kt: 1666
 role: User
 level: Beginner
 exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Vous pouvez désormais créer des [!UICONTROL mesures calculées] à la volée dans Analysis Workspace.  Si vous souhaitez effectuer un changement rapide de pourcentage ou une division avec des [!UICONTROL mesures] dans votre [!UICONTROL tableau à structure libre], sélectionnez simplement les [!UICONTROL mesures] dans l’en-tête, cliquez avec le bouton droit et sélectionnez l’opérateur de votre choix.  La nouvelle [!UICONTROL mesure calculée] s’affiche à droite.
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
 
 >[!INFO]
 >
