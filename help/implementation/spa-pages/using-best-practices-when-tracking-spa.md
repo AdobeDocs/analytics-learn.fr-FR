@@ -11,7 +11,7 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
@@ -88,7 +88,7 @@ Lors du chargement d’un nouveau contenu ou d’une action sur la page SPA, les
 
 Pour plus d’informations sur comment et quand ces événements se déclenchent, reportez-vous aux pages et documents susmentionnés. Vous n’avez pas besoin d’utiliser les mêmes noms d’événement dans votre implémentation. Il est essentiel de comprendre le cas d’utilisation fonctionnel de la méthode utilisée, car il s’agit de la bonne pratique recommandée pour chacune. La vidéo suivante présente un exemple de page SPA et un exemple de code dans les [!DNL Experience Platform Tags] qui écoute les événements personnalisés.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Exécuter s.t() ou s.tl() dans les [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Un concept important à comprendre pour [!DNL Analytics], lorsque vous utilisez 
 
 La vidéo suivante montre où et comment déclencher `s.t()` ou `s.tl()` dans les balises.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Effacer des variables {#clear-variables}
 
@@ -114,7 +114,7 @@ Le diagramme ci-dessus montre les variables effacées *après* avoir envoyé des
 
 La vidéo suivante montre où et comment effacer les variables dans les [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Remarques complémentaires {#additional-considerations}
 
