@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 329426.jpg
 kt: 2297
 exl-id: e48dc465-8f52-4663-8753-d9cd8d9c0f1a
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '44'
 ht-degree: 100%
 
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Découvrez comment exporter des projets à [!UICONTROL structure libre] au format CSV pour l’analyse dans Excel et d’autres outils de BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
