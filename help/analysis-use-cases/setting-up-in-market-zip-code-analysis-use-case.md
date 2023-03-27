@@ -13,8 +13,8 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Dans ce cas d’utilisation, nous allons configurer le système pour importer les codes postaux, les classer comme étant sur le marché ou hors marché, puis utiliser ces données dans Analysis Workspace afin de mesurer l’efficacité de nos campagnes marketing géociblées.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Pour plus d’informations sur les aspects de ce cas d’utilisation, consultez les rubriques de documentation suivantes :
 
