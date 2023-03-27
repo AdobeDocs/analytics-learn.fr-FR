@@ -7,7 +7,7 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Les liens internes permettent aux analystes de créer des projets dans Analysis Workspace afin d’orienter les lecteurs du projet vers des panneaux et des [!UICONTROL visualisations] exacts au sein du projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 Les liens internes peuvent également être utilisés pour créer des tables des matières et raconter des histoires de données plus efficaces dans l’ensemble. La création de liens entre projets est désormais possible en raison de la nouvelle fonctionnalité d’hyperlien.
 
