@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
+source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '2354'
-ht-degree: 100%
+source-wordcount: '2361'
+ht-degree: 99%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 100%
       + [Affichage des mesures de performances d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Conseils et astuces {#tips-and-tricks}
       + [7 conseils et astuces pour Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [Conseils et astuces avec le bouton droit de la souris pour des workflows plus efficaces](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Conseils pour accroître votre productivité dans Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Astuces de clients pour continuer votre parcours d’apprentissage d’Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navigation dans les projets Espace de travail {#navigating-workspace-projects}
