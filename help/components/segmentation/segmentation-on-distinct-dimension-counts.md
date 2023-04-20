@@ -7,8 +7,8 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: ht
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
+workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Les nouveaux opérateurs [!UICONTROL Nombre d’éléments distincts] du [!UICONTROL créateur de segments] vous permettent de segmenter en fonction du nombre d’éléments uniques dans n’importe quelle [!UICONTROL dimension]. Filtrez les visites où plus de 5 pages ont été consultées ou les accès où plus de 5 produits ont été achetés, c’est-à-dire dans une seule commande.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Cette fonctionnalité pourrait-elle être plus cool ? :)
 
