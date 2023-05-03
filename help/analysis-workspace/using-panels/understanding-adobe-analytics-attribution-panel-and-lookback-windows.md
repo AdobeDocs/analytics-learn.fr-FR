@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
 workflow-type: tm+mt
 source-wordcount: '1883'
 ht-degree: 2%
@@ -92,7 +92,7 @@ Si vous avez vu TOUS les films de Retour au Futur, vous savez que Marty McFly es
 
 1. Un peu avant **1 h 30** on **26 octobre 1985**, Marty McFly revient en arrière pour **5 novembre 1955**, où il court pour la première fois sur un pin dans un DeLorean itinérant.  Au cours de la semaine et demie qui a suivi, il interagit avec plusieurs personnes, dont ses parents, ce qui a finalement affecté l&#39;avenir en obligeant son père à se dresser contre une brute appelée Biff, afin que son père puisse réaliser son propre potentiel pour devenir un auteur de science-fiction qui a réussi.
 1. Plus tard le même matin le **26 octobre 1985**, le docteur Emmett Brown arrive sur l&#39;allée de Marty McFly pour l&#39;informer, lui et sa petite amie, que quelque chose n&#39;allait pas chez leurs enfants et qu&#39;ils doivent se précipiter vers le futur pour résoudre leurs problèmes.  Au moment de leur départ, Biff est le témoin de leur départ, qui trouve étrange de voir un DeLorean en plein vol.  Plus tard, dans le futur, alors que Biff voit encore un DeLorean volant et plus tard voit &quot;deux versions&quot; de Marty, il commence à rassembler les choses.   Lorsqu&#39;il entend Doc Brown et Marty argumenter sur la façon dont la &quot;machine à remonter le temps&quot; ne doit jamais être utilisée à des fins personnelles et uniquement pour la recherche (parce que Marty avait réfléchi à la possibilité de ramener un almanach sportif dans le passé pour faire des paris personnels), Biff vole la machine à remonter le temps tandis que les deux sont distraits pour livrer l&#39;almanach sportif à lui-même plus jeune dans le passé.
-1. Après leur voyage vers l&#39;avenir, Doc Brown et Marty retournent à une **26 octobre 1985** ils ne reconnaissent pas, et ils déduisent que les délais ont été altérés par un diabolique Biff.  En réalisant qu&#39;ils doivent réparer ce qui s&#39;est passé, Doc et Marty se décident à retourner à **12 novembre 1955**, la nuit fatidique où tout a été changé par Marty lors de sa première visite **1955**.  Doc et Marty ont finalement sauvé la journée en volant l&#39;almanach sportif que Old Biff avait livré à Young Biff à **1955**, mais pas sans un autre rebondissement, vous avez vraiment besoin de regarder la trilogie complète de films pour vraiment apprécier et comprendre.
+1. Après leur voyage vers l&#39;avenir, Doc Brown et Marty retournent à une **26 octobre 1985** ils ne reconnaissent pas, et ils déduisent que la chronologie a été modifiée par un diabolique Biff.  En réalisant qu&#39;ils doivent réparer ce qui s&#39;est passé, Doc et Marty se décident à retourner à **12 novembre 1955**, la nuit fatidique où tout a été changé par Marty lors de sa première visite **1955**.  Doc et Marty ont finalement sauvé la journée en volant l&#39;almanach sportif que Old Biff avait livré à Young Biff à **1955**, mais pas sans un autre rebondissement, vous avez vraiment besoin de regarder la trilogie complète de films pour vraiment apprécier et comprendre.
 
 Selon le **Modèle d’attribution** et **Intervalle de recherche en amont**, nous pouvons finir avec des scénarios intéressants :
 
@@ -109,7 +109,7 @@ Qu&#39;est-ce que tout cela signifie pour nous en tant qu&#39;analystes ?
 
 Le **Panneau d’attribution** et **Intervalle de recherche en amont** nous donner la possibilité de regarder au-delà des données simples au niveau de la surface et d’approfondir l’analyse du parcours client. En comprenant les points de contact qui ont eu le plus d’impact sur les conversions, nous pouvons prendre des décisions éclairées sur nos stratégies marketing et allouer les ressources plus efficacement.
 
-Souvenez-vous, après avoir pris votre **Modèles d’attribution** et **Windows de recherche en amont** sélectionné, vous avez toujours la possibilité de manipuler davantage vos données en les filtrant avec un segment ou tout autre composant de votre choix.  De plus, une fois le panneau rendu, vous disposez de toutes les fonctionnalités d’une **Workspace**, ce qui signifie que votre licence officielle pour conduire est de 88 km/h !
+Souvenez-vous, après avoir pris votre **Modèles d’attribution** et **Windows de recherche en amont** sélectionné, vous avez toujours la possibilité de manipuler davantage vos données en les filtrant avec un segment ou tout autre composant de votre choix.  De plus, une fois le panneau rendu, vous disposez de toutes les fonctionnalités d’une **Workspace**, ce qui signifie que vous êtes officiellement autorisé à conduire 88 km/h !
 
 ## Finalement la mettre en pratique
 
@@ -117,7 +117,7 @@ Maintenant que vous avez les concepts, imaginez que vous exécutez une campagne 
 
 Maintenant que vous avez vu ce qu&#39;il peut faire, ne soyez pas intimidé par les caractéristiques apparemment complexes de la **Panneau d’attribution**.  **Visage** c&#39;est le cas.  **Embrasser** c&#39;est le cas.  **Comprendre** c&#39;est le cas.  Surtout, utilisez-le à votre avantage. Le **Panneau d’attribution** et **Intervalle de recherche en amont** sont les clés d’une meilleure compréhension de vos clients et de leur parcours avec votre marque.
 
-Maintenant, nous pouvons voyager &quot;dans le temps&quot; en toute confiance et utiliser la puissance de notre machine à remonter le temps (c&#39;est-à-dire,  **Adobe Analytics**) pour prendre des décisions fondées sur les données ; et surtout, rappelez-vous, &quot;Où nous allons, nous n&#39;avons pas besoin de routes !&quot; (Juste un condensateur de flux, et un oeil attentif pour l&#39;attribution !).
+Maintenant, nous pouvons voyager &quot;dans le temps&quot; en toute confiance et utiliser la puissance de notre machine à remonter le temps (c&#39;est-à-dire,  **Adobe Analytics**) pour prendre des décisions fondées sur les données ; et surtout, rappelez-vous, &quot;Où nous allons, nous n&#39;avons pas besoin de routes !&quot; (Juste un condensateur de flux, et un oeil attentif pour l&#39;attribution !)
 
 ![Retour vers l&#39;avenir](assets/back-to-the-future3.png)
 
