@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ En d&#39;autres termes, si 10 personnes appuient sur un bouton pour passer par u
 * **Dernière touche**: Et exactement comme ça a l&#39;air.   Ce modèle accorde 100% de crédit à la dernière personne qui a marché à la porte.  Ce modèle est souvent utilisé pour analyser des éléments comme la recherche et les campagnes de cycle marketing à court terme.
 * **Linéaire**: Cela accorde le même crédit à chaque personne qui a franchi la porte.  C&#39;est vrai - vous avez un DeLorean, et vous avez un DeLorean, et vous avez un DeLorean.  TOUT LE MONDE OBTIENT UN DÉLORÉEN!!!
 * **En forme de U**: Celui-ci donne 40% du crédit à la première dans la porte, diffuse 20% du crédit à toutes les personnes entre et donne 40% à la dernière jusqu&#39;au dernier.  Imaginez une situation dans laquelle vous souhaitez reconnaître la majorité des conversions à la fois sur le front-end et le back-end, mais aussi où vous souhaitez arroser une petite partie du crédit pour certaines des interactions de contribution entre les deux.
-* **Décroissance temporelle**: Je manquerais à mon devoir si je ne partagais pas celui-ci avec vous avant de vous envoyer vers la documentation officielle pour examiner les modèles restants.  Comme le plutonium de Doc Brown, ce modèle a littéralement une demi-vie qui se décompose de manière exponentielle !  Dans ce cas, le paramètre par défaut de la demi-vie de ce modèle est de 7 jours.  Son fonctionnement consiste à appliquer un poids à chaque canal marketing, en fonction du temps qui s’écoule après le point de contact initial et du moment où le client effectue la conversion.
+* **Décroissance temporelle**: Je manquerais à mon devoir si je ne partagais pas celui-ci avec vous avant de vous envoyer à la documentation officielle pour examiner les modèles restants.  Comme le plutonium de Doc Brown, ce modèle a littéralement une demi-vie qui se décompose de manière exponentielle !  Dans ce cas, le paramètre par défaut de la demi-vie de ce modèle est de 7 jours.  Son fonctionnement consiste à appliquer un poids à chaque canal marketing, en fonction du temps qui s’écoule après le point de contact initial et du moment où le client effectue la conversion.
 
 Pour plus d’informations à ce sujet et le reste **Modèles d’attribution**, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr).
 
@@ -82,7 +82,7 @@ Ouais, on y va - on y retourne dans le temps!!  Parce que c&#39;est là que comm
 
 Définition des Adobes **Windows de recherche en amont** comme &quot;durée pendant laquelle une conversion doit revenir en arrière pour inclure des points de contact. Les modèles d’attribution qui accordent plus de crédit aux premières interactions voient des différences plus importantes lors de l’affichage de différents intervalles de recherche en amont.&quot;
 
-* **Intervalle de recherche en amont des visites**: Recherche en amont jusqu’au début d’une visite lorsqu’une conversion s’est produite
+* **Intervalle de recherche en amont des visites**: Recherche en amont jusqu’au début d’une visite lorsqu’une conversion s’est produite.
 * **Intervalle de recherche en amont des visiteurs**: Recherche toutes les visites en amont jusqu’au 1er du mois de la période en cours.
 * **Intervalle de recherche en amont personnalisé**: Permet d’étendre la fenêtre d’attribution au-delà de la période de création de rapports, jusqu’à un maximum de **90 jours**.
 
