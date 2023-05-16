@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [Créer un site Adobe Analytics interne](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utiliser une suite de rapports globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Créer un projet d’actualités et d’annonces](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Réussite grâce aux tableaux de bord de résumé de l’exécution](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
