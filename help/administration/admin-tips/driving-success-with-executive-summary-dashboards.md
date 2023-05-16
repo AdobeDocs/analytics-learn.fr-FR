@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: fff44440dc527ccfed920954301faaf01d27736c
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -32,16 +32,13 @@ Si vous examinez le graphique, vous pouvez remarquer quelques éléments :
 
 1. C&#39;est parce que votre carburant a chuté à 0% et que vous avez dû attendre l&#39;assistance routière pour passer par le trafic de Portland et recharger votre réservoir.
 
-Un tel voyage serait évidemment malheureux, imprévisible et dangereux.
-Ce n&#39;est pas un moyen de conduire. Vous avez besoin d&#39;informations continues sur la vitesse, la distance parcourue et le niveau de carburant pour effectuer des ajustements constants dans votre façon de conduire. Il ne fait aucun doute qu&#39;une personne sensée arracherait le carton du tableau de bord et le vérifierait régulièrement, ce qui raserait les heures de la longueur du trajet, éliminerait presque le risque de manquer d&#39;essence, et vous maintiendrait à la bonne vitesse pour éviter une contravention pour excès de vitesse.
+Un tel voyage serait évidemment malheureux, imprévisible et dangereux. Ce n&#39;est pas un moyen de conduire. Vous avez besoin d&#39;informations continues sur la vitesse, la distance parcourue et le niveau de carburant pour effectuer des ajustements constants dans votre façon de conduire. Il ne fait aucun doute qu&#39;une personne sensée arracherait le carton du tableau de bord et le vérifierait régulièrement, ce qui raserait les heures de la longueur du trajet, éliminerait presque le risque de manquer d&#39;essence, et vous maintiendrait à la bonne vitesse pour éviter une contravention pour excès de vitesse.
 
 Alors pourquoi tant de cadres acceptent-ils cela comme un moyen raisonnable de gérer leurs sites et applications ?
 
-De nombreux cadres n&#39;ont pas accès à l&#39;information pertinente et continue nécessaire pour agir en temps voulu. Au lieu de cela, ils reçoivent un paquet une fois par mois avec des statistiques exportées d’Adobe Analytics vers Excel, représentées sous forme de graphiques, puis découpées dans un PowerPoint. Si un point d&#39;inflexion se produit au début du mois, ils ne le sauront pas avant le début du mois suivant, bien après avoir pu poser des questions ou agir.
-Les alertes personnalisées sont également une excellente option, mais nous savons tous à quoi ressemble la boîte de réception d’un exec.
+De nombreux cadres n&#39;ont pas accès à l&#39;information pertinente et continue nécessaire pour agir en temps voulu. Au lieu de cela, ils reçoivent un paquet une fois par mois avec des statistiques exportées d’Adobe Analytics vers Excel, représentées sous forme de graphiques, puis découpées dans un PowerPoint. Si un point d&#39;inflexion se produit au début du mois, ils ne le sauront pas avant le début du mois suivant, bien après avoir pu poser des questions ou agir. Les alertes personnalisées sont également une excellente option, mais nous savons tous à quoi ressemble la boîte de réception d’un exec.
 
-Mais les cadres sont aussi très occupés. Imaginez que vous ayez fait le même voyage, mais au lieu du tableau de bord propre que vous avez dans votre voiture, vous n&#39;aviez pas seulement le niveau de carburant, l&#39;odomètre et le compteur, mais aussi deux douzaines d&#39;autres mètres qui vous donnent des données incroyablement granulaires sur tout, depuis les niveaux de liquide d&#39;essuie-glace jusqu&#39;à la durée de vie estimée de vos filtres à huile.
-Ce serait trop spécifique, trop spécialisé.
+Mais les cadres sont aussi très occupés. Imaginez que vous ayez fait le même voyage, mais au lieu du tableau de bord propre que vous avez dans votre voiture, vous n&#39;aviez pas seulement le niveau de carburant, l&#39;odomètre et le compteur, mais aussi deux douzaines d&#39;autres mètres qui vous donnent des données incroyablement granulaires sur tout, depuis les niveaux de liquide d&#39;essuie-glace jusqu&#39;à la durée de vie estimée de vos filtres à huile. Ce serait trop spécifique, trop spécialisé.
 
 Vous voulez que les cadres aient suffisamment de données pour savoir quand leur attention est nécessaire immédiatement, pas tant qu&#39;ils ne se laissent pas aller à la frustration. Si vous répondez à un message d’un propriétaire de produit ou d’un responsable marketing selon lequel un exec souhaite être informé d’une anomalie, vous accédez à la zone idéale.
 
@@ -59,8 +56,7 @@ Ajoutez quelques listes déroulantes pour tout ce qui est important pour votre o
 
 Ces deux options sont globalement assez importantes, mais comme toujours, assurez-vous que ce que vous choisissez est pertinent pour votre site ou application.
 
-Enfin, en bas, ajoutez des détails. Je trouve que les performances des pages sont souvent populaires auprès des cadres, mais l&#39;important est qu&#39;elles sont en dessous du pli.
-Ils peuvent le chercher s&#39;ils le veulent, mais sinon ils ont les données qu&#39;ils ont besoin de poser immédiatement :
+Enfin, en bas, ajoutez des détails. Je trouve que les performances des pages sont souvent populaires auprès des cadres, mais l&#39;important est qu&#39;elles sont en dessous du pli. Ils peuvent le chercher s&#39;ils le veulent, mais sinon ils ont les données qu&#39;ils ont besoin de poser immédiatement :
 
 ![Tableau de bord volumineux.png](assets/large-dashboard.png)
 
