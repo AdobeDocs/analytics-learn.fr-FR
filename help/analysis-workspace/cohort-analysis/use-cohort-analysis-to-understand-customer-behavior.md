@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ Performances numériques actuelles
 1. Le taux de conversion des nouvelles visites est légèrement plus élevé que celui des visites récurrentes pour les deux visites (11,6 % contre 11,4 %).
 1. Par rapport à 2021, les taux de conversion ont diminué dans les deux segments.
 
-![Tableau Visites](assets/visits-table.png)
+![Tableau Visites](assets/cohort1.png)
 
 ## Partie 2 : Analyse des cohortes - Visites Offres comestibles (Global Prod)
 
@@ -70,14 +70,14 @@ Configuration du tableau de cohortes
 1) Les mois avec le plus grand volume comprennent février et mai
 1) ~1 000 visiteurs reviennent sur le site tous les mois.
 
-![Table de rétention 2022](assets/2022-retention-table.png)
+![Table de rétention 2022](assets/cohort2.png)
 
 **En 2021 :**
 
 1) Les mois ayant les taux de rétention les plus élevés +1 mois comprennent avril, janvier et mars
 1) Les mois avec le plus grand volume comprennent février et mai
 
-![Tableau de rétention 2021](assets/2021-retention-table.png)
+![Tableau de rétention 2021](assets/cohort3.png)
 
 **Éléments d’action :**
 
@@ -128,7 +128,7 @@ Quel serait l’impact si nous pouvions amener plus d’utilisateurs à se conne
 
 Exploration de l’expérience utilisateur du site pour demander aux utilisateurs de créer un compte lors de l’extraction
 
-![Tableau de cohortes 4](assets/cohort-table-4.png)
+![Tableau de cohortes 4](assets/cohort4.png)
 
 ## Partie 4 : Cohorte de Dimension personnalisée
 
@@ -156,7 +156,7 @@ Le tableau Cohorte de Dimension personnalisée met en évidence les produits qui
 1) Product 2
 1) Product 3 — surpasse fréquemment avec un taux de rétention plus élevé par rapport à une rétention moyenne.
 
-![Tableau de cohortes 5](assets/cohort-table-5.png)
+![Tableau de cohortes 5](assets/cohort5.png)
 
 ## Conclusion
 
