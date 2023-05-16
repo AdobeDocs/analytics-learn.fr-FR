@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 98%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 98%
       + [Analyse de cohortes à partir de n’importe quelle dimension](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Analyse de la latence à l’aide des tableaux de cohortes](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Calcul de la rétention variable dans les tableaux de cohortes](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [Utilisation de l’analyse des cohortes pour comprendre le comportement des clients](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Analyses vocales {#voice-analytics}
       + [Gestion et suivi des données de l’application d’assistant vocal](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Compréhension des différences entre les appareils à activation vocale](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
