@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Présentation rapide d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Aperçu d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navigation dans la nouvelle page de destination](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Commencez votre analyse par un rapport prédéfini.](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Création dʼun projet d’espace de travail à partir de zéro](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Créer et gérer des modèles personnalisés dans Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Comprendre comment les données sont intégrées à votre projet Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [Créer un site Adobe Analytics interne](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utiliser une suite de rapports globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Créer un projet d’actualités et d’annonces](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Réussite grâce aux tableaux de bord de résumé de l’exécution](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
