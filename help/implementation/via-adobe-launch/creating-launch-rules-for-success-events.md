@@ -6,9 +6,9 @@ kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Cette vidéo vous explique comment utiliser [!DNL Experience Platform Launch] pour effectuer le suivi des événements de conversion (ou événements de succès) sur votre site. Cela s’affiche dans le cas d’utilisation du suivi d’un processus d’application sur un exemple de site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

@@ -7,9 +7,9 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Cette vidéo vous explique comment utiliser la visualisation des cartes dans Ana
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette visualisation, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Utiliser les visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !

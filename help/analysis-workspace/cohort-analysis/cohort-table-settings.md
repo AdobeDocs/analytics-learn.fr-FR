@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilit
 La ligne moyenne est particulièrement utile pour visualiser la [!UICONTROL rétention] ou l’[!UICONTROL attrition] dans son ensemble, plutôt que par lignes de [!UICONTROL cohortes] individuelles.
 
 Pour plus d’informations concernant l’analyse des [!UICONTROL cohortes], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), disponible gratuitement sur Experience League !

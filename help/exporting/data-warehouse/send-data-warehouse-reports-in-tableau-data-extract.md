@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '105'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Data Warehouse peut fournir des rapports au format de fichier TDE (Tableau Data 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !

@@ -12,9 +12,9 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ Cette vidéo montre comment activer et désactiver la troncation des libellés d
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !

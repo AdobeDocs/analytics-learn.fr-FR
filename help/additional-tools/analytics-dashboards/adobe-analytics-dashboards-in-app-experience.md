@@ -1,6 +1,6 @@
 ---
 title: Expérience in-app des tableaux de bord Adobe Analytics
-description: Dans cette vidéo, apprenez à utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les « cartes de performance » que vous avez créées ou qui ont été partagées avec vous.
+description: Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les "fiches d’évaluation" créées par ou partagées avec vous.
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -8,21 +8,17 @@ doc-type: feature video
 thumbnail: 34545.jpg
 kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 36%
 
 ---
 
 # Expérience in-app des tableaux de bord Adobe Analytics
 
-Dans cette vidéo, apprenez à utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les « cartes de performance » que vous avez créées ou qui ont été partagées avec vous.
+Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les &quot;fiches d’évaluation&quot; créées par ou partagées avec vous.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !

@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
 exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '176'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ La manipulation des données qui arrivent dans vos suites de rapports peut sʼav
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), disponible gratuitement sur Experience League !

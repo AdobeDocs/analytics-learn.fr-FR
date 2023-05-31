@@ -7,9 +7,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '148'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Les nouveaux opérateurs [!UICONTROL Nombre d’éléments distincts] du [!UICON
 Cette fonctionnalité pourrait-elle être plus cool ? :)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata), disponible gratuitement sur Experience League !

@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
 exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 Les horodatages facultatifs nous permettent de mélanger les données horodatées et non horodatées dans une même suite de rapports globale, d’envoyer les données horodatées depuis une application mobile à une suite de rapports globale, puis de mettre à niveau les applications afin d’utiliser le suivi hors ligne sans avoir à créer de suite de rapports.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), disponible gratuitement sur Experience League !

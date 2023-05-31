@@ -7,9 +7,9 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Plus une [!UICONTROL mesure] s’affiche en tendance pendant longtemps, plus il est difficile de déterminer les tendances directionnelles pour cette [!UICONTROL mesure]. Pour résoudre ce problème, la [!UICONTROL fonction] [!UICONTROL Moyenne cumulée] des [!UICONTROL mesures calculées] peut être utilisée pour appliquer un lissage aux [!UICONTROL mesures] dans Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours : [Utiliser des visualisations pour raconter vos histoires de données](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=fr), disponible gratuitement sur Experience League !

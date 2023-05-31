@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -23,12 +23,3 @@ Cette vidéo vous explique comment tirer parti de deux fonctionnalités de compa
 Les comparaisons de dates sont un moyen facile d’approfondir vos tableaux Analysis Workspace actuels et vous aideront à mettre facilement vos données actuelles en perspective avec les performances historiques.
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie de deux cours :
->
-> * [Tableaux à structure libre, fondation d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
->
-> Les deux sont disponibles gratuitement sur Experience League !

@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: ht
-source-wordcount: '314'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Il existe de nombreuses façons de faire évoluer votre méthodologie d’attrib
 * 4:30 - Les paramètres de colonne peuvent désormais être mis à jour en bloc, au lieu de 1 par 1. En savoir plus à 8:45 de la vidéo : [Paramètres de ligne et de colonne dans les tableaux à structure libre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md).
 
 Pour plus dʼinformations sur cette rubrique, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Attribuer de la valeur aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=fr), disponible gratuitement sur Experience League !

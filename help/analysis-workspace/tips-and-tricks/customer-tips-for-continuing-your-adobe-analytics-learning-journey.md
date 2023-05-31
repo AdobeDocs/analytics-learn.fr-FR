@@ -7,9 +7,9 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: ht
-source-wordcount: '355'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,3 @@ Conseils d’utilisateurs chevronnés d’Adobe Analytics
 | Client :<br>Sam Liss | Ingénieur Analytics chez Equinox |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **Conseils pour passer à Adobe Analytics à partir d’un autre produit d’analyses** <br> « Si vous venez d’une autre plateforme d’analyses, vous êtes sur le point de découvrir un monde de gouvernance plus personnalisable, de sécurité accrue et une pléthore d’intégrations de plateformes de données et de marketing… Je vais vous expliquer en quoi le [!UICONTROL Tableau à structure libre] et la visualisation des [!UICONTROL Flux] diffèrent de ce que vous avez connu sur d’autres plateformes d’analyses. »<br><br>[Lire les conseils de Sam](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=fr) |
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Prise en main d’Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr), disponible gratuitement sur Experience League !

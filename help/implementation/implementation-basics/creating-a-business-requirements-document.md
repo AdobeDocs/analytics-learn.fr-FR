@@ -7,9 +7,9 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: ht
-source-wordcount: '135'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Découvrez l’étape primordiale de la définition des données comportementale
 [Téléchargez](assets/aa-implementation-playbook.xlsx) un exemple de modèle Excel pour documenter les exigences et la conception de collecte de données pour vos propriétés numériques.
 
 [Téléchargez](assets/geometrixx-clothiers-brd-sdr.xlsx) le document Excel présenté dans cette vidéo et/ou visionnez la [vidéo de référence sur la conception de solution](creating-and-maintaining-an-sdr.md).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

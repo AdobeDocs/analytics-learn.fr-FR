@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,3 @@ Dans [!DNL Analysis Workspace], les visualisations des abandons permettent de co
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).
 
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), disponible gratuitement sur Experience League !

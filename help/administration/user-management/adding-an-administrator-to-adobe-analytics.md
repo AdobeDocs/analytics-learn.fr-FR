@@ -12,9 +12,9 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '79'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ Découvrez comment ajouter un utilisateur en tant qu’administrateur dans Adobe
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
 Pour en savoir plus, consultez la [documentation](https://helpx.adobe.com/fr/enterprise/using/admin-console.html).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), disponible gratuitement sur Experience League !

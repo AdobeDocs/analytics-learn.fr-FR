@@ -7,9 +7,9 @@ kt: 2305
 role: User
 level: Beginner
 exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: ht
-source-wordcount: '125'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Vous pouvez créer des segments performants, mais pourquoi les conserver pour vo
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Filtrer vos données avec la segmentation personnalisée et les dates](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=fr), disponible gratuitement sur Experience League !

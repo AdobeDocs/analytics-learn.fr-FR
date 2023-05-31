@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: ht
-source-wordcount: '112'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -30,9 +30,5 @@ Rubriques abordées dans la vidéo et marqueurs temporels :
 * Dimensions temporelles (5:59)
 * Tri (6:49)
 * Dimensions comme filtres (8:30)
-* Ventilations (9:48)
+* Répartitions (9:48)
 * Rapports de classement, de dépassement de délai et de tendance (13:11)
-
->[!INFO]
->
-> Cette vidéo fait partie du cours [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=fr), disponible gratuitement sur Experience League.

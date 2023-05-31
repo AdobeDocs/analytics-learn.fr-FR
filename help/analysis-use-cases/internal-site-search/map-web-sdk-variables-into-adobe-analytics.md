@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: ht
-source-wordcount: '172'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ Découvrez comment mapper des variables Analytics du SDK web vers Adobe Analyt
 Pour obtenir une liste des variables mappées automatiquement entre le SDK web et Adobe Analytics, consultez cette [documentation](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=fr).
 
 **REMARQUE :** lors de la configuration des règles de traitement, il se peut que la variable « a.x.[your schema] » ne soit pas automatiquement indiquée dans la liste déroulante. S’il n’y en a pas, ne paniquez pas. Saisissez-la simplement selon le format et ajoutez-la comme variable contextData. Après en avoir ajouté une ou deux, vous pouvez constater que d’autres sont chargées en différé.
-
->[!INFO]
->
-> Cette vidéo fait partie de plusieurs cours, [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) et [Implémenter et mesurer la recherche interne de site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponibles gratuitement sur Experience League !

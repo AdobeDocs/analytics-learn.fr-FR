@@ -11,9 +11,9 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,5 @@ Dans Analysis Workspace, vous pouvez grâce aux [!DNL Fallout] combiner et asso
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 Grâce à cette puissante fonctionnalité, vous disposez d’une plus grande flexibilité pour définir les étapes des utilisateurs sur lesquelles vous souhaitez en savoir plus.
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Attribuer des valeurs aux points de contact numériques dans le parcours client](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2), disponible gratuitement sur Experience League !
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=fr).

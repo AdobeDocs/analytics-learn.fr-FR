@@ -7,9 +7,9 @@ kt: 6225
 role: User
 level: Beginner
 exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '77'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Découvrez les paramètres des tableaux à structure libre dans Analysis Workspace et comment ils affectent les données qui s’y trouvent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !

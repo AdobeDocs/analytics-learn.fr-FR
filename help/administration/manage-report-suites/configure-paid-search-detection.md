@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 339302.jpg
 kt: 9493
 exl-id: 21a12c5e-0313-4169-bf0b-f0d21202dd64
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '105'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Découvrez comment parcourir la configuration de la section Détection de réfé
 >[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=fr#section_0C2CFA0AF77B47098BE37CB024665D0D).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Configurer et administrer des suites de rapports dans Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration), disponible gratuitement sur Experience League !

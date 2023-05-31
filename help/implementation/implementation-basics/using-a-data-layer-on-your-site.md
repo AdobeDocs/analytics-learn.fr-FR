@@ -6,9 +6,9 @@ kt: 3585
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a357b5a9-b1f3-449c-9f6e-31613211c009
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Une bonne pratique consiste à utiliser une couche de données sur votre site lorsque vous travaillez avec Experience Cloud ou Analytics. Cette vidéo présente la couche de données et montre un exemple.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Mise en œuvre guidée d’Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponible gratuitement sur Experience League !

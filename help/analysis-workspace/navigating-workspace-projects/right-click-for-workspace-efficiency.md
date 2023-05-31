@@ -7,9 +7,9 @@ kt: 5939
 role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. Des [!UICONTROL tableaux à structure libre] aux [!UICONTROL visualisations des abandons], un clic droit vous rendra plus efficace et compétent dans [!DNL Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours : [Tableaux à structure libre, principes de base d’Analysis](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponible gratuitement sur Experience League !

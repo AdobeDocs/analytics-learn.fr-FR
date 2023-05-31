@@ -1,6 +1,6 @@
 ---
 title: 'Tableaux de bord d’Adobe Analytics : créateur de cartes de performance'
-description: Dans cette vidéo, apprenez à créer et à partager des « Cartes de performance » dans Analysis Workspace, qui seront affichées sur les tableaux de bord Adobe Analytics (application mobile).
+description: Dans cette vidéo, découvrez comment créer et partager des "fiches d’évaluation" dans Analysis Workspace afin de les afficher sur les tableaux de bord Adobe Analytics (application mobile).
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -8,21 +8,17 @@ doc-type: feature video
 thumbnail: 34544.jpg
 kt: 5286
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 37%
 
 ---
 
 # Tableaux de bord d’Adobe Analytics : créateur de cartes de performance
 
-Dans cette vidéo, apprenez à créer et à partager des « Cartes de performance » dans Analysis Workspace, qui seront affichées sur les tableaux de bord Adobe Analytics (application mobile).
+Dans cette vidéo, découvrez comment créer et partager des &quot;Fiches d’évaluation&quot; dans Analysis Workspace afin de les afficher sur les tableaux de bord Adobe Analytics (application mobile).
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr).
-
->[!INFO]
->
-> Cette vidéo fait partie d’un cours [Exporter et démocratiser des données Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponible gratuitement sur Experience League !
