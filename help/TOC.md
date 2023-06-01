@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2444'
+ht-degree: 96%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [Types de visualisation](analysis-workspace/visualizations/visualization-types.md)
       + [Cas dʼutilisation des visualisations](analysis-workspace/visualizations/visualization-use-cases.md)
       + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Manuel de visualisation des données](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilisation des listes déroulantes de composants dans l’espace de travail](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisations sous forme de surface et aires empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,6 +182,7 @@ ht-degree: 97%
       + [Enregistrer, partager et travailler en collaboration sur des projets dans Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Traitement et partage dans Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Lien direct vers un projet](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [Partager avec quiconque dans Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Téléchargement de 50 000 éléments au format CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exporter aux formats CSV et PDF à partir d’Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Partage de composants intégrés](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
