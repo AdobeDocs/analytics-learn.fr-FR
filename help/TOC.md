@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 96%
 
 ---
@@ -87,8 +87,7 @@ ht-degree: 96%
       + [Utilisation des tableaux, visualisations et panneaux dans Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panneau Quick Insights dans Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilisation du panneau Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=fr)
-      + [Présentation du panneau Attribution d’Adobe Analytics et des fenêtres de recherche en amont](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-      + [Panneau Observateurs simultanés de médias dans Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [Panneau Observateurs simultanés de médias dans Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Panneau Temps de lecture de médias](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=fr)
       + [Utiliser les filtres déroulants](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
@@ -236,6 +235,7 @@ ht-degree: 96%
       + [Créer un site Adobe Analytics interne](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Utiliser une suite de rapports globale](administration/admin-tips/use-a-global-report-suite.md)
       + [Créer un projet d’actualités et d’annonces](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Favoriser la réussite des tableaux de bord de résumé de l’exécution](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Paramètres de l’entreprise {#company-settings}
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
