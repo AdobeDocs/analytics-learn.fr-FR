@@ -3,9 +3,9 @@ title: Des astuces simples pour une plus grande efficacité et un meilleur libre
 description: Découvrez les principaux défis auxquels sont confrontées les équipes Analytics aujourd’hui et nos recommandations pour les surmonter à l’aide de stratégies intégrées aux outils.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **Partie 2 : stratégies intégrées aux outils**
 
 Cet article décrit les principaux défis auxquels sont confrontées les équipes Analytics aujourd’hui et nos recommandations pour les surmonter à l’aide de stratégies intégrées aux outils. Allez [ici](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md) pour la partie 1.
-
-Pour plus d’informations sur les solutions efficaces en dehors de la plateforme Adobe Analytics, cliquez [ici](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 ## Les clés de l’efficacité : stratégies intégrées aux outils
 
@@ -86,14 +84,12 @@ Utilisez des annotations pour créer des références à la documentation de la 
 
 ## Avantages des tableaux de bord Adobe Analytics
 
-| Démocratisation des données | Délais d’action réduits | Insights concis | Facilité d’utilisation |
+| Démocratisation des données | Délais d’action réduits | informations concises | Facilité d’utilisation |
 | --- | --- | --- | --- |
-| Les utilisateurs professionnels non analystes peuvent facilement utiliser des données en libre-service. | Prendre des décisions informées basées sur les données dans les moments importants | Accéder aux insights pertinents et les explorer en suivant les besoins au fur et à mesure | Expérience fluide via une interface mobile intuitive |
+| Les utilisateurs professionnels non analystes peuvent facilement utiliser des données en libre-service. | Prendre des décisions informées basées sur les données dans les moments importants | Accéder aux informations pertinentes et les explorer en suivant les besoins au fur et à mesure | Expérience fluide via une interface mobile intuitive |
 
 ## API de création de rapports Adobe 2.0
 
 Utilisez l’API de création de rapports pour déplacer les rapports standard depuis [!UICONTROL Workspace] vers les rapports planifiés et les tableaux de bord. De plus, profitez d’[!UICONTROL Analysis Workspace] pour créer des requêtes d’API.
-
-Nous espérons que vous avez trouvé utile cet article sur les stratégies intégrées aux outils. Pour plus d’informations sur les solutions amélioratrices d’efficacité en dehors de la plateforme Adobe Analytics, cliquez [ici](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
 Pour en savoir plus sur la stratégie et le leadership, voir le hub [Succès client](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=fr).
