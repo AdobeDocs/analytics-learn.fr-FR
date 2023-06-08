@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
+source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
 workflow-type: tm+mt
-source-wordcount: '2443'
+source-wordcount: '2438'
 ht-degree: 96%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 96%
       + [Présentation du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Comment les données Analytics sont collectées](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Connexion à Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Introduction à l’interface utilisateur d’Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Comprendre et créer des suites de rapports](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Concepts de base de la mesure Visiteur](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=fr)
       + [Présentation des variables de trafic (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=fr)
