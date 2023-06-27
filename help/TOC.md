@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [Annotations](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Afficher la densité](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Utilisation des filtres](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Rapports en temps réel {#real-time-reports}
+      + [Création de rapports en temps réel](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Utilisation des panneaux {#using-panels}
       + [Utilisation des tableaux, visualisations et panneaux dans Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Panneau Quick Insights dans Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [Réduction du taux d’erreur et amélioration du taux de réussite dans votre application vocale](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Compréhension du comportement des utilisateurs sur les assistants vocaux](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Compréhension du parcours vocal de l’utilisateur](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Rapports en temps réel dans Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administration {#administration}
    + Compétences clés en administration {#key-admin-skills}
       + [Créer une communauté plus forte](administration/key-admin-skills/empowered-community.md)
