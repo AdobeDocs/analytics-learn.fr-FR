@@ -1,26 +1,22 @@
 ---
-title: Fonction Nombre approximatif d’éléments distincts dans les mesures calculées
-description: Une fonction Nombre approximatif d’éléments distincts a été ajoutée au créateur de mesures calculées. Il sʼagit dʼune fonction très attendue qui renvoie le nombre approximatif d’éléments de dimension distincts pour une dimension sélectionnée.
+title: Fonction Nombre distinct approximatif dans les mesures calculées
+description: Découvrez comment créer une mesure calculée à l’aide de la fonction Approximate Count Distinct (Nombre distinct approximatif), qui renvoie le nombre distinct approximatif d’éléments de dimension pour une dimension sélectionnée.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Fonction] [!UICONTROL Nombre approximatif d’éléments distincts] dans les [!UICONTROL mesures calculées]{#approximate-count-distinct-function-in-calculated-metrics}
+# Fonction Nombre distinct approximatif dans les mesures calculées {#approximate-count-distinct-function-in-calculated-metrics}
 
-Une [!UICONTROL fonction] [!UICONTROL Nombre approximatif d’éléments distincts] a été ajoutée au [!UICONTROL créateur de mesures calculées]. Il sʼagit dʼune [!UICONTROL fonction] très attendue qui renvoie le [!UICONTROL nombre approximatif] dʼéléments de [!UICONTROL dimension] distincts pour une [!UICONTROL dimension] sélectionnée.
+Découvrez comment créer une mesure calculée à l’aide de la fonction Approximate Count Distinct (Nombre distinct approximatif), qui renvoie le nombre distinct approximatif d’éléments de dimension pour une dimension sélectionnée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-Vous pouvez utiliser la [!UICONTROL mesure] dans n’importe quel rapport pour comprendre le décompte d’une [!UICONTROL dimension] par rapport aux valeurs des autres. Par exemple, le nombre de clients uniques par canal marketing.
+Vous pouvez utiliser la mesure affichée dans cette vidéo dans n’importe quel rapport pour comprendre le nombre d’une dimension par rapport aux valeurs d’une autre. Un cas d’utilisation très courant consiste à utiliser cette fonction pour créer une mesure ID de client, que vous pouvez ensuite utiliser dans n’importe quel rapport pour voir combien de clients appliquent aux différentes valeurs de dimension.
