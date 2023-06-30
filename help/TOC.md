@@ -3,7 +3,7 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
+source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -333,8 +333,8 @@ ht-degree: 96%
       + [Mesures calculées - fonctions](components/calculated-metrics/calculated-metrics-functions.md)
       + [Mesures calculées - Mesures ne nécessitant pas d’implémentation](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Mesures calculées - mesures segmentées](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Mesures calculées - sélecteur de mesure](components/calculated-metrics/calculated-metrics-metric-selector.md)
-      + [Mesures calculées rapides dans Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Mesures calculées rapides dans Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Gestion des mesures calculées](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [Fonction Nombre approximatif d’éléments distincts dans les mesures calculées](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ dans les mesures calculées](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=fr)
       + [Utilisation de dimensions dans les mesures calculées](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
