@@ -1,24 +1,22 @@
 ---
 title: Mesures calculées - Fonctions
-description: Découvrez comment utiliser des fonctions dans des mesures calculées dans Adobe Analytics
+description: Découvrez comment utiliser des fonctions dans la création de mesures calculées dans Analysis Workspace.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2321
 role: User
 level: Beginner
 exl-id: aace1da6-2958-47a6-957c-5d63a5104b5f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL Mesures calculées] : [!UICONTROL fonctions] {#calculated-metrics-functions}
+# Mesures calculées - Fonctions {#calculated-metrics-functions}
 
-Découvrez comment utiliser des [!UICONTROL fonctions] dans des [!UICONTROL mesures calculées] dans Adobe Analytics.
+Découvrez comment utiliser des fonctions dans la création de mesures calculées dans Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+
+Consultez la documentation pour plus d’informations sur l’utilisation de [basic](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) et [advanced](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) lors de la création de mesures calculées.
