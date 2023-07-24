@@ -1,9 +1,12 @@
 ---
 title: Maîtriser l’intelligence client avec Virtual Analyst et Segment IQ
 description: Découvrez l’importance de l’utilisation de l’intelligence artificielle et du machine learning (IA/ML). Découvrez les avantages et consultez les témoignages concrets de clients internationaux qui utilisent Virtual Analyst et Segment IQ pour détecter les anomalies, éviter les valeurs aberrantes et optimiser le retour sur investissement.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%
@@ -26,13 +29,13 @@ Les outils d’IA d’Adobe n’ont pas vocation à vous remplacer, mais plutôt
 
 Pour faire évoluer vos analyses, il faut se concentrer sur trois domaines clés :
 
-1. Organisation : comment créer des vues holistiques des clients, favoriser la prise de décisions éclairées et démocratiser les données.
+1. Organisation : comment créer des vues holistiques des clients, favoriser la prise de décisions basées sur les informations et démocratiser les données.
 
 1. Technologie : comment s’assurer que les données et la technologie disposent des fondements pour une personnalisation à grande échelle.
 
 1. Client : comment créer de la confiance et s’adapter au changement.
 
-Les analyses sont une tâche ardue. Pour obtenir des insights, il faut y consacrer le temps nécessaire. Or la demande pour les obtenir plus rapidement se fait toujours plus pressante. Les principaux problèmes rencontrés par les organisations sont les suivants :
+Les analyses sont une tâche ardue. Pour obtenir des informations, il faut y consacrer le temps nécessaire. Or la demande pour les obtenir plus rapidement se fait toujours plus pressante. Les principaux problèmes rencontrés par les organisations sont les suivants :
 
 * Ressources organisationnelles limitées : les multiples objectifs commerciaux peuvent limiter la disponibilité des ressources
 * Expertise technique limitée : les connaissances peuvent-elles être partagées et les données démocratisées ?

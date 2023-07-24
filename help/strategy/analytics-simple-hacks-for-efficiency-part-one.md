@@ -1,9 +1,12 @@
 ---
 title: Astuces simples pour une plus grande efficacité et un meilleur libre-service - Partie 1
 description: Découvrez les principaux défis auxquels sont confrontées les équipes d’analyse et nos recommandations pour les surmonter à l’aide de stratégies en dehors de l’interface utilisateur d’Adobe Analytics.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%
@@ -18,7 +21,7 @@ Cet article décrit les principaux défis auxquels sont confrontées les équipe
 
 ## Principaux défis pour les équipes Analytics
 
-De nombreuses équipes Analytics se retrouvent avec une répartition déséquilibrée du travail. Au lieu d’un mélange de 80 % d’analyses et 20 % d’implémentation, beaucoup d’organisations se retrouvent dans la situation inverse. Elles voient que la plupart de leurs efforts sont consacrés à la configuration, à la création de rapports et à l’assistance plutôt qu’à la production d’analyses générant des insights de grande valeur.
+De nombreuses équipes Analytics se retrouvent avec une répartition déséquilibrée du travail. Au lieu d’un mélange de 80 % d’analyses et 20 % d’implémentation, beaucoup d’organisations se retrouvent dans la situation inverse. Elles voient que la plupart de leurs efforts sont consacrés à la configuration, à la création de rapports et à l’assistance plutôt qu’à la production d’analyses générant des informations de grande valeur.
 
 Pour différentes raisons, la productivité et l’efficacité des équipes Analytics diminuent drastiquement. Cela est notamment dû aux implémentations en constante évolution, à la volonté de maintenir la confiance de l’organisation dans les données et à la réduction de la rotation des analystes. La réduction de la rotation du personnel permet d’éviter le long processus de formation des nouveaux membres de l’équipe à l’utilisation d’outils d’implémentation personnalisés et inconnus.
 
@@ -26,7 +29,7 @@ Les autres défis majeurs auxquels sont confrontés les analystes :
 
 * **La concurrence :** les commerces de détail en ligne et multicanaux deviennent plus compétitifs.
 * **Les attentes du client :** les expériences client et les stratégies marketing deviennent plus complexes.
-* **La valeur des données :** la valeur de données et d’insights précis pour générer un avantage concurrentiel augmente.
+* **La valeur des données :** la valeur de données et d’informations précises pour générer un avantage concurrentiel augmente.
 * **Les attentes des parties prenantes :** les partenaires commerciaux, les parties prenantes et les cadres supérieurs demandent de plus en plus de données avant de donner leur approbation.
 * **La gestion de projets :** l’équipe Analytics croule sous les demandes d’implémentation de la collecte de données pour un flux sans fin de nouvelles fonctionnalités, tout en produisant des rapports précis, en accueillant de nouveaux analystes et en découvrant de nouvelles informations.
 
