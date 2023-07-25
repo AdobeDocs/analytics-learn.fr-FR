@@ -3,10 +3,10 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
-ht-degree: 96%
+source-wordcount: '2448'
+ht-degree: 95%
 
 ---
 
@@ -164,10 +164,10 @@ ht-degree: 96%
       + [Création de segments de Parcours client](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Création de segments de Parcours client - Partie 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Mesures {#metrics}
-      + [Compréhension des mesures de base des visiteurs](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=fr)
+      + [Présentation des mesures de base des visiteurs](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Ajout de dimensions et de mesures à votre projet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=fr)
       + [Présentation des événements de conversion](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Utilisation de mesures dans une table à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=fr)
+      + [Utilisation des mesures dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=fr)
       + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Adieu Excel, bonjour des mesures calculées](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensions {#dimensions}
