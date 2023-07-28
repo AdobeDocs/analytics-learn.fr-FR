@@ -1,26 +1,28 @@
 ---
-title: Activation du transfert côté serveur dans Experience Platform Launch
-description: Découvrez comment utiliser Experience Platform Launch pour que vos accès Adobe Analytics soient automatiquement envoyés à Adobe Audience Manager par le biais du transfert côté serveur.
+title: Intégration d’Adobe Analytics à Adobe Audience Manager à l’aide du transfert côté serveur
+description: Découvrez comment envoyer des données Adobe Analytics à Adobe Audience Manager à l’aide du transfert côté serveur.
 feature: Experience Cloud Integration
-topics: null
-activity: use
-doc-type: feature video
+topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: Leader, Architect, Admin, Developer
 level: Intermediate
+badgeIntegration: label="Intégration" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 520c7d01a2d0238d53fcace4b5a2bc41fb76abee
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
-# Activation du transfert côté serveur dans [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}
+# Intégrer [!DNL Adobe Analytics] avec [!DNL Adobe Audience Manager] utilisation du transfert côté serveur
 
-Découvrez comment utiliser Adobe [!DNL Experience Platform Launch] pour que vos accès Adobe Analytics soient automatiquement envoyés à Adobe Audience Manager par le biais du transfert côté serveur.
+Découvrez comment envoyer [!DNL Adobe Analytics] data to [!DNL Adobe Audience Manager] à l’aide du transfert côté serveur.
+
+>[!NOTE]
+>
+>&quot;[!UICONTROL Launch]&quot; a été renommé &quot;[!UICONTROL tags]&quot; dans l’interface de l’Experience Cloud. Sélectionner [!UICONTROL Collecte de données] de la [!UICONTROL sélecteur d’applications] pour ouvrir des balises et effectuer les étapes présentées dans cette vidéo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
