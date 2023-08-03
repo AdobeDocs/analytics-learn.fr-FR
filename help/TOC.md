@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -164,11 +164,11 @@ ht-degree: 98%
       + [Créer des segments de parcours client](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Créer des segments de parcours client - Partie 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Mesures {#metrics}
-      + [Présentation des mesures de base des visiteurs](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Compréhension des mesures de base des visiteurs et visiteuses](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Ajout de dimensions et de mesures à votre projet](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=fr)
       + [Présentation des événements de conversion](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Utilisation des mesures dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=fr)
-      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Utilisation de mesures dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=fr)
+      + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Au revoir Excel, bonjour les mesures calculées !](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensions {#dimensions}
       + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
