@@ -1,28 +1,24 @@
 ---
 title: Utilisation de dimensions dans les mesures calculées
-description: Les dimensions sont désormais disponibles dans le Créateur de mesures calculées. Elles peuvent être ajoutées à n’importe quelle formule de mesure calculée pour créer un segment interne à la volée.
+description: Des Dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesures calculées afin de limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 31%
 
 ---
 
-# Utilisation de [!UICONTROL dimensions] dans les [!UICONTROL mesures calculées] {#using-dimensions-in-calculated-metrics}
+# Utilisation de dimensions dans les mesures calculées {#using-dimensions-in-calculated-metrics}
 
-[!UICONTROL Les dimensions] sont désormais disponibles dans le [!UICONTROL Créateur de mesures calculées]. Elles peuvent être ajoutées à n’importe quelle [!UICONTROL formule] de [!UICONTROL mesure calculée] pour créer un segment interne à la volée.
+Des Dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesures calculées afin de limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Cette fonctionnalité simplifie le workflow de création et d’utilisation des [!UICONTROL segments] dans les [!UICONTROL mesures calculées].
+Cette fonctionnalité simplifie le workflow de création et d’utilisation des segments dans les mesures calculées.
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr).
