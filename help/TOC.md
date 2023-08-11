@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -331,15 +331,15 @@ ht-degree: 98%
       + [Maintenant, attendez un segment... Utiliser la segmentation pour découvrir de nouvelles informations](components/segmentation/segmentation-to-discover-new-insights.md)
    + Mesures calculées {#calculated-metrics}
       + [Vue d’ensemble du créateur de mesures calculées](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [Mesures calculées - mesures sans implémentation](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [Mesures calculées - mesures segmentées](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [Mesures calculées - fonctions](components/calculated-metrics/calculated-metrics-functions.md)
-      + [Fonction distinct Nombre approximatif dans les mesures calculées](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Mesures calculées rapides dans Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Mesures calculées : mesures sans mise en œuvre](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [Mesures calculées : mesures segmentées](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [Mesures calculées : fonctions](components/calculated-metrics/calculated-metrics-functions.md)
+      + [Fonction Nombre approximatif d’éléments distincts dans les mesures calculées](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Mesures calculées rapides dans Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Gérer les mesures calculées](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [Attribution IQ dans les mesures calculées](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=fr)
-      + [Utilisation de dimensions dans les mesures calculées](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Atteindre le niveau suivant de votre analyse de données avec des mesures calculées](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Utiliser des dimensions dans les mesures calculées](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [Faites passer un cap à votre analyse des données grâce aux mesures calculées](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classifications {#classifications}
       + [Aperçu des classifications](components/classifications/overview-of-classifications.md)
       + [Utilisation du créateur de règles de classification](components/classifications/using-the-classification-rule-builder.md)
