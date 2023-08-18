@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 486a708f735eeb87240c37306350ac0f69ffca84
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
-source-wordcount: '1682'
+source-wordcount: '1681'
 ht-degree: 3%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 3%
 
 # Présentation du panneau d’attribution Adobe Analytics et des intervalles de recherche en amont
 
-Quand j&#39;ai pensé à la [panneau d’attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) et **intervalle de recherche en amont**, le concept de &quot;&quot; m&#39;a immédiatement rappelé.*voyage à l&#39;heure&#39;*; alors, bien sûr, on m&#39;a aussi rappelé que notre réponse typique à de nombreux nouveaux outils comme ceux-ci est simplement de reporter l&#39;utilisation, parce qu&#39;ils ont l&#39;air si compliqués.
+Quand j&#39;ai pensé à la [panneau d’attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) et **intervalle de recherche en amont**, le concept de &quot;&quot; m&#39;a immédiatement rappelé.*voyage à temps&#39;* Et puis, bien sûr, on m&#39;a aussi rappelé que notre réponse typique à de nombreux nouveaux outils comme ceux-ci est simplement de reporter l&#39;utilisation, parce qu&#39;ils ont l&#39;air si compliqués.
 
-Je veux dire, honnêtement, regardez toutes ces options, ces interrupteurs, ces panneaux, ces lectures, et ces boutons.  Et sérieusement, parlons de ces lumières clignotantes compliquées, des tuyaux, des jauges.... WAIT!!  Ce n&#39;est pas le moment de se laisser distraire en parlant de machines à remonter le temps, nous n&#39;en avons tout simplement pas le temps... ou est-ce que nous en avons le temps ?
+Je veux dire, honnêtement, regardez toutes ces options, ces interrupteurs, ces panneaux, ces lectures, et ces boutons.  Et sérieusement, parlons de ces lumières clignotantes compliquées, des tuyaux, des jauges.... WAIT!!  Ce n&#39;est pas le moment de se laisser distraire en parlant de machines à remonter le temps, nous n&#39;avons tout simplement pas le temps... ou est-ce que nous en avons ?
 
-J&#39;admettrai que **panneau d’attribution** est un outil assez complexe; cependant, notre travail typique d&#39;analystes, jour après jour, est d&#39;utiliser un autre de nos outils préférés et très complexes pour également examiner ce qui s&#39;est passé dans le passé. Cet outil s&#39;appelle ***Adobe Analytics***!  Donc oui, pour répondre à notre question très pertinente, je crois que ces deux choses disent que nous avons beaucoup de temps.
+J&#39;admettrai que **panneau d’attribution** est un outil assez complexe ; cependant, notre travail typique d&#39;analyste, jour après jour, consiste à utiliser un autre de nos outils favoris et très complexes pour également examiner ce qui s&#39;est passé dans le passé. Cet outil s&#39;appelle ***Adobe Analytics***!  Donc oui, pour répondre à notre question très pertinente, je crois que ces deux choses disent que nous avons beaucoup de temps.
 
 Par conséquent, pourquoi devrions-nous laisser quelque chose comme une petite peur se mettre en travers de ces outils incroyables, sophistiqués et puissants comme ceux-ci qui nous permettent littéralement de regarder *backward* dans le temps, chaque jour ?
 
-Après tout - c&#39;est le VOYAGE DU TEMPS, les gars!!  Nous parlons de ce genre de choses.  Correct???!!
+Après tout - c&#39;est le TIME VOYAGE, les gars!!  Nous parlons de ce genre de choses.  Correct???!!
 
 Alors, qu&#39;attendons-nous - une voiture en métal brillant, une boîte de police, ou une cabine téléphonique vintage utilisant le câblage d&#39;un vieux parapluie comme antenne pour apparaître sur le pas de notre porte ?
 
@@ -48,44 +48,44 @@ Selon [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/c
 
 >[!WARNING]
 >
->**⛔** DETOUR : Juste une petite note pour rappeler que **modèles d’attribution** sont si fréquemment associés à **canaux marketing** que je suis intentionnellement *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer **attribution** l’analyse par rapport à la plupart des autres ***dimension***.
+>Juste une petite note pour rappeler que **modèles d’attribution** sont si fréquemment associés à **canaux marketing** que je suis intentionnellement *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer **attribution** l’analyse par rapport à la plupart des autres ***dimension***.
 
 
-En fait, rarement un parcours client donné est vraiment linéaire et encore moins prévisible.  De plus, chaque client procédera à son propre rythme. souvent, ils peuvent reculer, bloquer, abandonner ou adopter un autre comportement non linéaire. Ces actions organiques rendent difficile ou pratiquement impossible de connaître l’impact des efforts marketing sur le parcours client. Cela complique également les efforts visant à relier plusieurs canaux de données.
+En fait, rarement un parcours client donné est vraiment linéaire et encore moins prévisible.  De plus, chaque client procédera à son propre rythme ; il peut souvent doubler, bloquer, abandonner ou adopter un autre comportement non linéaire. Ces actions organiques rendent difficile ou pratiquement impossible de connaître l’impact des efforts marketing sur le parcours client. Cela complique également les efforts visant à relier plusieurs canaux de données.
 
 C&#39;est vrai.  Laissez vos analogies de &quot;domino&quot; à la porte et ouvrez vos esprits à des concepts plus proches de l&#39;effet papillon et de la théorie des cordes - mais comme tout le reste, nous devons commencer par quelques principes de base.
 
 ## **Modèles d’attribution**
 
-Lorsque nous utilisons la variable **panneau d’attribution**, nous pouvons commencer à observer plusieurs choses différentes.  Par exemple, la variable **modèles d’attribution** nous montrer comment nous *conversions* (c’est-à-dire ❶ **mesures de succès**) peut être réparti entre les *accès* dans un groupe donné.
+Lorsque nous utilisons la variable **panneau d’attribution**, nous pouvons commencer à observer plusieurs choses différentes.  Par exemple, la variable **modèles d’attribution** Nous montrons comment notre *conversions* (c’est-à-dire ❶ **mesures de succès**) peut être réparti entre les *accès* dans un groupe donné.
 
 Autrement dit, si **10 personnes** appuyez sur **BOUTON GRAND ROUGE** pour passer par une porte, notre **modèles d’attribution** vont nous dire lequel de ceux-là **10 personnes** nous voulons attribuer un &quot;crédit&quot; - ou mieux encore dire, comment *many* &quot;crédit&quot; que nous voulons leur attribuer - pour appuyer sur ce bouton.
 
 ![Bouton](assets/button.png)
 
-En gardant cela à l’esprit, voici quelques exemples de la ❷ **modèles d’attribution** peuvent affecter les **10 personnes**:
+En gardant cela à l’esprit, voici quelques exemples de la ❸ **modèles d’attribution** peuvent affecter les **10 personnes**:
 
-- **Première touche**: Ce modèle fonctionne exactement comme s’il donnait la valeur **Crédit à 100 %** au *first* qui passa par la porte.  Les marketeurs sont plus susceptibles d’utiliser cette approche pour des tactiques telles que ***médias sociaux*** ou ***display***; cependant, il s’agit également d’une excellente tactique à utiliser souvent pour l’efficacité des recommandations de produits sur site.
-- **Dernière touche**: Cette tactique fonctionne aussi exactement comme on dirait, mais à la place, donne **Crédit à 100 %** à la DERNIÈRE personne qui traversa la porte.  Ce modèle est généralement utilisé pour analyser des éléments comme ***recherche naturelle (organique)*** et autres *court terme* campagnes de cycle marketing.
-- **Linéaire**: Ce modèle distribue un crédit égal à CHAQUE PERSONNE qui franchissait la porte.
+- **Première touche**: ce modèle fonctionne exactement comme s’il était activé en donnant **Crédit à 100 %** à la fonction *first* qui passa par la porte.  Les marketeurs sont plus susceptibles d’utiliser cette approche pour des tactiques telles que ***médias sociaux*** ou ***display*** Il s’agit toutefois d’une excellente tactique à utiliser souvent pour optimiser l’efficacité des recommandations de produits sur site.
+- **Dernière touche**: Cette tactique fonctionne aussi exactement comme elle semble, mais à la place, donne **Crédit à 100 %** à la DERNIÈRE personne qui traversa la porte.  Ce modèle est généralement utilisé pour analyser des éléments comme ***recherche naturelle (organique)*** et autres *court terme* campagnes de cycle marketing.
+- **Linéaire**: ce modèle distribue un crédit égal à CHAQUE PERSONNE qui a franchi la porte.
 
   >[!CAUTION]
   >
   >Il est toutefois conseillé de faire attention, car vous avez la possibilité de diffuser vos résultats très rapidement lorsque vous appliquez cette tactique, en tenant compte du temps d’exécution et de l’audience plus grande qu’elle atteint.
 
-- **En forme de U**: Cette approche attribue **40 %** du crédit à la variable *première personne* à la porte, des planches **20 %** de l’ensemble du crédit *tout le monde entre*, puis donne **40 %** au **last one** par . Ce modèle est le plus souvent utilisé dans les situations où vous avez une **cycle de conversion/vente long** contain *plusieurs points de contact* en chemin.  Dans ce cas, votre objectif est de mettre principalement en évidence la variable ***first*** et ***last*** tactiques marketing qui ont contribué à la conversion des clients.
-- **J**-**En forme** et **Inverse J**:
-   - Réfléchissez à **En forme de U**, mais à la place, ce modèle affecte **60 %** au *dernière personne* passer par la porte, **20 %** au *first*, puis *divides* le reste **20 %** cross *everyone* au milieu.  **Inverse J** fait exactement le contraire.
+- **En forme de U**: cette approche affecte **40 %** du crédit à la variable *première personne* à la porte, des planches **20 %** de l’ensemble du crédit *tout le monde entre*, puis donne **40 %** à la fonction **last one** par . Ce modèle est le plus souvent utilisé dans les situations où vous avez une **cycle de conversion/vente long** contain *plusieurs points de contact* en chemin.  Dans ce cas, votre objectif est de mettre principalement en évidence la variable ***first*** et ***last*** tactiques marketing qui ont contribué à la conversion des clients.
+- **J**-**En forme** et **En forme de J inversé**:
+   - Réfléchissez à **En forme de U**, mais à la place, ce modèle affecte **60 %** à la variable *dernière personne* passer par la porte, **20 %** à la fonction *first*, puis *divides* le reste **20 %** cross *everyone* au milieu.  **En forme de J inversé** fait exactement le contraire.
 
-     L’objectif ici est de mettre l’accent sur l’ *début* ou le *end* de votre campagne ; toutefois, vous souhaitez tout de même attribuer un certain crédit à l’élément de contribution de l’autre côté tout en reconnaissant les &quot;petits gars&quot; en cours de route.
+     L’objectif ici est de mettre l’accent sur l’ *début* ou le *end* de votre campagne ; toutefois, vous souhaitez tout de même attribuer un certain crédit à l’élément de contribution à l’autre bout tout en reconnaissant les &quot;petits gars&quot; en cours de route.
 
-- **Décroissance temporelle**: Maintenant, je manquerais à mon devoir si je ne partage pas celui-ci. Ce modèle a littéralement une demi-vie qui diminue exponentiellement - au fil du temps !  Dans ce cas, la variable *default* le paramètre de la demi-vie de ce modèle est **7 jours**.  Cela fonctionne de la manière suivante : *poids* à chaque **canal marketing**, *en fonction de la durée* qui passe après la *point de contact initial* et lorsque le client effectue la conversion.
+- **Décroissance temporelle**: Maintenant, je manquerais si je ne partagais pas celui-ci. Ce modèle a littéralement une demi-vie qui diminue exponentiellement - au fil du temps !  Dans ce cas, la variable *default* le paramètre de la demi-vie de ce modèle est **7 jours**.  Cela fonctionne de la manière suivante : *poids* à chaque **canal marketing**, *en fonction de la durée* qui passe après la *point de contact initial* et lorsque le client effectue la conversion.
 
   **Décroissance temporelle** et **Modèles d’attribution en forme de U** sont généralement utilisés pour mesurer les campagnes à plus long terme, mais comme vous pouvez le voir, ils ont des objectifs légèrement différents, en fonction de la manière dont ils sont finalement utilisés. *poids* la valeur du résultat.
 
-- **Personnalisé**: Vous choisissez qui obtiendra du crédit.  C&#39;est votre campagne !
+- **Personnalisé**: vous choisissez qui va recevoir le crédit.  C&#39;est votre campagne !
 
-Pour plus d’informations sur ces modèles d’attribution et sur d’autres modèles d’attribution, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr)
+Pour plus d’informations sur ces modèles d’attribution et d’autres, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr)
 
 Pour rendre cela encore plus intéressant, parlons de revenir en arrière !
 
@@ -93,7 +93,7 @@ Pour rendre cela encore plus intéressant, parlons de revenir en arrière !
 
 Il est maintenant temps de commencer à penser à un autre niveau.  C&#39;est là que nous ajoutons littéralement l&#39;élément voyage dans le temps à notre analyse - et là encore, nous commençons avec les bases.
 
-***Adobe*** définit **intervalles de recherche en amont** comme &quot;durée pendant laquelle une conversion doit revenir en arrière pour inclure des points de contact. Les modèles d’attribution qui accordent plus de crédit aux premières interactions voient des différences plus importantes lors de l’affichage de différents intervalles de recherche en amont.&quot;
+***Adobe*** définit ❹ **intervalles de recherche en amont** comme &quot;durée pendant laquelle une conversion doit revenir en arrière pour inclure des points de contact. Les modèles d’attribution qui accordent plus de crédit aux premières interactions voient des différences plus importantes lors de l’affichage de différents intervalles de recherche en amont.&quot;
 
 
 En d&#39;autres termes, **intervalles de recherche en amont** déterminer la période pendant laquelle *conversions* sont considérés et fournissent *contexte* à l’analyse d’attribution. ***Adobe Analytics*** offre trois types de **intervalles de recherche en amont**:
@@ -110,16 +110,16 @@ En ajustant une donnée **intervalle de recherche en amont**, les analystes peuv
 
 Qu&#39;est-ce que tout cela signifie pour nous en tant qu&#39;analystes ?
 
-Le **panneau d’attribution** et **intervalle de recherche en amont** nous donner le pouvoir de regarder au-delà des données ordinaires et superficielles, et de creuser plus profondément le parcours client. En comprenant quels points de contact ont eu le plus d’impact sur *conversions*, nous pouvons prendre des décisions éclairées sur nos stratégies marketing et allouer les ressources plus efficacement.
+La variable **panneau d’attribution** et **intervalle de recherche en amont** nous donner le pouvoir de regarder au-delà des données ordinaires et superficielles, et de creuser plus profondément le parcours client. En identifiant les points de contact qui ont eu le plus d’impact sur *conversions*, nous pouvons prendre des décisions éclairées sur nos stratégies marketing et allouer les ressources plus efficacement.
 
 Souvenez-vous, après avoir pris votre **modèles d’attribution** et **intervalles de recherche en amont** sélectionné, vous pouvez continuer à manipuler vos données en les filtrant avec un ❺ **segment,** ou tout autre composant que vous souhaitez à ce stade.  De plus, une fois le panneau rendu, vous disposez de toutes les fonctionnalités d’un espace de travail classique.
 
 ## **Finalement la mettre en pratique**
 
-Maintenant que vous avez les concepts, imaginez que vous exécutez une campagne marketing et que vous essayez de déterminer quel canal est la *le plus efficace* pour générer des conversions. Avec l’aide de la fonction **panneau d’attribution**, vous pouvez non seulement voir la variable **Dernière touche**, mais également la variable **Première touche**, **même touche**, etc. **model** vous choisissez de déterminer laquelle **channels** sont les variables *le plus efficace* en conduisant votre *conversions*. Ces informations peuvent ensuite être utilisées pour *optimize* vos campagnes et améliorez les performances globales simplement en revenant en arrière avec la fonction **intervalle de recherche en amont** de votre choix !
+Maintenant que vous avez les concepts, imaginez que vous exécutez une campagne marketing et que vous essayez de déterminer quel canal est la *le plus efficace* pour générer des conversions. Avec l’aide de **panneau d’attribution**, vous pouvez non seulement voir la variable **Dernière touche**, mais également la variable **Première touche**, **même touche**, etc. **model** vous choisissez de déterminer laquelle **channels** sont les variables *le plus efficace* en conduisant votre *conversions*. Ces informations peuvent ensuite être utilisées pour *optimize* vos campagnes et améliorez les performances globales simplement en revenant en arrière avec la fonction **intervalle de recherche en amont** de votre choix !
 
 Maintenant que vous avez vu ce qu’il peut faire, ne soyez pas dupé ou intimidé par les fonctionnalités apparemment complexes du panneau d’attribution.  **Rendez-vous compte**.  *Embrasser* c&#39;est le cas.  **Comprendre** c&#39;est le cas.
-MAIS LA PLUPART - *Utilisez-le à votre avantage.* Le **panneau d’attribution** et **intervalle de recherche en amont** sont les clés d’une meilleure compréhension de vos clients et de leur parcours avec votre marque.
+MAIS LA PLUPART - *Utilisez-le à votre avantage.* La variable **panneau d’attribution** et **intervalle de recherche en amont** sont les clés d’une meilleure compréhension de vos clients et de leur parcours avec votre marque.
 
 Maintenant, nous pouvons voyager &quot;[Retour dans le temps](https://youtu.be/gVryJmZNFdU)&quot; en toute confiance et en utilisant la puissance de notre machine à remonter le temps fiable (c.-à-d. ***Adobe Analytics***) pour prendre des décisions basées sur les données.
 
