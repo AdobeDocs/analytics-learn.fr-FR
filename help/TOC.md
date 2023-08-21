@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
 workflow-type: tm+mt
-source-wordcount: '2458'
+source-wordcount: '2465'
 ht-degree: 99%
 
 ---
@@ -144,6 +144,7 @@ ht-degree: 99%
       + [Liaisons dynamiques Dimension-Graphique](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [Définition de la granularité des visualisations](analysis-workspace/visualizations/granularity-toggle.md)
       + [Liens internes dans Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [Lien à l’intérieur ou à l’extérieur du projet](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [Réorganisation et redimensionnement des visualisations](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personnalisation des légendes des visualisations](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [Visualisations empilées à 100 %](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
