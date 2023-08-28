@@ -3,9 +3,9 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 99%
       + [Filtres des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensions de répartition du temps](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisations {#visualizations}
-      + [Visualisation des données dans Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [Types de visualisation](analysis-workspace/visualizations/visualization-types.md)
+      + [Types de visualisation et présentation](analysis-workspace/visualizations/visualization-types.md)
       + [Cas dʼutilisation des visualisations](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Sélection des données à visualiser](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [Playbook de visualisation des données](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [Manuel de visualisation des données](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Utilisation des listes déroulantes de composants dans l’espace de travail](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Utilisation des listes déroulantes de composants dans Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisations sous forme de surface et aires empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualisations sous forme de barres et barres empilées](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualisation sous forme de graphiques à puces](analysis-workspace/visualizations/bullet-graph-visualization.md)
