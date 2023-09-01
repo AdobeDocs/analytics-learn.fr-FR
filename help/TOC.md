@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -114,9 +114,9 @@ ht-degree: 99%
       + [Filtres des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensions de répartition du temps](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualisations {#visualizations}
-      + [Types de visualisation et présentation](analysis-workspace/visualizations/visualization-types.md)
+      + [Types de visualisations et vue d’ensemble](analysis-workspace/visualizations/visualization-types.md)
       + [Cas dʼutilisation des visualisations](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Manuel de visualisation des données](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [Playbook de visualisation des données](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Obtention de données dans les visualisations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilisation des listes déroulantes de composants dans Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualisations sous forme de surface et aires empilées](analysis-workspace/visualizations/area-and-area-stacked.md)
