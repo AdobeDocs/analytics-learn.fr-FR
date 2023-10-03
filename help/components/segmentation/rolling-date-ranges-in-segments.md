@@ -1,25 +1,20 @@
 ---
 title: Périodes flottantes dans les segments
-description: 'Adobe Analytics vous permet de répondre à des questions du type : quelle était la moyenne glissante de mon chiffre d’affaires sur 60 jours ? ou encore Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ? en incluant des périodes flottantes dans les segments. Cette vidéo vous explique la procédure à suivre.'
+description: Dans cette vidéo, apprenez à utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments tels que "les personnes qui ont effectué des achats au cours de la dernière semaine" ou "les personnes qui ont consulté mon site au cours des 60 derniers jours".
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 8ab9f8cb1ebef6a0f281a63a2a2946475cb9f3b4
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 8%
 
 ---
 
-# [!UICONTROL Périodes] flottantes dans les [!UICONTROL segments] {#rolling-date-ranges-in-segments}
+# Périodes flottantes dans les segments {#rolling-date-ranges-in-segments}
 
-Adobe Analytics vous permet de répondre à des questions du type « Quelle était la moyenne glissante de mon chiffre d’affaires sur 60 jours ? » ou « Combien de visiteurs ont consulté du contenu de mon application plus de 5 fois au cours de la semaine passée ? » en incluant des [!UICONTROL périodes] flottantes dans les [!UICONTROL segments]. Cette vidéo vous explique la procédure à suivre.
+Dans cette vidéo, apprenez à utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments tels que &quot;les personnes qui ont effectué des achats au cours de la dernière semaine&quot; ou &quot;les personnes qui ont consulté mon site au cours des 60 derniers jours&quot;. Pour obtenir une documentation détaillée sur la création de plages de dates variables que vous pouvez utiliser dans vos segments, consultez [Création de plages de dates personnalisées](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
-
