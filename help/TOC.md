@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+workflow-type: tm+mt
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -276,11 +276,11 @@ ht-degree: 100%
       + [Présentation des journaux d’administration Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implémentation {#implementation}
    + Concepts de base de la mise en œuvre {#implementation-basics}
-      + [Compréhension et création de suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr)
+      + [Comprendre et créer des suites de rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr)
       + [Mise en correspondance des variables contextData dans des props et des eVars avec des règles de traitement](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Comment identifier votre serveur de suivi et vos suites de rapports Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Comment identifier votre serveur de suivi Analytics et votre identifiant de suite de rapports](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Créer un document d’exigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [Créer et conserver un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [Création et maintenance d’un DTS](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Avec Experience Platform Launch {#via-adobe-launch}
       + [Mise en œuvre d’Experience Cloud sur les sites web avec Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
       + [Configuration de base de l’extension Analytics Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
