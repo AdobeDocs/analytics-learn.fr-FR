@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -344,7 +344,7 @@ ht-degree: 99%
    + Suites de rapports virtuelles {#virtual-report-suites}
       + [Suites de rapports virtuelles - Aperçu](components/virtual-report-suites/virtual-report-suites.md)
       + [Traitement des composants](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [Personnalisation des visites dans les suites de rapports virtuelles](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [Personnaliser les visites dans les suites de rapports virtuelles](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [Commencer une nouvelle visite sur n’importe quel événement](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Aperçu d’Activity Map](components/activity-map/activity-map-overview.md)
