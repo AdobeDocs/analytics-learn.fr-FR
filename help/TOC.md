@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 99%
    + À partir de l’interface utilisateur {#from-the-ui}
       + [Exportation au format CSV à partir d’Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Exportation de l’entrepôt de données](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [Envoyer une requête Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Extraction des données Tableau des rapports d’entrepôt de données](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Export de l’entrepôt de données](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Envoyer une requête Entrepôt de données via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [Envoyer des rapports de l&#39;entrepôt des données au format Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Flux de données {#data-feeds}
       + [Interface utilisateur de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
