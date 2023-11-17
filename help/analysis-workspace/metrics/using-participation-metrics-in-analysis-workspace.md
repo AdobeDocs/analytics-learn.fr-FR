@@ -1,22 +1,22 @@
 ---
-title: Utilisation des mesures de participation dans Analysis Workspace
-description: Utilisez cette astuce simple pour obtenir n’importe quelle mesure de participation dans Analysis Workspace à tout moment.
+title: Création de mesures de participation
+description: Découvrez comment créer des mesures de participation et les utiliser dans [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
-# Utilisation des mesures de participation dans Analysis Workspace
+# Création de mesures de participation
 
-Utilisez cette astuce simple pour obtenir n’importe quelle mesure de participation dans Analysis Workspace à tout moment.
+Découvrez comment créer des mesures de participation et les utiliser dans [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
