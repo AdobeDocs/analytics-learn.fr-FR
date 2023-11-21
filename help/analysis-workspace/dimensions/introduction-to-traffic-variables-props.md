@@ -1,20 +1,23 @@
 ---
 title: Présentation des variables de trafic (props)
-description: Dans cette vidéo, découvrez les variables de trafic, y compris Nom de page, Section du site et « props ».
+description: Découvrez les types de variables de trafic et leur utilisation dans Adobe Analytics.
 feature: Dimensions
 kt: 3576
 role: User
 level: Beginner
+last-substantial-update: 2023-11-21T00:00:00Z
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 20%
 
 ---
 
-# Présentation des variables de trafic ([!UICONTROL props])
+# Présentation des variables de trafic ([!UICONTROL Propriétés])
 
-Dans cette vidéo, découvrez les variables de trafic, y compris [!UICONTROL Nom de page], [!UICONTROL Section du site] et « [!UICONTROL props] ».
+Découvrez les types de variables de trafic et leur utilisation dans Adobe Analytics, notamment l’analyse du trafic, du contenu et des flux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).

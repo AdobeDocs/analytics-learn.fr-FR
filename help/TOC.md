@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,7 +170,7 @@ ht-degree: 100%
       + [Utilisation des mesures de participation dans Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Au revoir Excel, bonjour les mesures calculées !](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensions {#dimensions}
-      + [Ajout de dimensions et de mesures à votre projet dans Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Ajout de dimensions et de mesures à votre projet](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Présentation des variables de trafic (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Présentation des variables de conversion (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Utilisation des dimensions dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=fr)
