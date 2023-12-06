@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
 source-wordcount: '2260'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -281,7 +281,7 @@ ht-degree: 98%
       + [Comment identifier votre serveur de suivi et votre identifiant de suite de rapports Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Créer un document d’exigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Créer et mettre à jour un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Utilisation des balises Experience Platform {#via-adobe-launch}
+   + Utiliser les balises Experience Platform {#via-adobe-launch}
       + [Mise en œuvre d’Experience Cloud sur les sites web avec Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
       + [Configuration de base de l’extension Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configuration de la gestion des bibliothèques pour l’extension Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
