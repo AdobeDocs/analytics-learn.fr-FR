@@ -1,6 +1,6 @@
 ---
-title: Liste de contrôle utile pour contrôler votre dictionnaire de données
-description: Améliorez l’efficacité et la fiabilité des données grâce à notre liste de contrôle d’audit Adobe Analytics et Customer Journey Analytics Data Dictionary .
+title: Liste de contrôle pour vous aider à effectuer un audit de votre dictionnaire de données
+description: Améliorez l’efficacité et la fiabilité des données grâce à notre liste de contrôle pour audit d’Adobe Analytics et de dictionnaire de données Customer Journey Analytics.
 feature: Data Dictionary
 topic: Administration
 role: User
@@ -10,26 +10,27 @@ duration: 36000
 last-substantial-update: 2023-12-06T00:00:00Z
 jira: KT-14613
 thumbnail: KT-14613.jpeg
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
-workflow-type: tm+mt
+exl-id: 24c1420d-72f5-4aad-ab8c-3fd1dcd67b47
+source-git-commit: 4dcec34a9ed5d600c4d18601ae2d9e1ef250df7f
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# Liste de contrôle pour vous aider à effectuer un audit de votre dictionnaire de données
 
-# Liste de contrôle utile pour contrôler votre dictionnaire de données
+Améliorez l’efficacité et la fiabilité des données grâce à notre liste de contrôle pour audit d’Adobe Analytics et de dictionnaire de données Customer Journey Analytics.
 
-Améliorez l’efficacité et la fiabilité des données grâce à notre liste de contrôle d’audit Adobe Analytics et Customer Journey Analytics Data Dictionary .
+En tant qu’administrateur ou administratrice, il est conseillé de régulièrement examiner votre dictionnaire de données dans Adobe Analytics et dans Adobe Customer Journey Analytics et d’effectuer un audit. Ce guide permet d’optimiser votre dictionnaire de données en supprimant les composants redondants, obsolètes ou inutiles. Gardez l’esprit tranquille en ayant confiance en votre dictionnaire de données fiable et sûr.
 
-En tant qu’administrateur, il est conseillé d’examiner de plus près votre dictionnaire de données dans Adobe Analytics et Adobe Customer Journey Analytics et d’effectuer un audit. Ce guide permet de rationaliser votre dictionnaire de données en supprimant les composants redondants, obsolètes ou inutiles. Soyez facile et confiant dans votre ressource robuste et fiable du dictionnaire de données.
-
-[Télécharger la liste de contrôle du dictionnaire de données](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Adobe_Analytics_Data_Dictionary_Checklist.pdf) et commencez à optimiser la gestion des données.
+[Téléchargez la liste de contrôle du dictionnaire de données](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Adobe_Analytics_Data_Dictionary_Checklist.pdf) et commencez à optimiser la gestion de vos données.
 
 ## Auteur
 
 Ce document a été rédigé par :
 
-![Christos Voutsakis](assets/christos-headshot.png)
+![Christos Voutsakis](assets/christos-headshot.png)
 
-Christos Voutsakis Architecte principal du succès client à Adobe
+Christos Voutsakis
+Architecte principal du succès client chez Adobe
