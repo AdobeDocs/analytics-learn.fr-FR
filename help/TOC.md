@@ -285,7 +285,7 @@ ht-degree: 98%
       + [Configuration de base de l’extension Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configuration de la gestion des bibliothèques pour l’extension Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Configuration des paramètres généraux de l’extension Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Configuration des paramètres de variable globale pour l’extension Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Configurer les paramètres des variables globales de l’extension Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Configuration des paramètres des cookies dans l’extension Analytics Launch](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilisation du code personnalisé lors de la configuration de l’extension Analytics de Launch](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [Utilisation d’une couche de données pour définir le nom de page et d’autres variables via Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
