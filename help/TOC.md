@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,11 +34,11 @@ ht-degree: 98%
    + Transitionner à partir d’autres plateformes {#transitioning-from-other-platforms}
       + [Transitionner à partir de Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Concepts de base d’Analytics {#analytics-basics}
-      + [Compréhension du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [Collecte des données Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [Présentation du cycle Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [Fonctionnement de la collecte des données Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Connexion à Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Présentation et création de suites de rapports](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Présentation des mesures de base des visiteurs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=fr)
+      + [Présentation des mesures de base des visiteurs et visiteuses](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=fr)
       + [Présentation des variables de trafic (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=fr)
       + [Présentation des variables de conversion (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=fr)
       + [Présentation des événements de conversion](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=fr)
