@@ -1,6 +1,6 @@
 ---
-title: Projets en lecture seule dans Analysis Workspace
-description: Les projets Workspace peuvent être partagés avec les utilisateurs en autorisant uniquement l’affichage. Lorsqu’un destinataire pouvant uniquement afficher le projet partagé ouvre ce dernier, il bénéficie d’une expérience de projet plus restreinte, sans rail gauche et avec des interactions limitées.
+title: Partage d’un projet en lecture seule dans Analysis Workspace
+description: Découvrez comment partager des projets d’analyse Workspace en lecture seule avec des utilisateurs et comprendre les fonctionnalités disponibles pour ce niveau d’autorisation.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Projets en lecture seule dans Analysis Workspace
+# Partage d’un projet en lecture seule dans Analysis Workspace
 
-Les projets Workspace peuvent être partagés avec les utilisateurs en autorisant uniquement l’affichage. Lorsqu’un destinataire pouvant uniquement afficher le projet partagé ouvre ce dernier, il bénéficie d’une expérience de projet plus restreinte, sans rail gauche et avec des interactions limitées.
+Découvrez comment partager des projets d’analyse Workspace en lecture seule avec des utilisateurs et comprendre les fonctionnalités disponibles pour ce niveau d’autorisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
