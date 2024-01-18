@@ -4,7 +4,7 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '2192'
 ht-degree: 94%
@@ -280,24 +280,24 @@ ht-degree: 94%
       + [Créer et mettre à jour un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Balises Experience Platform {#experience-platform-tags}
       + [Mise en oeuvre de solutions Experience Cloud dans les sites web à l’aide de balises](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
-      + [Configuration de base de l’extension Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Configuration de la gestion des bibliothèques dans l’extension Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Configuration des paramètres généraux dans l’extension Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Configuration des paramètres de variable globale dans l’extension Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Configuration des paramètres de cookie dans l’extension Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Utilisation de code personnalisé dans l’extension Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Utilisation d’une couche de données pour définir des variables](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [Ajout de modules d’implémentation](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [Utilisation de doPlugins dans l’extension Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [Configuration du suivi facile des liens de téléchargement](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [Configuration du suivi facile des liens de sortie](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Préparation des balises pour votre mise en oeuvre Analytics](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Création d’éléments de données pour l’implémentation d’Analytics](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [Création d’une règle de chargement de page globale](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [Validation de la règle de chargement de page globale](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [Création de règles pour les pages spéciales](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [Création de règles pour les événements de succès](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [Publication de bibliothèques de balises dans les environnements intermédiaire et de production](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Configuration de base de l’extension Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
+      + [Configuration de la gestion des bibliothèques dans l’extension Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
+      + [Configuration des paramètres généraux dans l’extension Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Configuration des paramètres de variable globale dans l’extension Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Configuration des paramètres de cookie dans l’extension Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
+      + [Utilisation de code personnalisé dans l’extension Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
+      + [Utilisation d’une couche de données pour définir des variables](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
+      + [Ajout de modules d’implémentation](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
+      + [Utilisation de doPlugins dans l’extension Adobe Analytics](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [Configuration du suivi facile des liens de téléchargement](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [Configuration du suivi facile des liens de sortie](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Préparation des balises pour votre mise en oeuvre Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
+      + [Création d’éléments de données pour l’implémentation d’Analytics](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [Création d’une règle de chargement de page globale](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [Validation de la règle de chargement de page globale](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [Création de règles pour les pages spéciales](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
+      + [Création de règles pour les événements de succès](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [Publication de bibliothèques de balises dans les environnements intermédiaire et de production](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + Utilisation de JavaScript {#using-javascript}
       + [Suivi des liens personnalisés sans gestionnaire de balises](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Mise à jour d’AppMeasurement en l’absence d’utilisation d’Experience Platform Launch](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
