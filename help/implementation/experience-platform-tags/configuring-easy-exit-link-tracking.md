@@ -1,6 +1,6 @@
 ---
-title: Configuration du suivi facile des liens de sortie dans Experience Platform [!DNL tags]
-description: Vous pouvez commencer à effectuer le suivi des liens de sortie sur votre site (liens qui accèdent à un autre site) en quelques clics seulement dans l’extension Adobe Analytics d’Experience Platform. [!DNL tags]. Cette vidéo vous explique comment le configurer.
+title: Configuration du suivi facile des liens de sortie dans les balises Experience Platform
+description: Vous pouvez commencer à effectuer le suivi des liens de sortie sur votre site (liens qui accèdent à un autre site) en quelques clics seulement dans l’extension Adobe Analytics dans les balises Experience Platform. Cette vidéo vous explique comment le configurer.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 23%
+source-wordcount: '154'
+ht-degree: 24%
 
 ---
 
 # Configuration du suivi facile des liens de sortie dans Experience Platform [!DNL tags]
 
 Vous pouvez commencer à effectuer le suivi des liens de sortie sur votre site (liens qui accèdent à un autre site) en quelques clics seulement dans l’extension Adobe Analytics d’Experience Platform. [!DNL tags]. Cette vidéo vous explique comment le configurer.
-
->[!NOTE]
->
-> Launch est maintenant **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
