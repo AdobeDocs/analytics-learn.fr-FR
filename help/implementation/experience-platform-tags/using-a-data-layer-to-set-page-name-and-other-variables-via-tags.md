@@ -1,6 +1,6 @@
 ---
-title: Utilisation d’une couche de données pour définir des variables Analytics dans Experience Platform [!DNL tags]
-description: Découvrez comment utiliser une couche de données pour sources des données Analytics et d’autres solutions Experience Cloud.
+title: Utiliser une couche de données pour définir des variables Analytics dans Experience Platform  [!DNL tags]
+description: Découvrez comment utiliser une couche de données pour l’approvisionnement de données Analytics et d’autres solutions Experience Cloud.
 feature: Tags
 topics: Development
 role: Developer, Data Engineer
@@ -11,11 +11,11 @@ exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 29%
+ht-degree: 59%
 
 ---
 
-# Utilisation d’une couche de données pour définir des variables Analytics dans Experience Platform [!DNL tags]
+# Utiliser une couche de données pour définir des variables Analytics dans Experience Platform [!DNL tags]
 
 Découvrez comment extraire des valeurs de la couche de données et les utiliser dans Experience Platform [!DNL tags] pour renseigner des variables dans Adobe Analytics. Utiliser une couche de données pour [!DNL Analytics] et d’autres solutions Experience Cloud sont une bonne pratique.
 
