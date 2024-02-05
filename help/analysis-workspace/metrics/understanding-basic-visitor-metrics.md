@@ -1,20 +1,26 @@
 ---
 title: Compréhension des mesures de base des visiteurs
-description: Pages vues, Visites et Visiteurs. Cette courte vidéo vous donne des informations de base sur ces mesures, qui sont essentielles à la compréhension du trafic sur le site web.
+description: En savoir plus sur les pages vues, les visites et les visiteurs dans Adobe Analytics. Découvrez les mesures de base des visiteurs qui vous aident à comprendre le trafic sur votre site Web.
 feature: Metrics
 kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 4edc6b256cf437bc4eb4aefc95a3ee8e16f16322
+source-git-commit: 5ca8c7350ccda400ebdc52d161b5a6afe69fb333
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 81%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
 # Compréhension des mesures de base des visiteurs
 
-[!UICONTROL Pages vues], [!UICONTROL Visites], et [!UICONTROL Visiteurs]. Cette courte vidéo vous donne des informations de base sur ces mesures, qui sont essentielles à la compréhension du trafic sur le site web.
+En savoir plus [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visites]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr), et [[!UICONTROL Visiteurs]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr) dans Adobe Analytics.
+
+* Obtenez des définitions de ces mesures de visite de base et découvrez leurs similitudes et différences.
+
+* Découvrez les différents termes (synonymes ou mots-clés) associés aux mesures des visiteurs et au trafic sur le site Web.
+
+* Affichage d’un exemple [!UICONTROL Workspace] qui indique comment ces mesures sont affichées dans l’interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
