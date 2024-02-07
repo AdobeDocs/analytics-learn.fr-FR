@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 3%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # Présentation du panneau d’attribution Adobe Analytics et des intervalles de recherche en amont
 
@@ -26,11 +26,11 @@ J&#39;admettrai que **panneau d’attribution** est un outil assez complexe ; ce
 
 Par conséquent, pourquoi devrions-nous laisser quelque chose comme une petite peur se mettre en travers de ces outils incroyables, sophistiqués et puissants comme ceux-ci qui nous permettent littéralement de regarder *backward* dans le temps, chaque jour ?
 
-Après tout - c&#39;est le TIME VOYAGE, les gars!!  Nous parlons de ce genre de choses.  Correct???!!
+Après tout - c&#39;est le TIME VOYAGE, les gars!!  Nous parlons de ce genre de choses.  Right???!!
 
 Alors, qu&#39;attendons-nous - une voiture en métal brillant, une boîte de police, ou une cabine téléphonique vintage utilisant le câblage d&#39;un vieux parapluie comme antenne pour apparaître sur le pas de notre porte ?
 
-Non!  Nous avons quelque chose d&#39;encore mieux, alors raccrochons-nous !
+Non !  Nous avons quelque chose d&#39;encore mieux, alors raccrochons-nous !
 
 Eh bien.. vous avez l&#39;idée.
 
@@ -39,7 +39,7 @@ Maintenant que nous sommes tous excités par les voyages dans le temps, prenons 
 
 ![Attribution](assets/attribution.png)
 
-*Figure 1 - Nombre affiché en ligne avec le texte plus bas*
+*Figure 1 - Les nombres affichés sont alignés avec le texte plus bas.*
 
 Dans **attribution**, il vous suffit d’examiner la manière dont les événements/actions peuvent être causés par un individu, plusieurs individus ou l’un des nombreux événements différents au fil du temps.
 
@@ -48,7 +48,7 @@ Selon [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/c
 
 >[!WARNING]
 >
->Juste une petite note pour rappeler que **modèles d’attribution** sont si fréquemment associés à **canaux marketing** que je suis intentionnellement *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer **attribution** l’analyse par rapport à la plupart des autres ***dimension***.
+>**Modèles d’attribution** sont si fréquemment associés à **canaux marketing** que je suis intentionnellement *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer **attribution** l’analyse par rapport à la plupart des autres ***dimension***.
 
 
 En fait, rarement un parcours client donné est vraiment linéaire et encore moins prévisible.  De plus, chaque client procédera à son propre rythme ; il peut souvent doubler, bloquer, abandonner ou adopter un autre comportement non linéaire. Ces actions organiques rendent difficile ou pratiquement impossible de connaître l’impact des efforts marketing sur le parcours client. Cela complique également les efforts visant à relier plusieurs canaux de données.
@@ -85,7 +85,7 @@ En gardant cela à l’esprit, voici quelques exemples de la ❸ **modèles d’
 
 - **Personnalisé**: vous choisissez qui va recevoir le crédit.  C&#39;est votre campagne !
 
-Pour plus d’informations sur ces modèles d’attribution et d’autres, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr)
+Pour plus d’informations sur ces modèles d’attribution et d’autres, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Pour rendre cela encore plus intéressant, parlons de revenir en arrière !
 
@@ -131,4 +131,4 @@ Ce document a été rédigé par :
 
 **Jeff Bloomer**, gestionnaire, Analyses numériques chez Kroger Personal Finance
 
-Adobe Analytics Champion
+Adobe Analytics Champion
