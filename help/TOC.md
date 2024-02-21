@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: tm+mt
-source-wordcount: '2187'
-ht-degree: 99%
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+workflow-type: ht
+source-wordcount: '2180'
+ht-degree: 100%
 
 ---
 
@@ -284,10 +284,9 @@ ht-degree: 99%
       + [Configurer la gestion des bibliothèques pour l’extension Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Configurer les paramètres généraux de l’extension Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Configurer les paramètres des variables globales de l’extension Analytics](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Configurer les paramètres des cookies dans l’extension Analytics](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Utiliser un code personnalisé dans l’extension Analytics](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [Utiliser une couche de données pour définir des variables](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [Utilisation de doPlugins et des modules d’implémentation](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
+      + [Utiliser des doPlugins et des plug-ins d’implémentation](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Configurer le suivi des liens de téléchargement facile](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [Configurer un suivi simple des liens de sortie](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Préparer les balises pour l’implémentation d’Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
