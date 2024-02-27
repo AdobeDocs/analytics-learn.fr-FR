@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
 workflow-type: ht
-source-wordcount: '320'
+source-wordcount: '244'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,6 @@ Pour démarrer,
 
 Des expériences d’apprentissage organisées par rôle et niveau de compétence sont également proposées dans la section Cours. Connectez-vous simplement avec votre Adobe ID et accédez à **Formation > Cours recommandés** dans le volet de navigation supérieur.
 
-<div id="whats-new-section">
-
-## Nouveautés
-
-* **[Application Cartes de performance mobiles Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *Découvrez comment télécharger l’application Cartes de performance mobiles et afficher les cartes de performance mobiles créées dans [!DNL Analysis Workspace].*
-
-* **[Annotations dans Workspace (vidéo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *Les annotations dans [!DNL Analysis Workspace] vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et insights concernant les données contextuelles. Annotez une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. Cela indique aux utilisateurs pourquoi des irrégularités apparaissent dans les graphiques linéaires, les tableaux, etc.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
