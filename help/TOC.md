@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
 workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 99%
       + [Définition d’un projet Analysis Workspace en tant que page de destination](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Accès à l’aide {#getting-help}
       + [Aide pour Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
-      + [Envoi des tickets d’assistance dans le produit](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+      + [Envoi du ticket d’assistance en ligne](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
    + Principes de base d’Analysis Workspace {#analysis-workspace-basics}
       + [Présentation rapide d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
