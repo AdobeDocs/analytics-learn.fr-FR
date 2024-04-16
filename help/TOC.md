@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
-workflow-type: ht
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 100%
       + [Créer des filtres déroulants dynamiques](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigation dans les projets Espace de travail {#navigating-workspace-projects}
       + [Dictionnaire de données dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [Créer des projets à l’aide de modèles](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Démarrage du premier projet](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Modèle de Tutoriel de formation](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Utilisation des dossiers dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Copie et insertion de panneaux et de visualisations](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 100%
 + [Programme Analytics University](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [Le module Fondamentaux d’Analytics pour les utilisateurs professionnels a été supprimé.](retired-courses/retire-fundamentals-for-business-users-course.md)
-
