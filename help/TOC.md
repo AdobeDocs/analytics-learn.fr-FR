@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 99%
       + [Créer des filtres déroulants dynamiques](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Navigation dans les projets Espace de travail {#navigating-workspace-projects}
       + [Dictionnaire de données dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [Démarrage du premier projet](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Démarrer votre premier projet](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Modèle de Tutoriel de formation](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Utilisation des dossiers dans Analysis Workspace](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [Copie et insertion de panneaux et de visualisations](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
