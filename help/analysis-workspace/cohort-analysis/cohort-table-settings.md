@@ -1,6 +1,6 @@
 ---
 title: Paramètres du tableau de cohortes
-description: Plusieurs paramètres de tableau de cohorte vous permettent de personnaliser votre vue de la rétention ou de l’attrition. Ces paramètres sont mis en avant dans cette vidéo.
+description: Découvrez comment personnaliser votre vue des tables de rétention ou de perte de clientèle à l’aide des paramètres du tableau de cohortes.
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 198405506f7aab1dc450a6f7b19224fd96ab1baa
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 # Paramètres du [!UICONTROL Tableau de cohorte]
 
-Plusieurs paramètres de ¨ vous permettent de personnaliser votre vue de la [!UICONTROL rétention] ou de l’[!UICONTROL attrition]. Ces paramètres sont mis en avant dans cette vidéo.
+Découvrez comment personnaliser votre vue des tables de rétention ou de perte de clientèle à l’aide des paramètres du tableau de cohortes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
@@ -29,6 +29,6 @@ Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilit
 1. Arrondir les pourcentages au nombre entier le plus proche.
 1. Afficher/masquer une ligne de pourcentage moyenne en haut du tableau.
 
-La ligne moyenne est particulièrement utile pour visualiser la [!UICONTROL rétention] ou l’[!UICONTROL attrition] dans son ensemble, plutôt que par lignes de [!UICONTROL cohortes] individuelles.
+Les lignes moyennes sont idéales pour l’affichage [!UICONTROL rétention] ou [!UICONTROL churn] général plutôt que par individu [!UICONTROL cohorte] lignes.
 
 Pour plus d’informations concernant l’analyse des [!UICONTROL cohortes], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=fr).
