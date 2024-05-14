@@ -1,6 +1,6 @@
 ---
-title: Envoyer une requête Data Warehouse via SFTP
-description: Data Warehouse fait référence à la copie de données Analytics pour les rapports de stockage et personnalisés, que vous pouvez exécuter en filtrant les données. Vous pouvez demander des rapports qui présentent un niveau avancé de relations entre les données brutes, en fonction de vos questions. Les rapports d’entrepôt de données sont envoyés par courriel ou par FTP. Leur traitement peut prendre jusqu’à 72 heures. La durée de traitement dépend de la complexité de la requête et de la quantité de données demandées.
+title: Envoi de rapports Data Warehouse par SFTP
+description: Découvrez comment créer une requête de Data Warehouse dans Adobe Analytics et la configurer pour une diffusion SFTP.
 feature: Data Warehouse
 topic: Administration
 role: User, Architect
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 335751.jpg
 kt: KT-8467
+last-substantial-update: 2024-05-13T00:00:00Z
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: c56deab9a0496c1152e971f98a832a9f57135d64
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
-# Envoyer une requête Data Warehouse via SFTP
+# Envoyer [!DNL Data Warehouse] rapports via SFTP
 
-Data Warehouse fait référence à la copie de données Analytics pour les rapports de stockage et personnalisés, que vous pouvez exécuter en filtrant les données. Vous pouvez demander des rapports qui présentent un niveau avancé de relations entre les données brutes, en fonction de vos questions. Les rapports d’entrepôt de données sont envoyés par courriel ou par FTP. Leur traitement peut prendre jusqu’à 72 heures. La durée de traitement dépend de la complexité de la requête et de la quantité de données demandées.
+Découvrez comment créer une [!DNL Data Warehouse] dans Adobe Analytics et configurez-le pour une diffusion SFTP. Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
