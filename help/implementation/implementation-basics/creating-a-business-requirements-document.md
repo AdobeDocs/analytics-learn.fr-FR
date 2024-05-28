@@ -8,9 +8,9 @@ kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ Découvrez l’étape primordiale de la définition des données comportementale
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Télécharger](assets/aa_en_BRD_SDR_template.xlsx) un exemple de modèle Excel permettant de documenter les exigences, l’utilisation et l’attribution des variables, les segments et la conception de collecte de données pour vos propriétés numériques.
+[Téléchargez](assets/aa_en_BRD_SDR_template.xlsx) un exemple de modèle Excel pour documenter les exigences, l’attribution et l’utilisation des variables, les segments, et la conception de collecte de données pour vos propriétés numériques.
 
-Regardez la vidéo associée pour savoir comment créer une [document de référence de conception de solution](creating-and-maintaining-an-sdr.md).
+Regardez la vidéo correspondante pour apprendre à créer un [document de référence de conception de la solution ](creating-and-maintaining-an-sdr.md).
