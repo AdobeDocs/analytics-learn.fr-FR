@@ -1,24 +1,23 @@
 ---
 title: Création d’une table des matières dans Analysis Workspace
-description: Découvrez comment créer un projet d’espace de travail sous forme de table des matières, et comment le définir en tant que page de destination de vos utilisateurs afin qu’ils puissent rapidement trouver les données et informations dont ils ont besoin dans Adobe Analytics.
+description: Découvrez la table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs de passer rapidement aux panneaux et aux visualisations dans le projet.
 feature: Panels
-topics: null
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f3357dcef123114c89ce5ea2409d8a67b0ae537f
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 
 # Création d’une table des matières dans Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Découvrez comment créer un projet d’espace de travail sous forme de table des matières, et comment le définir en tant que page de destination de vos utilisateurs afin qu’ils puissent rapidement trouver les données et informations dont ils ont besoin dans Adobe Analytics.
+Découvrez la table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs de passer rapidement aux panneaux et aux visualisations dans le projet. Pour obtenir une documentation détaillée, consultez la page [Table des matières du projet](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

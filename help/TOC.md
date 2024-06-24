@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [Afficher les mesures de performances d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Créer des rapports de robots](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Conseils et astuces {#tips-and-tricks}
+      + [Création d’hyperliens dans les tableaux à structure libre](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [7 conseils et astuces pour Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Conseils pour accroître votre productivité dans Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [Annotations](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Afficher la densité](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Utilisation des filtres](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Utilisation de filtres déroulants à sélection multiple](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Rapports en temps réel {#real-time-reports}
       + [Créer des rapports en temps réel](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Utilisation des panneaux {#using-panels}
