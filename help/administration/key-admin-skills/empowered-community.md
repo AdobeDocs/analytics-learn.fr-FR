@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
 * Créez un processus d’intégration d’utilisateur :
 
-   Quelles sont les exigences et les processus associés à l’accès Adobe Analytics pour votre entreprise ? Si vous n’avez pas encore d’exigences et qu’un processus n’est pas en place pour l’intégration des nouveaux utilisateurs, la création de cette infrastructure prend en charge l’évolutivité.
+  Quelles sont les exigences et les processus associés à l’accès Adobe Analytics pour votre entreprise ? Si vous n’avez pas encore d’exigences et qu’un processus n’est pas en place pour l’intégration des nouveaux utilisateurs, la création de cette infrastructure prend en charge l’évolutivité.
 
 * Implémentez une gestion et un accès utilisateur appropriés :
 
-   L’accès des utilisateurs aux suites de rapports, aux mesures, aux dimensions, aux outils, aux rapports et aux composants est fondamental pour Adobe Analytics et constitue une partie essentielle des [processus de gestion des groupes d’utilisateurs](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=fr). Un accès approprié aux outils permet aux utilisateurs de bénéficier de droits d’accès en libre-service dans Analysis Workspace et Reports &amp; Analytics.
+  L’accès des utilisateurs aux suites de rapports, aux mesures, aux dimensions, aux outils, aux rapports et aux composants est fondamental pour Adobe Analytics et constitue une partie essentielle des [processus de gestion des groupes d’utilisateurs](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=fr). Un accès approprié aux outils permet aux utilisateurs de bénéficier de droits d’accès en libre-service dans Analysis Workspace et Reports &amp; Analytics.
 
 * Comprenez l’implémentation :
 
-   Comme bonne pratique, les utilisateurs doivent posséder une connaissance de base des besoins de l’entreprise pris en charge par leur implémentation, qui sont généralement capturés via un [document sur les besoins de l’entreprise](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr) (BRD) et un [document de référence de conception de solution](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=fr) (SDR). Ces exigences doivent inclure ce qui a été implémenté et doivent définir les besoins de l’entreprise, les rapports, les eVars, les événements, etc., par catégorie.
+  Comme bonne pratique, les utilisateurs doivent posséder une connaissance de base des besoins de l’entreprise pris en charge par leur implémentation, qui sont généralement capturés via un [document sur les besoins de l’entreprise](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr) (BRD) et un [document de référence de conception de solution](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=fr) (SDR). Ces exigences doivent inclure ce qui a été implémenté et doivent définir les besoins de l’entreprise, les rapports, les eVars, les événements, etc., par catégorie.
 
 * Utilisez des modèles de rapport :
 
-   Les modèles de rapports et projets Adobe Analytics sont des ressources clés pour activer les utilisateurs d’outils dans l’implémentation de votre entreprise, les cas d’utilisation de rapports et les bonnes pratiques. Ces ressources doivent répondre aux questions courantes de l’entreprise et à la meilleure manière de les résoudre au sein de l’outil.
+  Les modèles de rapports et projets Adobe Analytics sont des ressources clés pour activer les utilisateurs d’outils dans l’implémentation de votre entreprise, les cas d’utilisation de rapports et les bonnes pratiques. Ces ressources doivent répondre aux questions courantes de l’entreprise et à la meilleure manière de les résoudre au sein de l’outil.
 
 ## 2. Créez un plan pour savoir qui gère et qui doit être impliqué
 
 * Déterminez qui dirigera la communauté :
 
-   Une communauté plus forte commence par une infrastructure basée sur l’administration et l’implémentation des besoins de l’entreprise. Par conséquent, les équipes qui gèrent l’administration et l’activation d’Adobe Analytics dans une entreprise sont généralement essentielles pour gérer un groupe d’utilisateurs ou une communauté interne.
+  Une communauté plus forte commence par une infrastructure basée sur l’administration et l’implémentation des besoins de l’entreprise. Par conséquent, les équipes qui gèrent l’administration et l’activation d’Adobe Analytics dans une entreprise sont généralement essentielles pour gérer un groupe d’utilisateurs ou une communauté interne.
 
 * Définissez les personnes impliquées, les rôles et les responsabilités :
 
@@ -65,7 +65,7 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
 * [Créez une charte de projet](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (modèle à télécharger) :
 
-   Une charte de projet est souvent un excellent moyen d’aligner votre entreprise sur l’opportunité d’une communauté interne et plus forte. En répondant aux questions suivantes, vous aurez tout ce dont vous avez besoin pour rédiger votre charte :
+  Une charte de projet est souvent un excellent moyen d’aligner votre entreprise sur l’opportunité d’une communauté interne et plus forte. En répondant aux questions suivantes, vous aurez tout ce dont vous avez besoin pour rédiger votre charte :
 
    * Quel problème essayez-vous de résoudre ? Quel est l’objectif de votre communauté et quelle est sa portée ?
    * « Qu’ai-je à y gagner ? » Quels sont les avantages ou les coûts potentiels, comment mesurer le succès et quels sont les risques ?

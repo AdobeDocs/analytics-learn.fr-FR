@@ -7,13 +7,13 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
-
 
 # Création de segments de parcours client - deuxième partie
 
@@ -29,7 +29,7 @@ Les segments d’intention de visite que nous sommes en train de créer constitu
 
 Rappelez-vous que la création de segments d’intention de visite est un processus d’élimination. Donc, nous ne construisons pas ces segments dans l&#39;ordre chronologique. Nous créons nos segments d’intention de visite afin de les définir plus facilement pour les rendre plus difficiles à définir :
 
-1. Intention : 0 - Un accès se demande
+1. Intention : 0 - Une question se pose :
 1. Intention : 3 - Achat
 1. Intention : 4 - Rétention
 1. Intention : 2 - Considération
@@ -49,7 +49,7 @@ Bien qu’un modèle de propension cherche à prédire si un visiteur achètera,
 
 Le segment Intention de visite d’achat est facile à définir. Dans mon cas, quiconque clique sur le bouton &quot;Réserver maintenant&quot; indique une sorte d&#39;intention de réserver une croisière. Cela revient à cliquer sur &quot;Passage en caisse&quot; pour un détaillant en ligne ou sur un lien &quot;S’abonner&quot; dans un contexte multimédia.
 
-Vous devez faire preuve de jugement lorsque vous décidez quel signal utiliser pour indiquer le mode d’achat. Nous voulons que notre segment d’intention d’achat contienne tous les achats, mais le taux de conversion ne doit pas être de 100 %. Nous ne voulons donc pas utiliser la page Confirmation d’achat ou Remerciements pour ce segment.
+Vous devez faire preuve de jugement lorsque vous décidez quel signal utiliser pour indiquer le mode d’achat. Nous voulons que notre segment d’intention d’achat contienne tous les achats, mais le taux de conversion ne doit pas être de 100 %. Par conséquent, nous ne voulons pas utiliser la page Confirmation d’achat ou Remerciements pour ce segment.
 
 De même, la page Passez en revue votre achat (ou tout ce qui se trouve immédiatement avant la confirmation d’achat) est probablement trop éloignée de l’entonnoir pour être utile pour l’analyse et le ciblage.
 
@@ -91,7 +91,7 @@ Ajoutez un conteneur Exclure au segment joint par la condition &quot;Et&quot;. A
 
 Il est recommandé d’étiqueter les conteneurs. Vous serez heureux de l’avoir fait, d’autant plus que nos définitions de segment deviennent plus complexes.
 
-Maintenant que nous avons créé le segment Intention d’achat, nous pouvons utiliser l’ Espace de travail de qualité des données d’intention de visite pour nous assurer que notre segment Intention d’achat s’exclut mutuellement de notre segment Un et terminé.
+Maintenant que nous avons créé le segment Intention d’achat, nous pouvons utiliser le Workspace de qualité des données d’intention de visite pour nous assurer que notre segment Intention d’achat s’exclut mutuellement de notre segment Un et Terminé.
 
 ![Image 5](assets/Image-5.png)
 
@@ -99,7 +99,7 @@ Maintenant que nous avons créé le segment Intention d’achat, nous pouvons ut
 
 Dans le secteur des croisières, de nombreux invités se rendent sur notre site web pour gérer une réservation, mais pas nécessairement pour faire un achat. Ils peuvent se rendre sur le site pour y trouver des informations sur les voyages, revoir leur itinéraire, faire des réservations de repas ou bien d&#39;autres choses, sans faire de courses pour une croisière. Nos invités peuvent également acheter des excursions à la côte ou d’autres améliorations de leur expérience. Nous considérons que ces améliorations font partie de la rétention. Nous les conservons donc à l’écart de notre segment de réservation (que nous appelons &quot;Achat&quot; dans cette série de blogs).
 
-Les clients de vente au détail peuvent être en mesure d’effectuer des retours ou de gérer leur programme de fidélité. Les abonnés aux médias ou aux technologies peuvent utiliser le produit. Si votre invité se trouve sur votre site web pour gérer sa relation avec vous, il s’agit d’une visite de rétention et nous devons examiner ces signaux. Et si vous fournissez un produit en ligne, comme Media, Tech, Online Banking ou d&#39;autres, il y a probablement beaucoup d&#39;autres types de segments d&#39;intention de visite que nous ne discuterons pas dans cette série.
+Les clients de vente au détail peuvent être en mesure d’effectuer des retours ou de gérer leur programme de fidélité. Les abonnés aux médias ou aux technologies peuvent utiliser le produit. Si votre invité se trouve sur votre site web pour gérer sa relation avec vous, il s’agit d’une visite de rétention et nous devons examiner ces signaux. Et si vous fournissez un produit en ligne, comme Media, Tech, Online Banking, ou d&#39;autres, il y a probablement beaucoup d&#39;autres types de segments d&#39;intention de visite que nous ne discuterons pas dans cette série.
 
 Comme pour le segment Intention d’achat , nous recherchons des indications d’intention très explicites. Pour moi, nous avons une section entière du site dédiée à la gestion d&#39;une croisière afin qu&#39;il soit facile d&#39;identifier ces pages. Cela peut être plus complexe pour d’autres entreprises. Recherchez des signaux tels que les connexions, la gestion de compte, les visites de pages de prise en charge, etc.
 
@@ -107,7 +107,7 @@ Je dois noter que &quot;Rétention&quot; est un nom un peu gênant pour cette in
 
 ### Utilisation d’Analytics Workspace pour identifier les signaux d’intention de rétention
 
-Encore une fois, Analytics Workspace nous aide à identifier le mode de rétention. Vous pouvez utiliser les dimensions de page, de section de site ou de segment personnalisé pour classer vos pages par catégorie. Recherchez des pages présentant de faibles taux de conversion d’achats. Dans notre cas, nous constatons que les pages d’archivage et d’extraction en ligne (Shorex) ont des taux de conversion relativement plus faibles que les autres pages qui sont plus logiquement associées aux achats et aux achats.
+Encore une fois, Analytics Workspace nous aide à identifier le mode de rétention. Vous pouvez utiliser les dimensions de page, de section de site ou de segment personnalisé pour classer vos pages par catégorie. Recherchez des pages présentant de faibles taux de conversion d’achats. Dans notre cas, nous constatons que les pages d’archivage et d’extraction en ligne (Shorex) ont des taux de conversion relativement plus faibles que les autres pages qui sont plus logiquement associées aux achats.
 
 ![Image 6](assets/Image-6.png)
 
@@ -131,7 +131,7 @@ Ajoutez ensuite des conteneurs d’exclusion pour vos visites One Hit Wonders et
 
 ![Image 7](assets/Image-7.png)
 
-Une fois de plus, consultez votre Espace de travail de qualité des données d’intention de visite pour vous assurer que vos segments s’excluent mutuellement. Nos segments d’intention de visite prennent parfaitement forme !
+Une fois de plus, consultez votre Workspace de qualité des données d’intention de visite pour vous assurer que vos segments s’excluent mutuellement. Nos segments d’intention de visite prennent parfaitement forme !
 
 ![Image 8](assets/Image-8.png)
 
@@ -145,4 +145,4 @@ Ce document a été rédigé par :
 
 **Aaron Fossum**, Director, Digital Analytics
 
-Adobe Analytics Champion
+Adobe Analytics Champion

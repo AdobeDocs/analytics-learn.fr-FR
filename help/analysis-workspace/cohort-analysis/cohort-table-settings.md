@@ -29,6 +29,6 @@ Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilit
 1. Arrondir les pourcentages au nombre entier le plus proche.
 1. Afficher/masquer une ligne de pourcentage moyenne en haut du tableau.
 
-Les lignes moyennes sont idéales pour l’affichage [!UICONTROL rétention] ou [!UICONTROL churn] général plutôt que par individu [!UICONTROL cohorte] lignes.
+Les lignes moyennes sont idéales pour l’affichage global de [!UICONTROL rétention] ou [!UICONTROL perte de clientèle], plutôt que par des lignes individuelles [!UICONTROL cohorte].
 
 Pour plus d’informations concernant l’analyse des [!UICONTROL cohortes], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=fr).

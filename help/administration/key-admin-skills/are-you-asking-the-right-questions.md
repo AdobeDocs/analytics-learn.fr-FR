@@ -11,7 +11,7 @@ exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
 workflow-type: tm+mt
 source-wordcount: '1082'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ Envoyez une liste de questions à votre partenaire pour qu’il les examine avan
 
 Les questions varient selon les prouesses techniques ou analytiques, la structure de l’entreprise ou la complexité de la rubrique de collecte de données. Il est souvent utile de commencer à un niveau général, avec des questions sur l’ensemble de l’organisation, puis de discuter du rôle de votre partenaire dans la réalisation de ces objectifs organisationnels, et ainsi de suite pour obtenir de plus en plus de détails. Vous pouvez ensuite vous assurer que les points de données granulaires qui ont fait l’objet d’une discussion seront adaptés aux objectifs globaux de l’organisation. Cette approche vous permet également de penser de manière créative et de proposer de nouvelles idées pour les données qui soutiennent leurs objectifs.
 
-[Explorez ce modèle](assets/stakeholder-questionnaire.pdf) {target=&quot;_blank&quot;} qui contient plusieurs exemples de questions pour les entretiens avec les parties prenantes. Réutilisez-les ou ajustez-les pour préparer les questions pertinentes à vos échanges.
+[Explorez ce modèle](assets/stakeholder-questionnaire.pdf){target="_blank"} contenant plusieurs exemples de questions pour les entretiens avec les intervenants. Réutilisez-les ou ajustez-les pour préparer les questions pertinentes à vos échanges.
 
 ### 2. Demander des exemples de rapports
 

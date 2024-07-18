@@ -22,7 +22,7 @@ ht-degree: 80%
 
 **POURQUOI :** les conventions de nommage sont un excellent moyen de conserver une uniformité et de faciliter la compréhension de l’interface pour vos utilisateurs. Si vous les créez à partir du début et que vous les appliquez dans la plateforme et le code, elles seront plus faciles à mettre à l’échelle.
 
-**COMMENT :** L’interface et le document de balisage doivent correspondre à la fois à &quot;Nom&quot; et à &quot;Description&quot;. Ainsi, vos utilisateurs n’auront plus à extraire un document Excel et pourront comprendre directement vos données dans l’interface. Il est également recommandé de conserver tous les éléments en minuscules pour garantir la cohérence.
+**COMMENT :** L’interface et le document de balisage doivent correspondre à la fois à &quot;Nom&quot; et à &quot;Description&quot;. Cela évitera aux utilisateurs d’avoir à extraire un document Excel et leur permettra de comprendre directement vos données dans l’interface. Il est également recommandé de conserver tous les éléments en minuscules pour garantir la cohérence.
 
 Il est toujours préférable de préserver la cohérence des noms de page sur l’ensemble de la plateforme (ou des noms d’écran pour les applications). Par exemple, vous pouvez définir `property:section:sub section:sub sub section:unique page name` dans une variable/dimension. Si tous ces champs sont distincts dans votre couche de données, vous pouvez même créer le nom de page directement dans votre fichier JS/Launch. Si tous ces éléments sont définis dans leurs propres dimensions, vous pouvez ventiler plus facilement des propriétés ou des zones spécifiques de votre site/application et mieux comprendre le trafic et les flux.
 

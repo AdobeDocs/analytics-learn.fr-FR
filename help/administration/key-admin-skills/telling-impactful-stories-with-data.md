@@ -29,7 +29,7 @@ Commencez par définir la situation actuelle et par établir le problème ou l�
 
 Après avoir défini la situation, utilisez les données pour révéler la source du problème/de l’opportunité. Concentrez-vous sur les résultats et les variables qui expliquent le mieux la situation actuelle, plutôt que sur l’analyse et l’exploration complètes pour y parvenir.  Fournissez des visuels attrayants qui contribuent à montrer la relation entre vos variables indépendantes et dépendantes, tout en la simplifiant afin qu’elle soit facile à comprendre pour votre audience.
 
-**Adobe Workspace Tip :**
+**Adobe Workspace Tip:**
 Créez des visuels simples et faciles à lire qui correspondent au type de données que vous partagez :
 
 * Utilisez des graphiques à barres pour les données catégorielles et binaires

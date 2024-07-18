@@ -6,10 +6,10 @@ role: User
 level: Beginner
 doc-type: article
 kt: KT-13118
-exl-id: fefadd3c-820b-4e53-bd76-e51cb52c33e1
-source-git-commit: 5ad32bd6cb6046ab54ecf31ebcf643f758d9ecc5
-workflow-type: ht
-source-wordcount: '1264'
+exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+workflow-type: tm+mt
+source-wordcount: '1266'
 ht-degree: 100%
 
 ---

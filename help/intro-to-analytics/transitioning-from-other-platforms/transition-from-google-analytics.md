@@ -8,8 +8,8 @@ kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: ht
-source-wordcount: '3380'
+workflow-type: tm+mt
+source-wordcount: '3413'
 ht-degree: 100%
 
 ---
@@ -54,7 +54,7 @@ Vous trouverez plus de détails concernant Workspace plus loin dans ce guide. Vo
 
 
 
-##### 2.1.1.2. Insights sur l’écran d’accueil (Google Analytics)
+##### 2.1.1.2. Informations sur l’écran d’accueil (Google Analytics)
 
 * L’écran d’accueil de Google Analytics contient des visualisations préconfigurées. Elles couvrent des éléments tels que :
 * Utilisateurs, sessions, taux de rebond et durée de session au cours des sept derniers jours.
@@ -115,11 +115,11 @@ Dans Adobe, les segments (essentiellement des filtres pour les données) s’app
 
 Les tableaux à structure libre permettent de disposer de plusieurs colonnes et dʼeffectuer la segmentation nécessaire pour visualiser les données comme vous le souhaitez.
 
-Si vous ne souhaitez pas afficher de ventilation par date, il vous suffit de glisser-déposer une autre dimension ou un autre segment pour afficher les données d’une autre manière. Par exemple, vous pouvez utiliser des segments pour le type d’appareil, puis ajouter une ventilation par système d’exploitation pour vos utilisateurs d’appareils mobiles/tablette :
+Si vous ne souhaitez pas afficher de répartition par date, il vous suffit de glisser-déposer une autre dimension ou un autre segment pour afficher les données d’une autre manière. Par exemple, vous pouvez utiliser des segments pour le type d’appareil, puis ajouter une répartition par système d’exploitation pour vos utilisateurs d’appareils mobiles/tablette :
 
 ![analytics-compare-page-views-report](assets/ga-to-aa_4.png)
 
-Grâce à Espace de travail, votre créativité nʼest plus bridée, car vous nʼêtes pas limité aux ventilations « standard ». Vous pouvez créer les visualisations dont vous avez besoin pour analyser avec moult détails les comparaisons.
+Grâce à Espace de travail, votre créativité nʼest plus bridée, car vous nʼêtes pas limité aux répartitions « standard ». Vous pouvez créer les visualisations dont vous avez besoin pour analyser avec moult détails les comparaisons.
 
 >[!TIP]
 >
@@ -137,7 +137,7 @@ L’autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 >[!IMPORTANT]
 >
->Pour en savoir plus sur l’utilisation des listes déroulantes et des ventilations à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>.
+>Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>.
 
 ##### 2.1.2.2. Google Analytics : tableaux de bord, rapports personnalisés et rapports enregistrés
 
@@ -165,7 +165,7 @@ Comme la plupart des éléments ci-dessus sont accessibles via les espaces de tr
 
 Les Mesures de site sont ce que leur nom indique : elles couvrent les mesures standard (pages vues, visiteurs uniques, visites, ainsi que les événements personnalisés que vous avez configurés). Ceci est similaire au rapport de comportement de Google Analytics, mais cela inclut également certaines mesures trouvées dans Audience (puisqu’Adobe ne divise pas les types de mesures).
 
-Vous y trouverez des rapports de « robots ». Le trafic provenant des robots est exclu de tous vos rapports standard. Toutefois, deux rapports fournissent un aperçu de ce qui se passe et des robots qui visitent votre site. Cela est particulièrement utile si vous configurez des règles de robots personnalisées pour exclure les robots spammeurs connus qui visitent fréquemment votre site. Vous pouvez avoir un aperçu de ce que ces robots font sans que vos principaux rapports ne soient inondés par ce trafic. Les rapports de robots sont actuellement indisponibles via l’espace de travail (mais de nouvelles fonctionnalités de création de rapports vont bientôt permettre aux utilisateurs d’obtenir ces informations).
+Vous y trouverez des rapports de « robots ». Le trafic provenant des robots est exclu de tous vos rapports standard. Toutefois, deux rapports fournissent des informations sur ce qui se passe et sur les robots qui visitent votre site. Cela est particulièrement utile si vous configurez des règles de robots personnalisées pour exclure les robots spammeurs connus qui visitent fréquemment votre site. Vous pouvez obtenir des informations sur ce que ces robots font sans que vos principaux rapports ne soient inondés par ce trafic. Les rapports de robots sont actuellement indisponibles via l’espace de travail (mais de nouvelles fonctionnalités de création de rapports vont bientôt permettre aux utilisateurs d’obtenir ces informations).
 
 Contenu du site est un regroupement de dimensions standard d’Adobe : Nom de page, Sections du site, Hiérarchies, Serveurs, etc. Toutes cettes dimensions sont disponibles dans l’espace de travail.
 
@@ -181,7 +181,7 @@ Les rapports Conversion personnalisée et Trafic personnalisé sont tous deux de
 
 Le rapport Médias est destiné aux fichiers vidéo ou audio dans lesquels vous avez configuré un suivi spécial des médias.
 
-Rapports personnalisés est une section dans laquelle un utilisateur peut personnaliser les colonnes et les ventilations qu’il a créées dans l’interface des rapports et les enregistrer en tant que rapport personnalisé. Cependant, comme nous l’avons mentionné ci-dessus, l’espace de travail permet des ventilations et des corrélations beaucoup plus puissantes. Toute personnalisation doit être effectuée dans cet espace. C’était une bonne solution avant l’existence de Workspace.
+Rapports personnalisés est une section dans laquelle un utilisateur peut personnaliser les colonnes et les répartitions qu’il a créées dans l’interface des rapports et les enregistrer en tant que rapport personnalisé. Cependant, comme nous l’avons mentionné ci-dessus, l’espace de travail permet des répartitions et des corrélations beaucoup plus puissantes. Toute personnalisation doit être effectuée dans cet espace. C’était une bonne solution avant l’existence de Workspace.
 
 La section Signets est similaire aux rapports personnalisés, où les rapports fréquemment utilisés pouvaient être marqués d’un signet dans l’interface des rapports afin de faciliter leur recherche.
 
@@ -189,7 +189,7 @@ Le tableau de bord était un produit hérité qui permettait aux utilisateurs de
 
 Les cibles permettent aux utilisateurs de créer un rapport basé sur une cible au cours d’une certaine période. Les équipes surveillent les campagnes pour déterminer si elles sont sur la bonne voie pour atteindre leurs cibles de trafic.
 
-Tous les rapports disponibles ici pouvaient avoir plusieurs colonnes de mesures et ventilations de dimensions. Toutefois, la simplicité des visualisations et une partie de la logique qui sous-tend les éléments pouvant être corrélés pouvaient s’avérer frustrantes.
+Tous les rapports disponibles ici pouvaient avoir plusieurs colonnes de mesures et répartitions de dimensions. Toutefois, la simplicité des visualisations et une partie de la logique qui sous-tend les éléments pouvant être corrélés pouvaient s’avérer frustrantes.
 
 ##### 2.1.3.2. Rapports Google Analytics
 
@@ -197,9 +197,9 @@ Google Analytics divise ces rapports en plusieurs sections, qui sont les suivan
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
-Vous pouvez apporter des ajustements mineurs à ces visualisations, ajouter une ventilation de dimension secondaire, modifier la visualisation, créer un filtre sur les données, etc. Vous pouvez enregistrer vos personnalisations en tant que rapport enregistré.
+Vous pouvez apporter des ajustements mineurs à ces visualisations, ajouter une répartition de dimension secondaire, modifier la visualisation, créer un filtre sur les données, etc. Vous pouvez enregistrer vos personnalisations en tant que rapport enregistré.
 
-Vous obtenez ainsi des insights rapides et faciles sur vos données. Cependant, vous ne pouvez pas comparer des éléments comme Utilisateurs aux Pages vues pour une page dans le même tableau. Vous ne pouvez pas non plus ajouter plusieurs dimensions supplémentaires pour afficher des données supplémentaires.
+Vous obtenez ainsi des informations rapides et faciles sur vos données. Cependant, vous ne pouvez pas comparer des éléments comme Utilisateurs aux Pages vues pour une page dans le même tableau. Vous ne pouvez pas non plus ajouter plusieurs dimensions supplémentaires pour afficher des données supplémentaires.
 
 Elles sont utiles pour des données analytiques rapides, mais si vous devez vraiment creuser profondément, il y a des limitations.
 
@@ -221,7 +221,7 @@ Report Builder est un plug-in de Microsoft® Excel qui vous permet de créer d
 
 Si vous avez besoin que les données d’Adobe Analytics soient assimilées par autre chose qu’Excel et voulez que les données traitées incluent les exclusions de règles de robots, utilisez l’API d’Adobe pour extraire directement les données. Ensuite, traitez les données à l’aide d’un script ou ajoutez-les à une base de données en vue de les utiliser avec un autre système.
 
-Notez que l’API extrait toujours les données de corrélation en appliquant les ventilations et les segments comme indiqué dans la requête d’extraction.
+Notez que l’API extrait toujours les données de corrélation en appliquant les répartitions et les segments comme indiqué dans la requête d’extraction.
 
 L’espace de travail d’Adobe (section 2.1.2.1) utilise l’API pour créer des rapports. Si vous activez le mode de débogage dans l’espace de travail, il vous affiche les appels d’API exacts utilisés. Il s’agit d’une méthode rapide pour créer vos appels d’API. En utilisant l’espace de travail pour créer et valider les données que vous souhaitez extraire, vous utilisez ensuite ces appels d’API pour extraire les données vers votre propre traitement.
 

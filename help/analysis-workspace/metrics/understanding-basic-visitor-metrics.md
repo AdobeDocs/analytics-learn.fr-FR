@@ -15,12 +15,12 @@ ht-degree: 11%
 
 # Compréhension des mesures de base des visiteurs
 
-En savoir plus [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visites]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr), et [[!UICONTROL Visiteurs]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr) dans Adobe Analytics.
+Découvrez [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visites]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr) et [[!UICONTROL Visiteurs]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr) dans Adobe Analytics.
 
 * Obtenez des définitions de ces mesures de visite de base et découvrez leurs similitudes et différences.
 
 * Découvrez les différents termes (synonymes ou mots-clés) associés aux mesures des visiteurs et au trafic sur le site Web.
 
-* Affichage d’un exemple [!UICONTROL Workspace] qui indique comment ces mesures sont affichées dans l’interface.
+* Affichez un exemple de projet [!UICONTROL Workspace] qui montre l’affichage de ces mesures dans l’interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

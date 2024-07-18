@@ -1,6 +1,6 @@
 ---
 title: Création de filtres déroulants dynamiques dans Analysis Workspace
-description: Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de Dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres de liste déroulante du même panneau.
+description: Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de la dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres déroulants du même panneau.
 feature: Segmentation
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13459
 thumbnail: 3420315.jpeg
-source-git-commit: 8feccfa54d20a086dfdbcab98edd8025bfb164b8
+exl-id: 516f208e-33ea-4b5f-92df-feda8d17f4c2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 84%
 
 ---
 
-
 # Création de filtres déroulants dynamiques dans Analysis Workspace
 
-Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de Dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres de liste déroulante du même panneau.
+Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de la dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres déroulants du même panneau.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 

@@ -1,5 +1,5 @@
 ---
-title: Création de segments de Parcours client
+title: Créer des segments de parcours client
 description: Découvrez comment créer des segments de parcours client basés sur le comportement dans Adobe Analytics et améliorer l’expérience de vos clients avec Adobe Experience Cloud en suivant ce guide détaillé.
 feature: Segmentation
 role: User
@@ -8,21 +8,21 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13180
 thumbnail: KT-13180.jpeg
-source-git-commit: d7b1fac5c98080f9ca786ea21a3700d2937c7ebc
+exl-id: c06afc7b-e997-404d-82a4-e7ec5d5ba44d
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1236'
-ht-degree: 0%
+source-wordcount: '1243'
+ht-degree: 1%
 
 ---
 
-
-# Création de segments de Parcours client
+# Créer des segments de parcours client
 
 Découvrez comment créer des segments de parcours client basés sur le comportement dans Adobe Analytics et améliorer l’expérience de vos clients avec Adobe Experience Cloud en suivant ce guide détaillé.
 
 Créons de meilleurs segments de parcours client ! Dans cette série, nous utiliserons Adobe Analytics pour définir des segments basés sur le comportement, estimer la taille des audiences et suivre les mouvements des utilisateurs. D’ici la fin, vous pourrez personnaliser les médias et améliorer l’expérience de vos clients avec Adobe Experience Cloud. Gardez à l’esprit que ces segments sont actifs et doivent être mis à jour au fur et à mesure que vous en apprendrez plus sur vos clients. Bien que le reporting puisse présenter quelques défis, ne vous inquiétez pas, je vous guiderai à travers ! Commençons par créer notre premier ensemble de segments de Parcours client, en commençant par le segment &quot;One Hit Wonders&quot;.
 
-Aujourd’hui, nous allons créer des espaces réservés pour notre premier ensemble de segments de Parcours client, créer un espace de travail Adobe Analytics pour nous aider à définir nos segments, et définir notre tout premier segment, &quot;One Hit Wonders&quot;.
+Aujourd’hui, nous allons créer des espaces réservés pour notre premier ensemble de segments de Parcours client, créer un Workspace Adobe Analytics pour nous aider à définir nos segments et définir notre tout premier segment, &quot;One Hit Wonders&quot; (Les merveilles d’un accès).
 
 D’ici la fin de cette série, vous pourrez créer des segments de parcours client dans Adobe Analytics en fonction des signaux comportementaux. Vous pourrez estimer la taille de chaque audience à chaque étape du parcours et comprendre le taux de déplacement des utilisateurs entre ces étapes. Et vous pourrez exporter ces audiences de parcours client vers Adobe Experience Cloud pour activer la personnalisation et le ciblage multimédia.
 
@@ -48,17 +48,17 @@ Pour faciliter l’utilisation de mes segments d’intention de visite, j’ai a
 
 ![segments d’intention](assets/intent-segments.png)
 
-**Continuez et créez vos segments d’intention de visite à l’aide du conteneur Visites avec une définition d’espace réservé de Pages vues >= 1.**
+**Allez-y et créez vos segments d’intention de visite à l’aide du conteneur Visites avec une définition d’espace réservé de Pages vues >= 1.**
 
 Comme nous le verrons, la création de ces segments est un processus itératif et interconnecté. Je décrirai le processus de création de ces segments dans une prochaine publication.
 
-## Espace de travail de qualité des données de segment d’intention de visite
+## Workspace de qualité des données de segment d’intention de visite
 
-![espace de travail des intentions de visite](assets/visit-intent-workspace.png)
+![espace de travail d’intention de visite](assets/visit-intent-workspace.png)
 
 J’ai utilisé un simple espace de travail pour m’assurer que je définissais bien mes segments d’intention de visite. Souvenez-vous que chaque visite doit appartenir à un seul segment, Intention de visite. L’espace de travail que je configure garantit que toutes les visites sont prises en compte et qu’il n’y a pas de chevauchement entre les segments.
 
-J’ai appelé cet espace de travail &quot;QUALITÉ DES DONNÉES : Segments d’intention de visite&quot; avec les balises &quot;qualité des données&quot;, &quot;intention de visite&quot; et &quot;parcours client&quot;. Par la suite, nous allons créer un &quot;Tableau de bord de l’intention de visite&quot; de sorte que le préfixe &quot;QUALITÉ DES DONNÉES&quot; indique que cet espace de travail est destiné à configurer et à gérer les segments. Il s’agit d’un tableau de bord administratif qui n’a que peu d’informations sur l’entreprise, mais qui est important pour s’assurer que les segments sont conservés. Revenez régulièrement à ce tableau de bord ou configurez des alertes pour vous assurer que vos segments restent correctement définis.
+J’ai appelé cet espace de travail &quot;QUALITÉ DES DONNÉES : segments d’intention de visite&quot; avec les balises &quot;qualité des données&quot;, &quot;intention de visite&quot; et &quot;parcours client&quot;. Par la suite, nous allons créer un &quot;Tableau de bord de l’intention de visite&quot; de sorte que le préfixe &quot;QUALITÉ DES DONNÉES&quot; indique que cet espace de travail est destiné à configurer et à gérer les segments. Il s’agit d’un tableau de bord administratif qui n’a que peu d’informations sur l’entreprise, mais qui est important pour s’assurer que les segments sont conservés. Revenez régulièrement à ce tableau de bord ou configurez des alertes pour vous assurer que vos segments restent correctement définis.
 
 La visualisation la plus importante de cet espace de travail est la visualisation à structure libre de chevauchement de segments au milieu à gauche. À l’aide de la mesure Visites , créez des filtres de colonnes pour chaque segment d’intention de visite, plus le segment Toutes les visites dans la colonne la plus à droite. Créez des lignes pour chaque segment d’intention de visite à gauche. Vous disposez désormais d’une visualisation sur plusieurs onglets. Lorsque vos segments sont correctement configurés, il n’y a que des données dans une colonne et une ligne, à l’intersection de chaque segment d’intention de visite avec lui-même.
 
@@ -76,7 +76,7 @@ Souvenez-vous que nous venons de créer des segments d’espace réservé. Au d�
 
 La définition des segments d’intention de visite est un processus d’élimination, et il y a beaucoup d’interdépendance entre eux. Je n&#39;ai donc pas créé ces segments dans l&#39;ordre du parcours, je les ai créés dans l&#39;ordre du plus facile à définir au plus difficile. Cela m&#39;a donné cet ordre :
 
-1. Intention : 0 - Un accès se demande
+1. Intention : 0 - Une question se pose :
 1. Intention : 3 - Réservation
 1. Intention : 4 - Rétention
 1. Intention : 2 - Considération
@@ -92,7 +92,7 @@ Mon premier segment, &quot;One Hit Wonders&quot;, était facile à définir. Il 
 
 ![Définition de segment](assets/segment-def.png)
 
-Après avoir défini ce segment, vous commencerez à voir l’espace de travail d’intention de visite prendre forme.
+Après avoir défini ce segment, vous commencerez à voir la forme de votre Workspace d’intention de visite.
 
 ![Plus de définitions de segment](assets/more-segment-defs.png)
 
@@ -106,6 +106,4 @@ Ce document a été rédigé par :
 
 **Aaron Fossum**, Director, Digital Analytics
 
-Adobe Analytics Champion
-
-
+Adobe Analytics Champion

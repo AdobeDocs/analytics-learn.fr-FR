@@ -1,5 +1,5 @@
 ---
-title: Types de visualisation et présentation
+title: Types de visualisations et vue d’ensemble
 description: Découvrez les différents types, ou types, de visualisations que vous pouvez ajouter à vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
@@ -9,12 +9,12 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 26%
+source-wordcount: '209'
+ht-degree: 23%
 
 ---
 
-# Types de visualisation et présentation {#visualization-types-in-analysis-workspace}
+# Types de visualisations et vue d’ensemble {#visualization-types-in-analysis-workspace}
 
 Découvrez les différents types, ou types, de visualisations que vous pouvez ajouter à vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
 

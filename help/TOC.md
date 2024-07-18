@@ -341,7 +341,7 @@ ht-degree: 99%
       + [Commencer une nouvelle visite sur n’importe quel événement](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Aperçu d’Activity Map](components/activity-map/activity-map-overview.md)
-      + [Activation, débogage et personnalisation de Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Activation, débogage et personnalisation d’Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Outils supplémentaires {#additional-tools}
    + [Adobe Labs (prévisualisations technologiques)](additional-tools/adobe-labs-technology-previews.md)
    + Tableaux de bord Analytics {#analytics-dashboards}

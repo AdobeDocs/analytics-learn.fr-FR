@@ -1,5 +1,5 @@
 ---
-title: Activation, débogage et personnalisation du Activity Map Adobe Analytics
+title: Activation, débogage et personnalisation de l’Activity Map Adobe Analytics
 description: Découvrez comment activer, déboguer et personnaliser la manière dont Activity Map est déployé dans l’extension Analytics dans les balises Adobe Experience Platform.
 feature: Activity Map
 team: Technical Marketing
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Activation, débogage et personnalisation d’Adobe Analytics [!UICONTROL Activity Map]
+# Activez, déboguez et personnalisez Adobe Analytics [!UICONTROL Activity Map]
 
 Découvrez comment activer, déboguer et personnaliser la manière dont [!UICONTROL Activity Map] est déployé dans l’extension Analytics dans les balises Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Pour plus d’informations sur le déploiement [!UICONTROL Activity Map], consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Pour plus d&#39;informations sur le déploiement de [!UICONTROL Activity Map], consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

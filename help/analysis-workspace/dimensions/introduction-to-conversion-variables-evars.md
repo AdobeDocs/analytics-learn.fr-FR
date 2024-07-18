@@ -16,7 +16,7 @@ ht-degree: 19%
 
 # Présentation des variables de conversion ([!DNL eVars])
 
-Découvrez comment les variables de conversion, également appelées [!DNL eVars], sont utilisées dans Adobe Analytics, notamment la manière dont elles se rapportent aux événements de conversion et diffèrent des variables de trafic.
+Découvrez comment les variables de conversion, également appelées [!DNL eVars], sont utilisées dans Adobe Analytics, y compris la manière dont elles se rapportent aux événements de conversion et diffèrent des variables de trafic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 

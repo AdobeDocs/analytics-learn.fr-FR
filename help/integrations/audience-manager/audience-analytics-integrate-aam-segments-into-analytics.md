@@ -15,17 +15,17 @@ badgeIntegration: label="Intégration" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 61%
+source-wordcount: '118'
+ht-degree: 65%
 
 ---
 
 # Audience Analytics : intégration de [!DNL Segments] AAM dans [!DNL Analytics] {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] est une intégration qui vous permet de partager des segments d’Audience Manager en [!DNL Analytics] en temps réel pour informer la découverte, la segmentation et l’optimisation des audiences.
+[!UICONTROL Audience Analytics] est une intégration qui vous permet de partager des segments d’Audience Manager vers [!DNL Analytics] en temps réel afin d’informer la découverte, la segmentation et l’optimisation d’audience.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 Voici un exemple de données de [!UICONTROL segment] pouvant être partagées : données démographiques provenant de fournisseurs de données tiers, données de campagne provenant de serveurs d’annonces (comme les impressions hors site) et données de gestion de la relation client intégrées. Il s’agit de la première intégration productisée entre un DMP et un moteur d’analyse sur le marché.
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=fr).

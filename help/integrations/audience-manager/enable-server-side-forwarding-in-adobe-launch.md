@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Intégrer [!DNL Adobe Analytics] avec [!DNL Adobe Audience Manager] utilisation du transfert côté serveur
+# Intégrer [!DNL Adobe Analytics] avec [!DNL Adobe Audience Manager] à l’aide du transfert côté serveur
 
-Découvrez comment envoyer [!DNL Adobe Analytics] data to [!DNL Adobe Audience Manager] à l’aide du transfert côté serveur.
+Découvrez comment envoyer des données [!DNL Adobe Analytics] à [!DNL Adobe Audience Manager] à l’aide du transfert côté serveur.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot; a été renommé &quot;[!UICONTROL tags]&quot; dans l’interface de l’Experience Cloud. Sélectionner [!UICONTROL Collecte de données] de la [!UICONTROL sélecteur d’applications] pour ouvrir des balises et effectuer les étapes présentées dans cette vidéo.
+>&quot;[!UICONTROL Launch]&quot; a été renommé &quot;[!UICONTROL tags]&quot; dans l’interface de l’Experience Cloud. Sélectionnez [!UICONTROL Collecte de données] dans le [!UICONTROL sélecteur d’applications] pour ouvrir des balises et exécuter les étapes présentées dans cette vidéo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

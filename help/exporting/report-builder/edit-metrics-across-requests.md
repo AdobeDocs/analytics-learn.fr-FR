@@ -10,8 +10,8 @@ kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 83%
+source-wordcount: '99'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,6 @@ Vous pouvez désormais modifier les [!UICONTROL mesures] de plusieurs demandes d
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-Cette fonctionnalité s’ajoute aux fonctionnalités existantes pour la modification des [!UICONTROL suites de rapports], des [!UICONTROL périodes], de la [!UICONTROL granularité] et des [!UICONTROL segments] dans les demandes. La modification des requêtes en bloc peut être effectuée à partir du menu contextuel ou[!UICONTROL Modifier plusieurs]&quot; dans la fenêtre Gérer .
+Cette fonctionnalité s’ajoute aux fonctionnalités existantes pour la modification des [!UICONTROL suites de rapports], des [!UICONTROL périodes], de la [!UICONTROL granularité] et des [!UICONTROL segments] dans les demandes. Vous pouvez modifier les requêtes en bloc à partir du menu contextuel ou de l’option &quot;[!UICONTROL Modifier plusieurs]&quot; de la fenêtre Gérer .
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez [la documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=fr).

@@ -1,5 +1,5 @@
 ---
-title: Définition de la granularité des visualisations
+title: Définir la granularité des visualisations
 description: Un sélecteur de granularité est disponible pour les paramètres de visualisation de tendance afin que vous puissiez très facilement ajuster l’affichage de vos données.
 feature: Visualizations
 thumbnail: 23548.jpg
@@ -10,11 +10,11 @@ exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
 source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Définition de la granularité des visualisations
+# Définir la granularité des visualisations
 
 Un sélecteur de granularité est disponible pour les paramètres de visualisation de tendance afin que vous puissiez très facilement ajuster l’affichage de vos données.
 

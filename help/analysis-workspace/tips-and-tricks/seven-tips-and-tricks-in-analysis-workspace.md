@@ -96,6 +96,6 @@ Vous pouvez désormais transformer en toute facilité nʼimporte quel projet en 
 
 [Cliquez ici pour prendre connaissance d’autres conseils et astuces pour Experience League.](https://experienceleague.adobe.com/?search=tips&amp;lang=fr#recommended/solutions/analytics)
 
-| À propos de l’auteur |  |
+| À propos de l’auteur |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser est responsable de l’équipe de gestion de produit Adobe Analytics. <br> Cette fonction lui offre la possibilité de rencontrer des clients et de saisir leurs attentes sur le plan professionnel, <br>afin dʼen tenir compte dans lʼélaboration de la feuille de route dʼAdobe Analytics <br>et pour intégrer de nouvelles fonctionnalités de produit. Avant dʼoccuper son poste actuel, <br>Jen était consultante principale au sein de l’équipe de conseillers dʼAdobe. Ses <br>domaines dʼexpertise étaient la visualisation de données, Analysis Workspace et [!DNL Report Builder]. <br><br>Grâce à ses informations glanées auprès de nos clients, nous avons élaboré les conseils et astuces suivants pour <br>aider à faciliter la création, la visualisation et le partage de vos projets Analysis Workspace. |

@@ -11,8 +11,8 @@ kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '1805'
-ht-degree: 100%
+source-wordcount: '1802'
+ht-degree: 99%
 
 ---
 
@@ -28,7 +28,7 @@ Avant de commencer, [téléchargez le guide](assets/aa-implementation-playbook.x
 
 **COMMENT :** les utilisateurs professionnels finaux d’Adobe Analytics se chargent généralement de documenter les exigences commerciales. Toutefois, il est important d’obtenir des commentaires de la part des utilisateurs techniques, car des défis techniques peuvent se présenter et certains points de données peuvent demander plus d’efforts que d’autres, ce qui permet d’établir des priorités.
 
-Demandez-vous ceci : « Quels indicateurs voulons-nous suivre sur notre site ? », « Quels points de données priment pour moi à des fins de création de rapports ? » et, plus important encore, « Comment ces points de données vont-ils me permettre de prendre des décisions éclairées ? ». Il est important de s’assurer que chaque exigences commerciale de votre entreprise possède un point de données correspondant. Ainsi, vous pouvez prendre des décisions commerciales éclairées. Par exemple, il peut être tentant de vouloir suivre chaque clic sur votre site, mais au bout du compte, les insights que vous en tirez sont-ils réellement instructifs ?
+Demandez-vous ceci : « Quels indicateurs voulons-nous suivre sur notre site ? », « Quels points de données priment pour moi à des fins de création de rapports ? » et, plus important encore, « Comment ces points de données vont-ils me permettre de prendre des décisions éclairées ? ». Il est important de s’assurer que chaque exigences commerciale de votre entreprise possède un point de données correspondant. Ainsi, vous pouvez prendre des décisions commerciales éclairées. Par exemple, il peut être tentant de vouloir suivre chaque clic sur votre site, mais au bout du compte, les informations que vous en tirez sont-elles réellement instructives ?
 
 Commencez par remplir la colonne C de la copie d’écran ci-dessous (Exigences commerciales). Il devrait s’agir de quelque chose comme « Nombre de recherches internes effectuées sur notre site » ou « Quel spot de campagne interne est le plus efficace en termes d’impressions ». Ensuite, revenez en arrière remplissez la colonne B (Catégorie) et regroupez les besoins dans des catégories telles que « Recherche » ou « Promotion interne ». Celles-ci doivent correspondre parfaitement à vos sections de spécifications techniques.
 
@@ -101,7 +101,7 @@ Il est recommandé de garder ce document aussi simple que possible et de ne pas 
 >
 >Créez une dimension de nom/propriété de site dans Adobe Analytics. Avoir une dimension dédiée (généralement une eVar) dans Adobe Analytics qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer des suites de rapports virtuelles, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
 
-[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target=&quot;_blank&quot;} pour plus d’informations sur le remplissage du guide d’implémentation.
+[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target="_blank"} pour plus d’informations sur le remplissage du manuel de mise en oeuvre.
 
 ## Auteurs
 

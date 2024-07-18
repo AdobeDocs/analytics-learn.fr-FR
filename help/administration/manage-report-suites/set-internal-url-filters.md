@@ -18,7 +18,7 @@ ht-degree: 30%
 
 # Définition de filtres d’URL internes
 
-Dans cette vidéo, découvrez les paramètres concernant les référents, en les définissant comme référents internes (pour alimenter les rapports de cheminement) ou référents externes (pour alimenter les rapports de domaine référent/référent). Pour obtenir une documentation détaillée, veuillez consulter [Filtres URL internes](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=fr){target="_blank"}.
+Dans cette vidéo, découvrez les paramètres concernant les référents, en les définissant comme référents internes (pour alimenter les rapports de cheminement) ou référents externes (pour alimenter les rapports de domaine référent/référent). Pour obtenir une documentation détaillée, consultez la page [Filtres URL internes](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=fr){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 

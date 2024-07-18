@@ -8,28 +8,28 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13267
 thumbnail: KT-13267.jpeg
-source-git-commit: c64f2fde1b91edd9f3d6c0f87aa889ed2c613d9b
+exl-id: e7792731-11eb-4186-a12f-0e5b2d0b7663
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '492'
 ht-degree: 2%
 
 ---
 
-
 # Plus que des mots - Utilisation de visualisations et de descriptions de texte dans Analysis Workspace
 
-En tant qu’utilisateur d’Adobe Analytics Analysis Workspace, il est naturel que votre attention se porte souvent sur vos données et visualisations de données - n’importe qui peut saisir un résumé, n’est-ce pas ? Toutefois, l’absence de fonctionnalités telles que la visualisation de texte ou les descriptions de visualisation dans Analysis Workspace peut signifier l’absence d’une opportunité précieuse pour combiner vos informations avec du texte, des images, des images, des tableaux et des liens de valeur. En donnant des références et plus de contexte pour informer vos utilisateurs sur la signification de vos données, vous pouvez les rendre plus efficaces et plus efficaces.
+En tant qu’utilisateur d’Adobe Analytics Analysis Workspace, il est naturel que votre attention se porte souvent sur vos visualisations de données et de données - n’importe qui peut saisir un résumé, n’est-ce pas ? Toutefois, l’absence de fonctionnalités telles que la visualisation de texte ou les descriptions de visualisation dans Analysis Workspace peut signifier l’absence d’une opportunité précieuse pour combiner vos informations avec du texte, des images, des images, des tableaux et des liens de valeur. En donnant des références et plus de contexte pour informer vos utilisateurs sur la signification de vos données, vous pouvez les rendre plus efficaces et plus efficaces.
 
 Commençons par vous assurer que vous savez où trouver les fonctionnalités suivantes :
 
 - Pour ajouter ou modifier la Description d’une visualisation, il vous suffit de cliquer avec le bouton droit sur la zone supérieure de l’élément et de sélectionner le lien &quot;Modifier la description&quot; :
 
-   ![text 01](assets/t01.png)
+  ![text 01](assets/t01.png)
 
 
 - Pour ajouter un panneau Texte distinct, cliquez sur le menu Visualisations de la barre de navigation de gauche :
 
-   ![text 02](assets/t02.png)
+  ![text 02](assets/t02.png)
 
 Bien que ce guide présente un exemple à l’aide de l’une de ces deux méthodes, vous pouvez ajouter des ajouts similaires dans les descriptions et les visualisations de texte. Vous pouvez également ajuster le ton, l’alignement, la couleur et créer des listes à puces ou numérotées de polices :
 
@@ -47,13 +47,13 @@ Maintenant, si vous préférez importer directement le contenu dans votre rappor
 
 ![text 06](assets/t06.png)
 
-Vous pouvez ajouter à votre rapport une image accessible à partir d’une URL publique, à condition que l’URL figure dans la variable *https* format et est formaté au format .png, .jpeg, .jpg ou .gif : bien que cela puisse sembler restrictif, tous les outils en ligne utilisés pour partager des images ou des GIFs comme imgur ou GIPHY peuvent fournir une méthode rapide pour charger des fichiers accessibles à l’espace de travail à l’aide d’un lien de partage.
+Vous pouvez ajouter à votre rapport une image accessible à partir de n’importe quelle URL publique, à condition que l’URL soit au format *https* et au format .png, .jpeg, .jpg ou .gif - bien que cela puisse sembler restrictif, tous les outils en ligne utilisés pour partager des images ou des GIFs tels que imgur ou GIPHY peuvent fournir une méthode rapide pour télécharger des fichiers Workspace accessibles à l’aide d’un lien de partage.
 
 Le résultat ? Vous pouvez afficher la page web à laquelle vos données font directement référence dans votre projet :
 
 ![text 07](assets/t07.png)
 
-Vous pouvez également utiliser des GIFs dans vos projets pour inclure des images mobiles telles qu’une visite guidée d’un site, un chemin idéal sur votre site ou une tâche sur votre application, ou simplement montrer à votre équipe comment ***époustouflant*** vos rapports sont maintenant :
+Vous pouvez également utiliser des GIFs dans vos projets pour inclure des images mobiles comme une présentation de site, un chemin idéal sur votre site ou une tâche sur votre application, ou simplement montrer à votre équipe comment vos rapports sont devenus ***époustouflants*** :
 
 ![text 08](assets/t08.png)
 
@@ -63,14 +63,6 @@ Ce document a été rédigé par :
 
 ![Dan Cummings](assets/text09.png)
 
-**Dan Cummings**, chef d’analyse d’ingénierie produit chez McDonald’s Corporation
+**Dan Cummings**, chef d&#39;analyse d&#39;ingénierie produit chez McDonald&#39;s Corporation
 
-Adobe Analytics Champion
-
-
-
-
-
-
-
-
+Adobe Analytics Champion

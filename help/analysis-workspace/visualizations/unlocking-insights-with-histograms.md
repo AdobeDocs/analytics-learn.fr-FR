@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 2%
+source-wordcount: '1098'
+ht-degree: 1%
 
 ---
 
-
 # Déverrouillage des informations à l’aide d’histogrammes : au-delà des moyennes dans Analytics
 
-_Découvrez l’impact des histogrammes dans les analyses pour obtenir des informations au-delà des moyennes. Les histogrammes révèlent des schémas de données dans le comportement des clients, l’engagement des visiteurs, les performances techniques et les erreurs de formulaire, ce qui permet d’obtenir des informations plus approfondies et de prendre des décisions éclairées dans Adobe Workspace._
+_Découvrez l’impact des histogrammes dans les analyses pour obtenir des informations au-delà des moyennes. Les histogrammes révèlent des schémas de données dans le comportement des clients, l&#39;engagement des visiteurs, les performances techniques et les erreurs de formulaire, ce qui permet d&#39;obtenir des informations plus approfondies et de prendre des décisions éclairées dans Adobe Workspace._
 
-Sautons tout de suite. Vous devez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr). Je vais expliquer pourquoi, mais je veux répondre à votre première question : Qu&#39;est-ce qu&#39;il y a dans le monde un histogramme ? Je comprends. La plupart du temps, quand vous voyez un tas de barres monter, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes ont l&#39;air semblables, mais je vous assure, ils sont différents. Un graphique à barres compare des éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un oeil ! Voici un graphique à barres :
+Sautons tout de suite. Vous devriez utiliser [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr). Je vais expliquer pourquoi, mais je veux répondre à votre première question : Qu&#39;est-ce qu&#39;il y a dans le monde un histogramme ? Je comprends. La plupart du temps, quand vous voyez un tas de barres monter, vous pourriez penser que c&#39;est un graphique à barres. Oui, les histogrammes ont l&#39;air semblables, mais je vous assure, ils sont différents. Un graphique à barres compare des éléments, tandis qu’un histogramme indique la fréquence à laquelle une variable s’est produite. Jette un oeil ! Voici un graphique à barres :
 
 ![Graphique à barres 1](assets/bar-chart-1.png)
 

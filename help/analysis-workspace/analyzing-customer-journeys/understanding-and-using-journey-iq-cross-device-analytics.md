@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
 source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1466'
 ht-degree: 100%
 
 ---
@@ -55,7 +55,7 @@ Continuez à lire pour en savoir plus sur :
 
 ## Fonctionnement de la fonctionnalité [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à [!DNL Adobe Experience Platform Identity Service], en utilisant [!DNL Device Graph] pour identifier la manière dont les périphériques sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur l’ensemble des appareils dispose de fonctionnalités et d’outils inégalés pour aider votre entreprise à comprendre l’utilisation de plusieurs appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à [!DNL Adobe Experience Platform Identity Service], en utilisant [!DNL Device Graph] pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur l’ensemble des appareils dispose de fonctionnalités et d’outils inégalés pour aider votre entreprise à comprendre l’utilisation de plusieurs appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
@@ -108,7 +108,7 @@ Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultima
 
 ### Personnes non-visiteurs
 
-Dans la [!UICONTROL suite de rapports virtuelle] d’Analytics sur l’ensemble des appareils, quelques modifications s’affichent. Par exemple, la mesure [!UICONTROL Visiteurs uniques] est remplacée par deux nouvelles mesures : [!UICONTROL Personnes] et [!UICONTROL Appareils uniques]. Ces nouvelles mesures vous donnent un meilleur aperçu de la taille de l’audience.
+Dans la [!UICONTROL suite de rapports virtuelle] d’Analytics sur l’ensemble des appareils, quelques modifications s’affichent. Par exemple, la mesure [!UICONTROL Visiteurs uniques] est remplacée par deux nouvelles mesures : [!UICONTROL Personnes] et [!UICONTROL Appareils uniques]. Ces nouvelles mesures vous donnent un bien meilleur aperçu de la taille de l’audience.
 
 *Personnes et appareils uniques*
 ![Analytics sur l’ensemble des appareils [!UICONTROL Mesure Personnes]](assets/cda-people-metric.png)

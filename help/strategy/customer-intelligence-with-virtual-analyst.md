@@ -8,7 +8,7 @@ solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1056'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,7 @@ L’analyste virtuel a mis au jour les scénarios suivants pour des clients rée
 
 * Identifiez rapidement les facteurs déterminants à l’origine de changements importants dans vos données.
 * Économisez d’innombrables heures à chercher des explications aux changements dans les mesures.
-* Tirez parti d’un machine learning puissant, conçu pour transformer l’analyste et le professionnel du marketing en un ingénieur de données.
+* Tirez parti d’un machine learning puissant, conçu pour transformer l’analyste et le spécialiste marketing en un ingénieur de données.
 
 [Alertes intelligentes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr) :
 
