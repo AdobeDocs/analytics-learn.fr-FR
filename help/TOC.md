@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
+source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2161'
 ht-degree: 99%
 
 ---
@@ -252,7 +252,6 @@ ht-degree: 99%
       + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Configurer des canaux marketing](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Créer des règles de traitement des canaux marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Personnalisation des menus dans Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurer les classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
