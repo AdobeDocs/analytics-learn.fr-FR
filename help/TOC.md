@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
-ht-degree: 99%
+source-wordcount: '2160'
+ht-degree: 96%
 
 ---
 
@@ -379,18 +379,18 @@ ht-degree: 99%
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analyse d’une activité de ciblage automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Configuration d’Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
-      + [Implémentation de modèles de suivi dans des moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Présentation de l’intégration d’Analytics pour Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [Création d’une analyse de prélancement d’une campagne](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Reporting avec les canaux marketing Advertising Cloud](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Mise en oeuvre de modèles de suivi dans les moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+      + [Présentation de l’intégration Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Créer une analyse de campagne de prélancement](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Rapport sur les canaux marketing Advertising DSP](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Création de profils de parcours de site Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [Création de segments Analytics pour l’activation et le reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Création d’alertes Advertising Cloud avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Créer des mesures personnalisées Analytics avec des données Advertising Cloud](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Création de rapports d’entrée sur le site Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Création de tableaux de bord Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Création de segments Analytics pour l’activation et la création de rapports](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Créer des alertes Advertising DSP avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Création de mesures personnalisées Analytics avec des données Advertising DSP](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Création de rapports d’entrée sur le site Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Création de tableaux de bord Advertising DSP](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Utilisation du convertisseur de projets pour déplacer des projets d’Ad Hoc Analysis vers Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
