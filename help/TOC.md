@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 96%
 
 ---
@@ -362,7 +362,8 @@ ht-degree: 96%
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Recherche de votre identifiant de flux de données](exporting/data-feeds/find-your-data-feed-id.md)
       + [Réexécution d’une tâche de flux de données](exporting/data-feeds/rerun-a-data-feed-job.md)
-   + Report Builder {#report-builder}
+   + Report Builder {#report-builder}
+      + [Mise à niveau et replanification de classeurs](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Ajout de segments à plusieurs requêtes à la fois dans Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Détection des anomalies dans Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modification des mesures dans plusieurs demandes](exporting/report-builder/edit-metrics-across-requests.md)
