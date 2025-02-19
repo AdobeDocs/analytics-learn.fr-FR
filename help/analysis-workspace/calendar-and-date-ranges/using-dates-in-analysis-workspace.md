@@ -1,24 +1,20 @@
 ---
-title: Utilisation de dates dans Analysis Workspace
-description: '« Cette vidéo décrit trois différentes manières d’utiliser les dates dans l’analyse de structure libre : le calendrier, les éléments de période et les éléments de granularité. L’utilisation des dates pour activer les graphiques en courbes n’est malheureusement pas présentée.  »'
+title: Utilisation des calendriers et des dates dans Analysis Workspace
+description: Découvrez comment utiliser les calendriers et les dates pour vos visualisations dans Analysis Workspace
 feature: Calendar
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 0%
 
 ---
 
-# Utilisation de dates dans Analysis Workspace {#using-dates-in-analysis-workspace}
+# Utilisation des calendriers et des dates dans Analysis Workspace {#using-dates-in-analysis-workspace}
 
-Cette vidéo décrit trois différentes manières d’utiliser les dates dans l’analyse [!DNL Freeform] : le calendrier, les éléments de [!UICONTROL période] et les éléments de granularité. L’utilisation des dates pour activer les graphiques en courbes n’est malheureusement pas présentée.
+Découvrez comment utiliser les calendriers et les dates pour vos visualisations dans Analysis Workspace
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)

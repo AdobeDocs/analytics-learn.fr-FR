@@ -4,7 +4,7 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -65,7 +65,7 @@ ht-degree: 96%
       + [Afficher les mesures de performances d’Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Créer des rapports de robots](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Conseils et astuces {#tips-and-tricks}
-      + [Création d’hyperliens dans les tableaux à structure libre](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
+      + [Créer des liens hypertexte dans des tableaux à structure libre](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [7 conseils et astuces pour Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Conseils et astuces accessibles par un clic droit pour des workflows plus efficaces](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Conseils pour accroître votre productivité dans Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -340,7 +340,7 @@ ht-degree: 96%
       + [Commencer une nouvelle visite sur n’importe quel événement](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Aperçu d’Activity Map](components/activity-map/activity-map-overview.md)
-      + [Activation, débogage et personnalisation d’Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Activer, déboguer et personnaliser Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + Outils supplémentaires {#additional-tools}
    + [Adobe Labs (prévisualisations technologiques)](additional-tools/adobe-labs-technology-previews.md)
    + Tableaux de bord Analytics {#analytics-dashboards}
@@ -363,7 +363,7 @@ ht-degree: 96%
       + [Recherche de votre identifiant de flux de données](exporting/data-feeds/find-your-data-feed-id.md)
       + [Réexécution d’une tâche de flux de données](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
-      + [Mise à niveau et replanification de classeurs](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
+      + [Mettre à niveau et replanifier des classeurs](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Ajout de segments à plusieurs requêtes à la fois dans Report Builder](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Détection des anomalies dans Report Builder](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [Modification des mesures dans plusieurs demandes](exporting/report-builder/edit-metrics-across-requests.md)
@@ -380,15 +380,15 @@ ht-degree: 96%
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analyse d’une activité de ciblage automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Adobe Advertising DSP {#adobe-advertising-dsp}
+   + {#adobe-advertising-dsp} Adobe Advertising DSP
       + [Configuration d’Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
-      + [Mise en oeuvre de modèles de suivi dans les moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Présentation de l’intégration Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [Créer une analyse de campagne de prélancement](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Implémentation de modèles de tracking dans les moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+      + [Présentation de l’intégration d’Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Création d’une analyse de prélancement d’une campagne](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [Rapport sur les canaux marketing Advertising DSP](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Création de profils de parcours de site Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [Création de segments Analytics pour l’activation et la création de rapports](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Créer des alertes Advertising DSP avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Créer des segments Analytics pour l’activation et le reporting](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Création d’alertes Advertising DSP avec Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [Création de mesures personnalisées Analytics avec des données Advertising DSP](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Création de rapports d’entrée sur le site Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Création de tableaux de bord Advertising DSP](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
