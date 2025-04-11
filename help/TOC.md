@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -241,24 +241,24 @@ ht-degree: 96%
       + [Application des restrictions de domaine de messagerie](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Affichage des fonctionnalités disponibles dans votre compte](administration/company-settings/view-your-accounts-available-features.md)
    + Gestion des utilisateurs {#user-management}
-      + [Ajout d’un administrateur à Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Ajout d’un administrateur à Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Créez des profils produit](administration/user-management/create-product-profiles.md)
-      + [Limitation d’accès à la suite de rapports dans Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [Limitation d’accès aux suites de rapports dans Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Transfert de ressources utilisateur vers un autre utilisateur](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Vérification de l’ID IMS lié pour éviter les problèmes de connexion](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gérer les suites de rapports {#manage-report-suites}
       + [Configuration des paramètres généraux du compte](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [Personnalisation des paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
+      + [Personnaliser les paramètres du calendrier](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configuration de la détection de référencement payant](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Configurer des canaux marketing](administration/manage-report-suites/set-up-marketing-channels.md)
       + [Créer des règles de traitement des canaux marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Manipulation des données entrantes à l’aide de règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Manipuler les données entrantes avec des règles de traitement](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [Configuration des variables de trafic (props)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurer les classifications de trafic](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configurer les variables de hiérarchie](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Configurer les variables dans Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configuration d’événements et de variables](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Configurer les classifications de conversion](administration/manage-report-suites/configure-conversion-classifications.md)
-      + [Configuration des variables de liste](administration/manage-report-suites/configuring-list-variables.md)
+      + [Configurer les variables de liste](administration/manage-report-suites/configuring-list-variables.md)
       + [Configuration des méthodes de recherche](administration/manage-report-suites/configure-finding-methods.md)
       + [Définition de filtres d’URL internes](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configuration des paramètres de code postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
@@ -267,7 +267,7 @@ ht-degree: 96%
    + Gouvernance des données et RGPD {#data-governance-and-gdpr}
       + [Gouvernance des données et RGPD dans Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Gestion du trafic {#traffic-management}
-      + [Utilisation des appels au serveur](administration/traffic-management/server-call-usage.md)
+      + [Utilisation de l’appel au serveur](administration/traffic-management/server-call-usage.md)
       + [Gestion d’un pic de trafic à venir](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Journaux{#logs}
       + [Suivi des journaux d’utilisation pour Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
