@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Présentation du panneau d’attribution Adobe Analytics et des intervalles de recherche en amont
 
-Quand j&#39;ai pensé pour la première fois au [panneau d&#39;attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) et à l&#39;**intervalle de recherche en amont**, je me suis immédiatement souvenu du concept de &#39;*voyage horaire&#39;* ; puis, bien sûr, on m&#39;a aussi rappelé notre réponse habituelle à de nombreux nouveaux outils comme ceux-ci est de simplement reporter l&#39;utilisation, parce qu&#39;ils ont l&#39;air si compliqués.
+Quand j&#39;ai pensé pour la première fois au [panneau d&#39;attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=fr) et à l&#39;**intervalle de recherche en amont**, je me suis immédiatement souvenu du concept de &#39;*voyage horaire&#39;* ; puis, bien sûr, on m&#39;a aussi rappelé notre réponse habituelle à de nombreux nouveaux outils comme ceux-ci est de simplement reporter l&#39;utilisation, parce qu&#39;ils ont l&#39;air si compliqués.
 
 Je veux dire, honnêtement, regardez toutes ces options, ces interrupteurs, ces panneaux, ces lectures, et ces boutons.  Et sérieusement, parlons de ces lumières clignotantes compliquées, des tuyaux, des jauges.... WAIT!!  Ce n&#39;est pas le moment de se laisser distraire en parlant de machines à remonter le temps, nous n&#39;avons tout simplement pas le temps... ou est-ce que nous en avons ?
 
@@ -43,7 +43,7 @@ Maintenant que nous sommes tous excités par les voyages dans le temps, prenons 
 
 Dans **attribution**, considérez simplement la manière dont les événements/actions peuvent être causés par un individu, plusieurs individus, ou l’un des nombreux événements différents au fil du temps.
 
-Selon [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* permet aux analystes de personnaliser la manière dont les éléments *Dimension* reçoivent du crédit pour les *événements de succès*.
+Selon [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=fr), *attribution* permet aux analystes de personnaliser la manière dont les éléments *Dimension* reçoivent du crédit pour les *événements de succès*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ En gardant cela à l’esprit, voici quelques exemples de la façon dont les **m
 
 - **Personnalisé** : vous choisissez qui obtiendra le crédit.  C&#39;est votre campagne !
 
-Pour plus d’informations sur ces modèles et d’autres modèles d’attribution, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Pour plus d’informations sur ces modèles et d’autres modèles d’attribution, [cliquez ici](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr)
 
 Pour rendre cela encore plus intéressant, parlons de revenir en arrière !
 

@@ -22,4 +22,4 @@ Découvrez comment créer des filtres déroulants en fonction d’une dimension 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=fr#dynamic-drop-down-filters).

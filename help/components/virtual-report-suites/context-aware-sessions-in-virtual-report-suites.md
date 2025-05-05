@@ -16,6 +16,6 @@ ht-degree: 14%
 
 # Personnaliser les visites dans les suites de rapports virtuelles
 
-Il est possible de modifier la définition d’une visite dans Adobe Analytics de manière non destructive à l’aide d’une suite de rapports virtuelle. Cette vidéo montre cela et les différentes options disponibles. Pour obtenir une documentation détaillée, consultez les [sessions contextuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html){target="_blank"}.
+Il est possible de modifier la définition d’une visite dans Adobe Analytics de manière non destructive à l’aide d’une suite de rapports virtuelle. Cette vidéo montre cela et les différentes options disponibles. Pour obtenir une documentation détaillée, consultez les [sessions contextuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=fr){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)

@@ -22,4 +22,4 @@ Découvrez comment activer, déboguer et personnaliser la manière dont [!UICONT
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Pour plus d&#39;informations sur le déploiement de [!UICONTROL Activity Map], consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Pour plus d&#39;informations sur le déploiement de [!UICONTROL Activity Map], consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

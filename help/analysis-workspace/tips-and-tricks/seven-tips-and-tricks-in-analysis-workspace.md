@@ -94,7 +94,7 @@ Vous pouvez désormais transformer en toute facilité nʼimporte quel projet en 
 >
 >**Fonctionnalité très demandée :** plusieurs clients nous ont demandé de rendre possible lʼenregistrement des projets en tant que modèles personnalisés. Nous avons répondu à leur demande et cette fonctionnalité est d’ores et déjà lʼune des plus populaires.
 
-[Cliquez ici pour prendre connaissance d’autres conseils et astuces pour Experience League.](https://experienceleague.adobe.com/?search=tips&amp;lang=fr#recommended/solutions/analytics)
+[Cliquez ici pour prendre connaissance d’autres conseils et astuces pour Experience League.](https://experienceleague.adobe.com/fr?search=tips&amp;lang=fr#recommended/solutions/analytics)
 
 | À propos de l’auteur |            |
 |------------|------------|

@@ -22,4 +22,4 @@ Découvrez comment [!DNL Data Warehouse] peut envoyer des rapports au format de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/export/data-warehouse/t-tableau).

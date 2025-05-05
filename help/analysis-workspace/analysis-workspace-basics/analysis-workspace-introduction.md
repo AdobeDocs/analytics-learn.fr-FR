@@ -20,4 +20,4 @@ Découvrez rapidement comment Analysis Workspace prend en charge les novices et 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Suivez cette vidéo en regardant la vidéo de présentation d’Analysis Workspace ou en prenant une [cours d’introduction gratuit](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr) ici, Experience League !
+Suivez cette vidéo en regardant la vidéo de présentation d’Analysis Workspace ou en prenant une [cours d’introduction gratuit](https://experienceleague.adobe.com/?lang=fr&recommended=Analytics-U-1-2020.1.workspace&amp;lang=fr) ici, Experience League !

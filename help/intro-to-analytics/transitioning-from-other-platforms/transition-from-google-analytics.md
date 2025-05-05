@@ -137,7 +137,7 @@ L’autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 >[!IMPORTANT]
 >
->Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>.
+>Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=fr>.
 
 ##### 2.1.2.2. Google Analytics : tableaux de bord, rapports personnalisés et rapports enregistrés
 
@@ -267,7 +267,7 @@ Je tiens toutefois à souligner que je vous recommande d’utiliser à la fois A
 
 Au-delà de ce guide, vous disposez de nombreuses ressources qui peuvent vous aider à améliorer votre stratégie :
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home) : contient des tutoriels, des vidéos, de la documentation et des forums de la communauté.
+* [Adobe Experience League](https://experienceleague.adobe.com/fr?lang=fr#home) : contient des tutoriels, des vidéos, de la documentation et des forums de la communauté.
 * [Groupes d’utilisateurs Adobe](https://analytics-augs.adobe.com/) - Un hub d’événements gérés par la communauté pour aider les utilisateurs à communiquer entre eux et optimiser leurs implémentations.
 * [Chaîne YouTube des groupes d’utilisateurs Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) : vous avez manqué une session des groupes d’utilisateurs Adobe Analytics ? Regardez à nouveau les sessions précédentes des groupes dʼutilisateurs à travers le monde pour en savoir plus sur la façon dont vos pairs utilisent lʼoutil.
 * [Canal Slack de Measure Chat](https://www.measure.chat/) : entrez en contact avec les utilisateurs Adobe Analytics du monde entier et partagez des enseignements du secteur, posez des questions à vos pairs et rejoignez des groupes d’intérêt axés sur les mesures.

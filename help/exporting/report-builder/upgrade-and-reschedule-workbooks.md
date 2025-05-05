@@ -19,4 +19,4 @@ Découvrez comment mettre à niveau et replanifier les classeurs [!DNL Report Bu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/report-builder/home).

@@ -23,4 +23,4 @@ Créez des profils de produit Analytics dans l’Admin Console d’Experience 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Pour en savoir plus, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).
+Pour en savoir plus, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/admin/admin-console/permissions/product-profile).

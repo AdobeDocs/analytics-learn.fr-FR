@@ -20,4 +20,4 @@ Découvrez les types de variables de trafic et leur utilisation dans Adobe Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=fr).

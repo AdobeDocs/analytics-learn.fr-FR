@@ -21,4 +21,4 @@ Découvrez Activity Map, un outil qui vous permet de visualiser les données d�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/activity-map/activity-map).

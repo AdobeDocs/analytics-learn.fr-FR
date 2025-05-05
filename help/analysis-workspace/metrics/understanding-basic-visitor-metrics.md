@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # Compréhension des mesures de base des visiteurs
 
-Découvrez [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visites]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr) et [[!UICONTROL Visiteurs]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr) dans Adobe Analytics.
+Découvrez [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=fr), [[!UICONTROL Visites]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr) et [[!UICONTROL Visiteurs]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr) dans Adobe Analytics.
 
 * Obtenez des définitions de ces mesures de visite de base et découvrez leurs similitudes et différences.
 
