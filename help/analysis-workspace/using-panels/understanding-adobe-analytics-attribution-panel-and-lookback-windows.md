@@ -48,7 +48,7 @@ Selon [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/c
 
 >[!WARNING]
 >
->Les **modèles d’attribution** sont si souvent associés aux **canaux marketing** que j’ai volontairement *❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer une analyse d’**attribution**par rapport à la plupart des autres*** dimensions ***.*
+>Les **modèles d’attribution** sont si souvent associés aux **canaux marketing** que j’ai volontairement *❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer une analyse d’**attribution**&#x200B;par rapport à la plupart des autres&#x200B;*** dimensions &#x200B;***.*
 
 
 En fait, rarement un parcours client donné est vraiment linéaire et encore moins prévisible.  De plus, chaque client procédera à son propre rythme ; il peut souvent doubler, bloquer, abandonner ou adopter un autre comportement non linéaire. Ces actions organiques rendent difficile ou pratiquement impossible de connaître l’impact des efforts marketing sur le parcours client. Cela complique également les efforts visant à relier plusieurs canaux de données.
@@ -75,7 +75,7 @@ En gardant cela à l’esprit, voici quelques exemples de la façon dont les **m
 
 - **En forme de U** : cette approche attribue **40%** du crédit à la *première personne* dans la porte, propage **20%** du crédit sur *toutes les personnes entre*, puis donne **40%** au **dernier** par . Ce modèle est le plus souvent utilisé dans les situations où vous avez un **long cycle de conversion/vente** contenant *plusieurs points de contact* en cours de route.  Dans ce cas, votre objectif est principalement de mettre en évidence les tactiques marketing ***first*** et ***last*** qui ont contribué à la conversion des clients.
 - **J**-**En forme** et **En forme de J inverse** :
-   - Pensez à **En forme de U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe par la porte, **20%** à la *première*, puis *divise* le reste **20%** 4}tous les autres *au milieu.*  **Inverse J** fait exactement le contraire.
+   - Pensez à **En forme de U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe par la porte, **20%** à la *première*, puis *divise* le reste **20%** 4&rbrace;tous les autres *au milieu.*  **Inverse J** fait exactement le contraire.
 
      L’objectif ici est de mettre l’accent sur l’élément de contribution, soit au *début*, soit à la *fin* de votre campagne. Cependant, vous souhaitez tout de même attribuer un certain crédit à l’élément de contribution à l’autre bout tout en reconnaissant les &quot;petits&quot; en cours de route.
 
@@ -116,7 +116,7 @@ Souvenez-vous qu’une fois que vos **modèles d’attribution** et **intervalle
 
 ## **Finalement la mettre en pratique**
 
-Maintenant que vous avez terminé les concepts, imaginez que vous exécutez une campagne marketing et que vous essayez de déterminer quel canal est le *le plus efficace* pour générer des conversions. Avec l’aide du **panneau d’attribution**, non seulement vous pouvez voir la **dernière touche**, mais aussi la **première touche**, la **même touche** et tout autre **modèle** que vous choisissez pour déterminer les **canaux** les *conversions les plus efficaces**.* Ensuite, ces informations peuvent être utilisées pour *optimiser* vos campagnes et améliorer les performances globales simplement en retournant l’horloge avec l’ **intervalle de recherche en amont** de votre choix !
+Maintenant que vous avez terminé les concepts, imaginez que vous exécutez une campagne marketing et que vous essayez de déterminer quel canal est le *le plus efficace* pour générer des conversions. Avec l’aide du **panneau d’attribution**, non seulement vous pouvez voir la **dernière touche**, mais aussi la **première touche**, la **même touche** et tout autre **modèle** que vous choisissez pour déterminer les **canaux** les *conversions les plus efficaces&#x200B;**.* Ensuite, ces informations peuvent être utilisées pour *optimiser* vos campagnes et améliorer les performances globales simplement en retournant l’horloge avec l’ &#x200B;** intervalle de recherche en amont** de votre choix !
 
 Maintenant que vous avez vu ce qu’il peut faire, ne soyez pas dupé ou intimidé par les fonctionnalités apparemment complexes du panneau d’attribution.  **Visez-le**.  *Embrace* it.  **Comprendre**.
 MAIS LA PLUPART DE TOUS - *Utilisez-le à votre avantage.* Le **panneau d’attribution** et l’ **intervalle de recherche en amont** sont les clés pour déverrouiller une compréhension plus approfondie de vos clients et de leur parcours avec votre marque.

@@ -9,4 +9,4 @@ ht-degree: 11%
 
 Tutoriels collaboratifs et supports d’activation pour Analytics
 
-[foo](bar)
+[foo] (bar)

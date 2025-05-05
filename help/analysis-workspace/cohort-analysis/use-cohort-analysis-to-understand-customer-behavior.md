@@ -170,6 +170,6 @@ Ce document a été rédigé par :
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda{1, Senior Director at Marriott**
+**Jennifer Yacenda&lbrace;1, Senior Director at Marriott**
 
 Adobe Analytics Champion

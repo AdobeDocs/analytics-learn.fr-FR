@@ -380,7 +380,7 @@ ht-degree: 92%
    + Target {#target}
       + [Panneau Analytics for Target (A4T) dans Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analyse d’une activité de ciblage automatique à l’aide du panneau A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + {#adobe-advertising-dsp} Adobe Advertising DSP
+   + Adobe Advertising DSP{#adobe-advertising-dsp}
       + [Configuration d’Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implémentation de modèles de tracking dans les moteurs de recherche](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Présentation de l’intégration d’Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
