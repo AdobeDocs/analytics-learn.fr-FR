@@ -28,7 +28,7 @@ Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut
 
 Pour ce faire, faites glisser, puis déposez un [!UICONTROL segment] ou tout autre composant dans la zone de dépôt de [!UICONTROL segments] en haut de nʼimporte quel panneau. Vous pouvez alors rapidement segmenter ce panneau en fonction de certains points de données. Par exemple, vous pouvez segmenter votre panneau pour nʼafficher que les accès pour lesquels des commandes existent en déposant la [!UICONTROL mesure] « commandes » dans la zone de dépôt de [!UICONTROL segments]. Vous pouvez même effectuer une segmentation en fonction des données qui nʼexistent pas dans un composant (par exemple pour afficher les accès sans commande) en déposant lʼélément de dimension « non spécifié » ou « aucun » dans la zone de dépôt de segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37601/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Pour ce faire, faites glisser, puis déposez un [!UICONTROL segment] ou tout aut
 
 Grâce aux [!UICONTROL Mesures calculées] rapides, vous pouvez créer des [!UICONTROL mesures] directement dans Analysis Workspace, au lieu de passer par le Créateur de [!UICONTROL mesures calculées]. Sélectionnez simplement les colonnes des [!UICONTROL mesures] à calculer, puis, dans le menu contextuel, cliquez sur « [!UICONTROL Créer une mesure à partir de la sélection] ». Vous pouvez désormais ajouter, soustraire, diviser, multiplier et plus encore, sans quitter votre projet et interrompre le flux de vos idées.
 
->[!VIDEO](https://video.tv.adobe.com/v/23126/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41466/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
@@ -50,7 +50,7 @@ Grâce aux [!UICONTROL Mesures calculées] rapides, vous pouvez créer des [!UIC
 
 Copiez en toute facilité les visualisations et les panneaux dʼun endroit et ajoutez-les à un autre, voire à un autre projet. Vous pouvez ainsi facilement déplacer les données au fur et à mesure que votre projet se développe et partager vos observations avec de nouveaux utilisateurs, afin quʼils nʼaient pas à recommencer une analyse depuis le début. Pour ce faire, cliquez avec le bouton droit sur le panneau ou la visualisation à copier, puis sélectionnez « [!UICONTROL Copier la visualisation] » et cliquez avec le bouton droit sur un panneau vierge pour l’insérer.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39122/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
@@ -60,7 +60,7 @@ Copiez en toute facilité les visualisations et les panneaux dʼun endroit et aj
 
 Modifiez facilement la vue temporelle des visualisations de tendances. Pour modifier la période dans les itérations précédentes dʼAnalysis Workspace, vous deviez afficher un tableau source, y faire glisser une nouvelle [!UICONTROL dimension], puis masquer à nouveau le tableau. Désormais, il suffit de sélectionner la granularité temporelle à afficher directement à partir du menu déroulant « [!UICONTROL Paramètres des visualisations] » (icône dʼengrenage en haut à droite).
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41451/?quality=12&learn=on&captions=fre_fr)
 
 ## Partage : faciliter l’utilisation et la compréhension des résultats pour les autres utilisateurs
 
@@ -68,7 +68,7 @@ Modifiez facilement la vue temporelle des visualisations de tendances. Pour modi
 
 Adobe Analytics collecte de grandes quantités de données. Grâce au traitement des composants dans les [!DNL Virtual Report Suites], les administrateurs peuvent créer un jeu de données pour chaque unité commerciale dʼune entreprise. Le bénéfice revient aux analystes à lʼœuvre dans Analysis Workspace, qui ne doivent pas se perdre dans des méandres de données pour trouver les informations souhaitées. Il vous suffit de cocher la case intitulée « [!UICONTROL Activer la personnalisation des composants de la suite de rapports virtuelle] » dans le Créateur de [!UICONTROL suites de rapports virtuelles], sous « [!UICONTROL Composants] », puis de sélectionner les [!UICONTROL composants] correspondant à ce que mesure une équipe spécifique.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425531/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
@@ -78,7 +78,7 @@ Adobe Analytics collecte de grandes quantités de données. Grâce au traitemen
 
 Créez des liens afin dʼamener les audiences où vous le souhaitez dans Analysis Workspace. Il vous suffit de cliquer avec le bouton droit sur le panneau vers lequel vous souhaitez créer un lien, de sélectionner « [!UICONTROL Obtenir le lien du panneau] », puis de copier. Ensuite, mettez en surbrillance le texte à partir duquel vous souhaitez créer un lien, sélectionnez lʼicône de lien dans lʼéditeur de texte dʼune zone de texte ou dʼune description, puis collez. Pour créer un lien vers un projet entier, il suffit de cliquer sur lʼonglet « [!UICONTROL Partage] », de sélectionner « [!UICONTROL Obtenir le lien du projet] » et de suivre les mêmes étapes que ci-dessus.
 
->[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327480/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
@@ -88,7 +88,7 @@ Créez des liens afin dʼamener les audiences où vous le souhaitez dans Analysi
 
 Vous pouvez désormais transformer en toute facilité nʼimporte quel projet en un modèle personnalisé. Pour ce faire, sélectionnez « [!UICONTROL Enregistrer en tant que modèle] » dans le menu déroulant « [!UICONTROL Projet] », ajoutez des balises qui permettent de retrouver facilement le modèle, puis cliquez sur « [!UICONTROL Enregistrer le projet en tant que modèle] ». Le modèle est alors disponible pour tous les utilisateurs d’Analysis Workspace sous lʼonglet « [!UICONTROL Modèles personnalisés] ». Cela permet aux analystes de disposer de points de données pertinents dès le début de leurs projets, au lieu de partir dʼune feuille blanche.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428573/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >

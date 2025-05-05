@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez les paramètres du Gestionnaire de sécurité dans Paramètres de la société pour contrôler l’accès à Adobe Analytics. Cela inclut les mots de passe difficiles à deviner, les fonctionnalités d’expiration et de récupération des mots de passe, ainsi que les restrictions de domaine de courriel.
 
->[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40791/?quality=12&learn=on&captions=fre_fr)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez comment ajouter et configurer la visualisation Treemap dans votre projet Analysis Workspace. Cette visualisation peut vous aider à analyser visuellement de nombreux points de données à la fois.
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416854/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=fr).

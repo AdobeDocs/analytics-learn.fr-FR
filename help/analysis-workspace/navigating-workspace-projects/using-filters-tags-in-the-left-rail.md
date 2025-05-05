@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser des filtres, appelés balises, dans Analysis Workspace. Il s’agit de techniques qui vous permettent de gagner du temps pour vous aider à créer efficacement votre projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36935/?quality=12&learn=on&captions=fre_fr)

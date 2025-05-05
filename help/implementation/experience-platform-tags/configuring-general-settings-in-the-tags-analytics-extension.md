@@ -22,4 +22,4 @@ Découvrez les options de configuration générales de l’extension Analytics d
 >
 > Launch s’appelle désormais **[!DNL tags]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429920/?quality=12&learn=on&captions=fre_fr)

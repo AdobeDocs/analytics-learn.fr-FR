@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Regardez des extraits de la « super session » vente au détail du [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330383/?quality=12&learn=on&captions=fre_fr)

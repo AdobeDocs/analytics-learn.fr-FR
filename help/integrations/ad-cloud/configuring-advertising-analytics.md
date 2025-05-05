@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez en détails comment configurer vos [!UICONTROL suites de rapports] pour utiliser [!DNL Advertising Analytics] et comment configurer un compte de référencement payant et les détails de création de rapports pour [!DNL Advertising Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39123/?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires {#additional-resources}
 

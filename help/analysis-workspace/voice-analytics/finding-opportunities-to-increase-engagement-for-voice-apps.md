@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment mieux comprendre la qualité de l’engagement sur votre application vocale en tirant parti de fonctionnalités telles que la fréquence d’utilisation, la [!UICONTROL cohorte], la durée des visites/utilisateurs et la durée de session.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34965/?quality=12&learn=on&captions=fre_fr)

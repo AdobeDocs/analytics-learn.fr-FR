@@ -19,6 +19,6 @@ ht-degree: 28%
 
 Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les &quot;fiches d’évaluation&quot; créées par ou partagées avec vous.
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38072/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr).

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez comment nos outils de cheminement et d’entonnoir interagissent pour permettre une meilleure compréhension des informations des parcours utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415648/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la documentation relative aux visualisations d’[abandon](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr) et de [flux](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=fr).

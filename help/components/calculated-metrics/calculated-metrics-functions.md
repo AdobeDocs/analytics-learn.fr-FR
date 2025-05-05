@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Découvrez comment utiliser des fonctions dans la création de mesures calculées dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37641/?quality=12&learn=on&captions=fre_fr)
 
 Consultez la documentation pour plus d’informations sur l’utilisation des fonctions [de base](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=fr) et [avancées](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=fr) lors de la création de mesures calculées.

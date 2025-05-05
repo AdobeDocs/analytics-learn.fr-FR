@@ -20,6 +20,6 @@ ht-degree: 84%
 
 Découvrez comment créer des filtres déroulants en fonction d’une dimension entière. Les éléments de la dimension sont mis à jour dynamiquement en fonction de la période utilisée dans le panneau du rapport et des valeurs sélectionnées dans d’autres filtres déroulants du même panneau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446818/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=fr#dynamic-drop-down-filters).

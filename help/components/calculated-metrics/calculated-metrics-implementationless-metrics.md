@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer des [!UICONTROL mesures] dans Adobe Analytics sans modifier votre implémentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37941/?quality=12&learn=on&captions=fre_fr)

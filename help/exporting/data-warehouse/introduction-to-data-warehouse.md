@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Découvrez comment tirer pleinement parti de l’interface utilisateur de création de rapports du Data Warehouse et des comptes et emplacements d’exportation. Cette vidéo traite du workflow de base d’une diffusion de rapport à la fois par courrier électronique et dans Amazon S3. Pour obtenir une documentation détaillée, reportez-vous à la section [Présentation du Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=fr) et aux documents environnants.
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428483/?quality=12&learn=on&captions=fre_fr)

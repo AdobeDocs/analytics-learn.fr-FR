@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment organiser vos projets dans des dossiers et des sous-dossiers dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417498/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/workspace-folders/about-folders.html?lang=fr).

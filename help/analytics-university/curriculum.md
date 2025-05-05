@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Programme Adobe Analytics pour lʼéducation
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443848/?quality=12&learn=on&captions=fre_fr)
 
 ## Contenu du cours d’Analytics
 

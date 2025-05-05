@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment configurer un planning simplifié pour un classeur du [!DNL Report Builder].
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346451/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=fr).

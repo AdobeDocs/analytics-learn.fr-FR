@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment utiliser les dates, les [!UICONTROL périodes] ainsi que les comparaisons de dates afin de personnaliser vos tableaux et vos visualisations en fonction de la période appropriée.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33636/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=fr).

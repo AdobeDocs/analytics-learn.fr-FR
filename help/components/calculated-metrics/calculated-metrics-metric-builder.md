@@ -17,6 +17,6 @@ ht-degree: 50%
 
 Présentation du créateur de mesures dans Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37939/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr).

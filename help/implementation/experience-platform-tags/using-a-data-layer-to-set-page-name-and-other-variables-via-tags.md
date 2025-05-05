@@ -21,7 +21,7 @@ Vous allez découvrir comment extraire des valeurs de la couche de données et l
 
 Consultez des informations supplémentaires sur les couches de données dans la documentation sur [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=fr) et sur les [balises Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327642/?quality=12&learn=on&captions=fre_fr)
 
 >[!NOTE]
 >

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Utilisez un tableau à structure libre (tableau croisé dynamique) pour comprendre et interpréter vos données afin de trouver des informations pertinentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415657/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=fr).

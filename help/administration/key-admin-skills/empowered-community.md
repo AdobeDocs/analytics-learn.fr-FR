@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Créer une communauté plus forte
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341113/?quality=12&learn=on&captions=fre_fr)
 
 Une communauté plus forte possède des caractéristiques notables. Tout d’abord, elle est prise en charge par ses administrateurs Adobe Analytics. Elle connaît bien la manière dont les besoins de l’entreprise sont représentés dans leur implémentation. Enfin et surtout, elle a les moyens d’utiliser en toute confiance les analyses pour les prises de décisions axées sur les données. De nombreuses entreprises bénéficient de la structure fournie par un groupe d’utilisateurs Adobe Analytics interne ou une communauté plus formelle.
 

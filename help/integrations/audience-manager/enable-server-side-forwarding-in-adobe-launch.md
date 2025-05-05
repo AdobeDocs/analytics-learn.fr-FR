@@ -25,4 +25,4 @@ Découvrez comment envoyer des données [!DNL Adobe Analytics] à [!DNL Adobe Au
 >
 >&quot;[!UICONTROL Launch]&quot; a été renommé &quot;[!UICONTROL tags]&quot; dans l’interface de l’Experience Cloud. Sélectionnez [!UICONTROL Collecte de données] dans le [!UICONTROL sélecteur d’applications] pour ouvrir des balises et exécuter les étapes présentées dans cette vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34474?quality=12&learn=on&captions=fre_fr)

@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Comment les données de votre page sont-elles intégrées aux rapports dans Adobe Analytics ? Cette vidéo vous montre comment.
 
->[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31128/?quality=12&learn=on&captions=fre_fr)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Lorsque vous affichez des analyses sur votre appareil mobile, l’utilisation des visualisations appropriées est plus importante que jamais. Dans cette vidéo, découvrez comment ajouter des visualisations aux projets de cartes de performance mobiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445768/?quality=12&learn=on&captions=fre_fr)

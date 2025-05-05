@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Sous [!UICONTROL Paramètres de visualisation], vous pouvez choisir d’ajouter une ligne de tendance de moyenne glissante ou de régression à votre série de lignes, afin de dépeindre un motif plus clair dans les données. Les options disponibles sont Linéaire, Logarithmique, Exponentielle, Puissance, Quadratique et Moyenne glissante.
 
->[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342843/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=fr#analysis-workspace).
 

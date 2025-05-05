@@ -21,4 +21,4 @@ Lorsque vous implémentez Adobe Analytics sur votre site, vous devez valider le
 >
 > Launch s’appelle désormais **[!DNL tags]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31110/?quality=12&learn=on&captions=fre_fr)

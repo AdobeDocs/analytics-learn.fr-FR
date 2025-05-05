@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Dans Analysis Workspace, vous pouvez grâce aux [!DNL Fallout] combiner et associer des dimensions et des mesures comme points de contact dans les entonnoirs et les workflows.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327465/?quality=12&learn=on&captions=fre_fr)
 
 Grâce à cette puissante fonctionnalité, vous disposez d’une plus grande flexibilité pour définir les étapes des utilisateurs sur lesquelles vous souhaitez en savoir plus.
 

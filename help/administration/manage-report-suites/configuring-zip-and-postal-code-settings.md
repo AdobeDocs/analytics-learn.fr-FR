@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à configurer les paramètres de [!UICONTROL code postal] afin de pouvoir effectuer une analyse en fonction des données de cette région.
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35010/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations sur les paramètres de [!UICONTROL code postal], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=fr).

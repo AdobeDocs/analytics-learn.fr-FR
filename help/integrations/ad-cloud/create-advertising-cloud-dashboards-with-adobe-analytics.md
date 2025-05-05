@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Découvrez ces techniques de création d’un tableau de bord Advertising Cloud pour la surveillance des campagnes en direct.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40459/?quality=12&learn=on&captions=fre_fr)

@@ -19,6 +19,6 @@ ht-degree: 29%
 
 Dans cette vidéo, découvrez comment créer et partager des &quot;Fiches d’évaluation&quot; dans Analysis Workspace afin de les afficher sur les tableaux de bord Adobe Analytics (application mobile).
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38073/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr).

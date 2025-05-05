@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Dans cette vidéo, nous vous montrons comment configurer les rapports sur les canaux marketing dans votre suite de rapports Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344359/?quality=12&learn=on&captions=fre_fr)
 
 >[!NOTE]
 >

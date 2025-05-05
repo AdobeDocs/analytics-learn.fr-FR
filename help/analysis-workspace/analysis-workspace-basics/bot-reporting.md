@@ -20,6 +20,6 @@ ht-degree: 52%
 
 Découvrez comment créer des rapports sur les données de robots dans Analysis Workspace. Les données de robots sont disponibles sous forme de données récapitulatives et peuvent être analysées dans des suites de rapports compatibles avec les robots.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447639/?learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=fr).

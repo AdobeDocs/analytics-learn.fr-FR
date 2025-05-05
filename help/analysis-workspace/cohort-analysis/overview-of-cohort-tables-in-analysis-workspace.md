@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Le paramètre [!UICONTROL Calcul variable] dans les [!UICONTROL tableaux de cohortes] peut être utilisé pour analyser les [!UICONTROL cohortes] période par période, afin de comprendre comment les mêmes utilisateurs sont conservés (ou [!UICONTROL perdus]) au fil du temps.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430089/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).

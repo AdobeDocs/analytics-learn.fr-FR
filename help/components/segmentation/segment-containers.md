@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lors de la création de segments, les conteneurs d’accès, de visites et de visiteurs contrôlent la quantité de données que votre segment contiendra. Dans cette vidéo, apprenez à utiliser les conteneurs et écoutez quelques exemples de chacun d’eux.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429099/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr).

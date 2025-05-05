@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser les raccourcis clavier dans Analysis Workspace. Il s’agit de techniques qui vous permettent de gagner du temps et d’effectuer diverses tâches dans un projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41380/?quality=12&learn=on&captions=fre_fr)

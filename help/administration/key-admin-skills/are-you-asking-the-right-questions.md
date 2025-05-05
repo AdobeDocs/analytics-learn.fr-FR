@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Posez-vous les bonnes questions ?
 
->[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346457/?quality=12&learn=on&captions=fre_fr)
 
 _Toutes les questions_. C’est l’une des réponses les plus fréquentes des parties prenantes à la question : _quelles données voulez-vous suivre ?_ Il peut s’avérer plus utile d’identifier et de collecter les _points de données activables_ que d’enregistrer tous les éléments possibles. L’identification efficace de ces points de données nécessite un plan de base et des discussions créatives avec les parties prenantes.
 

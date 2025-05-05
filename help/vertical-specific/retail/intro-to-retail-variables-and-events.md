@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Si vous possédez un site de vente au détail, certains événements et variables ont été créés spécialement pour vous (car vous êtes extraordinaire). Cette vidéo fournit une courte présentation de ces variables et événements spécifiques à la vente au détail et permet de mieux les comprendre.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31119/?quality=12&learn=on&captions=fre_fr)

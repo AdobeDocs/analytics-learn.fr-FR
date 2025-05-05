@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Plusieurs [!UICONTROL suites de rapports] peuvent être analysées dans un seul projet [!DNL Workspace] en sélectionnant les [!UICONTROL suites de rapports] au niveau du panneau. Cela vous permet d’exécuter des analyses de panneaux côte à côte de plusieurs jeux de données différents.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36931/?quality=12&learn=on&captions=fre_fr)
 
 >[!TIP]
 >
