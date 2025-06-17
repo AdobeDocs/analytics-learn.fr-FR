@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Découvrez comment tirer parti de la puissance des alertes Adobe Analytics pour surveiller vos campagnes média achetées sur Advertising Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40441/?quality=12&learn=on&captions=fre_fr)
