@@ -21,4 +21,4 @@ ht-degree: 100%
 Différents facteurs peuvent influencer les performances d’un projet dans Analysis Workspace. Grâce à l’option Performances, vous pouvez voir les facteurs qui affectent les performances de votre projet, notamment les facteurs relatifs au réseau, au navigateur et au projet.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418518/?quality=12&learn=on&captions=fre_fr)

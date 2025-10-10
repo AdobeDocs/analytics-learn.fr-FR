@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez tous nos clics droits préférés dans Analysis Workspace et comment les utiliser. Des [!UICONTROL tableaux à structure libre] aux [!UICONTROL visualisations des abandons], un clic droit vous rendra plus efficace et compétent dans [!DNL Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327563/?quality=12&learn=on&captions=fre_fr)

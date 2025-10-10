@@ -19,7 +19,7 @@ ht-degree: 81%
 
 Vous pouvez désormais modifier les [!UICONTROL mesures] de plusieurs demandes de données [!UICONTROL Report Builder] à la fois, avec les options d’ajout, de remplacement et de suppression.
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37960/?quality=12&learn=on&captions=fre_fr)
 
 Cette fonctionnalité s’ajoute aux fonctionnalités existantes pour la modification des [!UICONTROL suites de rapports], des [!UICONTROL périodes], de la [!UICONTROL granularité] et des [!UICONTROL segments] dans les demandes. Vous pouvez modifier les demandes en bloc à partir du menu contextuel ou à partir de l’option « [!UICONTROL &#x200B; Modifier plusieurs &#x200B;] de la fenêtre Gérer.
 

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez rapidement comment Analysis Workspace prend en charge les novices et les experts en données.
 
->[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34428/?quality=12&learn=on&captions=fre_fr)
 
 Suivez cette vidéo en regardant la vidéo de présentation d’Analysis Workspace ou en prenant une [cours d’introduction gratuit](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=fr) ici, Experience League !

@@ -18,6 +18,6 @@ ht-degree: 13%
 
 Un sélecteur de granularité est disponible pour les paramètres de visualisation des tendances afin de vous permettre d’ajuster très facilement l’affichage de vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41451/?quality=12&learn=on&captions=fre_fr)
 
 Le paramètre de granularité permet d’ajuster le graphique et le tableau source, ce qui vous évite d’avoir à afficher et à manipuler le tableau.

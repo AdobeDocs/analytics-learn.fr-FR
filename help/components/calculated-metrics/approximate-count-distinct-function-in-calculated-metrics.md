@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Découvrez comment créer une mesure calculée à l’aide de la fonction Nombre approximatif d’éléments distincts, qui renvoie le nombre approximatif d’éléments de dimension distincts pour une dimension sélectionnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37467/?quality=12&learn=on&captions=fre_fr)
 
 Vous pouvez utiliser la mesure affichée dans cette vidéo dans n’importe quel rapport pour comprendre le décompte d’une dimension par rapport aux valeurs des autres. Un cas d’utilisation très courant consiste à utiliser cette fonction pour créer une mesure d’ID de client, que vous pouvez ensuite utiliser dans n’importe quel rapport pour voir le nombre de clients qui s’appliquent aux différentes valeurs de dimension.

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Le paramètre [!UICONTROL Densité d’affichage] sous [!UICONTROL Projet] > [!UICONTROL Informations et paramètres] vous permet de contrôler le remplissage vertical appliqué au rail gauche et aux tableaux ([!UICONTROL à structure libre] et [!UICONTROL de cohortes]). Vous pouvez choisir entre les options Développé (par défaut), Confortable ou Compact.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40310/?quality=12&learn=on&captions=fre_fr)

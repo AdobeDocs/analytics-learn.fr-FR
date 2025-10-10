@@ -23,4 +23,4 @@ Découvrez [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/ana
 
 * Affichez un exemple de projet [!UICONTROL Workspace] qui montre l’affichage de ces mesures dans l’interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31123/?quality=12&learn=on&captions=fre_fr)

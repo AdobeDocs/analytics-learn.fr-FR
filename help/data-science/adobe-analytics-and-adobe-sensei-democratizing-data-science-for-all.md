@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment le machine learning et les technologies d’IA d’Adobe Sensei dans Adobe Analytics peuvent aider les utilisateurs professionnels à suivre leurs données et à les utiliser de manière efficace, quand et où cela importe vraiment.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39732/?quality=12&learn=on&captions=fre_fr)

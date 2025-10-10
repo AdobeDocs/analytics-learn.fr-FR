@@ -18,7 +18,7 @@ ht-degree: 27%
 
 Découvrez les différents types de visualisations que vous pouvez placer dans vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37592/?quality=12&learn=on&captions=fre_fr)
 
 Pour résumer la vidéo, voici quelques catégories de visualisations et visualisations suggérées à ajouter à votre projet, en fonction du type d’analyse que vous souhaitez effectuer sur vos données. Comme indiqué dans la vidéo, il ne s’agit pas de règles strictes et rapides, mais simplement de suggestions lorsque vous vous habituerez aux différentes visualisations :
 

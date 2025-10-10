@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Traduire le langage technique Adobe Analytics en un langage accessible à tous
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345323/?quality=12&learn=on&captions=fre_fr)
 
 ## Parler différents langages
 

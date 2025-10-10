@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Vous pouvez afficher de façon visuelle le chevauchement et l’intersection de segments dans Analysis Workspace à l’aide de la visualisation en diagramme de Venn. Quelques secondes suffisent pour créer des diagrammes de Venn impressionnants et instructifs. Regardez cette vidéo pour découvrir comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/335798/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416882/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr).

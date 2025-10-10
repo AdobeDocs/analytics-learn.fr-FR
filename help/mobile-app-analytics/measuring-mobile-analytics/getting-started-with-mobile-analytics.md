@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment prendre en main Adobe Analytics pour les applications mobiles à l’aide de modèles. Les [!UICONTROL modèles standard] préconfigurés vous aident à comprendre les [!UICONTROL mesures] de performances des applications et d’interaction client dans Analysis Workspace. Découvrez également comment personnaliser votre projet avec notre interface de glisser-déposer conviviale.
 
->[!VIDEO](https://video.tv.adobe.com/v/27826/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33202/?quality=12&learn=on&captions=fre_fr)

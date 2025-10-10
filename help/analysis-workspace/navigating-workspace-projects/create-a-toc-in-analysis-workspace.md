@@ -20,4 +20,4 @@ ht-degree: 21%
 
 Découvrez la Table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs et aux utilisatrices d’accéder rapidement aux panneaux et aux visualisations dans le projet. Pour consulter la documentation détaillée, voir [Table des matières du projet](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35025/?quality=12&learn=on&captions=fre_fr)

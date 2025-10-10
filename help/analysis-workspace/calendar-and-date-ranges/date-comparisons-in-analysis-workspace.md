@@ -18,7 +18,7 @@ ht-degree: 20%
 
 Dans cette vidéo, vous apprendrez à tirer parti de deux fonctionnalités de comparaison de dates dans [!UICONTROL tableaux à structure libre] : « [!UICONTROL ajouter une colonne de période] » et « [!UICONTROL comparer des périodes] ».
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327426/?quality=12&learn=on&captions=fre_fr)
 
 Les comparaisons de dates sont un moyen facile d’approfondir vos tableaux Analysis Workspace actuels et vous aideront à mettre facilement vos données actuelles en perspective avec les performances historiques.
 

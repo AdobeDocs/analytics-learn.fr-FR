@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Vous pouvez réorganiser manuellement les lignes statiques dans le créateur de tableau à structure libre. Cela vous permet d’organiser les lignes statiques du tableau dans l’ordre correspondant à vos besoins, par exemple, visites, commandes, puis taux de conversion.
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33606/?quality=12&learn=on&captions=fre_fr)

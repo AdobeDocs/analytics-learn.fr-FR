@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez comment ajouter des [!UICONTROL mesures] de [!UICONTROL détection des anomalies] à vos requêtes de données et créer un graphique créatif des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39126/?quality=12&learn=on&captions=fre_fr)
 
 [!UICONTROL La détection des anomalies] utilise la modélisation statistique pour détecter automatiquement les tendances imprévues dans vos données.
 

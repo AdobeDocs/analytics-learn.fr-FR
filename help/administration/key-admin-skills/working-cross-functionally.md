@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Travailler à la transversale
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345452/?quality=12&learn=on&captions=fre_fr)
 
 Le parcours vers Adobe Analytics commence par une mise en œuvre adaptée. Nous avons tous entendu parler de l’effet GIGO. Pour éliminer toute mise en œuvre de ce type, les administrateurs doivent surveiller tous les détails des données introduites dans le système. Cela dit, la stratégie de collecte de données est influencée par de nombreuses parties prenantes au sein de l’organisation avec lesquelles un administrateur devra travailler jour après jour.
 

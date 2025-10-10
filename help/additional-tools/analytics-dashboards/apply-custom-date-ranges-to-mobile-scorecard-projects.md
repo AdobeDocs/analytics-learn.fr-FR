@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Cette vidéo explique comment gérer vos différentes options pour les périodes lorsque vous configurez vos projets dʼanalyse pour les appareils mobiles, y compris le choix des périodes prêtes à lʼemploi que vous souhaitez afficher, ainsi que la création de vos propres périodes personnalisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411532/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=fr).

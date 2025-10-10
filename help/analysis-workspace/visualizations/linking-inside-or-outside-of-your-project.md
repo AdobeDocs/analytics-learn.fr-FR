@@ -20,4 +20,4 @@ ht-degree: 35%
 
 Découvrez comment créer des liens internes ou externes dans votre projet Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423014/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449602/?learn=on&captions=fre_fr)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Dans cette vidéo, nous abordons lʼajout et la configuration des visualisations sous forme de barres, barres empilées, barres horizontales et barres empilées horizontales dans votre projet Analysis Workspace. Bien que considérées comme élémentaires, ces visualisations peuvent vous aider à faire parler vos données et à fournir des informations à vos analystes.
 
->[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416619/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=fr).

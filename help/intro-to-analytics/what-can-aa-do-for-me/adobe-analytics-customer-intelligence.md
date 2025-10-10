@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Pour devenir une entreprise créatrice dʼexpériences, le marketing piloté par les données est essentiel. Franchissez un cap avec vos analyses, des données aux informations pertinentes et à lʼaction.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36630/?quality=12&learn=on&captions=fre_fr)
 
 Découvrez comment Adobe peut vous aider à connaître votre client sous tous les angles : [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

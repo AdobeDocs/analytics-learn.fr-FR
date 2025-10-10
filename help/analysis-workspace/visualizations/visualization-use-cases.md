@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Vous souhaitez connaître les produits les plus vendus ? Découvrez certains des cas d’utilisation principaux de visualisations tels que l’abandon, le flux, la cohorte, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415653/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=fr).

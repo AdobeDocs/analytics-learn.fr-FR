@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Les règles de robots vous permettent de supprimer de votre suite de rapports le trafic généré par des spiders et des robots connus. La suppression du trafic de robots permet d’obtenir une mesure plus précise de l’activité des utilisateurs sur votre site web. Une fois les règles de robots définies, elles servent de critères de comparaison pour tout le trafic entrant. Le trafic qui correspond à l’une de ces règles n’est ni collecté dans la suite de rapports, ni inclus dans les mesures de trafic.
 
->[!VIDEO](https://video.tv.adobe.com/v/335738/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418508/?quality=12&learn=on&captions=fre_fr)

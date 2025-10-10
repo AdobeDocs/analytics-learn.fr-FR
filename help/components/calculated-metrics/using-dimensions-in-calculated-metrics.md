@@ -17,7 +17,7 @@ ht-degree: 22%
 
 Les dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesure calculée pour limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37462/?quality=12&learn=on&captions=fre_fr)
 
 Cette fonctionnalité simplifie le workflow de création et d’utilisation des segments dans les mesures calculées.
 

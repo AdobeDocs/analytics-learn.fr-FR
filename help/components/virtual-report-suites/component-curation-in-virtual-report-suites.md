@@ -18,4 +18,4 @@ ht-degree: 40%
 
 Les suites de rapports virtuelles peuvent être organisées de manière à inclure et exclure [!UICONTROL dimensions], [!UICONTROL mesures] et [!UICONTROL segments] dans Analysis Workspace, ce qui s’avère très utile si vous partagez ces données avec d’autres équipes qui n’ont besoin que d’une tranche spécifique des données ou si vous utilisez une autre nomenclature de données. Pour consulter la documentation détaillée, consultez [Traitement des composants des suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425531/?quality=12&learn=on&captions=fre_fr)

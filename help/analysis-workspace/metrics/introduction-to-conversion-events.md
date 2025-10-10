@@ -18,4 +18,4 @@ ht-degree: 12%
 
 Découvrez les principes de base des événements de conversion, souvent appelés événements de succès, dans [!DNL Adobe Analytics]. Ils mesurent les conversions sur vos propriétés numériques et sont utilisés comme mesures dans les rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31120/?quality=12&learn=on&captions=fre_fr)

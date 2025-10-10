@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment comprendre les différentes performances et fonctionnalités de différents appareils à assistance vocale pour vous aider à établir des priorités sur la feuille de route du produit.
 
->[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34987/?quality=12&learn=on&captions=fre_fr)

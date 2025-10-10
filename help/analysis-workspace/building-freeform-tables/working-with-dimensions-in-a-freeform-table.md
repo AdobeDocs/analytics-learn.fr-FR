@@ -18,7 +18,7 @@ ht-degree: 63%
 
 Découvrez comment utiliser les dimensions dans les tableaux à structure libre : ajout, tri, ventilation en fonction d’autres dimensions, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328528/?quality=12&learn=on&captions=fre_fr)
 
 Rubriques abordées dans la vidéo et marqueurs temporels :
 

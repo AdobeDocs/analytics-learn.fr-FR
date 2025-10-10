@@ -17,6 +17,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez les [!UICONTROL dimensions] et les [!UICONTROL mesures], la différence entre les deux et comment les ajouter à vos tableaux et visualisations dans Analysis Workspace. Découvrez également comment ajouter des [!UICONTROL mesures calculées] prêtes à l’emploi.
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33639/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=fr).

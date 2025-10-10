@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Les intervalles de recherche en amont personnalisés vous permettent d’étendre la fenêtre d’attribution au-delà de la plage de rapports (jusqu’à 90 jours au maximum) et s’appliquent à chaque conversion de la plage de rapports. Cette option permet généralement d’accroître la précision de l’attribution pour les événements qui se produisent au début de la période de création des rapports en tenant compte des interactions qui se sont produites au cours du ou des mois précédents.
 
->[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40038/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=fr#lookback-windows)

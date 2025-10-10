@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Conseils et astuces pour simplifier et consacrer moins de temps à la formation des utilisateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341105/?quality=12&learn=on&captions=fre_fr)
 
 Il est essentiel de s’assurer que les utilisateurs de votre entreprise bénéficient d’une bonne formation sur Adobe Analytics pour créer une culture de prise de décision axée sur les données. Les utilisateurs capables de trouver facilement des informations dans Adobe Analytics peuvent répondre seuls à des questions professionnelles simples. Les analystes disposent ainsi de plus de temps pour répondre à des questions professionnelles difficiles. Le partage de vos connaissances contribue à la démocratie des données et permet aux utilisateurs professionnels d’être plus indépendants dans la prise de décisions basées sur les performances.
 

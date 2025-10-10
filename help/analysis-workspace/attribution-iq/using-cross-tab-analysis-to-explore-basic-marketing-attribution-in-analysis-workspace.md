@@ -21,7 +21,7 @@ ht-degree: 79%
 
 Il existe de nombreuses façons de faire évoluer votre méthodologie d’attribution avec Adobe Analytics. Dans cette vidéo, nous montrons comment vous pouvez obtenir des informations plus précises à partir du rapport Canaux marketing à l’aide d’une analyse croisée dans l’espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327749/?quality=12&learn=on&captions=fre_fr)
 
 **MISE À JOUR** : plusieurs améliorations ont été apportées à [!DNL Workspace] depuis la publication de cette vidéo. Nous laissons la vidéo en ligne car elle contient de très bons conseils qu’il vous est utile de connaître.
 

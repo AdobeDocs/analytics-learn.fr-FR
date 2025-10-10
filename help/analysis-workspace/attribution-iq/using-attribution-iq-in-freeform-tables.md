@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] vous permet de modifier à la volée le [!UICONTROL modèle] d’attribution en n’importe lequel des dix modèles basés sur des règles sur une colonne à [!UICONTROL structure libre].
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39107/?quality=12&learn=on&captions=fre_fr)
 
 Chaque [!UICONTROL modèle] d’attribution prend entièrement en charge la segmentation et les répartitions, et vous permet d’effectuer des comparaisons illimitées sur n’importe quelle dimension (y compris [!DNL props] !).
 

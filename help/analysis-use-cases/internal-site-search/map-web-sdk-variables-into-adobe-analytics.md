@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Découvrez comment mapper des variables Analytics du SDK web vers Adobe Analytics à lʼaide de règles de traitement.
 
->[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413464/?quality=12&learn=on&captions=fre_fr)
 
 ## Informations supplémentaires
 

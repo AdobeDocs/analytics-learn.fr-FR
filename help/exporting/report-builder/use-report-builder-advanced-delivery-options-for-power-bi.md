@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment configurer un planning avancé pour envoyer un classeur du Report Builder vers Power BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346445/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=fr).

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 [!DNL Freeform table builder] vous permet de faire glisser et de déposer de nombreuses dimensions, répartitions, mesures et segments afin de créer des tableaux qui répondent à des problématiques professionnelles plus complexes. Les données ne seront pas mises à jour à la volée ; elles sont mises à jour une fois que vous avez cliqué sur « Créer », ce qui vous permet de gagner du temps, car le tableau n’est mis à jour qu’une seule fois.
 
->[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35892/?quality=12&learn=on&captions=fre_fr)

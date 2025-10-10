@@ -21,7 +21,7 @@ ht-degree: 46%
 
 Découvrez comment personnaliser votre vue des tableaux de rétention ou d’attrition à l’aide des paramètres du tableau de cohorte.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430100/?quality=12&learn=on&captions=fre_fr)
 
 Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilités suivantes :
 

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Déposez les composants directement dans un projet vierge, un panneau ou un tableau à structure libre et un tableau est automatiquement créé pour vous dans un format recommandé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418550/?quality=12&learn=on&captions=fre_fr)

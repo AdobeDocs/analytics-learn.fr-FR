@@ -20,7 +20,7 @@ ht-degree: 30%
 
 Dans cette vidéo, découvrez les paramètres concernant les référents, en les définissant comme référents internes (pour alimenter les rapports de cheminement) ou référents externes (pour alimenter les rapports sur les domaines référents). Pour consulter la documentation détaillée, consultez [Filtres d’URL internes](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412917/?quality=12&learn=on&captions=fre_fr)
 
 >[!NOTE]
 >

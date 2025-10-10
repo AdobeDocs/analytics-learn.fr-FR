@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Découvrez comment configurer les rapports dʼapplications mobiles dans Adobe Analytics, y compris les composants [!UICONTROL Lifecycle], [!UICONTROL le suivi de la localisation], et [!UICONTROL les rapports dʼaccès en arrière-plan].
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39725/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=fr).

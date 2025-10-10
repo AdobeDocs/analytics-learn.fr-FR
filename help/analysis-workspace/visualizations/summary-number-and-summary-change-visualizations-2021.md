@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Cette vidéo explique comment ajouter et configurer les visualisations Synthèse des chiffres et Synthèse des modifications dans Analysis Workspace. Ces visualisations vous fournissent un grand espace afin que vous puissiez afficher vos mesures les plus importantes directement là où tout le monde peut les voir.
 
->[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416888/?quality=12&learn=on&captions=fre_fr)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=fr).

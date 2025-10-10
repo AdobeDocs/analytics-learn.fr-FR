@@ -22,4 +22,4 @@ Cette vidéo montre comment utiliser l’[!UICONTROL extension] de chaîne de pr
 >
 > Launch s’appelle désormais **[!DNL tags]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31106/?quality=12&learn=on&captions=fre_fr)

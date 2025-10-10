@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment configurer une règle de page globale pour les points de données à envoyer à Adobe Analytics sur chaque page à l’aide des [!DNL tags] Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31111/?quality=12&learn=on&captions=fre_fr)
