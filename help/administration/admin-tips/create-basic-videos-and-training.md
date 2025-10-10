@@ -33,7 +33,7 @@ ht-degree: 85%
 
 Vous pouvez ensuite facilement diriger les utilisateurs vers ces pages au lieu d’écrire de longs e-mails ou d’avoir encore une réunion. Pour plus d’astuces et de conseils sur la formation des utilisateurs, consultez l’article de Thomas Edward Buckley, [champion Adobe](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=fr){target="_blank"} sur comment simplifier la formation des utilisateurs et y consacrer moins de temps.
 
-En outre, il y a une pléthore (oui, une pléthore) de [&#x200B; tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur Adobe Experience League, ainsi que de [&#x200B; cours gratuits](https://experienceleague.adobe.com/?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données de votre entreprise et aux KPI de votre entreprise, alors enregistrez absolument vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n’y a aucune raison de réinventer la roue.
+En outre, il y a une pléthore (oui, une pléthore) de [&#x200B; tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur Adobe Experience League, ainsi que de [&#x200B; cours gratuits](https://experienceleague.adobe.com/fr?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données de votre entreprise et aux KPI de votre entreprise, alors enregistrez absolument vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n’y a aucune raison de réinventer la roue.
 
 ## Auteurs
 

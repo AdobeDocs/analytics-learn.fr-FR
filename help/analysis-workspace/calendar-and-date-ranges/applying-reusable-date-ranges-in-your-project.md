@@ -21,4 +21,4 @@ L’utilisation de dates et de périodes personnalisées dans votre produit peut
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar).

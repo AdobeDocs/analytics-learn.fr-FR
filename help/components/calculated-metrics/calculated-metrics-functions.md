@@ -19,4 +19,4 @@ Découvrez comment utiliser des fonctions dans la création de mesures calculée
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Consultez la documentation pour plus d’informations sur l’utilisation des fonctions [de base](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) et [avancées](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) lors de la création de mesures calculées.
+Consultez la documentation pour plus d’informations sur l’utilisation des fonctions [de base](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=fr) et [avancées](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=fr) lors de la création de mesures calculées.

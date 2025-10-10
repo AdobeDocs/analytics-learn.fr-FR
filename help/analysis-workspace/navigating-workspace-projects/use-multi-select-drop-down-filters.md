@@ -18,6 +18,6 @@ ht-degree: 38%
 
 # Utilisation de filtres déroulants à sélection multiple
 
-Découvrez l’option de sélection multiple des champs dans les filtres déroulants d’Analysis Workspace, qui permet aux utilisateurs d’afficher des données issues de l’un des champs sélectionnés. Pour consulter la documentation détaillée, voir [Présentation des panneaux](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
+Découvrez l’option de sélection multiple des champs dans les filtres déroulants d’Analysis Workspace, qui permet aux utilisateurs d’afficher des données issues de l’un des champs sélectionnés. Pour consulter la documentation détaillée, voir [Présentation des panneaux](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
