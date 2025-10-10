@@ -46,7 +46,7 @@ Mon ensemble initial de segments d’intention de visite comprenait :
 
 Pour faciliter l’utilisation de mes segments avec intention de visite, j’ai ajouté le préfixe « Intention : » à mes noms de segment, je leur ai donné un nombre pour activer le tri et je les ai balisés « intention ». Mes segments ressemblaient à l’image ci-dessous.
 
-![segments d’intention ](assets/intent-segments.png)
+![segments d’intention &#x200B;](assets/intent-segments.png)
 
 **Créez vos segments d’intention de visite à l’aide du conteneur Visites avec une définition d’espace réservé de Pages vues >= 1.**
 
@@ -102,7 +102,7 @@ La création de segments de parcours client à l’aide d’Adobe Analytics est 
 
 Ce document a été rédigé par :
 
-![Aaron Fossum ](assets/aaron-headshot.png)
+![Aaron Fossum &#x200B;](assets/aaron-headshot.png)
 
 **Aaron Fossum**, directeur, Analytique numérique
 

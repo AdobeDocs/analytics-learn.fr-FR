@@ -75,7 +75,7 @@ Dans cette optique, voici quelques exemples de la manière dont les ❸ **modèl
 
 - **En U** : cette approche attribue **40 %** du crédit à la *première personne* dans la porte, répartit **20 %** du crédit entre *toutes les personnes entre les deux*, puis donne **40 %** au **dernier** à travers. Ce modèle sera le plus souvent utilisé dans les situations où vous avez un **long cycle de conversion/vente** contenant *plusieurs points de contact* en cours de route.  Dans ce cas, votre objectif est principalement de mettre en évidence les ***première*** et ***dernière*** tactiques marketing qui ont contribué à la conversion des clients.
 - **J**-**Shaped** et **Inverse J** :
-   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde ** au milieu.  **Inverse J** fait exactement le contraire.
+   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
 
      L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
 
@@ -121,13 +121,13 @@ Maintenant que vous avez défini les concepts, imaginez que vous lancez une camp
 Maintenant que vous avez vu ce qu’il peut faire, ne vous laissez pas berner ou intimider par les fonctionnalités apparemment complexes du panneau d’attribution.  **Regardez les choses en face**.  *Embrasse* ça.  **Comprenez** ça.
 MAIS SURTOUT - *Utilisez-le à votre avantage.* Le **panneau d’attribution** et **intervalle de recherche en amont** sont les clés pour acquérir une meilleure compréhension de vos clients et de leur parcours envers votre marque.
 
-Désormais, nous pouvons voyager « [ dans le passé »](https://youtu.be/gVryJmZNFdU) en toute confiance et utiliser la puissance de notre machine à remonter le temps fiable (également appelée ***Adobe Analytics***) pour prendre des décisions basées sur les données.
+Désormais, nous pouvons voyager « [&#x200B; dans le passé »](https://youtu.be/gVryJmZNFdU) en toute confiance et utiliser la puissance de notre machine à remonter le temps fiable (également appelée ***Adobe Analytics***) pour prendre des décisions basées sur les données.
 
 ## Auteur
 
 Ce document a été rédigé par :
 
-![ Jeff Bloomer ](assets/jeff-headshot.png)
+![&#x200B; Jeff Bloomer &#x200B;](assets/jeff-headshot.png)
 
 **Jeff Bloomer**, responsable, Analyses numériques chez Kroger Personal Finance
 

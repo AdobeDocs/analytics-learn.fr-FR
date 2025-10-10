@@ -16,7 +16,7 @@ ht-degree: 87%
 
 # Configurer les paramètres généraux de l’extension Analytics dans Experience Platform [!DNL tags]
 
-Découvrez les options de configuration générales de l’extension Analytics dans [!DNL tags], notamment la définition du serveur de suivi. Pour consulter la documentation détaillée, voir Présentation de l’extension Adobe Analytics [](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=fr){target="_blank"}.
+Découvrez les options de configuration générales de l’extension Analytics dans [!DNL tags], notamment la définition du serveur de suivi. Pour consulter la documentation détaillée, voir Présentation de l’extension Adobe Analytics [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=fr){target="_blank"}.
 
 >[!NOTE]
 >

@@ -141,7 +141,7 @@ Une fois de plus, examinez votre Workspace de qualité des données sur les inte
 
 Ce document a été rédigé par :
 
-![Aaron Fossum ](assets/aaron-headshot.png)
+![Aaron Fossum &#x200B;](assets/aaron-headshot.png)
 
 **Aaron Fossum**, directeur, Analytique numérique
 

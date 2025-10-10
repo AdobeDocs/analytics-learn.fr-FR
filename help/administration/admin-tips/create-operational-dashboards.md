@@ -26,7 +26,7 @@ Comme beaucoup d’administrateurs et d’administratrices, je dirige un centre 
 
 J’ai remarqué que beaucoup de personnes attachaient peu d’importance à mes références au site Confluence. Leurs excuses ? « Mon VPN est désactivé » ou « Je ne peux pas lire l’article maintenant », etc. En somme, « Je lirai ce document plus tard » signifie qu’il ne sera jamais lu et la même question sera posée la semaine prochaine.
 
-***Eurêka :**la polyvalence de Workspace peut changer la donne. Les réponses rapides et directes dans Workspace sont appréciées de tous, donc ne nous éparpillons pas afin d’éviter des étapes supplémentaires.*
+***Eurêka :**&#x200B;la polyvalence de Workspace peut changer la donne. Les réponses rapides et directes dans Workspace sont appréciées de tous, donc ne nous éparpillons pas afin d’éviter des étapes supplémentaires.*
 
 J’ai pris le taureau par les cornes et j’ai créé des tableaux de bord opérationnels pour partager des informations à l’ensemble de l’entreprise. Le bilan : les informations atteignent leur cible, elles sont centralisées et les frustrations sont réduites à peau de chagrin. Ce processus, facile et évolutif, a gagné en efficacité au fil du temps.
 

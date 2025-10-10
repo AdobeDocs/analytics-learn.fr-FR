@@ -86,7 +86,7 @@ Bonne segmentation !
 
 Ce document a été rédigé par :
 
-![Dan Cummings ](assets/seg13.png)
+![Dan Cummings &#x200B;](assets/seg13.png)
 
 **Dan Cummings**, directeur principal de l&#39;analyse technique des produits chez McDonald&#39;s Corporation
 

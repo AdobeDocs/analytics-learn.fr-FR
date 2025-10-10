@@ -49,7 +49,7 @@ Une fois que le créateur de mesures calculées s’ouvre, ajoutez et/ou procéd
 
 **F.** Ici, vous allez faire glisser et déposer des dimensions (H), des mesures (I) ou des segments (J) pour créer votre mesure calculée, ainsi que les opérateurs pour la formule. Pour chaque mesure, si vous cliquez sur la roue dentée, vous pouvez modifier le Type de mesure (Standard/Total) et le Modèle d’attribution. *Nous ferons glisser et déposerons Revenu du centre d’appels, puis, en dessous, nous*÷￼*. Nous accepterons le type de mesure et le modèle d’attribution par défaut.*
 
-****. Utilisez cette option **+Ajouter** pour ajouter des conditions supplémentaires ou des nombres statiques, dont nous n’avons pas besoin ici.
+**&#x200B;**. Utilisez cette option **+Ajouter** pour ajouter des conditions supplémentaires ou des nombres statiques, dont nous n’avons pas besoin ici.
 
 **K.** Enfin, lorsque vous créez votre calcul, vous pouvez prévisualiser les données des 90 derniers jours ici.
 
