@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment trouver des améliorations à apporter à votre application vocale grâce à des fonctionnalités telles que les taux d’[!UICONTROL attrition], de succès et d’erreur et l’intention de repli.
 
->[!VIDEO](https://video.tv.adobe.com/v/327670/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

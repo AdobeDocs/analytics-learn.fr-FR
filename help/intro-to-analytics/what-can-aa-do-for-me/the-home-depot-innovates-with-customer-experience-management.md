@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Cas d’utilisation client : [!DNL The Home Depot] innove dans la gestion de l’expérience client
 
-[!DNL HomeDepot.com], un site e-commerce de 7 milliards de dollars appartenant à une société évaluée à 100 milliards de dollars, garde une longueur d’avance sur la concurrence en veillant à fournir une expérience client positive. Découvrez comment [!DNL Home Depot] utilise les solutions Adobe pour créer de la loyauté envers la marque et de la satisfaction client grâce à une expérience d’achat personnalisée.
+[!DNL HomeDepot.com], un site e-commerce de 7 milliards de dollars appartenant à une société évaluée à 100 milliards de dollars, garde une longueur d’avance sur la concurrence en veillant à fournir une expérience client positive. Découvrez comment [!DNL Home Depot] utilise les solutions Adobe pour créer de la loyauté envers une marque et de la satisfaction client grâce à une expérience d’achat personnalisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/36628/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)

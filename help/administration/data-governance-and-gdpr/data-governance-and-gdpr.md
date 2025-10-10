@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Cette vidéo vous guidera tout au long de la gouvernance des données et vous expliquera la manière dont l’étiquetage des données s’inscrit dans la préparation au RGPD. Elle fournit un exemple pratique d’étiquetage des données à l’aide de la gouvernance des données.
 
->[!VIDEO](https://video.tv.adobe.com/v/40784/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=fr).

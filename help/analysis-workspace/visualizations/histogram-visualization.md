@@ -16,8 +16,8 @@ ht-degree: 15%
 
 # [!UICONTROL Histogramme] [!UICONTROL visualisation] dans Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
-Les [!UICONTROL histogrammes] vous permettent de visualiser la distribution d’une mesure parmi vos visiteurs, visites et accès, afin de trouver des segments de valeur faible et élevée.
+Les [!UICONTROL histogrammes] vous permettent de visualiser la distribution d’une mesure parmi vos visiteurs, visites et accès, afin de trouver des segments à forte et à faible valeur.
 
->[!VIDEO](https://video.tv.adobe.com/v/41498/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez [la documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr).

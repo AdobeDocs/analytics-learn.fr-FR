@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez comment parcourir la configuration de la section Détection de référencement payant dans la console d’administration Adobe Analytics, y compris quelques recommandations.
 
->[!VIDEO](https://video.tv.adobe.com/v/343277/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=fr#section_0C2CFA0AF77B47098BE37CB024665D0D).

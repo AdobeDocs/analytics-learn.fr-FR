@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo montre comment créer des éléments de données pour votre implémentation dʼAnalytics dans des [!DNL tags] sur la base des variables et des événements répertoriés dans un document de référence de conception de solution (SDR).
 
->[!VIDEO](https://video.tv.adobe.com/v/31112/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)

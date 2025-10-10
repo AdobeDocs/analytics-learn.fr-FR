@@ -16,8 +16,8 @@ ht-degree: 23%
 
 # Présentation des variables de trafic ([!UICONTROL Props])
 
-Découvrez les types de variables de trafic et leur utilisation dans Adobe Analytics, notamment l’analyse du trafic, du contenu et des flux.
+Découvrez les types de variables de trafic et leur utilisation dans Adobe Analytics, y compris l’analyse du trafic, du contenu et des flux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429898/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=fr).
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).

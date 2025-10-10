@@ -14,10 +14,11 @@ source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
+
 ---
 
 # Utilisation du [!UICONTROL Créateur de règles de classification] dans Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
 
 Découvrez comment utiliser le [!UICONTROL Créateur de règles de classification] pour appliquer automatiquement des [!UICONTROL classifications] basées sur des règles dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434375?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)

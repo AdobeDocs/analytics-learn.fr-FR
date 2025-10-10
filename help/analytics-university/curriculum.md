@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Programme Adobe Analytics pour lʼéducation
 
->[!VIDEO](https://video.tv.adobe.com/v/3443848/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Contenu du cours d’Analytics
 
@@ -24,18 +24,18 @@ Adobe est fier de présenter ce contenu fondamental d’Analytics à votre unive
 
 ### Un nouveau cours pour vous aider dans votre préparation
 
-Pour préparer l&#39;apprentissage et l&#39;enseignement du cursus d&#39;analyse, nous avons lancé un nouveau cours sur Adobe Education Exchange où vous pouvez apprendre à enseigner tous les concepts de base décrits ci-dessous. Nous vous recommandons de commencer ce cours pour vous assurer que vous êtes prêt à éduquer vos étudiants sur les 4 modules principaux et au-delà.
+Pour vous préparer à l’apprentissage et à l’enseignement du programme Analytics, nous avons lancé un tout nouveau cours sur Adobe Education Exchange où vous pouvez apprendre à enseigner tous les concepts de base décrits ci-dessous. Nous vous recommandons de commencer par ce cours pour vous assurer d&#39;être prêt à enseigner à vos élèves les 4 modules de base et au-delà.
 
 Inscrivez-vous au cours ici : [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
-### Voici ce que vous allez apprendre :
+### Voici ce que vous apprendrez :
 
 *Le tutoriel démarre avec les DONNÉES :*
 
 * Module relatif à la collecte de données (1) : framework de l’implémentation, de la collecte, du compte rendu des performances et de la validation des données
 * Module relatif à la stratégie et à l’architecture des données (2) : concepts de base des variables, des stratégies et de l’architecture des données
 
-*Ensuite, vous combinerez ces DONNÉES avec INSIGHTS :*
+*Vous allez ensuite combiner ces DONNÉES avec des INFORMATIONS :*
 
 * Module relatif aux mesures et fonctionnalités standard d’Adobe (3) : comment accéder aux mesures et aux rapports essentiels des indicateurs clés de performance d’Analytics et afficher leur contenu
 * Module relatif aux fondamentaux d’Analysis Workspace (4) : perfectionnement des connaissances concernant les visualisations des comptes rendu de performances d’Analytics

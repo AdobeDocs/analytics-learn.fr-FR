@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Vous devrez parfois contacter Adobe en cas d’échec de la diffusion du flux de données ou de demande de renvoi d’un fichier de flux de données. Il est plus pratique pour l’équipe du service clientèle de traiter de telles demandes si l’identifiant de flux de données est fourni par le client.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418480/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)

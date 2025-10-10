@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Les listes déroulantes de composants vous permettent de choisir dans une liste de composants compatibles pour créer votre analyse. Vous pouvez également créer de nouveaux composants directement à partir de la liste déroulante si vous ne trouvez pas ce dont vous avez besoin. Ces espaces continuent de fonctionner comme des zones de dépôt si vous avez un cas dʼutilisation plus avancé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411791/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/332601/?quality=12&learn=on)

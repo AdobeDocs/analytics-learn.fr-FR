@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez un moyen efficace d’amener facilement des utilisateurs débutants dans les données de projet d’analyse de l’espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/40286/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

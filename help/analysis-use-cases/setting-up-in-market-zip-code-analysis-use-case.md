@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Dans ce cas d’utilisation, nous allons configurer le système pour importer les codes postaux, les classer comme étant sur le marché ou hors marché, puis utiliser ces données dans Analysis Workspace afin de mesurer l’efficacité de nos campagnes marketing géociblées.
 
->[!VIDEO](https://video.tv.adobe.com/v/35547/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Pour plus d’informations sur les aspects de ce cas d’utilisation, consultez les rubriques de documentation suivantes :
 

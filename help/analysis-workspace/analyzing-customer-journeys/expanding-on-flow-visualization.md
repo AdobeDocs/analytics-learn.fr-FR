@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Cette vidéo présente les différentes options de clic droit disponibles dans [!DNL Flow visualization] dans Analysis Workspace. Les options incluent la création d’un segment à partir d’un chemin, la réduction de colonnes, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/328082/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=fr#analysis-workspace).
 

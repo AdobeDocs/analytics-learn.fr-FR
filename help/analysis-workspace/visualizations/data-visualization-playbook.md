@@ -1,6 +1,6 @@
 ---
-title: Manuel de visualisation des données Adobe Analytics
-description: La visualisation des données est à la fois un art et une science, qui nécessite une considération attentive de divers facteurs. Pour vous aider à naviguer dans certaines de ces décisions, nous avons rassemblé le manuel relatif à la visualisation des données.
+title: Playbook de visualisation des données Adobe Analytics
+description: La visualisation de données est à la fois un art et une science, qui nécessite une prise en compte attentive de divers facteurs. Pour vous aider à prendre certaines de ces décisions, nous avons élaboré le guide de visualisation des données .
 feature: Visualizations
 role: User
 level: Beginner
@@ -16,18 +16,18 @@ ht-degree: 1%
 
 ---
 
-# Manuel de visualisation des données Adobe Analytics
+# Playbook de visualisation des données Adobe Analytics
 
-La visualisation des données est à la fois un art et une science, qui nécessite une considération attentive de divers facteurs. Pour vous aider à naviguer dans certaines de ces décisions, nous avons rassemblé le manuel relatif à la visualisation des données.
+La visualisation de données est à la fois un art et une science, qui nécessite une prise en compte attentive de divers facteurs. Pour vous aider à prendre certaines de ces décisions, nous avons élaboré le guide de visualisation des données .
 
 
-[Télécharger](assets/adobe-analytics-data-visualization-playbook.pdf) le manuel Adobe Analytics Visualization
+[Télécharger](assets/adobe-analytics-data-visualization-playbook.pdf) le guide de visualisation Adobe Analytics
 
 [![Manuel](assets/data-visualization-playbook-image.png)](assets/adobe-analytics-data-visualization-playbook.pdf)
 
-Que vous abordiez des questions commerciales courantes ou que vous passiez dans des analyses complexes, ce manuel complet examine un éventail de cas d’utilisation qui montrent quand et comment utiliser efficacement différentes visualisations.
+Que vous abordiez des questions commerciales courantes ou que vous plongiez dans des analyses complexes, ce playbook complet examine un éventail de cas d’utilisation pour démontrer quand et comment utiliser efficacement différentes visualisations.
 
 ## Auteur
 
 Ce document a été créé par David Geist,
-consultant commercial data and insights à Adobe.
+consultant en données et informations chez Adobe.

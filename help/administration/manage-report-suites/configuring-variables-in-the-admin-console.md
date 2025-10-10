@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Découvrez comment configurer des variables et des événements dans le Gestionnaire de suites de rapports, en vous assurant que les rapports, dimensions et mesures portent les noms adaptés et adoptent le comportement approprié.
 
->[!VIDEO](https://video.tv.adobe.com/v/31116/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

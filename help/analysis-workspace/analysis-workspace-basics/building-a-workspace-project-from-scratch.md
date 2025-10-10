@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Prêt à commencer à créer vos propres projets ? Découvrez la manière de créer un projet Analytics Workspace à partir de zéro, notamment la création dʼun tableau, lʼajout dʼune visualisation et bien plus encore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415638/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=fr).

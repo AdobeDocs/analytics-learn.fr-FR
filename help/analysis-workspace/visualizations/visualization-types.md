@@ -1,6 +1,6 @@
 ---
 title: Types de visualisations et vue d’ensemble
-description: Découvrez les différents types, ou types, de visualisations que vous pouvez ajouter à vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
+description: Découvrez les différents types de visualisations que vous pouvez placer dans vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
 kt: 2132
@@ -10,17 +10,17 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
 # Types de visualisations et vue d’ensemble {#visualization-types-in-analysis-workspace}
 
-Découvrez les différents types, ou types, de visualisations que vous pouvez ajouter à vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
+Découvrez les différents types de visualisations que vous pouvez placer dans vos projets Analysis Workspace pour vous aider à raconter vos histoires de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/37592/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
-Pour récapituler la vidéo, voici quelques catégories de visualisations et de visualisations suggérées à ajouter à votre projet, en fonction du type d’analyse que vous souhaitez effectuer sur vos données. Comme indiqué dans la vidéo, il ne s’agit pas d’une règle stricte, mais plutôt de quelques suggestions pour vous lorsque vous vous habituez aux différentes visualisations :
+Pour résumer la vidéo, voici quelques catégories de visualisations et visualisations suggérées à ajouter à votre projet, en fonction du type d’analyse que vous souhaitez effectuer sur vos données. Comme indiqué dans la vidéo, il ne s’agit pas de règles strictes et rapides, mais simplement de suggestions lorsque vous vous habituerez aux différentes visualisations :
 
 <table style="max-width: 1214px;">
 <tr>
@@ -28,17 +28,17 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
         Catégorie de visualisation
     </th>
     <th>
-        Visualisations proposées
+        Visualisations suggérées
     </th>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Données/informations de base
+  <td style="vertical-align: top;">Données de base/informations
   </td>
 
 <td style="vertical-align: top;">
 
 * Tableau à structure libre
-* Text
+* Texte
 
   </td>
 </tr>
@@ -50,8 +50,8 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
 
 * Tableau à structure libre
 * Résumé des mesures clés
-* Numéro de résumé
-* Résumé des changements
+* Synthèse des chiffres
+* Changement de résumé
 
 </td>
 </tr>
@@ -62,13 +62,13 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
 <td style="vertical-align: top;">
 
 * Barre
-* Barre horizontale
+* Barres horizontales
 * Barres empilées
-* Barre horizontale empilée
+* Barres empilées horizontales
 * Tableau à structure libre
 * Tableau à structure libre avec mise en forme conditionnelle
 * Graphique combo
-* Puce (comparer les chiffres réels avec les objectifs)
+* Puce (comparer les chiffres réels aux objectifs)
 * Arborescence (multidimensionnelle)
 
   </td>
@@ -79,7 +79,7 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
 
 <td style="vertical-align: top;">
 
-* Ligne
+* Graphique linéaire
 * Zone
 * Aires empilées
 * Barre verticale
@@ -87,14 +87,14 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Parties à l’ensemble
+  <td style="vertical-align: top;">Fragments à l'ensemble
   </td>
 
 <td style="vertical-align: top;">
 
 * Anneau
 * Aires empilées
-* Treemap
+* Plan en arborescence
 
   </td>
 </tr>
@@ -110,7 +110,7 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Distribution
+  <td style="vertical-align: top;">Répartitions
   </td>
 
 <td style="vertical-align: top;">
@@ -120,13 +120,13 @@ Pour récapituler la vidéo, voici quelques catégories de visualisations et de 
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">Analyse des cohortes
+  <td style="vertical-align: top;">Analyse de cohortes
   </td>
 
 <td style="vertical-align: top;">
 
-* Tables de cohortes (rétention/perte de clientèle)
-* Tableaux à structure libre avec segments appliqués
+* Tableaux de cohortes (rétention/perte de clientèle)
+* Tableaux à structure libre avec des segments appliqués
 
   </td>
 </tr>

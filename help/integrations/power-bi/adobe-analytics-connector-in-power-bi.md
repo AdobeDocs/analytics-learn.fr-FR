@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Dans cette vidéo sur le connecteur Adobe Analytics, nous allons découvrir comment créer et charger une requête, modifier le format des données, créer une [!UICONTROL visualisation] et enfin publier sur le service en ligne.
 
->[!VIDEO](https://video.tv.adobe.com/v/39106/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
 
 ## Ressources supplémentaires {#additional-resources}
 

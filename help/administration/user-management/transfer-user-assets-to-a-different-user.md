@@ -19,4 +19,4 @@ ht-degree: 100%
 
 La gestion des groupes et des utilisateurs de rapports sur la page Gestion des utilisateurs vous permet de gérer des utilisateurs et des groupes, ainsi que de contrôler l’accès aux rapports, outils et suites de rapports. Vous pouvez affecter des éléments de compte d’utilisateur tels que des tableaux de bord, des événements de calendrier, des signets, etc. d’un compte d’utilisateur à un autre grâce à la gestion des utilisateurs dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418513/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Expérience in-app des tableaux de bord Adobe Analytics
-description: Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les "fiches d’évaluation" créées par ou partagées avec vous.
+description: Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les « cartes de performance » que vous avez créées ou qui ont été partagées avec vous.
 feature: Analytics Dashboards
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 28%
 
 # Expérience in-app des tableaux de bord Adobe Analytics
 
-Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les &quot;fiches d’évaluation&quot; créées par ou partagées avec vous.
+Dans cette vidéo, découvrez comment utiliser les tableaux de bord Adobe Analytics (application mobile) pour accéder et afficher les « cartes de performance » que vous avez créées ou qui ont été partagées avec vous.
 
->[!VIDEO](https://video.tv.adobe.com/v/38072/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=fr).

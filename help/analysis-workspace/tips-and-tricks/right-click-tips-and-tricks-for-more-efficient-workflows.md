@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Voici 7 conseils accessibles par un clic droit, que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows. Vous pouvez les lire dans le texte ci-dessous ou regarder la vidéo de démonstration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422278/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
 
 Voici 7 conseils accessibles par un clic droit, que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows :
 
@@ -61,9 +61,9 @@ Vous pouvez procéder ainsi dans de nombreuses visualisations, y compris les gra
 
 Les utilisateurs et utilisatrices souhaitent souvent exporter des données au format .csv. Cette astuce vous aidera à vous soustraire à la limitation de 400 lignes de Workspace. Dans la partie supérieure d’un tableau à structure libre, cliquez avec le bouton droit de la souris pour faire apparaître deux options de téléchargement
 
-L’option Téléchargement d’éléments au format CSV (segments) vous permet de télécharger jusqu’à 50 000 lignes de données.  Aucune ventilation n’est appliquée, mais tous vos segments seront transférés et tous vos filtres seront appliqués. Cette méthode est très utile lorsqu’il existe des milliers de lignes de données.
+L’option Téléchargement d’éléments au format CSV (segments) vous permet de télécharger jusqu’à 50 000 lignes de données.  Aucune répartition n’est appliquée, mais tous vos segments seront transférés et tous vos filtres seront appliqués. Cette méthode est très utile lorsqu’il existe des milliers de lignes de données.
 
-L’option Télécharger les données au format CSV vous permet uniquement de télécharger jusqu’à 400 lignes de données, mais comprend des ventilations.
+L’option Télécharger les données au format CSV vous permet uniquement de télécharger jusqu’à 400 lignes de données, mais comprend des répartitions.
 
 ## Conseil n°7 : Masquer les erreurs : afficher uniquement les lignes sélectionnées dans un tableau
 

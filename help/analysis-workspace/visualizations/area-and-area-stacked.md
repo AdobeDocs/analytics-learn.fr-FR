@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment ajouter des visualisations Surface et Aires empilées à votre projet dans Analysis Workspace, et apprenez quelques astuces pour personnaliser les visualisations en fonction de vos besoins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416614/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=fr#).

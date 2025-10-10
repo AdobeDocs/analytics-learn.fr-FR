@@ -10,7 +10,7 @@ exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42d
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 63%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 100%
 
 Découvrez comment utiliser les dimensions dans les tableaux à structure libre : ajout, tri, ventilation en fonction d’autres dimensions, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/328528/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
 
 Rubriques abordées dans la vidéo et marqueurs temporels :
 
 * Principes de base (0:00)
 * Guides de zones de dépôt (1:27)
 * Pagination et filtrage (2:45)
-* Ajout d’éléments de Dimension (4:30)
-* Aperçu des éléments de Dimension (5:15)
+* Ajouter des éléments Dimension (4:30)
+* Aperçu des éléments Dimension (5:15)
 * Dimensions temporelles (5:59)
 * Tri (6:49)
 * Dimensions comme filtres (8:30)

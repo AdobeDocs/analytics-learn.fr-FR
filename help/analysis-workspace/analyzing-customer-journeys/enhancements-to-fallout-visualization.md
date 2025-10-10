@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Cette vidéo présente les mises à jour de la [!DNL Fallout Visualization] qui ont été très demandées par les clients, notamment les étapes directes et éventuelles, le changement de nom des points de contact, la comparaison d’un nombre illimité de segments et les pourcentages de conversion des points de contact de tendance au fil du temps.
 
->[!VIDEO](https://video.tv.adobe.com/v/328080/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).

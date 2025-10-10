@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Lors de la configuration et de la personnalisation de votre projet dans Analysis Workspace, vous devrez peut-être utiliser une période allant au-delà de celles préconfigurées dans le produit. Cette vidéo vous explique comment créer trois exemples de périodes personnalisées.
 
->[!VIDEO](https://video.tv.adobe.com/v/327419/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).

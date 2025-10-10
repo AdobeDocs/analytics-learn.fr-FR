@@ -1,6 +1,6 @@
 ---
 title: Gérer les mesures calculées
-description: Découvrez comment gérer vos mesures calculées, notamment les rechercher, afficher une liste, renommer, supprimer, partager, etc.
+description: Découvrez comment gérer vos mesures calculées, notamment en les recherchant, en affichant une liste, en renommant, en supprimant, en partageant, etc.
 feature: Calculated Metrics
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 19%
 
 # Gérer les mesures calculées
 
-Découvrez comment gérer vos mesures calculées, notamment les rechercher, afficher une liste, renommer, supprimer, partager, etc.
+Découvrez comment gérer vos mesures calculées, notamment en les recherchant, en affichant une liste, en renommant, en supprimant, en partageant, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423586/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)

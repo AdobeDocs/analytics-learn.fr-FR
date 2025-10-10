@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Cette vidéo montre comment activer et désactiver la troncation des libellés dans votre [!DNL flow visualization]. Apprenez également à faire glisser et à déposer des dimensions sur votre [!DNL flow] pour une analyse multidimensionnelle des [!DNL flow].
 
->[!VIDEO](https://video.tv.adobe.com/v/327470/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).

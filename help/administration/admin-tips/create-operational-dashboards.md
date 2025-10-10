@@ -12,8 +12,8 @@ thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1152'
-ht-degree: 100%
+source-wordcount: '1151'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ J’ai remarqué que beaucoup de personnes attachaient peu d’importance à mes
 
 J’ai pris le taureau par les cornes et j’ai créé des tableaux de bord opérationnels pour partager des informations à l’ensemble de l’entreprise. Le bilan : les informations atteignent leur cible, elles sont centralisées et les frustrations sont réduites à peau de chagrin. Ce processus, facile et évolutif, a gagné en efficacité au fil du temps.
 
-Les personnes qui recherchaient de l’aide ont pu obtenir beaucoup d’informations sans faire appel à moi, comprendre les différentes sections du site et s’émerveiller devant la magie d’Adobe Analytics tout en (et c’est une véritable prouesse, et non des moindres) me posant moins de questions et en accaparant moins de mon temps précieux.
+Les utilisateurs ont pu obtenir de nombreuses informations utiles sans moi, connaître certaines parties du site, voir à quel point Adobe Analytics est cool et (important pour moi 😊) me poser moins de questions et utiliser moins de temps.
 
 **Je vous recommande vivement de créer des tableaux de bord pour toutes vos propriétés ou toutes les zones principales de votre site.** Bien conçus, ils offrent une vue d’ensemble de la propriété, du site, de l’application, ou du flux et proposent des informations de base ainsi qu’un aperçu rapide. Partagez-les avec l’ensemble de l’entreprise afin que tout le monde puisse voler de ses propres ailes et comprendre la propriété sans assistance excessive. Dans ma situation, ces tableaux de bord répondent peu ou prou à 80 % des questions que je reçois et me font gagner un temps précieux.
 
@@ -51,7 +51,7 @@ Il vous suffit de créer des [visualisations de texte](https://experienceleague.
 
 Au lieu d’écrire des e-mails à rallonge ou de ressortir d’anciennes explications du diable Vauvert, mettez à jour votre tableau de bord Questions fréquentes. Commencez maintenant et étayez le contenu au fil du temps. Utilisez des hyperliens pour faire référence à d’autres tableaux de bord ou aux questions fréquentes connexes dans les rapports. Offrez davantage de contexte lorsque cela est nécessaire en incorporant d’autres tableaux de bord aux questions fréquentes.
 
-Pour Gen Digital, nos questions fréquentes portent sur l’utilisation personnalisée d’Adobe Analytics, et non sur les principes de base. Pour envoyer par e-mail des liens vers des questions fréquentes spécifiques, cliquez avec le bouton droit de la souris sur « Obtenir un lien de visualisation » et partagez l’URL obtenue. Le contenu pertinent est alors partagé avec l’utilisateur ou l’utilisatrice. Utilisez des tableaux à structure libre pour illustrer les données, en ajoutant d’autres explications avec l’option « Modifier la description ».
+Pour Gen Digital, nos questions fréquentes portent sur l’utilisation personnalisée d’Adobe Analytics, et non sur les principes de base. Pour envoyer par e-mail des liens vers des questions fréquentes spécifiques, cliquez avec le bouton droit de la souris sur « Obtenir un lien de visualisation » et partagez l’URL de redirection. Le contenu pertinent est alors partagé avec l’utilisateur ou l’utilisatrice. Utilisez des tableaux à structure libre pour illustrer les données, en ajoutant d’autres explications avec l’option « Modifier la description ».
 
 Une fois que vos questions fréquentes couvrent l’essentiel d’un domaine, partagez-les avec le reste de l’entreprise pour que tout le monde puisse y accéder et améliorer ses connaissances. Ajoutez d’autres questions au fil du temps.
 

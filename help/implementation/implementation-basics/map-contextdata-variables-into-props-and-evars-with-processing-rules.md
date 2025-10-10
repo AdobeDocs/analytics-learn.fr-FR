@@ -23,5 +23,5 @@ Lors de lʼutilisation de variables [!DNL contextData] dans votre mise en œuvre
 >Cet article et cette vidéo s’appliquent à une mise en œuvre « AppMeasurement » d’Adobe Analytics si vous n’utilisez pas les balises d’Adobe Experience Platform (gestionnaire de balises).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/327635/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 

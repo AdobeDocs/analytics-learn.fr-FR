@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à utiliser les blocs de création de votre projet Analysis Workspace, à savoir les panneaux, les tableaux et les visualisations. Ces éléments sont en quelque sorte la toile sur laquelle vos données sont peintes.
 
->[!VIDEO](https://video.tv.adobe.com/v/33640/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
 Pour plus d’informations, consultez la documentation concernant les [panneaux](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=fr) et les [visualisations](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=fr).

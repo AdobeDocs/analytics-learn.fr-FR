@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez la visualisation du résumé des mesures clés dans Analysis Workspace, qui vous permet de visualiser les tendances d’une mesure importante au cours d’une seule période. Elle vous permet également de comparer les performances des mesures sur deux périodes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413793/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=fr).

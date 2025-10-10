@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez quelques-unes des principales améliorations et ajouts apportés à la nouvelle page de destination. Nous avons tenu compte de vos commentaires clients et avons essayé d’intégrer les fonctionnalités les plus importantes, telles que le redimensionnement des colonnes, les nouveaux types de colonnes, les liens vers les rapports en temps réel et sur les robots, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/346469/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)

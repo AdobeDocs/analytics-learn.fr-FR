@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Présentation détaillée de plusieurs nouvelles fonctionnalités permettant aux analystes et aux spécialistes du marketing de personnaliser les libellés des graphiques en fonction de leurs besoins en matière de [!UICONTROL visualisation].
 
->[!VIDEO](https://video.tv.adobe.com/v/327475/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 La manipulation des données qui arrivent dans vos suites de rapports peut sʼavérer très utile, car elle permet dʼajouter ou de modifier des données sur la base de celles qui sont déjà entrées. Cette vidéo donne un aperçu des règles de traitement dans Adobe Analytics et décrit leur utilité. Elle fournit également des conseils, des exemples et même un avertissement.
 
->[!VIDEO](https://video.tv.adobe.com/v/342189/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=fr).

@@ -16,6 +16,6 @@ ht-degree: 20%
 
 # Démarrage de votre premier projet dans Analysis Workspace
 
-Découvrez comment créer des projets Analysis Workspace, soit de A à Z, soit en utilisant des modèles. Les modèles peuvent vous donner un bon début d’analyse. Ils sont disponibles prêts à l’emploi et par le biais de projets créés par l’entreprise. Pour obtenir une documentation détaillée, voir [Création de projets dans Analysis Workspace](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
+Découvrez comment créer de nouveaux projets Analysis Workspace à partir de zéro ou à l’aide de modèles. Les modèles peuvent vous donner une longueur d’avance sur votre analyse et sont disponibles par défaut et dans le cadre de projets créés par l’entreprise. Pour consulter la documentation détaillée, voir [Création de projets dans Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
->[!VIDEO](https://video.tv.adobe.com/v/3429816/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)

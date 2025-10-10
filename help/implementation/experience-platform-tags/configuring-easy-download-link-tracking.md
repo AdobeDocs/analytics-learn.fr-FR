@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Vous pouvez commencer à effectuer le suivi des liens de téléchargement sur votre site (liens qui téléchargent des fichiers hors navigateur sur votre ordinateur) en quelques clics seulement dans l’extension Adobe Analytics d’Experience Platform [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/3429930/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Qu’il s’agisse de livres blancs, de manuels, de fichiers audio ou vidéo, ou de nombreuses autres possibilités, votre site peut contenir des liens pour télécharger des fichiers qui ne s’ouvrent pas dans un navigateur. Sur ces fichiers, vous ne pouvez pas avoir un code [!DNL Analytics] sur la page pour le suivi. La configuration expliquée dans la vidéo vous permet de suivre le lien vers le fichier de téléchargement.

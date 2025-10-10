@@ -61,7 +61,7 @@ Continuez à lire pour en savoir plus sur :
 
 Analytics sur l’ensemble des appareils se présente par l’intermédiaire d’un type spécial de [[!UICONTROL suite de rapports virtuelle]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=fr) d’analyses entre appareils. Cela vous permet de continuer à utiliser la suite de rapports d’origine basée sur les appareils lorsque vous introduisez l’analytics sur l’ensemble des appareils dans votre entreprise. La configuration d’une suite de rapports virtuelle pour Analytics sur l’ensemble des appareils est simple.
 
-Dans la première étape du créateur de suites de rapports virtuelles, sélectionnez la [!UICONTROL suite de rapports] qui a été configurée par Adobe comme étant compatible avec Analytics sur l’ensemble des appareils :
+Dans la première étape du créateur de suites de rapports virtuelles, sélectionnez la [!UICONTROL suite de rapports] qui a été configurée par Adobe comme étant compatible avec CDA sur l’ensemble des appareils :
 
 *Choix d’une [!UICONTROL suite de rapports]* de base (source) compatible avec Analytics sur l’ensemble des appareils
 ![[!UICONTROL Suite de rapports virtuelle] Étape 1](assets/cda-vrs-step-one.png)
@@ -78,7 +78,7 @@ Terminez la configuration des suites de rapports virtuelles et enregistrez-la. L
 
 >[!TIP]
 >
->Vous pouvez créer autant de [!UICONTROL suites de rapports virtuelles] pour Analytics sur l’ensemble des appareils que vous le souhaitez en plus de la [!UICONTROL suite de rapports] de base compatible avec Analytics sur l’ensemble des appareils.
+>Vous pouvez créer autant de [!UICONTROL suites de rapports virtuelles] pour CDA sur l’ensemble des appareils que vous le souhaitez en plus de la [!UICONTROL suite de rapports] de base compatible avec CDA sur l’ensemble des appareils.
 
 ### Redéfinition de l’historique
 
@@ -92,7 +92,7 @@ Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’
 
 >[!NOTE]
 >
->Puisque l’historique peut être redéfini, cela signifie que vos données peuvent changer au fil du temps dans une [!UICONTROL suite de rapports virtuelle] compatible avec Analytics sur l’ensemble des appareils. Gardez cela à l’esprit lorsque vous communiquez des informations à partir d’une analyse basée sur Analytics sur l’ensemble des appareils.
+>Puisque l’historique peut être redéfini, cela signifie que vos données peuvent changer au fil du temps dans une [!UICONTROL suite de rapports virtuelle] compatible avec CDA sur l’ensemble des appareils. Gardez cela à l’esprit lorsque vous communiquez des informations à partir d’une analyse basée sur Analytics sur l’ensemble des appareils.
 
 ## Conditions préalables pour [!UICONTROL Analytics sur l’ensemble des appareils]
 

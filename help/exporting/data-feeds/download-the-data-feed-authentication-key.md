@@ -20,4 +20,4 @@ ht-degree: 100%
 
 La création d’un flux de données permet à Adobe de savoir où envoyer les fichiers de données brutes et les éléments que vous souhaitez inclure dans chaque fichier. La prise en charge SFTP des flux de données est disponible dans Analytics. Nécessite un hôte SFTP, un nom d’utilisateur et un site de destination contenant une clé publique RSA ou DSA. Vous pouvez télécharger la clé publique appropriée à la création du flux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418491/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335739/?quality=12&learn=on)

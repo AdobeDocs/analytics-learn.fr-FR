@@ -19,13 +19,13 @@ ht-degree: 100%
 
 # Créer une communauté plus forte
 
->[!VIDEO](https://video.tv.adobe.com/v/341113/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Une communauté plus forte possède des caractéristiques notables. Tout d’abord, elle est prise en charge par ses administrateurs Adobe Analytics. Elle connaît bien la manière dont les besoins de l’entreprise sont représentés dans leur implémentation. Enfin et surtout, elle a les moyens d’utiliser en toute confiance les analyses pour les prises de décisions axées sur les données. De nombreuses entreprises bénéficient de la structure fournie par un groupe d’utilisateurs Adobe Analytics interne ou une communauté plus formelle.
 
 Vous pouvez créer une communauté autonome au sein de votre entreprise. Procédez comme suit :
 
-## 1. Construisez une infrastructure solide, la base de la force de votre communauté
+## &#x200B;1. Construisez une infrastructure solide, la base de la force de votre communauté
 
 * Créez un processus d’intégration d’utilisateur :
 
@@ -43,7 +43,7 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
   Les modèles de rapports et projets Adobe Analytics sont des ressources clés pour activer les utilisateurs d’outils dans l’implémentation de votre entreprise, les cas d’utilisation de rapports et les bonnes pratiques. Ces ressources doivent répondre aux questions courantes de l’entreprise et à la meilleure manière de les résoudre au sein de l’outil.
 
-## 2. Créez un plan pour savoir qui gère et qui doit être impliqué
+## &#x200B;2. Créez un plan pour savoir qui gère et qui doit être impliqué
 
 * Déterminez qui dirigera la communauté :
 
@@ -61,7 +61,7 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
 * Rappelez-vous : « Qu’ont-ils à y gagner ? » Garder votre communauté concentrée sur les cas d’utilisation et les priorités de l’entreprise vous aide à garantir l’engagement et le succès !
 
-## 3. Utilisez les outils pour commencer à créer votre communauté
+## &#x200B;3. Utilisez les outils pour commencer à créer votre communauté
 
 * [Créez une charte de projet](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (modèle à télécharger) :
 

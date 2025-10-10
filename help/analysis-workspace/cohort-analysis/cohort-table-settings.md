@@ -1,6 +1,6 @@
 ---
 title: Paramètres du tableau de cohortes
-description: Découvrez comment personnaliser votre vue des tables de rétention ou de perte de clientèle à l’aide des paramètres du tableau de cohortes.
+description: Découvrez comment personnaliser votre vue des tableaux de rétention ou d’attrition à l’aide des paramètres du tableau de cohorte.
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -19,9 +19,9 @@ ht-degree: 46%
 
 # Paramètres du [!UICONTROL Tableau de cohorte]
 
-Découvrez comment personnaliser votre vue des tables de rétention ou de perte de clientèle à l’aide des paramètres du tableau de cohortes.
+Découvrez comment personnaliser votre vue des tableaux de rétention ou d’attrition à l’aide des paramètres du tableau de cohorte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430100/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilités suivantes :
 
@@ -29,6 +29,6 @@ Les personnalisations du [!UICONTROL Tableau de cohorte] incluent les possibilit
 1. Arrondir les pourcentages au nombre entier le plus proche.
 1. Afficher/masquer une ligne de pourcentage moyenne en haut du tableau.
 
-Les lignes moyennes sont idéales pour l’affichage global de [!UICONTROL rétention] ou [!UICONTROL perte de clientèle], plutôt que par des lignes individuelles [!UICONTROL cohorte].
+Les lignes moyennes sont idéales pour visualiser [!UICONTROL rétention] ou [!UICONTROL perte] globalement, plutôt que par lignes [!UICONTROL cohortes] individuelles.
 
 Pour plus d’informations concernant l’analyse des [!UICONTROL cohortes], consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=fr).

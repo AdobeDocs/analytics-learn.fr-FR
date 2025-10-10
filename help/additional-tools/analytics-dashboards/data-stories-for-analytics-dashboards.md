@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer des récits de données dans des projets de carte de performance mobiles à l’aide de l’application de tableaux de bord Analytics. Les récits de données permettent de raconter toute l’histoire en incluant des points de données complémentaires, le contexte commercial et les mesures associées, tout en conservant vos mesures clés les plus importantes au premier plan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420560/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416392/?quality=12&learn=on)

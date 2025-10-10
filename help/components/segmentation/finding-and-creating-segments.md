@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez comment créer et trouver des segments dans votre analyse à l’aide des différents outils d’Analysis Workspace tels que la cohorte, l’abandon et le flux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415643/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=fr).

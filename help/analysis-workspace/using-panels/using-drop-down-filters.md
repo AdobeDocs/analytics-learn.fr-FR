@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez à utiliser les filtres déroulants dans Analysis Workspace pour modifier de manière dynamique le contenu d’un panneau.
 
->[!VIDEO](https://video.tv.adobe.com/v/327485/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 La zone de dépôt du panneau propose désormais une fonction de filtrage déroulante. Grâce aux filtres déroulants, les analystes et les utilisateurs finaux peuvent interagir avec les données par le biais de filtres contrôlés. Vous pouvez créer un filtre déroulant à partir de n’importe quel type de composant, puis passer d’un élément à l’autre dans la liste déroulante pour filtrer le contenu du panneau. Vous pouvez également ajouter plusieurs listes déroulantes à un seul panneau pour plus de contrôle.
 

@@ -1,6 +1,6 @@
 ---
 title: Périodes flottantes dans les segments
-description: Dans cette vidéo, apprenez à utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments tels que "les personnes qui ont effectué des achats au cours de la dernière semaine" ou "les personnes qui ont consulté mon site au cours des 60 derniers jours".
+description: Dans cette vidéo, découvrez comment utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments du type « personnes ayant acheté au cours de la dernière semaine » ou « personnes ayant visité mon site au cours des 60 derniers jours ».
 feature: Segmentation
 kt: 2304
 role: User
@@ -15,6 +15,6 @@ ht-degree: 10%
 
 # Périodes flottantes dans les segments {#rolling-date-ranges-in-segments}
 
-Dans cette vidéo, apprenez à utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments tels que &quot;les personnes qui ont effectué des achats au cours de la dernière semaine&quot; ou &quot;les personnes qui ont consulté mon site au cours des 60 derniers jours&quot;. Pour obtenir une documentation détaillée sur la création de plages de dates variables que vous pouvez utiliser dans vos segments, consultez la page [Créer des plages de dates personnalisées](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).
+Dans cette vidéo, découvrez comment utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments du type « personnes ayant acheté au cours de la dernière semaine » ou « personnes ayant visité mon site au cours des 60 derniers jours ». Pour obtenir une documentation détaillée montrant comment créer des périodes flottantes que vous pouvez utiliser dans vos segments, consultez [Création de périodes personnalisées](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

@@ -9,8 +9,8 @@ thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '3413'
-ht-degree: 100%
+source-wordcount: '3403'
+ht-degree: 97%
 
 ---
 
@@ -28,7 +28,7 @@ Nous devons aussi effectuer une rapide comparaison terminologique :
 | Mesure représentant un groupe d’interactions sur votre site web ou votre application qui ont lieu au cours de la même période. | Visite | Session |
 | Mesure définissant un appareil identifié (en fonction de plusieurs critères, y compris des cookies et d’autres modèles de comportement, pour regrouper les informations sur l’utilisateur). | Visiteur unique | Utilisateur |
 
-## 2. Les interfaces
+## &#x200B;2. Les interfaces
 
 Quand les gens comparent Adobe Analytics et Google Analytics, ils soulignent que l’interface d’Adobe est déconcertante au premier abord. C’est vrai, mais c’est également une force, pas une faiblesse. Adobe propose un large éventail d’outils et de flexibilité dans votre visualisation de données, ce qui vous offre plus de liberté pour créer ce dont vous avez besoin.
 
@@ -40,13 +40,13 @@ Commençons par examiner le compte rendu des performances « sur site ».
 
 Adobe Analytics et Google Analytics permettent de personnaliser la première vue qu’un utilisateur voit lorsqu’il se connecte.
 
-##### 2.1.1.1. Espace de travail/Configuration personnalisée de l’écran d’accueil (Adobe Analytics)
+##### 2.1.1.1. Workspace / Écran d’accueil personnalisé (Adobe Analytics)
 
 Adobe Analytics ne présuppose pas la création d’un rapport prédéfini que tous les utilisateurs pourront afficher lors de leur connexion. La page d’accueil par défaut permet à l’utilisateur d’accéder à l’écran de destination de Workspace qui affichera pour chaque utilisateur tous les rapports de l’espace de travail qu’il a créés ou qui ont été partagés avec lui. En outre, chaque utilisateur peut définir l’un de ces rapports comme écran d’accueil s’il le souhaite.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
-Vous trouverez plus de détails concernant Workspace plus loin dans ce guide. Voir Section 2.1.2.1
+Vous trouverez plus de détails concernant Workspace plus loin dans ce guide. Voir la section 2.1.2.1
 
 >[!TIP]
 >
@@ -54,7 +54,7 @@ Vous trouverez plus de détails concernant Workspace plus loin dans ce guide. Vo
 
 
 
-##### 2.1.1.2. Informations sur l’écran d’accueil (Google Analytics)
+##### 2.1.1.2. Informations sur l’écran d’accueil (Google Analytics)
 
 * L’écran d’accueil de Google Analytics contient des visualisations préconfigurées. Elles couvrent des éléments tels que :
 * Utilisateurs, sessions, taux de rebond et durée de session au cours des sept derniers jours.
@@ -137,9 +137,9 @@ L’autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 >[!IMPORTANT]
 >
->Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=fr>.
+>Pour en savoir plus sur l’utilisation des listes déroulantes et des répartitions à structure libre, voir <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>.
 
-##### 2.1.2.2. Google Analytics : tableaux de bord, rapports personnalisés et rapports enregistrés
+##### 2.1.2.2. Google Analytics : tableaux de bord, rapports personnalisés et rapports enregistrés
 
 Google dispose de quelques outils pour créer des rapports dans l’interface, mais ils suivent toujours l’affichage et les limites de la section des rapports.
 
@@ -155,7 +155,7 @@ Pour les comparaisons de surface, cela fonctionne. Elles sont toutes similaires 
 
 Google et Adobe contiennent tous deux des rapports navigables qui sont des tableaux préconfigurés et des graphiques chronologiques de base basés sur une dimension.
 
-##### 2.1.3.1. Rapports Adobe Analytics
+##### 2.1.3.1. Rapports Adobe Analytics
 
 Adobe Analytics comporte également une section de rapports, bien que celle-ci soit en voie d’obsolescence pour mieux faire place à Analysis Workspace. En effet, cette interface va être abandonnée car Workspace s’avère être un outil plus puissant. La plupart de ces tableaux peuvent être créés et modifiés plus facilement. Les sections d’Adobe sont beaucoup plus fragmentées, ce qui peut être décourageant :
 
@@ -185,13 +185,13 @@ Rapports personnalisés est une section dans laquelle un utilisateur peut person
 
 La section Signets est similaire aux rapports personnalisés, où les rapports fréquemment utilisés pouvaient être marqués d’un signet dans l’interface des rapports afin de faciliter leur recherche.
 
-Le tableau de bord était un produit hérité qui permettait aux utilisateurs de combiner des petits rapports de données en une seule visualisation. Toutefois, la fonctionnalité de l’espace de travail (section 2.1.2.1) est bien plus facile à utiliser, si bien que cela n’existe qu’en tant que point d’accès aux rapports hérités qui doivent être recréés avant l’expiration de cette fonctionnalité.
+Le tableau de bord était un produit hérité qui permettait aux utilisateurs de combiner des petits rapports de données en une seule visualisation. Toutefois, la fonctionnalité de Workspace (section 2.1.2.1) est tellement plus facile à utiliser qu’elle n’existe qu’en tant que point d’accès aux rapports hérités qui doivent être recréés avant la fin de cette fonctionnalité.
 
 Les cibles permettent aux utilisateurs de créer un rapport basé sur une cible au cours d’une certaine période. Les équipes surveillent les campagnes pour déterminer si elles sont sur la bonne voie pour atteindre leurs cibles de trafic.
 
 Tous les rapports disponibles ici pouvaient avoir plusieurs colonnes de mesures et répartitions de dimensions. Toutefois, la simplicité des visualisations et une partie de la logique qui sous-tend les éléments pouvant être corrélés pouvaient s’avérer frustrantes.
 
-##### 2.1.3.2. Rapports Google Analytics
+##### 2.1.3.2. Rapports Google Analytics
 
 Google Analytics divise ces rapports en plusieurs sections, qui sont les suivantes : Temps réel, Audience, Acquisition, Comportement et Conversations (dans GA3), ainsi que Cycle de vie (avec les sous-sections Acquisition, Engagement, Monétisation, Conservation) et Utilisateur (avec les sous-sections Données démographiques et Technologie).
 
@@ -223,7 +223,7 @@ Si vous avez besoin que les données d’Adobe Analytics soient assimilées par
 
 Notez que l’API extrait toujours les données de corrélation en appliquant les répartitions et les segments comme indiqué dans la requête d’extraction.
 
-L’espace de travail d’Adobe (section 2.1.2.1) utilise l’API pour créer des rapports. Si vous activez le mode de débogage dans l’espace de travail, il vous affiche les appels d’API exacts utilisés. Il s’agit d’une méthode rapide pour créer vos appels d’API. En utilisant l’espace de travail pour créer et valider les données que vous souhaitez extraire, vous utilisez ensuite ces appels d’API pour extraire les données vers votre propre traitement.
+Adobe Workspace (section 2.1.2.1) utilise l’API pour créer les rapports. Si vous activez le mode de débogage dans Workspace, il vous indique les appels d’API exacts utilisés. Il s’agit d’une méthode rapide pour créer vos appels d’API. En utilisant l’espace de travail pour créer et valider les données que vous souhaitez extraire, vous utilisez ensuite ces appels d’API pour extraire les données vers votre propre traitement.
 
 
 #### 2.2.3. Data Studio de Google Analytics
@@ -267,9 +267,9 @@ Je tiens toutefois à souligner que je vous recommande d’utiliser à la fois A
 
 Au-delà de ce guide, vous disposez de nombreuses ressources qui peuvent vous aider à améliorer votre stratégie :
 
-* [Adobe Experience League](https://experienceleague.adobe.com/fr?lang=fr#home) : contient des tutoriels, des vidéos, de la documentation et des forums de la communauté.
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home) : contient des tutoriels, des vidéos, de la documentation et des forums de la communauté.
 * [Groupes d’utilisateurs Adobe](https://analytics-augs.adobe.com/) - Un hub d’événements gérés par la communauté pour aider les utilisateurs à communiquer entre eux et optimiser leurs implémentations.
-* [Chaîne YouTube des groupes d’utilisateurs Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) : vous avez manqué une session des groupes d’utilisateurs Adobe Analytics ? Regardez à nouveau les sessions précédentes des groupes dʼutilisateurs à travers le monde pour en savoir plus sur la façon dont vos pairs utilisent lʼoutil.
+* [Chaîne YouTube des groupes d’utilisateurs et utilisatrices Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) : vous avez manqué une session des groupes d’utilisateurs et utilisatrices Adobe Analytics ? Regardez à nouveau les sessions précédentes des groupes dʼutilisateurs à travers le monde pour en savoir plus sur la façon dont vos pairs utilisent lʼoutil.
 * [Canal Slack de Measure Chat](https://www.measure.chat/) : entrez en contact avec les utilisateurs Adobe Analytics du monde entier et partagez des enseignements du secteur, posez des questions à vos pairs et rejoignez des groupes d’intérêt axés sur les mesures.
 * Et bien plus encore !
 

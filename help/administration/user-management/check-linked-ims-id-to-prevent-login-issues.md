@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Un identifiant IMS lié incorrect ou manquant dans Adobe Analytics peut entraîner des problèmes de connexion pour les utilisateurs. Les utilisateurs peuvent vérifier eux-mêmes l’identifiant IMS lié et contacter le Service clientèle pour tout problème, ce qui leur évite d’avoir à effectuer les étapes de dépannage courantes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418703/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)

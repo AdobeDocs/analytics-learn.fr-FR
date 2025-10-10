@@ -1,6 +1,6 @@
 ---
-title: Présentation des Activity Map dans Adobe Analytics
-description: Découvrez Activity Map, un outil qui vous permet de visualiser les données d’activité des utilisateurs directement sur votre site web. Consultez le nombre de clics ainsi que d’autres mesures directement sur les liens de votre page.
+title: Présentation d’Activity Map dans Adobe Analytics
+description: Découvrez Activity Map, un outil qui vous aide à visualiser les données d’activité des utilisateurs directement sur votre site web. Consultez le nombre de clics ainsi que d’autres mesures directement sur les liens de votre page.
 feature: Activity Map
 thumbnail: 25451.jpg
 kt: 2349
@@ -15,10 +15,10 @@ ht-degree: 44%
 
 ---
 
-# [!UICONTROL Activity Map] - Aperçu dans Adobe Analytics
+# Présentation d’[!UICONTROL Activity Map] dans Adobe Analytics
 
-Découvrez Activity Map, un outil qui vous permet de visualiser les données d’activité des utilisateurs directement sur votre site web. Consultez le nombre de clics ainsi que d’autres mesures directement sur les liens de votre page.
+Découvrez Activity Map, un outil qui vous aide à visualiser les données d’activité des utilisateurs directement sur votre site web. Consultez le nombre de clics ainsi que d’autres mesures directement sur les liens de votre page.
 
->[!VIDEO](https://video.tv.adobe.com/v/39678/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/activity-map/activity-map).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).

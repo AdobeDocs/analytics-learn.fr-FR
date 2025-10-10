@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment enregistrer et exporter des projets pour vous-même, envoyer des projets à d’autres destinataires et inviter d’autres personnes à collaborer sur votre projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/33634/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=fr).

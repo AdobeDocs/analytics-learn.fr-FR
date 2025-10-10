@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez les différentes manières d’utiliser les mesures dans un tableau à structure libre dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/328563/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)

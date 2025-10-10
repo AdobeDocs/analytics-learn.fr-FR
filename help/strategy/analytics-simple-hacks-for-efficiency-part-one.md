@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Les autres défis majeurs auxquels sont confrontés les analystes :
 
    **Spécifications techniques**
 
-   _Cas d’utilisation :_ instructions décrivant comment créer des scripts pour la collecte de données.
+   _Cas d&#39;utilisation :_instructions décrivant comment créer des scripts pour la collecte de données
 
-   _Utilisateurs principaux :_ développeurs.
+   _Principal Users :_Developers
 
-   _Autres notes :_
+   _Autres notes :_
 
    * Document hautement technique conçu spécifiquement pour vos environnements de déploiement.
    * Utile à la fois pour l’implémenation initiale et la maintenance/référence ultérieure.
@@ -74,11 +74,11 @@ Les autres défis majeurs auxquels sont confrontés les analystes :
 
    Tableau de bord Analytics Health Dashboard (AHD) :
 
-   _Cas d’utilisation :_ instantané de chaque mesure et dimension capturée par une seule suite de rapports.
+   _Cas d’utilisation :_instantané de chaque mesure et dimension capturée par une seule suite de rapports
 
-   _Utilisateurs principaux :_ responsable SME analyses et/ou Dev.
+   _Utilisateurs en Principal :_responsable SME analyses et/ou Dev
 
-   _Autres remarques :_
+   _Autres notes :_
    * Diffusé par le biais d’Excel à l’aide d’une intégration personnalisée de l’API de création de rapports Adobe.
    * Les utilisateurs doivent disposer d’un accès à l’API de services web Analytics.
    * Des options de semi-automatisation existent.

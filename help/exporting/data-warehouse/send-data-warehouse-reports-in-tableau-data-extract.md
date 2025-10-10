@@ -16,10 +16,10 @@ ht-degree: 58%
 
 ---
 
-# Envoyer des rapports [!DNL Data Warehouse] dans l’extraction de données Tableau
+# Envoi de rapports [!DNL Data Warehouse] dans Tableau Data Extract
 
-Découvrez comment [!DNL Data Warehouse] peut envoyer des rapports au format de fichier TDE (Tableau Data Extract) pour vous permettre de démocratiser et de combiner des données provenant d’Adobe Analytics externes.
+Découvrez comment [!DNL Data Warehouse] pouvez diffuser des rapports au format de fichier TDE (Tableau Data Extract) pour vous permettre de démocratiser et d’associer les données externes à Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/export/data-warehouse/t-tableau).
+Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).

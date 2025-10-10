@@ -1,5 +1,5 @@
 ---
-title: Commencer une nouvelle visite pour n’importe quel événement dans les suites de rapports virtuelles
+title: Démarrer une nouvelle visite sur n’importe quel événement dans les suites de rapports virtuelles
 description: Cette vidéo montre comment utiliser des événements pour déclencher le début d’une nouvelle visite dans Adobe Analytics à l’aide des paramètres de visite d’une suite de rapports virtuelle.
 feature: VRS
 kt: 1663
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Commencer une nouvelle visite pour n’importe quel événement dans les suites de rapports virtuelles
+# Démarrer une nouvelle visite sur n’importe quel événement dans les suites de rapports virtuelles
 
 Cette vidéo montre comment utiliser des événements pour déclencher le début d’une nouvelle visite dans Adobe Analytics à l’aide des paramètres de visite d’une suite de rapports virtuelle.
 

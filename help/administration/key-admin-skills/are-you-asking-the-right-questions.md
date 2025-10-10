@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Posez-vous les bonnes questions ?
 
->[!VIDEO](https://video.tv.adobe.com/v/346457/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _Toutes les questions_. C’est l’une des réponses les plus fréquentes des parties prenantes à la question : _quelles données voulez-vous suivre ?_ Il peut s’avérer plus utile d’identifier et de collecter les _points de données activables_ que d’enregistrer tous les éléments possibles. L’identification efficace de ces points de données nécessite un plan de base et des discussions créatives avec les parties prenantes.
 
@@ -44,19 +44,19 @@ Les entreprises, les unités commerciales et les équipes ont une culture unique
 
 Établissez quelques principes avant la discussion. En tant qu’administrateur d’Analytics, vous devez acquérir les informations appropriées pour développer et fournir la solution idéale pour votre partenaire.
 
-### 1. Fournir un questionnaire
+### &#x200B;1. Fournir un questionnaire
 
 Envoyez une liste de questions à votre partenaire pour qu’il les examine avant la réunion de présentation. Il peut apporter des réponses directes ou simplement se familiariser avec les sujets de discussion. Vous pouvez fournir des exemples de réponses avec le questionnaire si cela clarifie davantage les attentes.
 
 Les questions varient selon les prouesses techniques ou analytiques, la structure de l’entreprise ou la complexité de la rubrique de collecte de données. Il est souvent utile de commencer à un niveau général, avec des questions sur l’ensemble de l’organisation, puis de discuter du rôle de votre partenaire dans la réalisation de ces objectifs organisationnels, et ainsi de suite pour obtenir de plus en plus de détails. Vous pouvez ensuite vous assurer que les points de données granulaires qui ont fait l’objet d’une discussion seront adaptés aux objectifs globaux de l’organisation. Cette approche vous permet également de penser de manière créative et de proposer de nouvelles idées pour les données qui soutiennent leurs objectifs.
 
-[Explorez ce modèle](assets/stakeholder-questionnaire.pdf){target="_blank"} contenant plusieurs exemples de questions pour les entretiens avec les intervenants. Réutilisez-les ou ajustez-les pour préparer les questions pertinentes à vos échanges.
+[Explorez ce modèle](assets/stakeholder-questionnaire.pdf){target="_blank"} qui contient plusieurs exemples de questions pour les entretiens avec les parties prenantes. Réutilisez-les ou ajustez-les pour préparer les questions pertinentes à vos échanges.
 
-### 2. Demander des exemples de rapports
+### &#x200B;2. Demander des exemples de rapports
 
 Votre partie prenante doit vous fournir des exemples réels ou simulés de points de données ciblés et de la manière dont ils peuvent être utilisés ou signalés. Ces rapports offrent un autre aperçu des objectifs, de l’approche et de la culture de votre partie prenante et de son état actuel ou idéal.
 
-### 3. Pas de promesse lors de la présentation
+### &#x200B;3. Pas de promesse lors de la présentation
 
 Les demandes effectuées et les idées de données discutées au cours de la présentation ne sont pas des engagements envers vos parties prenantes. L’exécution de la collecte de données comporte des niveaux de complexité que vous ne pouvez évaluer entièrement qu’après l’entretien. Vous pouvez discuter d’idées au cours d’un brainstorming créatif qui seront finalement abandonnées en raison de leur faible pertinence par rapport aux objectifs. Pour toutes ces raisons et d’autres encore, la phase de présentation n’est qu’une occasion de recueillir des idées, et non une promesse de présence de ces données dans les rapports.
 

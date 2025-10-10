@@ -18,6 +18,6 @@ ht-degree: 100%
 
 La [!DNL Time-parting] utilise l’horodatage des accès collectés et les ventile en dimensions plus significatives telles que « Heure du jour » ou « Jour de la semaine ». Ces dimensions sont prêtes à l’emploi dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/41456/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=fr).

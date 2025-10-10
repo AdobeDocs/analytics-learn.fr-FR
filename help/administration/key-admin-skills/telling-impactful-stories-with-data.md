@@ -1,6 +1,6 @@
 ---
 title: Raconter des histoires percutantes avec des données
-description: Le Data Storytelling est là où l’art et la science se retrouvent en utilisant les données, la visualisation et la narration.  L’utilisation de ces composants implique l’élaboration d’un récit avec des données significatives en trois parties. En racontant efficacement une histoire avec des données, Analytics peut devenir plus accessible à un public grandissant et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
+description: Le Data Storytelling est là où l’art et la science se retrouvent en utilisant les données, la visualisation et la narration.  L’utilisation de ces composants implique l’élaboration d’un récit avec des données significatives en trois parties. En racontant efficacement une histoire avec des données, Analytics peut devenir plus accessible à une audience grandissante et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 # Raconter des histoires percutantes avec des données
 
-Le Data Storytelling est là où l’art et la science se retrouvent en utilisant les données, la visualisation et la narration.  L’utilisation de ces composants implique l’élaboration d’un récit avec des données significatives en trois parties. En racontant efficacement une histoire avec des données, Analytics peut devenir plus accessible à un public grandissant et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
+Le Data Storytelling est là où l’art et la science se retrouvent en utilisant les données, la visualisation et la narration.  L’utilisation de ces composants implique l’élaboration d’un récit avec des données significatives en trois parties. En racontant efficacement une histoire avec des données, Analytics peut devenir plus accessible à une audience grandissante et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
 
 ## Identifier l’opportunité ou le problème
 
@@ -29,12 +29,12 @@ Commencez par définir la situation actuelle et par établir le problème ou l�
 
 Après avoir défini la situation, utilisez les données pour révéler la source du problème/de l’opportunité. Concentrez-vous sur les résultats et les variables qui expliquent le mieux la situation actuelle, plutôt que sur l’analyse et l’exploration complètes pour y parvenir.  Fournissez des visuels attrayants qui contribuent à montrer la relation entre vos variables indépendantes et dépendantes, tout en la simplifiant afin qu’elle soit facile à comprendre pour votre audience.
 
-**Adobe Workspace Tip:**
+**Conseil sur Adobe Workspace :**
 Créez des visuels simples et faciles à lire qui correspondent au type de données que vous partagez :
 
 * Utilisez des graphiques à barres pour les données catégorielles et binaires
 * Utilisez des graphiques en courbes (ou des graphiques à bulles en dehors d’Adobe) pour les données numériques
-* Utilisation de graphiques de dispersion pour démontrer les relations statistiques
+* Utiliser des graphiques de dispersion pour démontrer les relations statistiques
 
 ## Proposer une solution
 

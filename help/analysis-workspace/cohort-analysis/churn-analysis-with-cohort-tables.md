@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL Les tableaux de cohortes] offrent deux types d’analyse - [!UICONTROL Rétention] et [!UICONTROL Perte de clientèle]. Bien que la [!UICONTROL rétention] indique le nombre d’utilisateurs conservés au fil du temps, l’option [!UICONTROL Perte de clientèle] indique le nombre d’utilisateurs perdus (1 - Rétention).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430154/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).

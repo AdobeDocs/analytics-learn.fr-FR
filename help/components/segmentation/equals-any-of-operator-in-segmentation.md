@@ -1,5 +1,5 @@
 ---
-title: Utilisation de l’opérateur "equals of" dans la segmentation
+title: Utilisation de l’opérateur « égal à n’importe lequel » dans la segmentation
 description: Les opérateurs de segment Est égal à lʼun(e) de et N’est égal à aucun des ont été ajoutés au Créateur de segments. Utilisez ces opérateurs pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OR ou Contient n’importe lequel. L’utilisation de ces opérateurs à la place de Contient n’importe lequel permet également d’améliorer la vitesse des requêtes.
 feature: Segmentation
 thumbnail: 32960.jpg
@@ -15,8 +15,8 @@ ht-degree: 43%
 
 ---
 
-# Utilisation de l’opérateur &quot;equals of&quot; dans la segmentation
+# Utilisation de l’opérateur « égal à n’importe lequel » dans la segmentation
 
-Les opérateurs de segment &quot;est égal à n’importe lequel&quot; et &quot;n’est égal à aucun&quot; peuvent être utilisés pour filtrer vers une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OU ou &quot;contient n’importe lequel&quot;. L’utilisation de ces opérateurs au lieu de &quot;contient n’importe lequel&quot; contribue également à améliorer la vitesse de requête. Pour obtenir une documentation détaillée, consultez la page [Opérateurs de comparaison pour les segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr){target="_blank"}.
+Les opérateurs de segment « est égal à n’importe lequel » et « n’est égal à aucun de » peuvent être utilisés pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OR ou « contient n’importe lequel ». L’utilisation de ces opérateurs au lieu de « contient n’importe lequel » contribue également à améliorer la vitesse des requêtes. Pour consulter la documentation détaillée, voir [ Opérateurs de comparaison pour les segments ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

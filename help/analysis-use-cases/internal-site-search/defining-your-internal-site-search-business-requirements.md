@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Lorsque vous décidez dʼeffectuer le suivi de la recherche interne sur votre site, il est important de déterminer dʼabord les aspects de la recherche que vous souhaitez suivre et les actions à entreprendre après lʼanalyse des résultats. Cette vidéo explique comment documenter les besoins de lʼentreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413450/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)

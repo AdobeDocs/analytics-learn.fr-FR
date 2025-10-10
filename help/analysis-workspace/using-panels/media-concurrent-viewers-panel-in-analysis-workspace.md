@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Pour les clients Media Analytics, le panneau Observateurs simultanés de médias vous permet de déterminer où s’est produit le pic d’accès simultanés ou où des abandons ont eu lieu, ce qui vous permet de mieux comprendre la qualité du contenu et l’engagement des observateurs, ainsi que de vous aider à résoudre les problèmes ou à planifier le volume et l’échelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/342836/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=fr#analysis-workspace).

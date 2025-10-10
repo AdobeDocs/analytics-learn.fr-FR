@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Il est très important d’associer les bonnes personnes à votre équipe lorsque vous implémentez Adobe Analytics et que vous analysez l’activité sur votre site. Cette vidéo présente un aperçu rapide des différents rôles que vous souhaitez remplir.
 
->[!VIDEO](https://video.tv.adobe.com/v/31129/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)

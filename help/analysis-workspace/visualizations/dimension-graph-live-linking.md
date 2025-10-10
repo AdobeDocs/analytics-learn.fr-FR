@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Nous ne savons pas vraiment comment appeler cela, mais c’est à la fois sournois et cool. Lorsque vous créez un graphique linéaire à partir d’une valeur de dimension, vous pouvez désormais sélectionner différentes valeurs de dimension et modifier le graphique de manière dynamique. Regardez la vidéo pour en savoir plus !
 
->[!VIDEO](https://video.tv.adobe.com/v/327444/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)

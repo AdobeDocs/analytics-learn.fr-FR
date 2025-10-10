@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Les horodatages facultatifs nous permettent de mélanger les données horodatées et non horodatées dans une même suite de rapports globale, d’envoyer les données horodatées depuis une application mobile à une suite de rapports globale, puis de mettre à niveau les applications afin d’utiliser le suivi hors ligne sans avoir à créer de suite de rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418613/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez les éléments de données dans Analysis Workspace, qui permettent aux utilisateurs et utilisatrices, ainsi qu’à l’administration, de suivre et de mieux comprendre les composants dans leur environnement Analytics. Les utilisateurs et utilisatrices peuvent afficher les descriptions des composants, d’autres composants associés ou les composants approuvés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422282/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/data-dictionary/data-dictionary-overview.html?lang=fr).

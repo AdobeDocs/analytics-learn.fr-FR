@@ -1,6 +1,6 @@
 ---
 title: Utiliser des dimensions dans les mesures calculées
-description: Des Dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesures calculées afin de limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
+description: Les dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesure calculée pour limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
 feature: Calculated Metrics
 kt: 1904
 role: User
@@ -15,10 +15,10 @@ ht-degree: 22%
 
 # Utiliser des dimensions dans les mesures calculées {#using-dimensions-in-calculated-metrics}
 
-Des Dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesures calculées afin de limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
+Les dimensions sont disponibles dans le créateur de mesures calculées et peuvent être ajoutées à n’importe quelle formule de mesure calculée pour limiter la nouvelle mesure à une dimension ou à une valeur de dimension.
 
->[!VIDEO](https://video.tv.adobe.com/v/37462/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-Cette fonctionnalité simplifie le processus de création et d’utilisation de segments dans les mesures calculées.
+Cette fonctionnalité simplifie le workflow de création et d’utilisation des segments dans les mesures calculées.
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=fr).

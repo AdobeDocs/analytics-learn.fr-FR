@@ -18,7 +18,7 @@ ht-degree: 92%
 
 # Créer un site Adobe Analytics interne (Confluence ou autre)
 
-**QUOI :** Si vous avez suivi la recommandation dans [cette astuce](create-basic-videos-and-training.md){target="_blank"} pour créer des documents de formation, vous ne pouvez évidemment pas les conserver sur votre disque dur. Créez un emplacement central où tous vos utilisateurs peuvent les partager et les consulter, un site Adobe Analytics interne (Confluence ou autre) où vous pouvez publier tous ces documents et gérer différentes versions.
+**QUOI :** si vous avez suivi la recommandation dans [cette astuce](create-basic-videos-and-training.md){target="_blank"} pour créer des documents de formation, vous ne pouvez évidemment pas les conserver sur votre disque dur. Créez un emplacement central où tous vos utilisateurs peuvent les partager et les consulter, un site Adobe Analytics interne (Confluence ou autre) où vous pouvez publier tous ces documents et gérer différentes versions.
 
 **POURQUOI :** la configuration d’un référentiel partagé unique vous donnera un emplacement pour diriger tous les nouveaux utilisateurs et vous offrira une source unique de vérité concernant les dernières versions de tous vos documents. Cela permet une gestion et une collaboration optimales des versions.
 

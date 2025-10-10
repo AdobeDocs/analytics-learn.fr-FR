@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Découvrez les cas d’utilisation et les considérations techniques relatives à l’utilisation de l’éditeur de code personnalisé lors de la configuration de l’extension Adobe Analytics dans [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/327656/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
 Consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=fr) pour plus d’informations sur la <i>fonction doPlugins</i> référencée dans cette vidéo.

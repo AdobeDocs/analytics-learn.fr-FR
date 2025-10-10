@@ -1,6 +1,6 @@
 ---
 title: Présentation des variables de conversion (eVars)
-description: Découvrez comment les variables de conversion, également appelées eVars, sont utilisées dans Adobe Analytics, y compris la manière dont elles sont liées aux événements de conversion et diffèrent des variables de trafic.
+description: Découvrez comment les variables de conversion, également appelées eVars, sont utilisées dans Adobe Analytics, notamment en quoi elles sont liées aux événements de conversion et diffèrent des variables de trafic.
 feature: Dimensions
 kt: 3577
 role: User
@@ -16,8 +16,8 @@ ht-degree: 19%
 
 # Présentation des variables de conversion ([!DNL eVars])
 
-Découvrez comment les variables de conversion, également appelées [!DNL eVars], sont utilisées dans Adobe Analytics, y compris la manière dont elles se rapportent aux événements de conversion et diffèrent des variables de trafic.
+Découvrez comment les variables de conversion, également appelées [!DNL eVars], sont utilisées dans Adobe Analytics, y compris la manière dont elles sont liées aux événements de conversion et diffèrent des variables de trafic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429020/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=fr).

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment copier et insérer des panneaux et des visualisations dans Analysis Workspace. Il s’agit de techniques qui vous permettent de gagner du temps pour affiner un projet en cours ou pour démarrer un nouveau projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/39122/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)

@@ -21,6 +21,6 @@ ht-degree: 99%
 
 Dans cette vidéo, nous vous expliquons comment tirer profit dʼAnalysis Workspace afin de créer automatiquement des requêtes API 2.0. Grâce au débogage de lʼinterface utilisateur, vous pouvez copier et coller directement des requêtes JSON dans nʼimporte quel client API pour renvoyer des données [!DNL Analytics]. Vous pouvez désormais activer le débogueur plus facilement en accédant à Aide de l’espace de travail > Activer le débogueur.
 
->[!VIDEO](https://video.tv.adobe.com/v/328321/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

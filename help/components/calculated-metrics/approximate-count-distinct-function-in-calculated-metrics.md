@@ -1,6 +1,6 @@
 ---
-title: Fonction Nombre distinct approximatif dans les mesures calculées
-description: Découvrez comment créer une mesure calculée à l’aide de la fonction Approximate Count Distinct (Nombre distinct approximatif), qui renvoie le nombre distinct approximatif d’éléments de dimension pour une dimension sélectionnée.
+title: Fonction Nombre approximatif d’éléments distincts dans les mesures calculées
+description: Découvrez comment créer une mesure calculée à l’aide de la fonction Nombre approximatif d’éléments distincts, qui renvoie le nombre approximatif d’éléments de dimension distincts pour une dimension sélectionnée.
 feature: Calculated Metrics
 kt: 1910
 role: User
@@ -13,10 +13,10 @@ ht-degree: 0%
 
 ---
 
-# Fonction Nombre distinct approximatif dans les mesures calculées {#approximate-count-distinct-function-in-calculated-metrics}
+# Fonction Nombre approximatif d’éléments distincts dans les mesures calculées {#approximate-count-distinct-function-in-calculated-metrics}
 
-Découvrez comment créer une mesure calculée à l’aide de la fonction Approximate Count Distinct (Nombre distinct approximatif), qui renvoie le nombre distinct approximatif d’éléments de dimension pour une dimension sélectionnée.
+Découvrez comment créer une mesure calculée à l’aide de la fonction Nombre approximatif d’éléments distincts, qui renvoie le nombre approximatif d’éléments de dimension distincts pour une dimension sélectionnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/37467/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-Vous pouvez utiliser la mesure affichée dans cette vidéo dans n’importe quel rapport pour comprendre le nombre d’une dimension par rapport aux valeurs d’une autre. Un cas d’utilisation très courant consiste à utiliser cette fonction pour créer une mesure ID de client, que vous pouvez ensuite utiliser dans n’importe quel rapport pour voir combien de clients appliquent aux différentes valeurs de dimension.
+Vous pouvez utiliser la mesure affichée dans cette vidéo dans n’importe quel rapport pour comprendre le décompte d’une dimension par rapport aux valeurs des autres. Un cas d’utilisation très courant consiste à utiliser cette fonction pour créer une mesure d’ID de client, que vous pouvez ensuite utiliser dans n’importe quel rapport pour voir le nombre de clients qui s’appliquent aux différentes valeurs de dimension.

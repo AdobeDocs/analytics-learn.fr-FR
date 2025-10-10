@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Regardez des extraits de la « super session » Voyage et hébergement du [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330391/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)

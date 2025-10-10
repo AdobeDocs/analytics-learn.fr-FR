@@ -12,7 +12,7 @@ exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '1802'
-ht-degree: 99%
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ Avant de commencer, [téléchargez le guide](assets/aa-implementation-playbook.x
 
 **QUOI :** le document sur les exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de création de rapports et tout point de données que vous souhaitez observer une fois l’implémentation d’Adobe Analytics terminée.
 
-**POURQUOI :** ce document sert de point de départ pour la documentation qui suit (SDR, spécification technique, etc.) et constitue une source commune de vérité d’un état final convenu d’Adobe Analytics. Ce document rassemble les réflexions des différentes équipes au sein de l’organisation afin d’établir une ligne directrice en vue de votre implémentation ou de son amélioration.
+**POURQUOI :** sert de point de départ pour la documentation qui suit (SDR, spécification technique, etc.) et constitue une source commune de vérité pour un état final convenu d’Adobe Analytics. Ce document rassemble les réflexions des différentes équipes au sein de l’organisation afin d’établir une ligne directrice en vue de votre implémentation ou de son amélioration.
 
 **COMMENT :** les utilisateurs professionnels finaux d’Adobe Analytics se chargent généralement de documenter les exigences commerciales. Toutefois, il est important d’obtenir des commentaires de la part des utilisateurs techniques, car des défis techniques peuvent se présenter et certains points de données peuvent demander plus d’efforts que d’autres, ce qui permet d’établir des priorités.
 
@@ -44,7 +44,7 @@ Enfin, la colonne Statut de l’implémentation servira à vérifier le statut d
 
 **POURQUOI :** ce document servira à plusieurs fins, mais il se destine principalement à :
 
-* Aider toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.). Celle-ci disposera d’un panorama complet de toutes les variables implémentées et de leur finalité. Ainsi, chacun peut se familiariser avec votre configuration d’Adobe Analytics à son gré et selon ses besoins.
+* Pour toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.), ce document offre une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les individus puissent se familiariser avec votre configuration d’Adobe Analytics en libre-service.
 * Pour le propriétaire du produit Adobe Analytics ou l’utilisateur technique, ce document sert de rappel de la manière dont les autres variables sont configurées et des variables disponibles pour l’ajout d’une nouvelle dimension.
 
 **COMMENT :** commencez par répertorier dans un document Excel toutes les variables Adobe prêtes à l’emploi (page, produit, zone géographique, etc.), ainsi que les eVars, props, événements et variables de liste. Celui-ci doit comporter un onglet par site/suite de rapports.
@@ -101,7 +101,7 @@ Il est recommandé de garder ce document aussi simple que possible et de ne pas 
 >
 >Créez une dimension de nom/propriété de site dans Adobe Analytics. Avoir une dimension dédiée (généralement une eVar) dans Adobe Analytics qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer des suites de rapports virtuelles, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
 
-[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target="_blank"} pour plus d’informations sur le remplissage du manuel de mise en oeuvre.
+[Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target="_blank"} pour plus d’informations sur le remplissage du guide d’implémentation.
 
 ## Auteurs
 

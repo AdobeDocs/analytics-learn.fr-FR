@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment ajouter et configurer la visualisation en anneau dans votre projet Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416624/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/donut.html?lang=fr).

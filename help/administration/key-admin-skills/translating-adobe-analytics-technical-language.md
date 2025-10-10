@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Traduire le langage technique Adobe Analytics en un langage accessible à tous
 
->[!VIDEO](https://video.tv.adobe.com/v/345323/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Parler différents langages
 
@@ -34,7 +34,7 @@ Par exemple, voici ma manière préférée d’expliquer les eVars et les métho
 >[!TIP]
 >
 >**Nommez clairement les composants (c’est-à-dire les dimensions, les segments et les mesures) à l’aide de descriptions.**
->Le partage du dictionnaire de données des eVars et des props est toujours une étape pertinente vers la démocratisation des données de votre organisation, mais ne vous attendez pas à ce qu’un utilisateur ordinaire mémorise toutes les variables personnalisées et leur utilisation prévue par index/nombre. Dans Adobe Workspace, faites plutôt en sorte que les noms des composants soient descriptifs avec des balises et des descriptions significatives. Cela permet à vos utilisateurs de trouver rapidement la mesure appropriée parmi vos centaines d’eVars et un nombre infini de mesures/segments.
+>>Le partage du dictionnaire de données des eVars et des props est toujours une étape pertinente vers la démocratisation des données de votre organisation, mais ne vous attendez pas à ce qu’un utilisateur ordinaire mémorise toutes les variables personnalisées et leur utilisation prévue par index/nombre. Dans Adobe Workspace, faites plutôt en sorte que les noms des composants soient descriptifs avec des balises et des descriptions significatives. Cela permet à vos utilisateurs de trouver rapidement la mesure appropriée parmi vos centaines d’eVars et un nombre infini de mesures/segments.
 
 ## Conseil n°2 : cherchez un langage commun
 
@@ -45,7 +45,7 @@ Chez [!DNL The Home Depot], un(e) vendeur/vendeuse ou un(e) responsable de bouti
 >[!TIP]
 >
 >**Faites en sorte que la mise en œuvre reflète ce langage commun.**
->À peu près tout dans l’interface utilisateur d’Adobe Analytics est personnalisable. Si votre entreprise appelle les paniers des sacs, vous pouvez renommer l’événement Panier en événement Sac.
+>>À peu près tout dans l’interface utilisateur d’Adobe Analytics est personnalisable. Si votre entreprise appelle les paniers des sacs, vous pouvez renommer l’événement Panier en événement Sac.
 >
 >Pensez à créer votre propre vocabulaire contrôlé pour votre organisation si vous tombez sur plusieurs synonymes ou s’il existe des termes qui perturbent vos utilisateurs. Prenez l’initiative de normaliser la terminologie préférée. Et passez en revue les termes déroutants les plus courants dans vos sessions d’intégration et d’activation pour aider les utilisateurs à s’acclimater.
 
@@ -58,7 +58,7 @@ Chez [!DNL The Home Depot], nous avons accueilli un défi Adobe Analytics au co
 >[!TIP]
 >
 >**Créez des modèles d’espace de travail spécifiques à une solution annotée et des conseils associés.**
->Utilisez les rapports (modèles) de l’entreprise et des visualisations textuelles dans Analysis Workspace pour créer des guides contextuels qui aideront vos rock stars à rester sur la bonne voie.
+>>Utilisez les rapports (modèles) de l’entreprise et des visualisations textuelles dans Analysis Workspace pour créer des guides contextuels qui aideront vos rock stars à rester sur la bonne voie.
 >
 >La flexibilité d’Analysis Workspace vous permet de créer des modèles pour une analyse plus rapide et d’activer le libre-service et l’activation automatique. En associant des fonctionnalités telles que les modèles organisés, les annotations et les liaisons des espaces de travail, vous disposez d’un excellent moyen de créer des conseils efficaces, accessibles et faciles à diffuser pour les utilisateurs n’ayant pas de profil technique dans le contexte d’Adobe Analytics.
 

@@ -1,6 +1,6 @@
 ---
 title: Création d’une table des matières dans Analysis Workspace
-description: Découvrez la table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs de passer rapidement aux panneaux et aux visualisations dans le projet.
+description: Découvrez la Table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs et aux utilisatrices d’accéder rapidement aux panneaux et aux visualisations dans le projet.
 feature: Panels
 doc-type: feature video
 team: Technical Marketing
@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # Création d’une table des matières dans Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Découvrez la table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs de passer rapidement aux panneaux et aux visualisations dans le projet. Pour obtenir une documentation détaillée, consultez la [table des matières du projet](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Découvrez la Table des matières dans Analysis Workspace, qui fournit des liens permettant aux utilisateurs et aux utilisatrices d’accéder rapidement aux panneaux et aux visualisations dans le projet. Pour consulter la documentation détaillée, voir [Table des matières du projet](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/35025/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

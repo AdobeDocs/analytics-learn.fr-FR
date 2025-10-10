@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment booster votre analyse de répartition du temps en créant une [!UICONTROL visualisation] de carte thermique des comportements.
 
->[!VIDEO](https://video.tv.adobe.com/v/35002/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

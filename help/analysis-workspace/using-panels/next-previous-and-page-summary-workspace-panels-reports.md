@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Nous avons ajouté deux nouveaux types de panneaux à Analysis Workspace : Suivant/précédent et Résumé de la page. Ils sont également intégrés aux rapports prêts à l’emploi. Grâce à ces ajouts, certains des rapports Reports &amp; Analytics les plus populaires sont désormais disponibles sur Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/346418/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)

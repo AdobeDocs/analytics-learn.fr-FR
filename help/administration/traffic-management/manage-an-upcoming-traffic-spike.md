@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe fait le nécessaire pour créer des partenariats avec les clients afin de s’assurer qu’un événement à trafic élevé est réussi. La planification des pics de trafic est le point de départ de ce processus de partenariat. La section Prévoir les pics vous permet de signaler des pics de trafic temporaires à Adobe, de telle sorte que des ressources suffisantes puissent être allouées pour leur traitement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418698/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)

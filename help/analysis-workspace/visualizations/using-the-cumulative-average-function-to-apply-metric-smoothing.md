@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Plus une mesure s’affiche en tendance pendant longtemps, plus il est difficile de déterminer les tendances directionnelles pour cette mesure. Pour résoudre ce problème, la fonction Moyenne cumulée des mesures calculées peut être utilisée pour appliquer un lissage aux mesures dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/35044/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)

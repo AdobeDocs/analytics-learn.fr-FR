@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Cette vidéo fournit une description conceptuelle des mesures de base se rapportant aux visiteurs dans Adobe Analytics et de la manière dont elles sont liées les unes aux autres. Vous découvrirez également plusieurs exemples de cas dʼutilisation pour savoir quand utiliser les mesures Vues de page, Visites et Visiteurs uniques dans les rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437865/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
 Pour plus dʼinformations dans la documentation, voir [Vues de page](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=fr), [Visites](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=fr) et [Visiteurs uniques](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=fr).

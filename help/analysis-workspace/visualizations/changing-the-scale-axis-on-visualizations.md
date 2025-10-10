@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo montre comment modifier facilement l’échelle (ou les limites de l’axe) de l’axe Y sur un graphique [!UICONTROL linéaire] dans Analysis Workspace afin qu’il soit plus difficile pour vous et d’autres personnes de mal comprendre les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/41446/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Découvrez comment fonctionnent les données d’entrée des affichages publicitaires et des clics publicitaires Advertising Cloud avec les [!UICONTROL canaux marketing] Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/40423/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)

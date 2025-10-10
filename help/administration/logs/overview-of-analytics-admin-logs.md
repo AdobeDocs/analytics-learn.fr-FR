@@ -21,4 +21,4 @@ ht-degree: 100%
 Fichiers journaux permettant de savoir quand se connectent les utilisateurs, leur utilisation, l’accès, les suites de rapports et les modifications administratives. Le journal d’administration consigne toutes les modifications effectuées par les administrateurs dans les outils d’administration. Ce journal fournit une passerelle vers des rapports définis par l’utilisateur depuis n’importe lequel des trois journaux.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3418523/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335735/?quality=12&learn=on)
