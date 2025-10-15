@@ -4,9 +4,9 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: ff729de74f29a07316140459a52f589dac7db198
+source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
 workflow-type: tm+mt
-source-wordcount: '2167'
+source-wordcount: '2172'
 ht-degree: 88%
 
 ---
@@ -335,6 +335,7 @@ ht-degree: 88%
       + [Utilisation du créateur de règles de classification](components/classifications/using-the-classification-rule-builder.md)
       + [Présentation des ensembles de classifications](components/classifications/introduction-to-classification-sets.md)
       + [Utiliser des ensembles de classifications](components/classifications/use-classification-sets.md)
+      + [Méthodes d’importation de données d’ensembles de classifications](components/classifications/classification-sets-data-import-methods.md)
    + Suites de rapports virtuelles {#virtual-report-suites}
       + [Vue d’ensemble des suites de rapports virtuelles](components/virtual-report-suites/virtual-report-suites.md)
       + [Traitement des composants](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
