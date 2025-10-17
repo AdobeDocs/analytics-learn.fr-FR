@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -173,7 +173,7 @@ ht-degree: 88%
       + [Présentation des variables de trafic (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Présentation des variables de conversion (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [Utilisation des dimensions dans un tableau à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=fr)
-   + Calendrier et plages de dates {#calendar-and-date-ranges}
+   + Calendrier et périodes {#calendar-and-date-ranges}
       + [Utilisation de dates dans Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Application de périodes réutilisables dans votre projet](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Utilisation de périodes et de comparaisons dans Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [Présentation des ensembles de classifications](components/classifications/introduction-to-classification-sets.md)
       + [Utiliser des ensembles de classifications](components/classifications/use-classification-sets.md)
       + [Méthodes d’importation de données d’ensembles de classifications](components/classifications/classification-sets-data-import-methods.md)
+      + [Historique des tâches des jeux de classifications](components/classifications/classification-sets-job-history.md)
    + Suites de rapports virtuelles {#virtual-report-suites}
       + [Vue d’ensemble des suites de rapports virtuelles](components/virtual-report-suites/virtual-report-suites.md)
       + [Traitement des composants](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -421,7 +422,7 @@ ht-degree: 88%
    + Mesure de Media Analytics {#measuring-media-analytics}
       + [Panneau Temps de lecture de média](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Utilisation du modèle de consommation audio dans Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Analyse d’applications mobiles {#mobile-app-analytics}
++ Analyses des applications mobiles {#mobile-app-analytics}
    + Implémentation {#implementation}
       + [Paramètres administrateurs pour les applications mobiles](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Initialisation et affichage des mesures de cycle de vie avec le SDK Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
