@@ -20,6 +20,6 @@ ht-degree: 11%
 
 Découvrez différentes méthodes d’importation de données de classification avec des jeux de classifications, ainsi que certains cas d’utilisation associés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475830/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/components/classifications/sets/overview){target="_blank"}.

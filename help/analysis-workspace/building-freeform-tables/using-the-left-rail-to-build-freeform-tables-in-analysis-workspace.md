@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser le rail de gauche dans Analysis Workspace pour rechercher, créer et ajouter des éléments aux tableaux à structure libre.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475910/?captions=fre_fr&quality=12&learn=on)
