@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Cette vidéo vous aide à comprendre ce que sont les [!UICONTROL suites de rapports] et vous montre comment les créer dans lʼinterface, afin que vous puissiez suivre et optimiser le trafic qui arrive sur votre site.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424565/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)

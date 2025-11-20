@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Des améliorations ont été apportées à la publication d’audiences avec Experience Cloud. Vous pouvez désormais publier des audiences ([!UICONTROL segments]) et les rendre disponibles six fois plus rapidement, ce qui réduit le temps de latence actuel de 48 heures à environ 8 heures, voire plus rapidement, en fonction du trafic et de la taille du [!UICONTROL segment].
 
->[!VIDEO](https://video.tv.adobe.com/v/36929/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 En outre, le nombre de [!UICONTROL segments] pouvant être publiés simultanément est passé de 20 à 75 par [!UICONTROL suite de rapports].
 Pour plus d’informations, consultez la section [Publication de segments dans Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=fr) dans l’aide d’Analytics.
