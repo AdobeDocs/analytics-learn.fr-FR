@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Adobe Analytics vous permet de créer des « suites de rapports virtuelles » pour vos utilisateurs, qui segmentent vos données et limitent les utilisateurs/groupes aux segments de données autorisés uniquement. Cette vidéo vous explique comment créer et utiliser des suites de rapports virtuelles. Pour consulter la documentation détaillée, consultez [Présentation des suites de rapports virtuelles](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476973/?captions=fre_fr&quality=12&learn=on)
 
