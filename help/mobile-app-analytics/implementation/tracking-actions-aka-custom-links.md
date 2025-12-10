@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
 
 Les actions désignent des événements qui se produisent dans votre application mobile. Dans cette vidéo, découvrez comment utiliser l’API trackAction afin de suivre et mesurer une action.
 
->[!VIDEO](https://video.tv.adobe.com/v/328312/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 Il s’agit de l’API à utiliser pour effectuer le suivi de toutes les actions sans chargement d’écran sur votre site. Si l’écran apparaît, utilisez trackState pour déclencher un accès de page vue. Sinon, utilisez trackAction pour envoyer des variables associées à l’action en cours.
 

@@ -8,10 +8,10 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 99%
@@ -22,6 +22,6 @@ ht-degree: 99%
 
 Les états représentent des écrans ou des vues dans votre application. Chaque fois quʼun nouvel état sʼaffiche dans votre application, par exemple lorsquʼun utilisateur navigue de la page dʼaccueil au fil dʼactualités, `trackState` peut être appelé pour envoyer le nom de lʼétat (nom de page dans [!DNL Analytics]), ainsi que des données supplémentaires. Cette vidéo vous explique comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/328313/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 Pour plus dʼinformations sur trackState, consultez la [documentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics).

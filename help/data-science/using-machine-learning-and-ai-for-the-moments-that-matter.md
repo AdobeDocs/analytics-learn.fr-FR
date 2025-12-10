@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2340
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8b59b6d3-3754-464d-ac87-7b57ce442676
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 L’intelligence client n’a jamais été aussi prometteuse. Mais rassembler des données qui peuvent être utiles aux utilisateurs de l’entreprise dans l’ensemble de l’organisation — et saisir les tendances importantes dans le temps pour agir sur ces données — n’est pas quelque chose que même une équipe avancée de science des données peut gérer seule. L’utilisation des données que vous collectez déjà à votre avantage est le point fort des fonctionnalités d’Adobe Sensei AI et du machine learning dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/328329/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)

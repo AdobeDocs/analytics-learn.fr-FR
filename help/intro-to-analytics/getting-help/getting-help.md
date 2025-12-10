@@ -3,10 +3,10 @@ title: Aide pour Adobe Analytics
 description: À un moment donné, nous aurons tous besoin d’aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
 feature: Analytics Basics
 kt: 3568
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 À un moment donné, nous aurons tous besoin d’aide avec Adobe Analytics. Cette vidéo vous montre quelques-unes des grandes ressources qui sont à portée de main lorsque vous rencontrez un obstacle et que vous avez besoin d’aide.
 
->[!VIDEO](https://video.tv.adobe.com/v/31125/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)

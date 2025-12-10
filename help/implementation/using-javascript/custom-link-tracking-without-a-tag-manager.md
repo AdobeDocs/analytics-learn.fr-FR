@@ -7,13 +7,13 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,7 +32,7 @@ Deux fonctions envoient des données dans Adobe Analytics :
 >
 >Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/34476/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Exemple de code {#sample-code}
 

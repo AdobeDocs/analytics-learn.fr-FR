@@ -4,10 +4,10 @@ description: Découvrez comment publier le code d’analyse de votre site dans d
 feature: Tags
 topics: Development
 kt: 3595
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment publier le code d’analyse de votre site dans des [!DNL tags] Experience Platform, du développement à la production, en passant par l’évaluation. Découvrez également comment configurer les suites de rapports pour recevoir les données appropriées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429985/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
