@@ -18,4 +18,4 @@ ht-degree: 83%
 
 Découvrez comment configurer les paramètres des variables globales dans l’extension Analytics [!DNL tags]. Pour consulter la documentation détaillée, voir Présentation de l’extension Adobe Analytics [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427923/?captions=fre_fr&quality=12&learn=on)

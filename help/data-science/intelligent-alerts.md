@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Grâce aux [!DNL Intelligent Alerts], la [!UICONTROL détection des anomalies] s’active directement dans votre boîte de réception ou sur votre téléphone. Savoir immédiatement quand des modifications importantes ont été apportées à vos mesures et segments clés signifie qu’aucune opportunité n’a été manquée.
 
->[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40922/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=fr).

@@ -25,6 +25,6 @@ ht-degree: 27%
 
 La création de rapports [!UICONTROL Utilisation des appels au serveur] vous permet de connaître à n’importe quel moment le nombre exact d’engagements d’appel au serveur que vous avez utilisé. Cela vous alerte également de manière proactive lorsque la limite de votre nombre d’engagements total est bientôt atteinte.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39109/?captions=fre_fr&quality=12&learn=on)
 
 Il peut s’avérer difficile de rester à jour en ce qui concerne la consommation d’appels au serveur de votre entreprise, ce qui peut entraîner une frustration liée aux dépassements. Grâce à la création de rapports [!UICONTROL &#x200B; Utilisation des appels au serveur &#x200B;], vous pouvez connaître à n’importe quel moment le nombre exact d’engagements d’appel au serveur que vous avez utilisé. Cela vous alerte également de manière proactive lorsque la limite de votre nombre d’engagements total est bientôt atteinte. Le tableau de bord qui l’accompagne vous permet d’analyser où sont utilisés vos appels au serveur. Vous pouvez ainsi corriger les implémentations incontrôlées ou travailler avec des collègues pour réduire les volumes de données moins importantes qui peuvent être collectées.

@@ -21,7 +21,7 @@ ht-degree: 65%
 
 Cette vidéo montre comment utiliser le [!UICONTROL suivi du journal d’utilisation] sur les projets [!DNL Workspace], ce qui peut vous aider à mieux comprendre l’utilisation d’Adobe Analytics par vos utilisateurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33173/?captions=fre_fr&quality=12&learn=on)
 
 Les options de suivi [!DNL Workspace] incluent :
 

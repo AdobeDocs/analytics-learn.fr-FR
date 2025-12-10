@@ -22,4 +22,4 @@ Cette vidéo explique comment utiliser une extension spéciale de chaîne de pro
 >
 > Launch s’appelle désormais **[!DNL tags]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31107/?captions=fre_fr&quality=12&learn=on)

@@ -32,7 +32,7 @@ Deux fonctions envoient des données dans Adobe Analytics :
 >
 >Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34476/?captions=fre_fr&quality=12&learn=on)
 
 ## Exemple de code {#sample-code}
 

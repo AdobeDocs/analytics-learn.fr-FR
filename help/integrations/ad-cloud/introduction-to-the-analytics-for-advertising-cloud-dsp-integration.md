@@ -19,4 +19,4 @@ ht-degree: 0%
 
 L’intégration de DSP [!DNL Adobe Advertising] est une intégration bidirectionnelle native entre Adobe Analytics et Adobe Advertising DSP. Cette intégration capture les `Viewthroughs` des impressions d’annonces Advertising dans [!DNL Analytics]. [!DNL Analytics] connecte `Viewthroughs` à toutes les activités du site en aval, telles que les `Clickthroughs`. [!DNL Analytics] renvoie les [!DNL metrics] au [!DNL Advertising DSP] pour alimenter des modèles d’offres algorithmiques avancés. Cette vidéo présente la mesure `Viewthrough`, les avantages de l’intégration, ainsi que des exemples de base de l’utilisation des [!UICONTROL dimensions] et [!UICONTROL mesures] dans [!UICONTROL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327663/?captions=fre_fr&quality=12&learn=on)

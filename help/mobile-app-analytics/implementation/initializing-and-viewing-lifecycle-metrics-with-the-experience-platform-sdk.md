@@ -22,6 +22,6 @@ ht-degree: 99%
 
 Les [!UICONTROL mesures] de [!UICONTROL cycle de vie] sont des informations précieuses et prêtes à lʼemploi sur lʼutilisateur de votre application. Ces [!UICONTROL mesures] contiennent des informations sur le cycle de vie de lʼutilisateur de lʼapplication, telles que les informations sur lʼappareil, les informations dʼinstallation ou de mise à niveau, le début de session et les temps de pause, etc. Dans cette vidéo, découvrez comment configurer les [!UICONTROL mesures] de [!UICONTROL cycle de vie] dans votre application et comment afficher les résultats dans un débogueur.
 
->[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328297/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur les [!UICONTROL mesures] de [!UICONTROL cycle de vie], consultez la [documentation](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).

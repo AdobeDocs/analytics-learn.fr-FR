@@ -41,4 +41,4 @@ Pour afficher la balise ainsi que toutes les autres informations relatives à An
 
 Regardez la vidéo ci-dessous pour plus dʼinformations.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40894/?captions=fre_fr&quality=12&learn=on)
