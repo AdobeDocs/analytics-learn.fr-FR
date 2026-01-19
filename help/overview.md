@@ -9,9 +9,9 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '244'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Tirez le meilleur parti d’[!DNL Adobe Analytics]. Utilisez ces tutoriels pour 
 
 Pour démarrer,
 
-* Consultez la section **« Nouveautés »** ci-dessous pour prendre connaissance des dernières informations et fonctionnalités.
+* Consultez la section **« Nouveautés »** ci-dessous pour prendre connaissance des dernières informations et fonctionnalités.
 * **La sélection du personnel** met en évidence certains de nos contenus préférés.
 * Découvrez le contenu par rubrique et sous-rubrique dans le **volet de navigation de gauche**.
 * Utilisez le champ **recherche** en haut de la page si vous savez ce que vous souhaitez apprendre.
