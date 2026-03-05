@@ -4,10 +4,10 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
-workflow-type: ht
-source-wordcount: '2176'
-ht-degree: 100%
+source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+workflow-type: tm+mt
+source-wordcount: '2177'
+ht-degree: 99%
 
 ---
 
@@ -362,7 +362,7 @@ ht-degree: 100%
       + [Envoyer une requête Entrepôt de données via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Envoyer des rapports de l&#39;entrepôt des données au format Tableau Data Extract](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Flux de données {#data-feeds}
-      + [Interface d’utilisation de gestion des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
+      + [Créer et gérer des flux de données](exporting/data-feeds/data-feeds-management-ui.md)
       + [Téléchargement de la clé d’authentification du flux de données](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Recherche de votre identifiant de flux de données](exporting/data-feeds/find-your-data-feed-id.md)
       + [Nouvelle exécution d’une tâche de flux de données](exporting/data-feeds/rerun-a-data-feed-job.md)
