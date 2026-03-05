@@ -18,7 +18,7 @@ ht-degree: 57%
 
 # Créer et gérer des [!UICONTROL flux de données] {#data-feeds-management-ui}
 
-Le [!UICONTROL flux de données] d’Adobe Analytics vous permet d’exporter des données brutes de parcours de navigation pour les importer et les fusionner avec d’autres sources de données en dehors d’Adobe Analytics. Vous pouvez créer et gérer vos propres [!UICONTROL  flux de données ] dans Adobe Analytics. Regardez cette vidéo pour découvrir comment procéder.
+Le [!UICONTROL flux de données] d’Adobe Analytics vous permet d’exporter des données brutes de parcours de navigation pour les importer et les fusionner avec d’autres sources de données en dehors d’Adobe Analytics. Vous pouvez créer et gérer vos propres [!UICONTROL &#x200B; flux de données &#x200B;] dans Adobe Analytics. Regardez cette vidéo pour découvrir comment procéder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
