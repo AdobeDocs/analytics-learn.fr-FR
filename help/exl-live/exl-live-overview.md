@@ -5,16 +5,15 @@ type: Event
 role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
-hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
 
 ---
 
-# Experience League LIVE
+# Experience League LIVE
 
 ## Rejoignez-nous pour le prochain épisode !
 
@@ -76,7 +75,7 @@ Avez-vous manqué un épisode d’Experience League LIVE ? Tout est pardonné. 
 
 <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
+      <img height="225" width="400" alt="Experience League LIVE" src="assets/exl-live-after2.jpg" />
     </a>
      <div>
           <strong>Invités</strong> : <i>Eric Matisoff et Dasha Fitzpatrick</i>
@@ -93,4 +92,4 @@ Avez-vous manqué un épisode d’Experience League LIVE ? Tout est pardonné. 
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
