@@ -4,7 +4,7 @@ user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et a
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
 workflow-type: tm+mt
 source-wordcount: '2177'
 ht-degree: 99%
@@ -448,6 +448,6 @@ ht-degree: 99%
       + [Mappage de variables SDK Web dans Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [Configuration des rapports de recherche interne au site](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuration de l’analyse de code postal dans le marché](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Programme Analytics University](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [Le module Fondamentaux d’Analytics pour les utilisateurs professionnels a été supprimé.](retired-courses/retire-fundamentals-for-business-users-course.md)
++ {hide-from-toc}[Programme Analytics University](analytics-university/curriculum.md)
++ {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
++ {hide-from-toc}[Le module Fondamentaux dʼAnalytics pour les utilisateurs professionnels a été supprimé](retired-courses/retire-fundamentals-for-business-users-course.md)
