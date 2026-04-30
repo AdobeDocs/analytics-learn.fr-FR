@@ -3,11 +3,13 @@ user-guide-title: Tutoriels Adobe Analytics
 user-guide-description: Regardez des tutoriels vidéo pour Adobe Analytics et apprenez à tirer le meilleur parti de vos données.
 breadcrumb-title: Tutoriels Analytics
 solution: Analytics
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
-source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
+source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
-source-wordcount: '2177'
-ht-degree: 99%
+source-wordcount: 2607
+ht-degree: 96%
 
 ---
 
@@ -38,7 +40,7 @@ ht-degree: 99%
       + [Fonctionnement de la collecte des données Analytics](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Connexion à Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Présentation et création de suites de rapports](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Présentation des mesures de base des visiteurs et visiteuses](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=fr)
+      + [Comprendre les mesures de base des visiteurs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=fr)
       + [Présentation des variables de trafic (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=fr)
       + [Présentation des variables de conversion (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=fr)
       + [Présentation des événements de conversion](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=fr)
@@ -91,7 +93,7 @@ ht-degree: 99%
       + [Panneau Quick Insights dans Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilisation du panneau Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=fr)
       + [Panneau Observateurs simultanés de médias dans Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Panneau Temps de lecture de médias](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=fr)
+      + [Panneau Temps de lecture de média](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=fr)
       + [Utiliser les filtres déroulants](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilisation des panneaux pour organiser vos projets Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Sélection de segments pour un panneau](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
@@ -107,9 +109,9 @@ ht-degree: 99%
       + [Paramètres de ligne et de colonne dans les tableaux à structure libre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Totaux des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Utiliser le créateur de tableaux à structure libre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Clic avec le bouton droit pour optimiser l’efficacité de Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=fr)
+      + [Clic avec le bouton droit de la souris pour optimiser l’efficacité de Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=fr)
       + [Réorganiser les lignes statiques](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utiliser Attribution IQ dans les tableaux à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=fr)
+      + [Utilisation d’Attribution IQ dans les tableaux à structure libre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=fr)
       + [Analyse des ventes croisées](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Filtres des tableaux à structure libre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensions de répartition du temps](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
@@ -274,13 +276,13 @@ ht-degree: 99%
       + [Vue d’ensemble des journaux d’administration Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implémentation {#implementation}
    + Concepts de base de la mise en œuvre {#implementation-basics}
-      + [Comprendre et créer des suites de rapports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr)
+      + [Comprendre et créer des suites de rapport](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=fr)
       + [Mettre en correspondance des variables contextData dans des props et des eVars avec des règles de traitement](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Comment identifier votre serveur de suivi et votre identifiant de suite de rapports Analytics](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Créer un document d’exigences commerciales](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Créer et mettre à jour un document SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Balises Experience Platform {#experience-platform-tags}
-      + [Implémenter des solutions Experience Cloud dans les sites web à l’aide de balises](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
+      + [Implémentation de solutions Experience Cloud sur des sites web à l’aide de balises](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=fr)
       + [Configuration de base de l’extension Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configurer la gestion des bibliothèques pour l’extension Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Configurer les paramètres généraux de l’extension Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -308,9 +310,9 @@ ht-degree: 99%
       + [Comparaison de segments dans Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Conteneurs de segments](components/segmentation/segment-containers.md)
       + [Gestion et partage de segments](components/segmentation/segment-management-and-sharing.md)
-      + [Appliquer des segments dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=fr)
-      + [Utiliser des segments comme dimensions](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=fr)
-      + [Utiliser des segments pour limiter les données](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=fr)
+      + [Application de segments dans Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=fr)
+      + [Utilisation de segments en tant que dimensions](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=fr)
+      + [Utilisation de segments pour limiter les données](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=fr)
       + [Différences entre le créateur de segments et les segments rapides](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentation séquentielle](components/segmentation/sequential-segmentation.md)
       + [Séquences avant/après dans la segmentation séquentielle](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -428,9 +430,9 @@ ht-degree: 99%
       + [Initialisation et affichage des mesures de cycle de vie avec le SDK Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [Actions de suivi (liens personnalisés)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [État du suivi (pages ou écrans)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [Mise en œuvre dans les applications iOS en Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=fr)
-      + [Mise en œuvre dans les applications iOS en Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=fr)
-      + [Mise en œuvre dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=fr)
+      + [Implémentation dans les applications iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=fr)
+      + [Implémentation dans les applications iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=fr)
+      + [Implémentation dans les applications Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=fr)
    + Mesure des analyses mobiles {#measuring-mobile-analytics}
       + [Prise en main d’Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [Impact des points de contact sur le parcours mobile](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
