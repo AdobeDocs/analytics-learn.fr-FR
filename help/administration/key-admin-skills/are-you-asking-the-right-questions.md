@@ -8,18 +8,23 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # Posez-vous les bonnes questions ?
 
->[!VIDEO](https://video.tv.adobe.com/v/346457/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
-_Toutes les questions_. C’est l’une des réponses les plus fréquentes des parties prenantes à la question : _quelles données voulez-vous suivre ?_ Il peut s’avérer plus utile d’identifier et de collecter les _points de données activables_ que d’enregistrer tous les éléments possibles. L’identification efficace de ces points de données nécessite un plan de base et des discussions créatives avec les parties prenantes.
+_Toutes les questions_. C’est l’une des réponses les plus fréquentes des parties prenantes à la question : _quelles données voulez-vous suivre ?_ Il peut s’avérer plus utile d’identifier et de collecter les _points de données activables_ que d’enregistrer tous les éléments possibles. L’identification efficace de ces points de données nécessite un plan de base et des discussions créatives avec les parties prenantes.
 
 ## Collecter les données qui comptent
 
@@ -56,11 +61,11 @@ Les questions varient selon les prouesses techniques ou analytiques, la structur
 
 Votre partie prenante doit vous fournir des exemples réels ou simulés de points de données ciblés et de la manière dont ils peuvent être utilisés ou signalés. Ces rapports offrent un autre aperçu des objectifs, de l’approche et de la culture de votre partie prenante et de son état actuel ou idéal.
 
-### &#x200B;3. Pas de promesse lors de la présentation
+### &#x200B;3. Aucune promesse lors de la découverte
 
 Les demandes effectuées et les idées de données discutées au cours de la présentation ne sont pas des engagements envers vos parties prenantes. L’exécution de la collecte de données comporte des niveaux de complexité que vous ne pouvez évaluer entièrement qu’après l’entretien. Vous pouvez discuter d’idées au cours d’un brainstorming créatif qui seront finalement abandonnées en raison de leur faible pertinence par rapport aux objectifs. Pour toutes ces raisons et d’autres encore, la phase de présentation n’est qu’une occasion de recueillir des idées, et non une promesse de présence de ces données dans les rapports.
 
-Après présentation et vérification ou suivi ultérieurs par l’administrateur d’Analytics, une nouvelle réunion doit avoir lieu pour discuter à nouveau du niveau d’effort, du calendrier et de l’engagement. Cette méthode permet des discussions libres et créatives au cours de la phase de présentation, ce qui contribue à une solution globale plus robuste.
+Après présentation et vérification ou suivi ultérieurs par l’administrateur d’Analytics, une nouvelle réunion doit avoir lieu pour discuter à nouveau du niveau d’effort, de la chronologie et de l’engagement. Cette méthode permet des discussions libres et créatives au cours de la phase de présentation, ce qui contribue à une solution globale plus robuste.
 
 ## Enregistrer les exigences en fonction de vos besoins
 

@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2: id: c8add8f2-4250-4fd9-9cde-9707036c567did: cc449013-c052-42d5-9ca4-0d2bceb6f06aid: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 94%
+source-wordcount: 1823
+ht-degree: 89%
 
 ---
 
@@ -44,7 +51,7 @@ Enfin, la colonne Statut de l’implémentation servira à vérifier le statut d
 
 **POURQUOI :** ce document servira à plusieurs fins, mais il se destine principalement à :
 
-* Pour toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.), ce document offre une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les individus puissent se familiariser avec votre configuration d’Adobe Analytics en libre-service.
+* Pour toute personne qui découvre votre implémentation (nouvel employé, propriétaire d’entreprise cherchant à mieux comprendre les rapports disponibles, etc.) Ce document offre une vue d’ensemble optimale de toutes les variables implémentées et de leur objectif afin que les utilisateurs puissent se familiariser avec votre configuration d’Adobe Analytics à leur gré.
 * Pour le propriétaire du produit Adobe Analytics ou l’utilisateur technique, ce document sert de rappel de la manière dont les autres variables sont configurées et des variables disponibles pour l’ajout d’une nouvelle dimension.
 
 **COMMENT :** commencez par répertorier dans un document Excel toutes les variables Adobe prêtes à l’emploi (page, produit, zone géographique, etc.), ainsi que les eVars, props, événements et variables de liste. Celui-ci doit comporter un onglet par site/suite de rapports.
@@ -59,8 +66,8 @@ Pour chacune de ces dimensions, j’ajoute les colonnes suivantes :
 * **Portée de la solution :** il peut être utile de répertorier toutes les propriétés (du moins celles qui utilisent plus que des variables standard) en petites colonnes et d’ajouter une coche pour chaque dimension configurée sur cette propriété. Vous pouvez ainsi filtrer facilement une propriété spécifique et visualiser en un clin d’œil où une dimension particulière est configurée.
 * **Configuration :** paramètres de l’interface d’administration pour chaque variable (par exemple, pour les eVars : expiration, attribution, marchandisage, etc.)
 
-Copie d’écran d’un exemple de document SDR :
-![Exemple de document SDR](assets/sample-sdr.png)
+Capture d’écran d’un exemple de document SDR :
+![Exemple de SDR](assets/sample-sdr.png)
 
 Il est également recommandé d’utiliser ce document de balisage pour garder une trace de toutes les variables libres et de celles qui sont « inutiles ». Lorsqu’une dimension n’est plus utile, le développeur a généralement besoin d’un certain temps pour la supprimer. Même après sa suppression, un caching peut se produire. Vous pouvez également réaliser que la dimension était définie ailleurs. Nettoyer les dimensions n’est pas facile et nécessite souvent de la patience. Voici quelques conseils pour garder tout ce qui est inutile caché afin que vos utilisateurs ne soient pas perdus tout en faisant le suivi.
 
@@ -88,7 +95,7 @@ De cette façon, vos données sont toujours propres et vous avez une idée clair
 
 **COMMENT :** identifiez le propriétaire du document afin de fournir la gouvernance et une source unique de responsabilité pour la gestion des mises à jour.
 Dans l’onglet Propriétés, répertoriez les éléments suivants :
-* **Nom de la propriété :** il peut s’agir d’un domaine, d’un sous-domaine, d’un nom d’application, etc. Même dans le même domaine, si certaines parties de celui-ci sont gérées séparément (comme par une autre équipe ou une technologie différente), elles doivent être séparées.
+* **Nom de la propriété :** il peut s’agir d’un domaine, d’un sous-domaine, d’un nom d’application, etc. Même dans le même domaine, si certaines parties de celui-ci sont gérées séparément (comme par une autre équipe ou une technologie différente), elles doivent être séparées.
 * **Lien (URL)** vers la propriété lorsque disponible.
 * **Propriétaire et contacts :** répertoriez le ou les contacts principaux de la propriété.
 * **Méthode de balise :** nombre d’entre nous avons différentes méthodes de code et implémentations en place (Launch, fichiers JS, AEP, etc.). Si nécessaire, vous pouvez ventiler cette opération davantage (par exemple par version de code ou système de gestion des balises), mais cette opération a pour but de suivre toutes vos méthodes et versions de code, où le code doit être mis à jour et comment il doit être géré. Si vous utilisez Adobe Launch, indiquez le nom de la propriété Launch.
@@ -99,7 +106,7 @@ Il est recommandé de garder ce document aussi simple que possible et de ne pas 
 
 >[!TIP]
 >
->Créez une dimension de nom/propriété de site dans Adobe Analytics. Avoir une dimension dédiée (généralement une eVar) dans Adobe Analytics qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer des suites de rapports virtuelles, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
+>Créez une dimension de nom/propriété de site dans Adobe Analytics. Avoir une dimension dédiée (généralement une eVar) dans Adobe Analytics qui identifie le nom du site/de l’application permet de segmenter, de résoudre les problèmes, de créer des suites de rapports virtuelles, etc. Les avantages sont infinis, en particulier lorsque vous combinez plusieurs sites dans une seule suite de rapports (globale). La clé consiste à s’assurer que vos équipes de développement définissent toujours cette valeur dans la dimension des propriétés, y compris tous les chargements de page (s.t calls/trackState) et tous les événements personnalisés (s.tl calls/trackAction). Les règles de traitement peuvent s’avérer un outil précieux pour vous aider à définir correctement et de manière cohérente ces valeurs.
 
 [Regardez cette vidéo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=fr){target="_blank"} pour plus d’informations sur le remplissage du guide d’implémentation.
 
@@ -109,8 +116,8 @@ Ce document a été rédigé par :
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, responsable de la plateforme Digital Analytics chez NortonLifeLock
-Adobe Analytics Champion
+Christel Guidon, responsable de la plateforme Digital Analytics chez NortonLifeLock
+Adobe Analytics Champion
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

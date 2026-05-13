@@ -8,9 +8,15 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2ef470bd-b218-4286-8501-39729511c217
-source-git-commit: 7697ef94630ad67a5b5e9860f84ebdce8b0212f7
+TQID: https://experienceleague.adobe.com/OEgk7v-ZS78ogdLjFPaWh6YpcUW2WxLHfS6lAfBN5G0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: 939
 ht-degree: 100%
 
 ---
@@ -19,7 +25,7 @@ ht-degree: 100%
 
 Voici 7 conseils accessibles par un clic droit, que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows. Vous pouvez les lire dans le texte ci-dessous ou regarder la vidéo de démonstration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422278/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3417736/?quality=12&learn=on)
 
 Voici 7 conseils accessibles par un clic droit, que vous pouvez utiliser dans Analysis Workspace pour optimiser vos workflows :
 
@@ -55,7 +61,7 @@ Pour rediriger les utilisateurs et utilisatrices directement dans une visualisat
 
 Renommer les libellés est une action très simple. Elle est pourtant très intéressante lorsqu’il s’agit d’écrire ou d’éclaircir des informations à destination de votre équipe. Changer le nom des libellés permet de simplifier le contenu et d’occuper moins d’espace sur vos visualisations.
 
-Vous pouvez procéder ainsi dans de nombreuses visualisations, y compris les graphiques linéaires, les graphiques à barres et les abandons
+Vous pouvez procéder ainsi dans de nombreuses visualisations, y compris les graphiques linéaires, les graphiques en barres et les abandons
 
 ## Conseil n° 6 : Télécharger des données pour des tableaux spécifiques
 
@@ -81,4 +87,4 @@ Ce document a été rédigé par :
 
 **Christel Guidon**, responsable de la plateforme Digital Analytics chez Gen Digital
 
-Adobe Analytics Champion
+Adobe Analytics Champion

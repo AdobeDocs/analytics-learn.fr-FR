@@ -7,10 +7,16 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 100%
+source-wordcount: 368
+ht-degree: 76%
 
 ---
 
@@ -28,8 +34,8 @@ Conseils d’utilisateurs chevronnés d’Adobe Analytics
 
 | Client :<br>Jason Jamnik | Gestionnaire Analytics chez Follett Corporation |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Voici les ressources qui m’ont permis de devenir expert dans l’utilisation d’Adobe Analytics** <br> « Ne vous arrêtez pas aux bases ! Maintenant que vous connaissez les principes de base d’Adobe Analytics, vous êtes prêt à continuer votre apprentissage et à vous attaquer à des cas d’utilisation de plus en plus complexes. Voici les ressources que j’ai utilisées, ainsi que des conseils que je donne aux nouveaux analystes lorsqu’ils rejoignent notre équipe chez Follett. »<br><br>[Lire les conseils de Jason](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/here-are-the-resources-i-used-to-become-an-expert-at-using-adobe/m-p/354226?profile.language=fr) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Voici les ressources qui m’ont permis de devenir expert dans l’utilisation d’Adobe Analytics** <br> « Ne vous arrêtez pas aux bases ! Maintenant que vous connaissez les principes de base d’Adobe Analytics, vous êtes prêt à continuer votre apprentissage et à vous attaquer à des cas d’utilisation de plus en plus complexes. Voici les ressources que j&#39;ai utilisées, ainsi que des conseils que je donne aux nouveaux analystes lorsqu&#39;ils rejoignent notre équipe chez Follett. »<br><br>[Lisez les conseils de Jason](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/here-are-the-resources-i-used-to-become-an-expert-at-using-adobe/m-p/354226?profile.language=fr) |
 
 | Client :<br>Sam Liss | Ingénieur Analytics chez Equinox |
 |------------|------------|
-| ![Sam Liss](assets/samliss.jpg) | **Conseils pour passer à Adobe Analytics à partir d’un autre produit d’analyses** <br> « Si vous venez d’une autre plateforme d’analyses, vous êtes sur le point de découvrir un monde de gouvernance plus personnalisable, de sécurité accrue et une pléthore d’intégrations de plateformes de données et de marketing… Je vais vous expliquer en quoi le [!UICONTROL Tableau à structure libre] et la visualisation des [!UICONTROL Flux] diffèrent de ce que vous avez connu sur d’autres plateformes d’analyses. »<br><br>[Lire les conseils de Sam](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=fr) |
+| ![Sam Liss](assets/samliss.jpg) | **Conseils pour passer à Adobe Analytics à partir d’un autre produit d’analyse** <br> « Si vous venez d’une autre plateforme d’analyse, vous êtes sur le point de découvrir un monde de gouvernance plus personnalisable, de sécurité accrue et une pléthore d’intégrations de plateformes de données et de marketing... Je vais vous expliquer en quoi le [!UICONTROL Tableau à structure libre] et la visualisation [!UICONTROL Flux] diffèrent de ce que vous avez connu sur d’autres plateformes d’analyse. »<br><br>[Lisez les conseils de Sam](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/an-analyst-s-quick-start-guide-switching-to-adobe/td-p/354312?profile.language=fr) |

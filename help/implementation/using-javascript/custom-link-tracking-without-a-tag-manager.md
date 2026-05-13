@@ -10,10 +10,15 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 272
+ht-degree: 100%
 
 ---
 
@@ -32,7 +37,7 @@ Deux fonctions envoient des données dans Adobe Analytics :
 >
 >Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/34476/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Exemple de code {#sample-code}
 

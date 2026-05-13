@@ -10,22 +10,28 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: 1605
+ht-degree: 94%
 
 ---
 
 # Créer une communauté plus forte
 
->[!VIDEO](https://video.tv.adobe.com/v/341113/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Une communauté plus forte possède des caractéristiques notables. Tout d’abord, elle est prise en charge par ses administrateurs Adobe Analytics. Elle connaît bien la manière dont les besoins de l’entreprise sont représentés dans leur implémentation. Enfin et surtout, elle a les moyens d’utiliser en toute confiance les analyses pour les prises de décisions axées sur les données. De nombreuses entreprises bénéficient de la structure fournie par un groupe d’utilisateurs Adobe Analytics interne ou une communauté plus formelle.
 
 Vous pouvez créer une communauté autonome au sein de votre entreprise. Procédez comme suit :
 
-## &#x200B;1. Construisez une infrastructure solide, la base de la force de votre communauté
+## &#x200B;1. Construisez une infrastructure solide, la base de votre communauté plus forte
 
 * Créez un processus d’intégration d’utilisateur :
 
@@ -43,7 +49,7 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
   Les modèles de rapports et projets Adobe Analytics sont des ressources clés pour activer les utilisateurs d’outils dans l’implémentation de votre entreprise, les cas d’utilisation de rapports et les bonnes pratiques. Ces ressources doivent répondre aux questions courantes de l’entreprise et à la meilleure manière de les résoudre au sein de l’outil.
 
-## &#x200B;2. Créez un plan pour savoir qui gère et qui doit être impliqué
+## &#x200B;2. Créez un plan pour savoir qui l’exécute et qui doit être impliqué
 
 * Déterminez qui dirigera la communauté :
 
@@ -59,17 +65,17 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
    * **Utilisateurs d’outils :** toute personne ayant le potentiel d’affecter les données alignées sur l’implémenation d’Adobe Analytics de votre entreprise peut y être impliquée, quel que soit son titre ou son rôle.
 
-* Rappelez-vous : « Qu’ont-ils à y gagner ? » Garder votre communauté concentrée sur les cas d’utilisation et les priorités de l’entreprise vous aide à garantir l’engagement et le succès !
+* Souvenez-vous : « Qu’ont-ils à y gagner ? » Veiller à ce que votre communauté se concentre sur les cas d’utilisation professionnels et les priorités contribue à assurer l’engagement et la réussite !
 
-## &#x200B;3. Utilisez les outils pour commencer à créer votre communauté
+## &#x200B;3. Utiliser les outils pour commencer à créer votre communauté
 
 * [Créez une charte de projet](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (modèle à télécharger) :
 
   Une charte de projet est souvent un excellent moyen d’aligner votre entreprise sur l’opportunité d’une communauté interne et plus forte. En répondant aux questions suivantes, vous aurez tout ce dont vous avez besoin pour rédiger votre charte :
 
    * Quel problème essayez-vous de résoudre ? Quel est l’objectif de votre communauté et quelle est sa portée ?
-   * « Qu’ai-je à y gagner ? » Quels sont les avantages ou les coûts potentiels, comment mesurer le succès et quels sont les risques ?
-   * Quelles sont les étapes pour animer une communauté ? Quel travail de configuration est nécessaire du point de vue de l’activation, de l’outil, des groupes d’utilisateurs administrateurs, etc.  ? Il est généralement préférable de développer des ressources d’activation de base avant de lancer une initiative plus vaste.
+   * « Qu’ai-je à y gagner ? » Quels sont les avantages ou les coûts potentiels, comment mesurer le succès et quels sont les risques ?
+   * Quelle est la chronologie pour animer une communauté ? Quel travail de configuration est nécessaire du point de vue de l’activation, de l’outil, des groupes d’utilisateurs administrateurs, etc. ? Il est généralement préférable de développer des ressources d’activation de base avant de lancer une initiative plus vaste.
    * Quelle sera l’efficacité des membres de l’équipe principale dans le succès de la communauté et qui sera soutenu dans l’initiative ?
    * Enfin, qui est votre sponsor exécutif ? Nous ne pouvons qu’insister sur la valeur d’un sponsor exécutif fort, quelqu’un pour approuver le soutien au travail et sa valeur.
 
@@ -89,7 +95,7 @@ Vous pouvez créer une communauté autonome au sein de votre entreprise. Procéd
 
 * Utilisez votre véhicule communautaire pour démarrer ! Selon la pile technologique de votre entreprise, vous devez également choisir un outil ou un véhicule pour votre communauté. Cet élément doit être personnalisé en fonction de votre entreprise, mais Microsoft Teams est le choix fait par beaucoup d’utilisateurs.
 
-## 4. Maintenir votre communauté et garantir son succès durable
+## &#x200B;4. Maintenir votre communauté, en assurant son succès durable
 
 * Gagnez du temps : ajoutez des réunions communautaires aux calendriers pour bloquer les horaires à l’avance. Les réunions récurrentes sont une excellente idée lorsque cela est possible. Elles vous aideront à donner vie à votre plan de contenu. Pour vous aider à commencer, voici quelques idées de programme :
 

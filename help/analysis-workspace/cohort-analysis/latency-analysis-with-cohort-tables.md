@@ -10,9 +10,13 @@ kt: 2480
 role: User
 level: Intermediate
 exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/O-Q1BOca9v9npn0HyBBeV8KrHuGbUrkMktz-C-eq1Ug
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 123
 ht-degree: 100%
 
 ---
@@ -21,6 +25,6 @@ ht-degree: 100%
 
 Le paramètre [!UICONTROL Tableau de latence] dans les [!UICONTROL tableaux de cohortes] vous permet d’analyser le comportement de vos [!UICONTROL cohortes] avant et après l’événement d’inclusion (et pas juste après comme le montre la [!UICONTROL cohorte] standard). Ce paramètre s’avère utile pour analyser, à titre d’exemple, l’impact d’un nouveau produit ou lancement de campagne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430190/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).

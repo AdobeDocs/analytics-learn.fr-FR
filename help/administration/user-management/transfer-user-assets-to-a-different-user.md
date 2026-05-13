@@ -1,5 +1,5 @@
 ---
-title: Transfert de ressources utilisateur vers un autre utilisateur
+title: Transférer des ressources utilisateur vers un autre utilisateur
 description: La gestion des groupes et des utilisateurs de rapports sur la page Gestion des utilisateurs vous permet de gérer des utilisateurs et des groupes, ainsi que de contrôler l’accès aux rapports, outils et suites de rapports. Vous pouvez affecter des éléments de compte d’utilisateur tels que des tableaux de bord, des événements de calendrier, des signets, etc. d’un compte d’utilisateur à un autre grâce à la gestion des utilisateurs dans Adobe Analytics.
 feature: Admin Tools, User Management
 topic: Administration, Migration
@@ -8,15 +8,22 @@ level: Intermediate, Experienced
 thumbnail: 335745.jpg
 kt: 8459
 exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/pIpjShAdW9GFax1H4l50ZrbqtzFFlnvHoWd3M1EzdVA
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: f73667dc-d296-4875-8975-ac3fdc3adc42id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: d124af73-4061-4b84-9063-ae2b60f2c1f3id: e44bec7e-8653-4d5b-b53e-60b1ae7c3475
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 118
 ht-degree: 100%
 
 ---
 
-# Transfert de ressources utilisateur vers un autre utilisateur
+# Transférer des ressources utilisateur vers un autre utilisateur
 
 La gestion des groupes et des utilisateurs de rapports sur la page Gestion des utilisateurs vous permet de gérer des utilisateurs et des groupes, ainsi que de contrôler l’accès aux rapports, outils et suites de rapports. Vous pouvez affecter des éléments de compte d’utilisateur tels que des tableaux de bord, des événements de calendrier, des signets, etc. d’un compte d’utilisateur à un autre grâce à la gestion des utilisateurs dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418513/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)

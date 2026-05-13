@@ -7,14 +7,18 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2023-12-06T00:00:00Z
+last-substantial-update: 2023-12-06T00:00:00.000Z
 jira: KT-14613
 thumbnail: KT-14613.jpeg
 exl-id: 24c1420d-72f5-4aad-ab8c-3fd1dcd67b47
-source-git-commit: 4dcec34a9ed5d600c4d18601ae2d9e1ef250df7f
+TQID: https://experienceleague.adobe.com/8-2RK1XV91Fv4-wcToqrNz82GwnnvShSaoToZI7b0g0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: 142
+ht-degree: 94%
 
 ---
 
@@ -22,7 +26,7 @@ ht-degree: 100%
 
 Améliorez l’efficacité et la fiabilité des données grâce à notre liste de contrôle pour audit d’Adobe Analytics et de dictionnaire de données Customer Journey Analytics.
 
-En tant qu’administrateur ou administratrice, il est conseillé de régulièrement examiner votre dictionnaire de données dans Adobe Analytics et dans Adobe Customer Journey Analytics et d’effectuer un audit. Ce guide permet d’optimiser votre dictionnaire de données en supprimant les composants redondants, obsolètes ou inutiles. Gardez l’esprit tranquille en ayant confiance en votre dictionnaire de données fiable et sûr.
+En tant qu’administrateur ou administratrice, il est conseillé de régulièrement examiner votre dictionnaire de données dans Adobe Analytics et dans Adobe Customer Journey Analytics et d’effectuer un audit. Ce guide permet d’optimiser votre dictionnaire de données en supprimant les composants redondants, obsolètes ou inutiles. Gardez l’esprit tranquille : votre dictionnaire de données est une ressource robuste et digne de confiance.
 
 [Téléchargez la liste de contrôle du dictionnaire de données](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Adobe_Analytics_Data_Dictionary_Checklist.pdf) et commencez à optimiser la gestion de vos données.
 
@@ -32,5 +36,5 @@ Ce document a été rédigé par :
 
 ![Christos Voutsakis](assets/christos-headshot.png)
 
-Christos Voutsakis
+Christos Voutsakis
 Architecte principal du succès client chez Adobe
