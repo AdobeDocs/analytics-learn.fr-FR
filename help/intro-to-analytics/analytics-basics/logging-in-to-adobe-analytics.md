@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Dans cette vidéo, nous vous détaillons comment vous connecter, gérer [!DNL Analytics] et lancer votre analyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424558/?captions=fre_fr&quality=12&learn=on)

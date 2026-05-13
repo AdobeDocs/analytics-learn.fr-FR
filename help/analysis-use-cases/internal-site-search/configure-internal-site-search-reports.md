@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Créez et configurez des tableaux à structure libre dans Analysis Workspace afin dʼanalyser la fonctionnalité de recherche interne de votre site.
 
->[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413471/?captions=fre_fr&quality=12&learn=on)

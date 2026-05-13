@@ -33,4 +33,4 @@ ht-degree: 24%
 
 Découvrez comment exporter des projets entiers ou des tableaux individuels au format CSV pour l’analyse dans Excel et d’autres outils de BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429279/?captions=fre_fr&quality=12&learn=on)

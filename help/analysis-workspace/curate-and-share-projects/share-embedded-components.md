@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Parfois, vous souhaitez partager un projet Analysis Workspace, mais vous oubliez de partager également les segments et les mesures que vous avez inclus avec vos collègues. Cette vidéo montre comment partager des segments et des mesures dans le processus de partage de vos projets afin que vos collègues voient ce que vous avez prévu à chaque fois.
 
->[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438782/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=fr).

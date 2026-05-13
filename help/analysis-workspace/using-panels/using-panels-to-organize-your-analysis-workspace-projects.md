@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Les panneaux sont un ensemble de visualisations dans Analysis Workspace. Découvrez comment utiliser des panneaux pour organiser et comparer des données dans vos projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41482/?captions=fre_fr&quality=12&learn=on)

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Découvrez comment personnaliser les vues détaillées, y compris le texte des tableaux de bord Adobe Analytics, afin d’affiner l’histoire que vous souhaitez raconter aux parties prenantes par le biais de projets de carte de performance mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413787/?captions=fre_fr&quality=12&learn=on)

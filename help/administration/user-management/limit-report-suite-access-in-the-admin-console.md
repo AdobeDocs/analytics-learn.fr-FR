@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Les utilisateurs d’Adobe Analytics doivent avoir accès aux données appropriées. Découvrez comment utiliser [!UICONTROL Admin Console] pour vous assurer que les utilisateurs peuvent uniquement accéder aux suites de rapports nécessaires à leur rôle. Suivez ces étapes rapides dans [Adobe Admin Console](https://adminconsole.adobe.com/) pour créer un profil de produit spécifique à une suite de rapports dans votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327054/?captions=fre_fr&quality=12&learn=on)

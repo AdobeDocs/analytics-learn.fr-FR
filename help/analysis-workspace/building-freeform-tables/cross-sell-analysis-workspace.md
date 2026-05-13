@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Dans cette vidéo, vous apprendrez comment créer le rapport sur les ventes croisées dans Analysis Workspace, et l’étendre encore davantage à toute dimension ou classification à plusieurs valeurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40763/?captions=fre_fr&quality=12&learn=on)

@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Les paramètres Afficher les niveaux d’accès aux fonctionnalités sous la section Admin sur Analytics vous permettent de voir le niveau d’accès aux packages et fonctionnalités Adobe Analytics auxquels votre entreprise a droit. Cela inclut : Activity Map, Advertising Analytics, détection des anomalies dans les alertes, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418475/?captions=fre_fr&quality=12&learn=on)

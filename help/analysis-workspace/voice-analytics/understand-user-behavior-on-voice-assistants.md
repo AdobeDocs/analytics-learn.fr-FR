@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Découvrez comment comprendre le comportement des utilisateurs et obtenir des informations en examinant les [!UICONTROL mesures] clés telles que les principales intentions, les paramètres et l’authentification des utilisateurs.
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34996/?captions=fre_fr&quality=12&learn=on)

@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Le panneau Temps de lecture de média permet aux utilisateurs du média de comprendre leur audience en fonction de la durée de visionnage au cours de la journée par rapport à une granularité donnée. Vous pouvez également effectuer un « zoom avant » sur une période de la journée ou créer des segments temporels séquentiels afin d’afficher clairement l’entrée et la sortie des portions tout au long de la journée.
 
->[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446702/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=fr).

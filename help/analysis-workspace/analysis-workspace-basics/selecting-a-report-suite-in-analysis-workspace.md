@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Obtenez quelques conseils pour sélectionner une suite de rapports dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428539/?captions=fre_fr&quality=12&learn=on)

@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Découvrez comment appliquer des périodes personnalisées pour créer des comparaisons de tendances mensuelles et annuelles pour n’importe quelle mesure dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37174/?captions=fre_fr&quality=12&learn=on)

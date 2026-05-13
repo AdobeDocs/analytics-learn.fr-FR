@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Divisez et segmentez vos données avec la segmentation dans Adobe Analytics. Cette vidéo vous guide tout au long du processus d’utilisation du créateur de segments et vous donne un aperçu de base de celui-ci.
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37414/?captions=fre_fr&quality=12&learn=on)

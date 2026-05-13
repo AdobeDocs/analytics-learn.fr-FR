@@ -35,4 +35,4 @@ ht-degree: 19%
 
 Découvrez comment gérer vos mesures calculées, notamment en les recherchant, en affichant une liste, en renommant, en supprimant, en partageant, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423586/?captions=fre_fr&learn=on)

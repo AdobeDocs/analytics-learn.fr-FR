@@ -27,6 +27,6 @@ ht-degree: 14%
 
 Découvrez comment mettre à niveau et replanifier les classeurs [!DNL Report Builder] hérités vers la dernière version d’Adobe Analytics Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446184/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/report-builder/home).

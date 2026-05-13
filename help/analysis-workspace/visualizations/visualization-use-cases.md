@@ -31,6 +31,6 @@ ht-degree: 36%
 
 Vous voulez savoir quels produits se vendent le mieux ? Découvrez quelques-uns des principaux cas d’utilisation pour les visualisations, tels que les abandons, les flux, les cohortes, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415653/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=fr).

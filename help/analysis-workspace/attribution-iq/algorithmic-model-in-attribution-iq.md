@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Le modèle d’attribution algorithmique d’Analysis Workspace utilise des techniques statistiques pour déterminer de manière dynamique l’attribution optimale du crédit pour la mesure sélectionnée.
 
->[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40046/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=fr)

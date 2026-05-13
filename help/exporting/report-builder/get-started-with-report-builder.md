@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Découvrez les principes de base régissant l’utilisation du [!DNL Report Builder], notamment l’installation, la connexion et les demandes de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346439/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=fr).

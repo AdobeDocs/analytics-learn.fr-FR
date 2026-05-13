@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Dans cette vidéo, découvrez comment configurer les paramètres qui contrôlent la manière dont les moteurs de recherche, les mots-clés et les autres rapports et composants de méthode de recherche traitent l’attribution des événements de conversion.
 
->[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412929/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=fr).

@@ -34,4 +34,4 @@ ht-degree: 76%
 
 Découvrez l’option permettant de sélectionner plusieurs champs dans les filtres déroulants d’Analysis Workspace, afin d’afficher les données de l’un des champs sélectionnés. Pour consulter la documentation détaillée, voir [Présentation des panneaux](https://experienceleague.adobe.com/fr/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439929/?captions=fre_fr&learn=on)

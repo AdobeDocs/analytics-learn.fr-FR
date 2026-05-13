@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Les « segments rapides » sont une expérience de segmentation simplifiée directement dans la zone de travail de Workspace. Les segments rapides permettent aux utilisateurs de créer des segments à la volée avec jusqu’à trois règles sans avoir à quitter votre workflow d’analyse.
 
->[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345337/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=fr).

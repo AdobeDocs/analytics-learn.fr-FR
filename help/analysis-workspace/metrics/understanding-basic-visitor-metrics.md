@@ -35,4 +35,4 @@ Découvrez [[!UICONTROL Pages vues]](https://experienceleague.adobe.com/docs/ana
 
 * Affichez un exemple de projet  qui montre l’affichage de ces mesures dans l’interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31123/?captions=fre_fr&quality=12&learn=on)

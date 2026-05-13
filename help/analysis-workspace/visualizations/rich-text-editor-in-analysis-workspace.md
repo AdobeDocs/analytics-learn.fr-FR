@@ -31,4 +31,4 @@ ht-degree: 100%
 
 En savoir plus sur les fonctionnalités qui permettent aux analystes et aux spécialistes du marketing de modifier les visualisations (ou descriptions) de texte dans Analysis Workspace : gras, italique, titres, hyperliens, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328087/?captions=fre_fr&quality=12&learn=on)

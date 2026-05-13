@@ -38,6 +38,6 @@ ht-degree: 48%
 
 Les annotations de l’espace de travail vous permettent de communiquer efficacement aux utilisateurs de votre organisation les nuances et informations concernant les données contextuelles. Vous pouvez annoter une date ou une période avec des problèmes de données connus, des jours fériés, des lancements de campagne, etc. pour mieux informer les utilisateurs sur ce qu’ils voient quand ils regardent des graphiques en ligne, des tableaux, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344390/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=fr).

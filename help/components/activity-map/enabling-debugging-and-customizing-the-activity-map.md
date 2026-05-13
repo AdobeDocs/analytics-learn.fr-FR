@@ -29,6 +29,6 @@ ht-degree: 0%
 
 Découvrez comment activer, déboguer et personnaliser la manière dont  est déployé dans l’extension Analytics dans les balises Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327628?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur le déploiement d’, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

@@ -33,6 +33,6 @@ ht-degree: 63%
 
 Découvrez la visualisation sous forme de graphiques combinés dans Analysis Workspace. La visualisation sous forme de graphique combiné facilite la création rapide d’une visualisation de comparaison sans qu’il soit nécessaire de créer un tableau au préalable. Vous pouvez facilement afficher les tendances de vos données dans une combinaison ligne/barre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413016/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=fr).

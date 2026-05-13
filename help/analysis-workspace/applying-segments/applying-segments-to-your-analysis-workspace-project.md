@@ -31,6 +31,6 @@ ht-degree: 100%
 
 Cette vidéo vous explique comment limiter les données dans vos tableaux et visualisations en appliquant des segments à vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33635/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=fr).

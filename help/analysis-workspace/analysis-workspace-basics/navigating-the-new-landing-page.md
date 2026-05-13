@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Découvrez comment tirer le meilleur parti de la nouvelle page de destination d’Analytics et de ses fonctionnalités.
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346463/?captions=fre_fr&quality=12&learn=on)

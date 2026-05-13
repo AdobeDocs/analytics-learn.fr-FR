@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Découvrez comment analyser un tableau de cohortes pour mieux comprendre la fidélisation des utilisateurs sur le long terme.
 
->[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415663/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).

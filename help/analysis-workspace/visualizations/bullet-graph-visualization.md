@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Les graphiques à [!UICONTROL puces] sont un moyen utile d’afficher la progression vers (ou dépassant) un objectif de votre analyse. Ils vous offrent une autre manière de visualiser le succès de votre entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41508/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=fr).

@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Découvrez comment modifier et personnaliser les préférences utilisateur dans [!DNL Analysis Workspace]. Cela inclut les paramètres généraux par défaut, l’affichage et les préférences de données, ainsi que le basculement du thème de l’interface utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429992/?captions=fre_fr&quality=12&learn=on)

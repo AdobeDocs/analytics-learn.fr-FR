@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Cette vidéo montre comment démocratiser l’analyse en créant des liens raccourcis qui amèneront vos collègues à vos projets Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439084/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=fr).

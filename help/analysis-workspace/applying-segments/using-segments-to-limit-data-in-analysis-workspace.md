@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Cette vidéo montre comment limiter les utilisateurs d’un projet dans Analysis Workspace à un (ou plusieurs) segment(s) spécifique(s) lorsqu’ils utilisent l’outil.
 
->[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328759/?captions=fre_fr&quality=12&learn=on)

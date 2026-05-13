@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Comment créer un tableau d’analyse des [!UICONTROL cohortes] dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430072/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=fr).

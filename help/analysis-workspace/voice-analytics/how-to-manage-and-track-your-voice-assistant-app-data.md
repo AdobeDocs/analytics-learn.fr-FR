@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Découvrez comment créer un tableau de bord personnalisé afin dʼassurer la gestion et le suivi des performances de votre application d’assistant vocal, de manière simple, flexible, intuitive et visuelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34966/?captions=fre_fr&quality=12&learn=on)

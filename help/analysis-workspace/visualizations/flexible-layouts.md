@@ -29,4 +29,4 @@ ht-degree: 24%
 
 L’analyse de structure libre offre la possibilité de modifier l’emplacement, la largeur et la hauteur des graphiques et des tableaux afin que vous puissiez créer un projet plus riche. Cette vidéo vous explique comment modifier votre disposition.
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41487/?captions=fre_fr&quality=12&learn=on)

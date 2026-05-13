@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Découvrez ce qui affecte les totaux dans les tableaux à structure libre, ainsi que comment les activer et les désactiver.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33199/?captions=fre_fr&quality=12&learn=on)

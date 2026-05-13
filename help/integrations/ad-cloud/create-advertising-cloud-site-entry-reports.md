@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Créez un rapport d’entrée sur le site Advertising Cloud pour surveiller le jour de la semaine, l’heure de la journée, le navigateur et l’influence géographique.
 
->[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40453/?captions=fre_fr&quality=12&learn=on)
