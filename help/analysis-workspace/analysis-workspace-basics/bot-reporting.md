@@ -40,4 +40,4 @@ Découvrez comment créer des rapports sur les données de robots dans Analysis 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=fr).

@@ -35,4 +35,4 @@ Découvrez le rapport en temps réel dans Adobe Analytics, notamment comment le 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=fr).
