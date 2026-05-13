@@ -5,14 +5,35 @@ feature: Calculated Metrics
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13266
 thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/4e4X0vaCKGCen3dCf8APh5vZ-bhgL2JF3MxqLgEvq-4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: e9cb007b-c8b7-4975-bc81-11a788c535fa
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 3%
+source-wordcount: 1589
+ht-degree: 2%
 
 ---
 
@@ -26,7 +47,7 @@ Les mesures calculées constituent une fonctionnalité avancée d’Adobe Analyt
 
 Pour commencer à utiliser des mesures calculées, prenons un exemple simple. Imaginez que vous souhaitiez comprendre si les utilisateurs en libre-service en ligne ont une valeur de commande moyenne (AOV) plus élevée que les utilisateurs assistés par appel. Pour créer une mesure calculée afin de répondre à cette question, procédez comme suit :
 
-Pour ouvrir le créateur de mesures calculées, utilisez le volet de navigation supérieur pour cliquer sur → **Composants** → **Mesures calculées** → **+ Ajouter.** Ou, vous pouvez cliquer sur le signe **+**-dessus **Mesures** dans le panneau Composants.
+Pour ouvrir le créateur de mesures calculées, utilisez le volet de navigation supérieur pour cliquer sur → **Composants** → **Mesures calculées** → **+ Ajouter**. Vous pouvez également cliquer sur le signe **+**-dessus **Mesures** dans le panneau Composants.
 
 
 ![Calc 01](assets/calc01.png) ![Calc 02](assets/calc03.png) ![Calc 03](assets/calc02.png)
@@ -43,13 +64,13 @@ Une fois que le créateur de mesures calculées s’ouvre, ajoutez et/ou procéd
 
 **C.** Format de la mesure : choisissez une décimale, une heure, un pourcentage ou une devise, puis ajoutez des décimales et une polarité. Ici, nous choisirons *Devise pour le Format, 0 pour le nombre de décimales, et* ⬆ *Bon (Vert) pour la polarité.*
 
-**D**. Si vous utilisez des balises qui vous permettent d’appliquer des rubriques et de localiser rapidement des mesures calculées, ajoutez la ou les balises qui s’appliquent ici. Nous avons ajouté les balises *AOV* et *Call Center*.
+**J**. Si vous utilisez des balises qui vous permettent d’appliquer des rubriques et de localiser rapidement des mesures calculées, ajoutez la ou les balises qui s’appliquent ici. Nous avons ajouté les balises *AOV* et *Call Center*.
 
 **E.** Cette section est à afficher : lorsque vous créez votre mesure calculée dans la section F, la formule s’affiche ici.
 
 **F.** Ici, vous allez faire glisser et déposer des dimensions (H), des mesures (I) ou des segments (J) pour créer votre mesure calculée, ainsi que les opérateurs pour la formule. Pour chaque mesure, si vous cliquez sur la roue dentée, vous pouvez modifier le Type de mesure (Standard/Total) et le Modèle d’attribution. *Nous ferons glisser et déposerons Revenu du centre d’appels, puis, en dessous, nous*÷￼*. Nous accepterons le type de mesure et le modèle d’attribution par défaut.*
 
-**&#x200B;**. Utilisez cette option **+Ajouter** pour ajouter des conditions supplémentaires ou des nombres statiques, dont nous n’avons pas besoin ici.
+**. Utilisez cette option**+Ajouter **pour ajouter des conditions supplémentaires ou des nombres statiques, dont nous n’avons pas besoin ici.**
 
 **K.** Enfin, lorsque vous créez votre calcul, vous pouvez prévisualiser les données des 90 derniers jours ici.
 
@@ -101,11 +122,11 @@ Sachant cela, nous pouvons optimiser la mise en page, les emplacements de produi
 
 Toutefois, ces mesures ne sont pas disponibles dans toutes les zones d’Adobe Analytics. Vous ne pouvez pas utiliser de mesures calculées dans :
 
-- Abandons dans Analysis Workspace
+- Abandons dans Analysis Workspace
 - Analyse de cohortes dans Analysis Workspace
-- Data Warehouse
+- Entrepôt de données
 - Rapports en temps réel
-- Rapports Données actives
+- Rapports sur les données actuelles
 - Analytics for Target
 - Report Builder
 
@@ -114,7 +135,7 @@ Toutefois, ces mesures ne sont pas disponibles dans toutes les zones d’Adobe A
 Maintenant que vous savez à quel point les mesures calculées peuvent être utiles, examinons quelques bonnes pratiques pour les créer.
 
 1. **Vérifiez la syntaxe de la formule.** Assurez-vous que la syntaxe de la formule est correcte et suit la syntaxe Adobe Analytics pour vous assurer d’obtenir des informations significatives.
-1. **Vérifier l’ordre des opérations.** Assurez-vous d&#39;utiliser les conteneurs avec précaution et de placer les choses dans l&#39;ordre mathématique approprié des opérations.
+1. **Vérifier l’ordre des opérations.** Veillez à utiliser les conteneurs avec précaution et à placer les choses dans l&#39;ordre mathématique approprié des opérations.
 1. **Ne comptez pas deux fois les données**. Vous pouvez éviter de compter deux fois les données en vous assurant que la formule utilisée dans la mesure calculée ne compte pas les mêmes données plusieurs fois. Cela est souvent possible en combinant les conditions *Inclure* et *Exclure* dans la mesure calculée ou en utilisant des segments.
 1. **Vérifier la granularité temporelle.** Assurez-vous que la mesure calculée a la même granularité temporelle que les mesures sources utilisées dans la formule.
 1. **Utiliser des données précises :** vous n’obtiendrez de résultats précieux que si vous utilisez des données précises et fiables dans le calcul.
@@ -123,15 +144,15 @@ Maintenant que vous savez à quel point les mesures calculées peuvent être uti
 
 Lors de la création de segments dans Adobe Analytics, gardez à l’esprit les bonnes pratiques suivantes :
 
-1. **Restez simple.** Évitez de surcompliquer le segment. Gardez-le aussi simple que possible et utilisez uniquement les conditions nécessaires pour garantir la précision.
+1. **Restez simple.** Évitez de compliquer à l’excès le segment. Gardez-le aussi simple que possible et utilisez uniquement les conditions nécessaires pour garantir la précision.
 1. **Utilisez les types de conteneur appropriés**. Veillez à utiliser le type de conteneur correct (visiteur, visite ou accès) dans la définition de segment pour éviter d’obtenir des résultats incorrects.
 1. **Ne comptez pas deux fois les données**. Comme pour les mesures calculées, assurez-vous que le segment ne compte pas les mêmes données plusieurs fois. Les conteneurs Inclure et Exclure peuvent s’avérer utiles.
    1. Lorsqu’un conteneur d’inclusion est utilisé, il *inclut* *tout le contenu de la visite* si un accès correspond à la condition de la visite.
    1. Lorsqu’un conteneur d’exclusion est utilisé, il *exclut tout le contenu de la visite* si un accès correspond à la condition de la visite.
 1. **Imbriquez correctement les conteneurs**. Déterminez les données incluses à l’aide du conteneur le plus à l’extérieur, puis appliquez des règles imbriquées aux données restantes. Lors de l’application de règles imbriquées, le flux de segments agit comme un funnel et les règles suivantes ne s’appliquent pas aux accès exclus par la première règle.
-1. **Vérifiez que vos données sont à jour.** Veillez à utiliser des données précises et à jour dans la définition de segment pour obtenir des résultats précis.
+1. **Assurez-vous que vos données sont à jour.** Veillez à utiliser des données précises et à jour dans la définition de segment pour obtenir des résultats précis.
 1. **Tester le segment.** Testez toujours le segment pour vous assurer qu’il fonctionne comme prévu avant de le diffuser à d’autres personnes.
-1. **Tenez compte des performances.** Les segments peuvent ralentir le traitement des rapports. Tenez donc compte de cet impact lors de leur création.
+1. **Tenez compte des performances.** Les segments peuvent ralentir le traitement des rapports. Prenez donc en compte cet impact lors de leur création.
 
 ## Points clés
 

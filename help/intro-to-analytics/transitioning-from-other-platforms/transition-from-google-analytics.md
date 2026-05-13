@@ -7,10 +7,41 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '3403'
-ht-degree: 97%
+source-wordcount: 3446
+ht-degree: 94%
 
 ---
 
@@ -28,13 +59,13 @@ Nous devons aussi effectuer une rapide comparaison terminologique :
 | Mesure représentant un groupe d’interactions sur votre site web ou votre application qui ont lieu au cours de la même période. | Visite | Session |
 | Mesure définissant un appareil identifié (en fonction de plusieurs critères, y compris des cookies et d’autres modèles de comportement, pour regrouper les informations sur l’utilisateur). | Visiteur unique | Utilisateur |
 
-## &#x200B;2. Les interfaces
+## &#x200B;2. Interfaces
 
 Quand les gens comparent Adobe Analytics et Google Analytics, ils soulignent que l’interface d’Adobe est déconcertante au premier abord. C’est vrai, mais c’est également une force, pas une faiblesse. Adobe propose un large éventail d’outils et de flexibilité dans votre visualisation de données, ce qui vous offre plus de liberté pour créer ce dont vous avez besoin.
 
 Commençons par examiner le compte rendu des performances « sur site ».
 
-### 2.1. Compte rendu des performances sur site
+### 2.1. Création de rapports sur site
 
 #### 2.1.1. Écran d’accueil
 
@@ -123,7 +154,7 @@ Grâce à Espace de travail, votre créativité nʼest plus bridée, car vous n�
 
 >[!TIP]
 >
->Jonglez sans crainte entre les différentes visualisations, donnez libre cours à votre créativité et montrez ce que vous savez faire ! En outre, valider ce que vous avez construit vous permettra de partager vos idées. Rien ne vaut l’expérience !
+>N&#39;ayez pas peur de jouer et d&#39;explorer. Il y a tellement de façons de sortir des sentiers battus. En outre, valider ce que vous avez construit vous permettra de partager vos idées. Rien ne vaut l’expérience !
 
 Vous pouvez créer des mesures ou des segments calculées à la volée qui ne figureront que dans le rapport, afin d’éviter de surcharger votre segment et votre référentiel de calculs. Vous pouvez ainsi créer des éléments ciblés nécessaires à des rapports spécifiques sans surcharger votre organisation d’éléments qui ne sont pas utilisables dans d’autres contextes.
 
@@ -203,11 +234,11 @@ Vous obtenez ainsi des informations rapides et faciles sur vos données. Cependa
 
 Elles sont utiles pour des données analytiques rapides, mais si vous devez vraiment creuser profondément, il y a des limitations.
 
-### 2.2. Accès aux rapports étendu
+### 2.2. Accès aux rapports étendu
 
 Outre le « compte rendu des performances sur site », la plupart des outils offrent des fonctionnalités étendues qui vous permettent de sortir votre analyse des outils et de créer quelque chose d’un peu plus personnalisé.
 
-#### 2.2.1. Report Builder d’Adobe Analytics (extension Microsoft® Excel)
+#### 2.2.1. Adobe Analytics Report Builder (extension Microsoft® Excel)
 
 L’espace de travail est un excellent outil, mais il est parfois nécessaire d’intégrer vos données dans une feuille de calcul personnalisée, éventuellement pour pouvoir assembler plusieurs sources de données. C’est là que Report Builder entre en jeu.
 
@@ -217,7 +248,7 @@ Report Builder est un plug-in de Microsoft® Excel qui vous permet de créer d
 >
 >Report Builder dispose d’une autorisation spéciale qui doit être appliquée à vos utilisateurs pour qu’ils puissent accéder à ce plug-in. Cela ne devrait être accordé qu’aux utilisateurs qui ont appris à utiliser l’outil correctement.
 
-#### 2.2.2. Connexion à l’API Adobe Analytics
+#### 2.2.2. Connexion API Adobe Analytics
 
 Si vous avez besoin que les données d’Adobe Analytics soient assimilées par autre chose qu’Excel et voulez que les données traitées incluent les exclusions de règles de robots, utilisez l’API d’Adobe pour extraire directement les données. Ensuite, traitez les données à l’aide d’un script ou ajoutez-les à une base de données en vue de les utiliser avec un autre système.
 
@@ -226,23 +257,23 @@ Notez que l’API extrait toujours les données de corrélation en appliquant le
 Adobe Workspace (section 2.1.2.1) utilise l’API pour créer les rapports. Si vous activez le mode de débogage dans Workspace, il vous indique les appels d’API exacts utilisés. Il s’agit d’une méthode rapide pour créer vos appels d’API. En utilisant l’espace de travail pour créer et valider les données que vous souhaitez extraire, vous utilisez ensuite ces appels d’API pour extraire les données vers votre propre traitement.
 
 
-#### 2.2.3. Data Studio de Google Analytics
+#### 2.2.3. Google Analytics Data Studio
 
 Si vous avez tout lu, vous savez que j’ai mentionné Data Studio comme étant un équivalent de l’espace de travail d’Adobe. Data Studio vous permet d’extraire des données Google Analytics, mais aussi des données provenant d’autres sources. C’est très utile si vous souhaitez consolider vos données d’analyse avec d’autres données collectées. Toutefois, dans Google Analytics, le même type de limitations de visualisation est présent. La façon de former des lignes et des colonnes est encore limitée.
 
 Cela n’en reste pas moins un outil puissant, et je n’essaie pas du tout de vous dissuader de l’utiliser. Pour ma part, je trouve le comportement rigide assez contraignant.
 
 
-#### 2.2.4. Extension Google Sheets
+#### 2.2.4. Extension Google Sheets
 
 En ce qui concerne mon propre usage, lorsque je dois extraire des données de manière prolongée de Google Analytics, mon outil préféré est l’extension Google Sheets. Même si je dois établir plusieurs connexions avec mes tableaux GA, je peux référencer les cellules des données brutes et créer les rapports dont j’ai besoin. Ensuite, je les visualise à l’aide des fonctionnalités graphiques de Google Sheets.
 
 
-## 3. Exportations de données brutes
+## &#x200B;3. Exportations de données brutes
 
 Lorsque vous avez vraiment besoin de données brutes, Adobe et Google vous offrent la possibilité d’extraire des informations de cette manière.
 
-### 3.1. Flux de données d’Adobe
+### 3.1. Flux de données Adobe
 
 Dans la section 2.2.2, j’ai mentionné que l’API Adobe Analytics effectuait des extractions de « données traitées ». Le flux de données brutes extrait les données traitées par les « règles de traitement » définies dans le panneau d’administration, mais ces données brutes incluent toutes les données qui sont exclues partout ailleurs.
 
@@ -253,13 +284,13 @@ Les flux de données brutes peuvent être personnalisés pour envoyer toutes les
 Les flux peuvent être envoyés directement vers FTP, SFTP ou S3.
 
 
-### 3.2. Google Big Query
+### 3.2. Google BigQuery
 
-Malheureusement, il s’agit d’un outil Google que je n’ai jamais utilisé. En théorie, il doit être similaire au flux de données d’Adobe, qui permet à votre équipe d’ingénieurs d’accéder aux données brutes de votre compte Google Analytics.
+Malheureusement, il s’agit d’un outil Google que je n’ai jamais utilisé. En théorie, il doit être similaire au flux de données d’Adobe, ce qui permet à votre équipe d’ingénieurs d’accéder aux données brutes de votre compte Google Analytics.
 
 Cependant, plutôt que de fournir un vidage complet des données brutes, il permet à vos ingénieurs d’accéder aux données via des requêtes SQL pour extraire les données brutes ciblées ou toutes les colonnes de données brutes.
 
-## 4. Conclusion
+## 4. Conclusion
 
 Comme avec tout système, la pratique est nécessaire pour se familiariser avec l’outil. J’espère que ce guide vous aidera à démarrer ou vous aura fourni des conseils pour utiliser Adobe Analytics plus efficacement.
 
@@ -281,5 +312,5 @@ Ce document a été rédigé par :
 
 Jennifer Dungan, responsable de l’optimisation des analyses chez Torstar
 
-Adobe Analytics Champion
+Adobe Analytics Champion
 

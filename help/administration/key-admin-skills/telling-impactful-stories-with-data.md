@@ -8,9 +8,21 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
+TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: 462
 ht-degree: 91%
 
 ---
@@ -32,7 +44,7 @@ Après avoir défini la situation, utilisez les données pour révéler la sourc
 **Conseil sur Adobe Workspace :**
 Créez des visuels simples et faciles à lire qui correspondent au type de données que vous partagez :
 
-* Utilisez des graphiques à barres pour les données catégorielles et binaires
+* Utilisez des graphiques en barres pour les données catégorielles et binaires
 * Utilisez des graphiques en courbes (ou des graphiques à bulles en dehors d’Adobe) pour les données numériques
 * Utiliser des graphiques de dispersion pour démontrer les relations statistiques
 
@@ -50,4 +62,4 @@ Ce document a été rédigé par :
 
 Amy Ard, Directrice Analytics chez Levelwing
 
-Adobe Analytics Champion
+Adobe Analytics Champion

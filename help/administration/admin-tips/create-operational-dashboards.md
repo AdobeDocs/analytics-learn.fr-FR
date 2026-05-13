@@ -6,14 +6,31 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 96%
+source-wordcount: 1166
+ht-degree: 89%
 
 ---
 
@@ -24,7 +41,7 @@ _Découvrez comment les tableaux de bord opérationnels d’Adobe Analytics Wo
 
 Comme beaucoup d’administrateurs et d’administratrices, je dirige un centre d’informations interne (Confluence ou similaire) pour Adobe Analytics. Au fil du temps, j’en ai eu assez de répondre aux sempiternelles mêmes questions, et le besoin d’un moyen plus souple d’atteindre mes utilisateurs et mes utilisatrices devenait criant. J’en avais assez d’avoir l’impression de les seriner et de les embêter à longueur de journée. Des référentiels pour des informations moins statiques étaient tout ce dont je rêvais.
 
-J’ai remarqué que beaucoup de personnes attachaient peu d’importance à mes références au site Confluence. Leurs excuses ? « Mon VPN est désactivé » ou « Je ne peux pas lire l’article maintenant », etc. En somme, « Je lirai ce document plus tard » signifie qu’il ne sera jamais lu et la même question sera posée la semaine prochaine.
+J&#39;ai remarqué que les utilisateurs ignoraient souvent mes références au site Confluence, avec des raisons comme « Mon VPN est éteint, » ou « Je ne peux pas le lire maintenant, » etc. En gros, « Je lirai ce document plus tard » signifie qu&#39;il ne sera jamais lu, et la même question sera posée à nouveau la semaine prochaine.
 
 ***Eurêka :**&#x200B;la polyvalence de Workspace peut changer la donne. Les réponses rapides et directes dans Workspace sont appréciées de tous, donc ne nous éparpillons pas afin d’éviter des étapes supplémentaires.*
 
@@ -32,7 +49,7 @@ J’ai pris le taureau par les cornes et j’ai créé des tableaux de bord opé
 
 Les utilisateurs ont pu obtenir de nombreuses informations utiles sans moi, connaître certaines parties du site, voir à quel point Adobe Analytics est cool et (important pour moi 😊) me poser moins de questions et utiliser moins de temps.
 
-**Je vous recommande vivement de créer des tableaux de bord pour toutes vos propriétés ou toutes les zones principales de votre site.** Bien conçus, ils offrent une vue d’ensemble de la propriété, du site, de l’application, ou du flux et proposent des informations de base ainsi qu’un aperçu rapide. Partagez-les avec l’ensemble de l’entreprise afin que tout le monde puisse voler de ses propres ailes et comprendre la propriété sans assistance excessive. Dans ma situation, ces tableaux de bord répondent peu ou prou à 80 % des questions que je reçois et me font gagner un temps précieux.
+**Je vous recommande vivement de créer des tableaux de bord pour toutes vos propriétés ou zones principales de votre site.** Ils doivent donner un aperçu de la propriété/du site/de l’application/du flux et contenir des informations de base et des informations rapides. Partagez-les avec l’ensemble de l’entreprise afin que tout le monde puisse voler de ses propres ailes et comprendre la propriété sans assistance excessive. Dans ma situation, ces tableaux de bord répondent peu ou prou à 80 % des questions que je reçois et me font gagner un temps précieux.
 
 Libre à vous de conserver votre site Confluence si vous le désirez, il reste un atout précieux. J’y fais même référence en haut de chaque tableau de bord opérationnel. Mais j’adore les raccourcis, à la fois pour moi et pour mes utilisateurs et utilisatrices.
 

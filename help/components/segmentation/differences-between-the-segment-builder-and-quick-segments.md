@@ -7,9 +7,25 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: 144e71fd-8d42-4d20-b55e-3d81ad992a79
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/TCsZTXENXuRAtUM1dzgf2JNAzIYWWy2Z1D-S28D6Mgo
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1266'
+source-wordcount: 1269
 ht-degree: 100%
 
 ---
@@ -35,7 +51,7 @@ Si vous créez un segment à l’aide du créateur de segments, vous pouvez l’
 
 Dans la partie supérieure de chaque panneau, cliquez sur l’icône de segment rapide (un entonnoir avec le symbole +) pour ouvrir le créateur. Vous pouvez créer un segment à n’importe quel niveau (accès, visite ou visiteur et visiteuse) avec jusqu’à trois conditions. Tout comme le créateur de segments principal, le côté droit vous indique si le segment renvoie des données et le pourcentage de la population totale du trafic incluse dans le segment. Il s’agit toutefois d’une version simplifiée de la vue complète du volume de segment affichée dans le créateur de segments. Lors de l’ajout de plusieurs conditions, vous pouvez utiliser les opérateurs « AND » et « OR ». Il n’existe hélas pas d’option « Then » pour les segments rapides. Si vous avez besoin de segments séquentiels, vous devez donc utiliser le créateur de segments complet. De plus, le segment rapide est limité à un conteneur. Tout l’intérêt du créateur de segments rapides réside dans la création et modification rapides de segments de base. Une fois qu’un segment rapide est appliqué à un panneau ou enregistré, il ne peut plus être modifié dans le panneau.
 
-Lorsque vous effectuez une analyse exploratoire et que vous souhaitez tester différents types de segments pour voir comment différents groupes de clients ou clientes réagissent ou comment différentes catégories se comportent, utilisez les segments rapides, car leur création est beaucoup plus rapide que les segments complets. En outre, ces segments ne sont disponibles que dans le projet dans lequel ils ont été créés. Nul besoin donc de supprimer le segment enregistré de la liste principale si vous n’obtenez pas les résultats souhaités. Une fois les segments testés, si vous estimez qu’ils seront utiles dans d’autres projets, il vous suffit de cliquer sur le bouton « Ouvrir le créateur » pour afficher le segment dans le créateur de segments complet et l’enregistrer en tant que segment standard. Notez qu’une fois cette opération effectuée, vous ne pourrez plus modifier le segment dans le créateur de segments rapides.
+Lorsque vous effectuez une analyse exploratoire et que vous souhaitez tester différents types de segments pour voir comment différents groupes de clients ou clientes réagissent ou comment différentes catégories se comportent, l’utilisation de segments rapides est nettement plus rapide que le recours au créateur de segments. En outre, ces segments ne sont disponibles que dans le projet dans lequel ils ont été créés. Nul besoin donc de supprimer le segment enregistré de la liste principale si vous n’obtenez pas les résultats souhaités. Une fois les segments testés, si vous estimez qu’ils seront utiles dans d’autres projets, il vous suffit de cliquer sur le bouton « Ouvrir le créateur » pour afficher le segment dans le créateur de segments complet et l’enregistrer en tant que segment standard. Notez qu’une fois cette opération effectuée, vous ne pourrez plus modifier le segment dans le créateur de segments rapides.
 
 ![Segment rapide](assets/quick-segement.png)
 

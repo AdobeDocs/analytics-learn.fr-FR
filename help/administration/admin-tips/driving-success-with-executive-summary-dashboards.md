@@ -5,14 +5,27 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 100%
+source-wordcount: 879
+ht-degree: 93%
 
 ---
 
@@ -20,8 +33,8 @@ ht-degree: 100%
 
 _Les cadres, qui manquent souvent d’informations pertinentes et opportunes sur leurs sites et applications, doivent composer avec des graphiques Excel mensuels ou des données granulaires confuses. La solution : les tableaux de bord exécutifs synthétiques._
 
-Imaginez-vous en train de conduire de Seattle à San Francisco. Rien de bien compliqué... Prenez l’I-5 South pendant 12 à 16 heures et vous y êtes. C’est simple, n’est-ce pas ? Maintenant, je veux que vous imaginiez que j’ai mis un morceau de carton sur votre tableau de bord. À la fin de
-votre voyage, vous pourrez consulter votre vitesse, le niveau de carburant et la distance parcourue :
+Imaginez-vous en train de conduire de Seattle à San Francisco. Rien de bien compliqué... Prenez l’I-5 South pendant 12 à 16 heures et vous y êtes. C’est simple, n’est-ce pas ? Maintenant, je veux que vous imaginiez que j&#39;ai mis un morceau de carton sur votre tableau de bord, et je vous le dis à la fin
+au cours de votre voyage, vous recevrez un tableau de bord qui vous indiquera votre vitesse, votre niveau de carburant et la distance parcourue :
 
 ![Bar Graph.png](assets/bar-graph.png)
 
@@ -31,7 +44,7 @@ Si vous examinez le graphique, vous pouvez remarquer les points suivants :
 
 1. La distance parcourue est statique pendant les heures 6 à 9
 
-1. En fait, vous étiez en panne d’essence et avez dû attendre la dépanneuse, pour vous retrouver dans les bouchons de Portland et faire le plein 
+1. En fait, vous étiez en panne d’essence et avez dû attendre la dépanneuse, pour vous retrouver dans les bouchons de Portland et faire le plein
 
 Un tel voyage serait évidemment malheureux, imprévisible et dangereux. Et ce n’est pas une bonne façon de conduire. Vous avez besoin d’informations continues sur la vitesse, la distance parcourue et le niveau de carburant pour effectuer des ajustements constants dans votre façon de conduire. Il ne fait aucun doute qu’une personne sensée arracherait le carton du tableau de bord pour y jeter régulièrement un œil. Cela permettrait de gagner des heures sur le trajet, éliminerait presque le risque de manquer d’essence et permettrait de rouler à la bonne vitesse pour éviter les contraventions.
 
@@ -71,8 +84,8 @@ Avec ce produit final en main, il vous suffit d’effectuer les opérations suiv
 
 - Vous faire du café et vous préparer, parce qu’une fois les données acquises, les cadres viendront vous poser un grand nombre de questions
 
-En conclusion, les tableaux de bord exécutifs synthétiques permettent de disposer d’informations pertinentes et continues pour la prise de décisions en temps opportun. Les présentations mensuelles avec les graphiques Excel sont insuffisantes et l’abondance de données granulaires peut submerger les cadres. Pour bien communiquer, concentrez-vous sur les trois KPI les plus importants et fournissez des données historiques et des listes déroulantes pour les facteurs pertinents. En formant
-les cadres à l’utilisation de tableaux de bord, vous les aiderez à prendre des décisions éclairées et à poser les bonnes questions. Les tableaux de bord exécutifs synthétiques peuvent améliorer les performances des sites et des applications, ce qui vous permettra d’exceller.
+En conclusion, les tableaux de bord exécutifs synthétiques permettent de disposer d’informations pertinentes et continues pour la prise de décisions en temps opportun. Les présentations mensuelles avec les graphiques Excel sont insuffisantes et l’abondance de données granulaires peut submerger les cadres. Pour bien communiquer, concentrez-vous sur les trois KPI les plus importants et fournissez des données historiques et des listes déroulantes pour les facteurs pertinents. Par formation
+Les dirigeants savent comment utiliser le tableau de bord. Ils peuvent prendre des décisions éclairées et poser des questions. Les tableaux de bord exécutifs synthétiques peuvent améliorer les performances des sites et des applications, ce qui vous permettra d’exceller.
 
 ## Auteur
 
@@ -82,4 +95,4 @@ Ce document a été rédigé par :
 
 **Gitai Ben-Ammi**, consultant principal chez Concentrix Catalyst
 
-Adobe Analytics Champion
+Adobe Analytics Champion

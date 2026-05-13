@@ -1,23 +1,36 @@
 ---
 title: Cas dʼutilisation des visualisations
-description: Vous souhaitez connaître les produits les plus vendus ? Découvrez certains des cas d’utilisation principaux de visualisations tels que l’abandon, le flux, la cohorte, etc.
+description: Vous voulez savoir quels produits se vendent le mieux ? Découvrez quelques-uns des principaux cas d’utilisation pour les visualisations, tels que les abandons, les flux, les cohortes, etc.
 feature: Visualizations
 role: User
 level: Beginner
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/6pZsLeHGrLVQPadOhiXbvI-Mu8BThdRgo-OLVST--Ik
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: 76
+ht-degree: 36%
 
 ---
 
 # Cas dʼutilisation des visualisations
 
-Vous souhaitez connaître les produits les plus vendus ? Découvrez certains des cas d’utilisation principaux de visualisations tels que l’abandon, le flux, la cohorte, etc.
+Vous voulez savoir quels produits se vendent le mieux ? Découvrez quelques-uns des principaux cas d’utilisation pour les visualisations, tels que les abandons, les flux, les cohortes, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415653/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3415653/?captions=fre_fr&quality=12&learn=on)
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=fr).
+Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=fr).

@@ -10,10 +10,31 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 100%
+source-wordcount: 1607
+ht-degree: 94%
 
 ---
 
@@ -29,20 +50,20 @@ Lorsque les utilisateurs interagissent avec votre marque, ils le font de nombreu
 
 Voici un exemple. Supposons qu’Isabelle interagisse avec votre marque de la manière suivante :
 
-*Isabelle représente trois visiteurs*
-![Parcours Analytics classique](assets/cda-isabelle-journey-traditional-analytics.png)
+*Isabelle a trois visiteurs*
+Parcours Analytics traditionnel![&#128279;](assets/cda-isabelle-journey-traditional-analytics.png)
 
 En utilisant l’analytics de façon classique, le parcours d’Isabelle se divise en trois parties. Elle est représentée par trois visiteurs uniques, qui ont chacun utilisé un appareil différent pour effectuer des tâches isolées. Ce qu’il faut, c’est une vue unifiée sur plusieurs appareils des interactions d’Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fournit cette vue.
 
-*Isabelle représente une seule personne*
-![Parcours Analytics sur l’ensemble des appareils](assets/cda-isabelle-journey-cross-device-analytics.png)
+*Isabelle est une seule personne*
+Parcours Analytics Sur L’Ensemble Des Appareils![&#128279;](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Une vue sur plusieurs appareils fournit de meilleures analyses
 
 Avoir une vue du comportement d’Isabelle centrée sur la personne et sur plusieurs appareils peut créer une différence significative dans votre analyse. Par exemple, l’approche traditionnelle basée sur les visiteurs ne donne pas une vue d’ensemble complète de l’efficacité des canaux marketing. Examinons à nouveau le parcours d’Isabelle en nous concentrant sur le canal qui reçoit du crédit pour sa consultation de produit et pour son achat. Nous utiliserons l’attribution [!UICONTROL Dernière touche] pour plus de simplicité, mais le même problème se produit avec n’importe quel modèle d’attribution lorsque vous divisez le comportement d’Isabelle en visiteurs distincts. L’utilisation de la vision traditionnelle du monde basée sur les visiteurs donne des résultats très différents, voire trompeurs :
 
-*Utilisation classique d’Analytics vs Analytics sur l’ensemble des appareils*
-![attribution de canaux](assets/channel-attribution.png)
+*Analytics traditionnel par rapport à l’analyse entre appareils*
+![attribution de canal](assets/channel-attribution.png)
 
 Notez qu’avec la vue sur l’ensemble des appareils, le canal e-mail reçoit du crédit à la fois pour la consultation de produit et l’achat, ce qui représente plus précisément l’expérience réelle d’Isabelle.
 
@@ -63,18 +84,18 @@ Analytics sur l’ensemble des appareils se présente par l’intermédiaire d�
 
 Dans la première étape du créateur de suites de rapports virtuelles, sélectionnez la [!UICONTROL suite de rapports] qui a été configurée par Adobe comme étant compatible avec CDA sur l’ensemble des appareils :
 
-*Choix d’une [!UICONTROL suite de rapports]* de base (source) compatible avec Analytics sur l’ensemble des appareils
-![[!UICONTROL Suite de rapports virtuelle] Étape 1](assets/cda-vrs-step-one.png)
+*Choisir une base (source) compatible avec Analytics sur l’ensemble des appareils [!UICONTROL suite de rapports)]*
+![[!UICONTROL Suite de rapports virtuelle] première étape](assets/cda-vrs-step-one.png)
 
 Ensuite, activez le [!UICONTROL Traitement de la période de rapport] et le [!UICONTROL groupement sur plusieurs appareils] :
 
-*Activation du [!UICONTROL traitement de la période de rapport] et du [!UICONTROL groupement sur plusieurs appareils]*
-![[!UICONTROL Suite de rapports virtuelle] Étape 2](assets/cda-vrs-step-two.png)
+*Activer le [!UICONTROL traitement de la période de rapport] et le [!UICONTROL groupement sur plusieurs appareils)]*
+![[!UICONTROL Suite de rapports virtuelle] Étape 2](assets/cda-vrs-step-two.png)
 
 Terminez la configuration des suites de rapports virtuelles et enregistrez-la. La suite de rapports virtuelle d’Analytics sur l’ensemble des appareils s’affiche dans Analysis Workspace avec une icône spéciale en regard de celle-ci, comme illustré ci-dessous :
 
-*Sélection de la suite de rapports virtuelle d’Analytics sur l’ensemble des appareils dans Analysis Workspace*
-![[!UICONTROL Suite de rapports virtuelle] Étape 3](assets/cda-vrs-step-three.png)
+*Sélection de la suite de rapports virtuelle d’analyses entre appareils dans Analysis Workspace*
+![[!UICONTROL Suite de rapports virtuelle] Étape 3](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -138,13 +159,13 @@ persistera désormais automatiquement d’un appareil à un autre jusqu’à ce 
 Vous êtes-vous déjà demandé combien de personnes interagissent avec votre marque ? Avez-vous voulu comprendre combien et quel type d’appareils elles utilisent ? Comment leurs utilisations se superposent-elles ? À l’aide d’une suite de rapports virtuelle d’analyses entre appareils, vous pouvez créer des [diagrammes de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr) et des [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr) d’appareils par personne.
 
 *Analyse de l’audience basée sur les personnes*
-![Venn et histogramme](assets/cda-venn-and-histogram.png)
+![&#x200B; Venn et histogramme &#x200B;](assets/cda-venn-and-histogram.png)
 
 ### [!DNL Flow] entre appareils
 
 Avec les analyses entre appareils et Analysis Workspace, vous pouvez visualiser la manière dont les utilisateurs passent d’un appareil à un autre au fil du temps dans [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=fr). Vous pouvez voir où ils abandonnent dans leur parcours, et où ils continuent.
 
-*[!DNL Flow] avec CDA*
+*[!DNL Flow]avec CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### [!DNL Fallout] entre appareils
@@ -153,7 +174,7 @@ Vous utilisez probablement plusieurs [[!DNL Fallout visualizations]](https://exp
 
 Ne vous inquiétez pas, Analytics sur l’ensemble des appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c’est de savoir si la personne a finalement réussi quelque part dans sa tâche.
 
-*[!DNL Fallout] avec CDA*
+*[!DNL Fallout]avec CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +183,7 @@ Comme Analytics sur l’ensemble des appareils crée une couche de données mult
 
 Supposons, par exemple, que vous souhaitiez comprendre à quelle fréquence un téléphone mobile est le premier appareil utilisé dans une interaction qui, finalement, mène au succès. Ceci représente le « taux d’acquisition » du téléphone mobile. CDA + [!DNL Attribution IQ] vous permet d’effectuer cette analyse :
 
-*[!DNL Attribution IQ] avec CDA*
+*[!DNL Attribution IQ]avec CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Pour plus d’informations, consultez la [[!DNL Cross-Device Analytics] documentation d’aide](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=fr).

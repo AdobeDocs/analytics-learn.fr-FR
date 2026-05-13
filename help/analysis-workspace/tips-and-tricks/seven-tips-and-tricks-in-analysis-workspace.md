@@ -10,17 +10,44 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 1072
+ht-degree: 91%
 
 ---
 
 # 7 conseils et astuces pour accélérer et faciliter la création de projets Analytics personnalisés
 
 **Améliorez votre connaissance dʼAnalysis Workspace !**
-Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut vous aider à créer des projets d’analyse plus efficaces. Doté dʼun large éventail de fonctionnalités qui offrent puissance et échelle, il vous permet de réaliser n’importe quelle analyse à structure libre, tout en restant accessible grâce à son expérience utilisateur simple.
+Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut vous aider à créer des projets dʼanalyse plus efficaces. Doté dʼun large éventail de fonctionnalités qui offrent puissance et échelle, il vous permet de réaliser n’importe quelle analyse à structure libre, tout en restant accessible grâce à son expérience utilisateur simple.
 
 ## Création : rechercher les points de données pertinents
 
@@ -36,7 +63,7 @@ Pour ce faire, faites glisser, puis déposez un [!UICONTROL segment] ou tout aut
 
 ### ***Conseil 2 : création de mesures simples sans quitter votre workflow***
 
-Grâce aux [!UICONTROL Mesures calculées] rapides, vous pouvez créer des [!UICONTROL mesures] directement dans Analysis Workspace, au lieu de passer par le Créateur de [!UICONTROL mesures calculées]. Sélectionnez simplement les colonnes des [!UICONTROL mesures] à calculer, puis, dans le menu contextuel, cliquez sur « [!UICONTROL Créer une mesure à partir de la sélection] ». Vous pouvez désormais ajouter, soustraire, diviser, multiplier et plus encore, sans quitter votre projet et interrompre le flux de vos idées.
+Grâce aux [!UICONTROL Mesures calculées] rapides, vous pouvez créer des [!UICONTROL mesures] directement dans Analysis Workspace, au lieu de passer par le Créateur de [!UICONTROL mesures calculées]. Sélectionnez simplement les colonnes [!UICONTROL mesure] à calculer, puis, dans le menu contextuel, cliquez sur « [!UICONTROL Créer une mesure à partir de la sélection] ». Désormais, vous pouvez ajouter, soustraire, diviser, multiplier et plus encore, sans quitter votre projet et interrompre le flux de vos idées.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41466/?captions=fre_fr&quality=12&learn=on)
 
@@ -94,8 +121,8 @@ Vous pouvez désormais transformer en toute facilité nʼimporte quel projet en 
 >
 >**Fonctionnalité très demandée :** plusieurs clients nous ont demandé de rendre possible lʼenregistrement des projets en tant que modèles personnalisés. Nous avons répondu à leur demande et cette fonctionnalité est d’ores et déjà lʼune des plus populaires.
 
-[Cliquez ici pour prendre connaissance d’autres conseils et astuces pour Experience League.](https://experienceleague.adobe.com/fr?search=tips&lang=fr#recommended/solutions/analytics)
+[Cliquez ici pour découvrir d’autres conseils et astuces pour Experience League](https://experienceleague.adobe.com/fr?search=tips&lang=fr#recommended/solutions/analytics)
 
 | À propos de l’auteur |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser est responsable de l’équipe de gestion de produit Adobe Analytics. <br> Cette fonction lui offre la possibilité de rencontrer des clients et de saisir leurs attentes sur le plan professionnel, <br>afin dʼen tenir compte dans lʼélaboration de la feuille de route dʼAdobe Analytics <br>et pour intégrer de nouvelles fonctionnalités de produit. Avant dʼoccuper son poste actuel, <br>Jen était consultante principale au sein de l’équipe de conseillers dʼAdobe. Ses <br>domaines dʼexpertise étaient la visualisation de données, Analysis Workspace et [!DNL Report Builder]. <br><br>Grâce à ses informations glanées auprès de nos clients, nous avons élaboré les conseils et astuces suivants pour <br>aider à faciliter la création, la visualisation et le partage de vos projets Analysis Workspace. |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser est responsable de l’équipe de gestion de produit Adobe Analytics. <br> À ce poste, elle rencontre des clients pour comprendre leurs besoins commerciaux, <br>à l’aide de ce qu’elle apprend pour éclairer la feuille de route du produit Adobe Analytics <br>et donner la priorité aux nouvelles fonctionnalités du produit). Avant dʼoccuper son poste actuel, <br>Jen était consultante principale au sein de l’équipe de conseillers dʼAdobe. Ses <br>domaines dʼexpertise étaient la visualisation de données, Analysis Workspace et [!DNL Report Builder]. <br><br>Grâce à ses informations glanées auprès de nos clients, nous avons élaboré les conseils et astuces suivants pour <br>aider à faciliter la création, la visualisation et le partage de vos projets Analysis Workspace. |
