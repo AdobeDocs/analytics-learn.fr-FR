@@ -11,14 +11,10 @@ role: User
 level: Intermediate
 exl-id: 1bcff127-b076-49f9-bdae-60407a4ff6f8
 TQID: https://experienceleague.adobe.com/t9-ZuOtGXxDwAguxShdUhX86QyepUdxE5f3jextWQEE
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 91
@@ -30,4 +26,4 @@ ht-degree: 100%
 
 Comprenez le parcours client sur l’application vocale en observant le chemin du [!UICONTROL flux] et lʼ[!UICONTROL abandon] pour identifier les actions les plus courantes, la séquence de ces actions et quand et où les utilisateurs abandonnent le parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/34999/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
