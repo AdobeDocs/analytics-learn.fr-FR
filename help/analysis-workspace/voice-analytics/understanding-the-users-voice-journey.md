@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Comprenez le parcours client sur l’application vocale en observant le chemin du [!UICONTROL flux] et lʼ[!UICONTROL abandon] pour identifier les actions les plus courantes, la séquence de ces actions et quand et où les utilisateurs abandonnent le parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34999/?captions=fre_fr&quality=12&learn=on)

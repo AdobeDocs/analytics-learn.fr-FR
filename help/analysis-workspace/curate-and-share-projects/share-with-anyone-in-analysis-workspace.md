@@ -37,6 +37,6 @@ ht-degree: 30%
 
 Découvrez la fonctionnalité « partager avec tout le monde » dans Workspace. Vous pouvez utiliser cette fonctionnalité pour accorder un accès en lecture seule aux projets Workspace aux personnes qui n’ont pas accès à Adobe Analytics ou Customer Journey Analytics, y compris les destinataires en dehors de votre organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452452/?captions=fre_fr&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=fr#share-public-link).

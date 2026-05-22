@@ -37,7 +37,7 @@ ht-degree: 100%
 
 Dans cette vidéo, nous examinons comment configurer des règles de traitement pour les canaux marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344352/?captions=fre_fr&quality=12&learn=on)
 
 >[!NOTE]
 >
