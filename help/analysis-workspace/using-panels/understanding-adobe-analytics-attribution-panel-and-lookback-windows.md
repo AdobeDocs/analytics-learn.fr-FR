@@ -10,11 +10,18 @@ jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
-subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1704
@@ -28,7 +35,7 @@ Quand j&#39;ai commencé à penser au [panneau d&#39;attribution](https://experi
 
 Honnêtement, regardez toutes ces options, les commutateurs, les panneaux, les lectures et les boutons.  Et sérieusement, parlons de ces lumières clignotantes compliquées, tuyaux, jauges... ATTENDEZ!!  Ce n&#39;est pas le moment de se distraire en parlant de machines à remonter le temps, nous n&#39;avons tout simplement pas le temps... ou est-ce le cas ?
 
-Je reconnais que le **panneau d&#39;attribution** est un outil assez complexe; toutefois, notre travail typique d&#39;analystes, jour après jour, consiste à utiliser un autre de nos outils préférés et très complexes pour examiner également ce qui s&#39;est passé dans le passé. Cet outil s’appelle ****** !  Donc, oui, pour répondre à notre question très pertinente, je crois que ces deux choses indiquent que nous avons amplement de temps.
+Je reconnais que le **panneau d&#39;attribution** est un outil assez complexe; toutefois, notre travail typique d&#39;analystes, jour après jour, consiste à utiliser un autre de nos outils préférés et très complexes pour examiner également ce qui s&#39;est passé dans le passé. Cet outil s’appelle **&#x200B;**&#x200B;** !  Donc, oui, pour répondre à notre question très pertinente, je crois que ces deux choses indiquent que nous avons amplement de temps.
 
 Par conséquent, pourquoi devrions-nous permettre à quelque chose comme une petite peur de se mettre en travers du chemin d&#39;outils aussi étonnants, sophistiqués et puissants que ceux-ci qui nous permettent littéralement de regarder *en arrière* dans le temps, chaque jour ?
 
@@ -49,12 +56,12 @@ Maintenant que nous sommes tous enthousiastes à l’idée de voyager dans le te
 
 Dans **attribution**, réfléchissez simplement à la manière dont les événements/actions peuvent être causés par un individu, plusieurs individus ou un événement parmi un certain nombre d’événements différents au fil du temps.
 
-Selon [](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* permet aux analystes de personnaliser la manière dont les éléments *Dimension* sont crédités pour les *événements de succès*.
+Selon [&#128279;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attribution* permet aux analystes de personnaliser la manière dont les éléments *Dimension* sont crédités pour les *événements de succès*.
 
 
 >[!WARNING]
 >
-Les **modèles d’attribution** sont si fréquemment associés aux **canaux marketing** que j’ai délibérément *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer une analyse **attribution** par rapport à la plupart des autres ***dimension***.
+>Les **modèles d’attribution** sont si fréquemment associés aux **canaux marketing** que j’ai délibérément *barré* ❷ CANAL dans l’image ci-dessus pour illustrer qu’il est possible d’effectuer une analyse **attribution** par rapport à la plupart des autres ***dimension***.
 
 
 En fait, un parcours client donné est rarement réellement linéaire et encore moins souvent prévisible.  De plus, chaque client avance à son propre rythme ; souvent, il peut doubler d’avance, décrocher, abandonner ou adopter un autre comportement non linéaire. Ces actions organiques rendent difficile, voire pratiquement impossible, de connaître l’impact des efforts marketing sur le parcours client. Cela complique également les efforts visant à relier plusieurs canaux de données.
@@ -77,11 +84,11 @@ Dans cette optique, voici quelques exemples de la manière dont les ❸ **modèl
 
   >[!CAUTION]
   >
-  La prudence est toutefois recommandée dans ce cas, car vous avez la possibilité de diffuser vos résultats très finement et très rapidement lors de l’application de cette tactique, compte tenu de sa durée et de l’ampleur de l’audience touchée.
+  >La prudence est toutefois recommandée dans ce cas, car vous avez la possibilité de diffuser vos résultats très finement et très rapidement lors de l’application de cette tactique, compte tenu de sa durée et de l’ampleur de l’audience touchée.
 
 - **En U** : cette approche attribue **40 %** du crédit à la *première personne* dans la porte, répartit **20 %** du crédit entre *toutes les personnes entre les deux*, puis donne **40 %** au **dernier** à travers. Ce modèle sera le plus souvent utilisé dans les situations où vous avez un **long cycle de conversion/vente** contenant *plusieurs points de contact* en cours de route.  Dans ce cas, votre objectif est principalement de mettre en évidence les ***première*** et ***dernière*** tactiques marketing qui ont contribué à la conversion des clients.
 - **J**-**Shaped** et **Inverse J** :
-   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde ** au milieu.  **Inverse J** fait exactement le contraire.
+   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
 
      L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
 
@@ -99,10 +106,10 @@ Pour rendre cela encore plus intéressant, parlons de revenir en arrière !
 
 Il est maintenant temps de passer à un autre niveau.  C’est là que nous ajoutons littéralement l’élément du voyage dans le temps à notre analyse - et, encore une fois, nous commençons par les principes de base.
 
-****** définit ❹ **intervalles de recherche en amont** comme « la durée pendant laquelle une conversion doit rechercher des points de contact inclus. Les modèles d’attribution qui accordent plus de crédit aux premières interactions constatent des différences plus importantes lors de l’affichage de différents intervalles de recherche en amont. »
+**&#x200B;**&#x200B;**&#x200B; définit ❹ &#x200B;** intervalles de recherche en amont** comme « la durée pendant laquelle une conversion doit rechercher des points de contact inclus. Les modèles d’attribution qui accordent plus de crédit aux premières interactions constatent des différences plus importantes lors de l’affichage de différents intervalles de recherche en amont. »
 
 
-En d’autres termes, les **intervalles de recherche en amont** déterminent la période pendant laquelle les *conversions* sont prises en compte et fournissent *contexte* à l’analyse d’attribution. ****** offre trois types d’intervalles de recherche en amont **lookback** :
+En d’autres termes, les **intervalles de recherche en amont** déterminent la période pendant laquelle les *conversions* sont prises en compte et fournissent *contexte* à l’analyse d’attribution. **&#x200B;**&#x200B;**&#x200B; offre trois types d’intervalles de recherche en amont &#x200B;** lookback** :
 
 - **Intervalle de recherche en amont d’une visite :** recherche le début d’une ***visite*** lorsqu’une conversion s’est produite, ce qui fournit des informations sur les interactions immédiates menant aux conversions.
 
@@ -127,13 +134,13 @@ Maintenant que vous avez défini les concepts, imaginez que vous lancez une camp
 Maintenant que vous avez vu ce qu’il peut faire, ne vous laissez pas berner ou intimider par les fonctionnalités apparemment complexes du panneau d’attribution.  **Regardez les choses en face**.  *Embrasse* ça.  **Comprenez** ça.
 MAIS SURTOUT - *Utilisez-le à votre avantage.* Le **panneau d’attribution** et **intervalle de recherche en amont** sont les clés pour acquérir une compréhension plus approfondie de vos clients et de leur parcours envers votre marque.
 
-Désormais, nous pouvons voyager « [ dans le passé »](https://youtu.be/gVryJmZNFdU) en toute confiance et utiliser la puissance de notre machine à remonter le temps fiable (également appelée ***Adobe Analytics***) pour prendre des décisions basées sur les données.
+Désormais, nous pouvons voyager « [&#x200B; dans le passé »](https://youtu.be/gVryJmZNFdU) en toute confiance et utiliser la puissance de notre machine à remonter le temps fiable (également appelée ***Adobe Analytics***) pour prendre des décisions basées sur les données.
 
 ## Auteur
 
 Ce document a été rédigé par :
 
-![ Jeff Bloomer ](assets/jeff-headshot.png)
+![&#x200B; Jeff Bloomer &#x200B;](assets/jeff-headshot.png)
 
 **Jeff Bloomer**, responsable, Analyses numériques chez Kroger Personal Finance
 
