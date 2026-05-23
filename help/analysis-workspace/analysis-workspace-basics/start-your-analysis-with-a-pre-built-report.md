@@ -27,4 +27,4 @@ ht-degree: 77%
 
 Vous ne voulez pas recommencer à zéro ? Découvrez comment lancer votre analyse dans Workspace avec un rapport préconfiguré.
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450686/?captions=fre_fr&learn=on)
