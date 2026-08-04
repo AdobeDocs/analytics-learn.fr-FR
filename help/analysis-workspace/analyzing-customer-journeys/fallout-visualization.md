@@ -36,7 +36,7 @@ ht-degree: 100%
 
 Dans [!DNL Analysis Workspace], les visualisations des abandons permettent de comprendre à quelle étape les clients quittent ou abandonnent les flux clés sur vos propriétés numériques. Découvrez comment ajouter plusieurs types de points de contact et comment créer et utiliser des segments dans ce composant.
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453248/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr).
 

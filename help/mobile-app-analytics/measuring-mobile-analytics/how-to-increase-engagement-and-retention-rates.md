@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Identifiez les audiences impliquées à lʼaide de leur comportement avec les [!UICONTROL cohortes] et découvrez les causes sous-jacentes de lʼattractivité de vos applications mobiles. Utilisez des algorithmes de science de données dans [!UICONTROL Segment IQ] pour connaître les différences et les similitudes entre les segments.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32082/?captions=fre_fr&quality=12&learn=on)
