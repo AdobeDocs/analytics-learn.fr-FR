@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Sous [!UICONTROL Admin] - [!UICONTROL Journaux] - [!UICONTROL Utilisation et accès], vous pouvez mieux comprendre l’utilisation d’Adobe Analytics par vos utilisateurs. Cette vidéo porte spécifiquement sur la mesure de l’utilisation des projets [!DNL Workspace]. Remarque : depuis la sortie de cette vidéo, une astuce sur la manière d’effectuer une analyse d’utilisation robuste dans Analysis Workspace a été publiée à l’adresse adobe.ly/aausage.
 
->[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33173/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=fr).

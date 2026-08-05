@@ -37,6 +37,6 @@ ht-degree: 100%
 
 Le tutoriel de formation à Analysis Workspace vous présente la terminologie et les étapes nécessaires à la création de votre première analyse dans Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37170/?captions=fre_fr&quality=12&learn=on)
 
 Ce modèle est disponible en tant que modèle standard dans le modal Nouveau projet. À partir de ce modèle, vous pouvez créer vos propres tutoriels, en les adaptant aux cas d’utilisation et à la structure de données propres à votre entreprise (eVars, événements personnalisés).

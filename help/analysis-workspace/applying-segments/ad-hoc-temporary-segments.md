@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Découvrez comment créer rapidement un segment simple pour répondre à une question spécifique, puis le supprimer pour qu’il n’encombre pas votre liste de segments enregistrés.
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41416/?captions=fre_fr&quality=12&learn=on)
