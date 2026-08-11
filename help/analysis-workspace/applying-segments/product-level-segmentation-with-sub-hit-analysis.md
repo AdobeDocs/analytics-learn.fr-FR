@@ -20,6 +20,6 @@ La segmentation traditionnelle dans Adobe Analytics est souvent limitée au nive
 
 Cette vidéo montre comment l’analyse des sous-accès dans Adobe Analytics offre des fonctionnalités de segmentation plus granulaires.
 
-Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
+Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
