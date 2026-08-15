@@ -22,4 +22,4 @@ Cette vidéo montre comment l’analyse des sous-accès dans Adobe Analytics off
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497077/?captions=fre_fr&quality=12&learn=on)
