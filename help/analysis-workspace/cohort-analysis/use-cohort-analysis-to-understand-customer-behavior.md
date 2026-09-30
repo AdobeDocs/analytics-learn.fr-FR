@@ -1,5 +1,5 @@
 ---
-title: Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes
+title: Utiliser l’analyse de cohorte pour comprendre le comportement client
 description: Pour améliorer l’expérience client et les recettes, les entreprises doivent comprendre le comportement des clients. L’analyse des cohortes peut vous aider à comprendre l’engagement et la rétention, ce qui mène à des actions telles que l’amélioration de la création de comptes et la création de campagnes pour les mois de gros volume.
 feature: Visualizations
 role: User
@@ -9,24 +9,34 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+TQID: 'https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 12%
-
 ---
-
 # Comprendre le comportement de la clientèle à l’aide de l’Analyse des cohortes
 
 Pour améliorer l’expérience client et les recettes, les entreprises doivent comprendre le comportement des clients. L’analyse des cohortes peut vous aider à comprendre l’engagement et la rétention, ce qui mène à des actions telles que l’amélioration de la création de comptes et la création de campagnes pour les mois de gros volume.
@@ -145,7 +155,7 @@ Examiner l’expérience utilisateur du site pour amener les utilisateurs à cr�
 
 ## Partie 4 : cohorte Dimension personnalisée
 
-Cohorte Dimension personnalisée : créez des cohortes basées sur la dimension sélectionnée plutôt que sur le temps (par défaut). Nombre de clients veulent analyser leurs cohortes en fonction d’autres aspects que le temps. La nouvelle fonctionnalité Cohorte de dimension personnalisée vous fournit la flexibilité de créer des cohortes en fonction des dimensions de votre choix. Utilisez des dimensions telles que le canal marketing, la campagne, le produit, la page, la région ou toute autre dimension dans Adobe Analytics de façon à afficher l’évolution de la rétention en fonction des différentes valeurs de ces dimensions. Le
+Cohorte Dimension personnalisée : créez des cohortes basées sur la dimension sélectionnée plutôt que sur le temps (par défaut). De nombreux clients et clientes veulent analyser leurs cohortes en fonction d’autres aspects que le temps. La nouvelle fonctionnalité de cohorte de dimension personnalisée vous offre la flexibilité de créer des cohortes en fonction des dimensions de votre choix. Utilisez des dimensions telles que le canal marketing, la campagne, le produit, la page, la zone géographique ou toute autre dimension dans Adobe Analytics de façon à afficher l’évolution de la rétention en fonction des différentes valeurs de ces dimensions. Le
 
 La définition de segment de cohorte Dimension personnalisée applique la dimension uniquement dans le cadre de la période d’inclusion, et non dans le cadre de la définition du renvoi.
 

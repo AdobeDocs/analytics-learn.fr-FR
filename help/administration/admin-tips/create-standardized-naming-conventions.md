@@ -1,6 +1,6 @@
 ---
 title: Créer des conventions d’affectation de noms normalisées
-description: Les conventions de nommage normalisées s’appliquent à la fois au nom de variable lui-même lorsqu’il est activé dans l’interface utilisateur d’administration d’AA et aux valeurs transmises à la dimension.
+description: Les conventions de nommage standardisées s’appliquent à la fois au nom de variable proprement dite, lorsqu’elle est activée dans l’UI d’administration d’AA, et aux valeurs transmises à la dimension.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,26 +9,36 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
-TQID: https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0
+TQID: 'https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 331
+source-wordcount: '331'
 ht-degree: 78%
-
 ---
-
 # Créer des conventions d’affectation de noms normalisées
 
 **QUOI :** les conventions de nommage normalisées s’appliquent à la fois au nom de variable lui-même lorsqu’il est activé dans l’interface utilisateur d’administration d’Adobe Analytics (AA) et aux valeurs transmises à la dimension. (c’est-à-dire que les noms de page seraient « nom de page (v1) » comme nom de variable et que les valeurs de nom de page transmises doivent être uniformes et suivre une structure/hiérarchie spécifique telle que « nom_site|page_accueil » ou « nom_site|recherche|résultats_recherche »).

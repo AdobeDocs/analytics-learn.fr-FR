@@ -9,26 +9,38 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Présentation du panneau d’attribution et des intervalles de recherche en amont d’Adobe Analytics
 
 Quand j&#39;ai commencé à penser au [panneau d&#39;attribution](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=fr) et à **intervalle de recherche en amont**, le concept de &#39;voyage *temps&#39;* m&#39;est immédiatement venu à l&#39;esprit ; puis, bien sûr, notre réponse typique à de nombreux nouveaux outils comme ceux-ci est de simplement remettre à plus tard leur utilisation, car ils ont l&#39;air si compliqués.
@@ -88,9 +100,9 @@ Dans cette optique, voici quelques exemples de la manière dont les ❸ **modèl
 
 - **En U** : cette approche attribue **40 %** du crédit à la *première personne* dans la porte, répartit **20 %** du crédit entre *toutes les personnes entre les deux*, puis donne **40 %** au **dernier** à travers. Ce modèle sera le plus souvent utilisé dans les situations où vous avez un **long cycle de conversion/vente** contenant *plusieurs points de contact* en cours de route.  Dans ce cas, votre objectif est principalement de mettre en évidence les ***première*** et ***dernière*** tactiques marketing qui ont contribué à la conversion des clients.
 - **J**-**Shaped** et **Inverse J** :
-   - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
+  - Pensez à **en U**, mais à la place, ce modèle attribue **60%** crédit à la *dernière personne* qui passe la porte, **20%** à la *première*, puis *divise* les 20%**restants à** tout le monde **&#x200B; au milieu.  &#x200B;** Inverse J** fait exactement le contraire.
 
-     L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
+    L&#39;objectif ici est de mettre l&#39;accent, soit au *début* soit à la *fin* de votre campagne ; cependant, vous voulez quand même attribuer un certain crédit à l&#39;élément contributeur à l&#39;autre bout tout en reconnaissant les « petits » en cours de route.
 
 - **Décroissance temporelle** : Maintenant, je m&#39;en voudrais de ne pas partager celui-ci. Ce modèle a littéralement une demi-vie qui se désintègre de manière exponentielle - au fil du temps !  Dans ce cas, le paramètre *par défaut* de la demi-vie de ce modèle est de **7 jours**.  Son fonctionnement consiste à appliquer ensuite *poids* à chaque **canal marketing**, *en fonction du temps écoulé* après le *point de contact initial* et lorsque le client effectue une conversion.
 

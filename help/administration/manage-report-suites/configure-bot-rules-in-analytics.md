@@ -1,5 +1,5 @@
 ---
-title: Configurer les règles de robots dans Analytics
+title: Configurer des règles de robots dans Analytics
 description: Les règles de robots vous permettent de supprimer de votre suite de rapports le trafic généré par des spiders et des robots connus. La suppression du trafic de robots permet d’obtenir une mesure plus précise de l’activité des utilisateurs sur votre site web. Une fois les règles de robots définies, elles servent de critères de comparaison pour tout le trafic entrant. Le trafic qui correspond à l’une de ces règles n’est ni collecté dans la suite de rapports, ni inclus dans les mesures de trafic.
 feature: Data Configuration and Collection, Report Suite Settings
 topic: Administration
@@ -9,28 +9,40 @@ doc-type: feature video
 thumbnail: 335738.jpg
 kt: KT-8458
 exl-id: a26119fd-e296-402b-8b0c-f588295bd8b2
-TQID: https://experienceleague.adobe.com/gCOPfPZZ0MFfYouBJoTYxOJG7-ScJBCd1mph2NTEDgg
+TQID: 'https://experienceleague.adobe.com/gCOPfPZZ0MFfYouBJoTYxOJG7-ScJBCd1mph2NTEDgg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
+subfeature_v2:
+  - id: fab61dd8-112a-4e5e-ad5f-fb0240b7a60b
+    internal-label: Report Suite settings
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 100%
-
 ---
-
 # Configurer les règles de robots dans Analytics
 
 Les règles de robots vous permettent de supprimer de votre suite de rapports le trafic généré par des spiders et des robots connus. La suppression du trafic de robots permet d’obtenir une mesure plus précise de l’activité des utilisateurs sur votre site web. Une fois les règles de robots définies, elles servent de critères de comparaison pour tout le trafic entrant. Le trafic qui correspond à l’une de ces règles n’est ni collecté dans la suite de rapports, ni inclus dans les mesures de trafic.

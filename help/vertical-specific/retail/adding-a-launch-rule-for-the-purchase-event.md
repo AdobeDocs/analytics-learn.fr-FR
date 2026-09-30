@@ -1,31 +1,39 @@
 ---
-title: Ajoutez une règle pour l’événement d’achat dans  [!DNL tags]
-description: Cette vidéo montre comment utiliser l’extension de chaîne de produit dans  [!DNL tags]  pour effectuer le suivi des achats sur votre site. Ainsi, votre analyse inclura les mesures Chiffre d’affaires, Commandes et Unités.
+title: Ajoutez une règle pour l’événement d’achat dans Experience Platform [!DNL tags]
+description: Cette vidéo montre comment utiliser l’extension de chaîne de produit dans [!DNL tags] pour effectuer le suivi des achats sur votre site. Ainsi, votre analyse inclura les mesures Chiffre d’affaires, Commandes et Unités.
 feature: Tags
 topics: Development
 kt: 3593
 role: Developer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-TQID: https://experienceleague.adobe.com/XOKzWpVZ82-1IyM46qvoppcZ6dKaEBmKo4j08vF3F6Q
+TQID: 'https://experienceleague.adobe.com/XOKzWpVZ82-1IyM46qvoppcZ6dKaEBmKo4j08vF3F6Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: df312454-73c4-43f6-a90e-18f5043f074c
+    internal-label: Tags
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Beginner
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 78
+source-wordcount: '79'
 ht-degree: 39%
-
 ---
-
 # Ajoutez une règle pour l’événement d’achat dans Experience Platform [!DNL tags]
 
 Cette vidéo montre comment utiliser l’[!UICONTROL extension] de chaîne de produit dans [!DNL Experience Platform Launch] afin d’effectuer le suivi des achats sur votre site. Ainsi, votre analyse inclura les [!UICONTROL mesures] [!UICONTROL Chiffre d’affaires], [!UICONTROL Commandes] et [!UICONTROL Unités].

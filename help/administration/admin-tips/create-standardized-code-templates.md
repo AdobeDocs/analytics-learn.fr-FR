@@ -1,6 +1,6 @@
 ---
 title: Créer des modèles de code normalisés
-description: Pour une implémentation de base (c’est-à-dire ce que votre entreprise considère comme des indicateurs de performance clés obligatoires pour tous les sites Adobe Analytics), votre organisation doit disposer d’une méthode d’implémentation unique, dans la mesure du possible.
+description: Pour une mise en œuvre de référence (c’est-à-dire ce que votre entreprise considère comme des KPI indispensables pour tous les sites Adobe Analytics), votre organisation doit, dans la mesure du possible, disposer d’une méthode de mise en œuvre unique.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,25 +9,34 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+TQID: 'https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 87%
-
 ---
-
 # Créer des modèles de code normalisés
 
 **QUOI :** pour une implémentation « de base » (c’est-à-dire ce que votre entreprise considère comme des indicateurs de performance clés obligatoires pour tous les sites Adobe Analytics), votre organisation doit disposer d’une méthode d’implémentation unique, dans la mesure du possible. Par exemple, utilisez la même structure de couche de données sur plusieurs sites et utilisez le même code personnalisé/règle de gestionnaire de balises pour capturer des éléments tels que des recherches internes ou des informations de profil du visiteur.
@@ -44,7 +53,7 @@ ht-degree: 87%
 | event8 | Nombre de recherches internes | En arrivant sur la page de résultats de recherche interne | Règle Launch |
 
 * Précisions sur la définition. C’est là que vous spécifiez les objets de couche de données nécessaires, leur syntaxe ainsi que les règles TMS à configurer et les détails de la configuration des règles.
-* Les cas de test pour vous tout vérifier sont couverts dans l’assurance qualité et toutes les variables que vous vous attendez à voir dans un cas de test réussi. Décrivez ce qu’une implémentation réussie doit inclure lorsque le développeur teste cette amélioration.
+* Cas de test à inclure dans l’assurance qualité, ainsi que toutes les variables que vous vous attendez à voir dans un cas de test réussi. Décrivez ce qu’une implémentation réussie doit inclure lorsque le développeur teste cette amélioration.
 
 Idéalement, il suffira de modifier ce document pour le site suivant où vous mettez à jour les éléments de base tels que le nom de la propriété, la convention de nommage des pages, etc. Pas besoin de réinventer la roue à chaque fois, et vous pouvez gagner du temps.
 

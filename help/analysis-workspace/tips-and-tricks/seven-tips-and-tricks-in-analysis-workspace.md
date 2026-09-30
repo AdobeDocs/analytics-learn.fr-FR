@@ -1,6 +1,6 @@
 ---
 title: 7 conseils et astuces pour accélérer et faciliter la création de projets Analytics personnalisés
-description: Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut vous aider à créer des projets dʼanalyse plus efficaces. Doté dʼun large éventail de fonctionnalités qui offrent puissance et échelle, il vous permet de réaliser n’importe quelle analyse à structure libre, tout en restant accessible grâce à son expérience utilisateur simple.
+description: Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut vous aider à créer des projets dʼanalyse plus efficaces. Doté dʼun vaste ensemble de fonctionnalités qui vous permet de réaliser n’importe quel type d’analyse libre, il offre une expérience client ou cliente simple qui rend cette puissance et cette échelle accessibles.
 feature: Workspace Basics
 topics: topics
 activity: use
@@ -10,56 +10,78 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
 # 7 conseils et astuces pour accélérer et faciliter la création de projets Analytics personnalisés
 
 **Améliorez votre connaissance dʼAnalysis Workspace !**
 Analysis Workspace est un outil puissant intégré à Adobe Analytics qui peut vous aider à créer des projets dʼanalyse plus efficaces. Doté dʼun large éventail de fonctionnalités qui offrent puissance et échelle, il vous permet de réaliser n’importe quelle analyse à structure libre, tout en restant accessible grâce à son expérience utilisateur simple.
 
-## Création : rechercher les points de données pertinents
+## Créer : approfondir les points de données pertinents
 
 ### ***Conseil 1 : dépôt des [!UICONTROL dimensions], [!UICONTROL périodes], [!UICONTROL segments] ou [!UICONTROL mesures] souhaités dans nʼimporte quelle partie de votre projet***
 
-Pour ce faire, faites glisser, puis déposez un [!UICONTROL segment] ou tout autre composant dans la zone de dépôt de [!UICONTROL segments] en haut de nʼimporte quel panneau. Vous pouvez alors rapidement segmenter ce panneau en fonction de certains points de données. Par exemple, vous pouvez segmenter votre panneau pour nʼafficher que les accès pour lesquels des commandes existent en déposant la [!UICONTROL mesure] « commandes » dans la zone de dépôt de [!UICONTROL segments]. Vous pouvez même effectuer une segmentation en fonction des données qui nʼexistent pas dans un composant (par exemple pour afficher les accès sans commande) en déposant lʼélément de dimension « non spécifié » ou « aucun » dans la zone de dépôt de segments.
+Pour ce faire, faites glisser, puis déposez un [!UICONTROL segment] ou tout autre composant dans la zone de dépôt de [!UICONTROL segments] en haut de nʼimporte quel panneau. Vous pouvez alors rapidement segmenter ce panneau en fonction de certains points de données. Par exemple, vous pouvez segmenter votre panneau pour nʼafficher que les hits pour lesquels des commandes existent en déposant la [!UICONTROL mesure] « commandes » dans la zone de dépôt de [!UICONTROL segments]. Vous pouvez même effectuer une segmentation en fonction des données qui nʼexistent pas dans un composant (par exemple pour afficher les hits sans commande) en déposant lʼélément de dimension « non spécifié » ou « aucun » dans la zone de dépôt de segments.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37601/?captions=fre_fr&quality=12&learn=on)
 
 >[!TIP]
 >
->**Essayez ceci :** le menu contextuel vous simplifie la tâche en un clic (droit). À partir de ce menu, vous pouvez accéder à de nombreux outils et fonctionnalités directement dans votre workflow Analysis Workspace. La prochaine fois que vous avez besoin dʼun outil ou dʼune fonctionnalité, cliquez avec le bouton droit pour voir sʼil est présent à portée de clic.
+>**Essayez ceci :** le menu contextuel vous simplifie la tâche en un clic (droit). À partir de ce menu, vous pouvez accéder à de nombreux outils et fonctionnalités directement dans votre workflow Analysis Workspace. En cas de doute, effectuez un clic droit pour vérifier si lʼoutil ou la fonctionnalité dont vous avez besoin est à portée de main.
 
 ### ***Conseil 2 : création de mesures simples sans quitter votre workflow***
 
@@ -71,7 +93,7 @@ Grâce aux [!UICONTROL Mesures calculées] rapides, vous pouvez créer des [!UIC
 >
 >**Astuce :** vous pouvez sélectionner jusqu’à deux colonnes de [!UICONTROL mesures] en utilisant les [!UICONTROL Mesures calculées] rapides. Utilisez le Créateur de [!UICONTROL Mesures calculées] pour créer des [!UICONTROL mesures] qui comprennent plus de deux [!UICONTROL mesures].
 
-## Visualisation : activation des données dans les projets
+## Visualisation : donner vie aux données dans les projets
 
 ### ***Conseil 3 : copie et insertion de visualisations et de panneaux où vous le souhaitez***
 
@@ -89,7 +111,7 @@ Modifiez facilement la vue temporelle des visualisations de tendances. Pour modi
 
 >[!VIDEO](https://video.tv.adobe.com/v/41451/?captions=fre_fr&quality=12&learn=on)
 
-## Partage : faciliter l’utilisation et la compréhension des résultats pour les autres utilisateurs
+## Partage : faciliter l’utilisation et la compréhension des résultats par les autres
 
 ### ***Conseil 5 : création d’une [!DNL Virtual Report Suite] personnalisée pour des unités commerciales spécifiques***
 
@@ -109,7 +131,7 @@ Créez des liens afin dʼamener les audiences où vous le souhaitez dans Analysi
 
 >[!TIP]
 >
->**Astuce :** les liens permettent dʼaméliorer lʼexpérience de vos utilisateurs de plusieurs manières. Vous pouvez les diriger vers des illustrations reflétant les résultats et les recommandations des projets. Vous pouvez aussi leur permettre de passer directement de la table des matières aux sections qui les intéressent. Vous pouvez également créer des liens vers les projets dʼautres utilisateurs en rapport avec votre analyse.
+>**Astuce :** les liens permettent dʼaméliorer lʼexpérience de vos utilisateurs de plusieurs manières. Vous pouvez les diriger vers des illustrations reflétant les résultats et les recommandations des projets. Vous pouvez aussi leur permettre de passer directement de la table des matières aux sections qui les intéressent. Vous pouvez également lier les projets dʼautres utilisateurs et utilisatrices en rapport avec votre analyse.
 
 ### ***Conseil 7 : enregistrement de projets en tant que modèles personnalisés réutilisables***
 

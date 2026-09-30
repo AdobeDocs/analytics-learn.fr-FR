@@ -7,44 +7,70 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+TQID: 'https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6
+    internal-label: Custom reports
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 3446
+source-wordcount: '3447'
 ht-degree: 94%
-
 ---
-
 # Guide complet de transition vers Adobe Analytics à partir de Google Analytics{#comprehensive-guide-for-transitioning-to-Adobe-Analytics}
 
 ## 1. Introduction
@@ -55,7 +81,7 @@ Nous devons aussi effectuer une rapide comparaison terminologique :
 
 | **Description** | **Adobe Analytics** | **Google Analytics** |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
-| Mesure d’événement représentant une page (ou un écran sur une application) vue. | Page vue | Pageview |
+| Mesure d’événement représentant une page (ou un écran sur une application) vue | Page vue | Pageview |
 | Mesure représentant un groupe d’interactions sur votre site web ou votre application qui ont lieu au cours de la même période. | Visite | Session |
 | Mesure définissant un appareil identifié (en fonction de plusieurs critères, y compris des cookies et d’autres modèles de comportement, pour regrouper les informations sur l’utilisateur). | Visiteur unique | Utilisateur |
 
@@ -73,7 +99,7 @@ Adobe Analytics et Google Analytics permettent de personnaliser la première v
 
 ##### 2.1.1.1. Workspace / Écran d’accueil personnalisé (Adobe Analytics)
 
-Adobe Analytics ne présuppose pas la création d’un rapport prédéfini que tous les utilisateurs pourront afficher lors de leur connexion. La page d’accueil par défaut permet à l’utilisateur d’accéder à l’écran de destination de Workspace qui affichera pour chaque utilisateur tous les rapports de l’espace de travail qu’il a créés ou qui ont été partagés avec lui. En outre, chaque utilisateur peut définir l’un de ces rapports comme écran d’accueil s’il le souhaite.
+Adobe Analytics ne présuppose pas la création d’un rapport prédéfini que tous les utilisateurs pourront afficher lors de leur connexion. La page d’accueil par défaut permet à l’utilisateur ou l’utilisatrice d’accéder à l’écran de destination de Workspace, qui affiche pour chaque tous les rapports de l’espace de travail qu’il ou elle a créés ou qui ont été partagés avec lui ou elle. En outre, chaque utilisateur peut définir l’un de ces rapports comme écran d’accueil s’il le souhaite.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -90,7 +116,7 @@ Vous trouverez plus de détails concernant Workspace plus loin dans ce guide. Vo
 * L’écran d’accueil de Google Analytics contient des visualisations préconfigurées. Elles couvrent des éléments tels que :
 * Utilisateurs, sessions, taux de rebond et durée de session au cours des sept derniers jours.
 * Utilisateurs par heure de la journée au cours des 30 derniers jours.
-* Utilisateurs actuels en ce moment et principales pages actives.
+* Utilisateurs actuels en ce moment et Pages les plus actives.
 * Canal de trafic, source/média et références au cours des 7 derniers jours
 * Sessions par pays au cours des 7 derniers jours
 * Pages les plus consultées au cours des 7 derniers jours
@@ -101,7 +127,7 @@ Les utilisateurs de GA4 disposent de davantage d’options pour personnaliser et
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-Il s’agit probablement de l’élément qui vous manque le plus dans Adobe Analytics. Il n’y a pas d’écran d’accueil préconfiguré pour vous. Cependant, vous pouvez facilement configurer un Workspace personnalisé pour répliquer vos besoins dans la liste ci-dessus et le définir comme écran d’entrée. Nous reviendrons sur ce sujet plus tard (ou consultez la section 2.1.2.1 Adobe Workspace).
+Il s’agit probablement de l’élément qui vous manque le plus dans Adobe Analytics. Il n’y a pas d’écran d’accueil préconfiguré pour vous. Cependant, vous pouvez facilement configurer un espace de travail personnalisé pour reproduire les éléments dont vous avez besoin dans la liste ci-dessus et le définir comme écran d’accueil. Nous reviendrons sur ce sujet plus tard (ou consultez la section 2.1.2.1 Adobe Workspace).
 
 #### 2.1.2. Report Builders sur site
 
@@ -124,19 +150,19 @@ Les utilisateurs ont accès à un grand nombre de visualisations :
 * Abandon
 * Flux
 * Graphiques
-   * Aires (empilées et non empilées)
-   * Ligne
-   * Nuage de points
-   * Barres (empilées et non empilées)
-   * Puce
-   * Anneau
-   * Histogramme
-   * Barres horizontales (empilées et non empilées)
+  * Aires (empilées et non empilées)
+  * Ligne
+  * Nuage de points
+  * Barres (empilées et non empilées)
+  * Puce
+  * Anneau
+  * Histogramme
+  * Barres horizontales (empilées et non empilées)
 * Carte
 * Synthèse des blocs
-   * Synthèse des modifications
-   * Synthèse du texte
-   * Texte (champ de texte libre permettant de saisir des informations supplémentaires pour fournir un contexte)
+  * Synthèse des modifications
+  * Synthèse du texte
+  * Texte (champ de texte libre permettant de saisir des informations supplémentaires pour fournir un contexte)
 * Venn
 
 Chaque panneau et visualisation peut recevoir un titre et une description, afin de fournir un contexte aux informations qui y sont répertoriées.
@@ -150,19 +176,19 @@ Si vous ne souhaitez pas afficher de répartition par date, il vous suffit de gl
 
 ![analytics-compare-page-views-report](assets/ga-to-aa_4.png)
 
-Grâce à Espace de travail, votre créativité nʼest plus bridée, car vous nʼêtes pas limité aux répartitions « standard ». Vous pouvez créer les visualisations dont vous avez besoin pour analyser avec moult détails les comparaisons.
+Grâce à Espace de travail, votre créativité nʼest plus bridée, car vous nʼêtes pas limité aux répartitions « standard ». Vous pouvez créer les visualisations dont vous avez besoin pour analyser en profondeur les comparaisons que vous devez effectuer.
 
 >[!TIP]
 >
 >N&#39;ayez pas peur de jouer et d&#39;explorer. Il y a tellement de façons de sortir des sentiers battus. En outre, valider ce que vous avez construit vous permettra de partager vos idées. Rien ne vaut l’expérience !
 
-Vous pouvez créer des mesures ou des segments calculées à la volée qui ne figureront que dans le rapport, afin d’éviter de surcharger votre segment et votre référentiel de calculs. Vous pouvez ainsi créer des éléments ciblés nécessaires à des rapports spécifiques sans surcharger votre organisation d’éléments qui ne sont pas utilisables dans d’autres contextes.
+Vous pouvez créer des mesures ou des segments calculés à la volée qui ne figureront que dans le rapport, afin d’éviter de surcharger vos segments et votre référentiel de calculs. Vous pouvez ainsi créer des éléments ciblés nécessaires à des rapports spécifiques sans surcharger votre organisation d’éléments qui ne sont pas utilisables dans d’autres contextes.
 
-Cette discussion n’est qu’une introduction à cet outil. Il existe d’autres guides complets pour vous aider à démarrer. Une fois que vous avez examiné ces guides, vous pouvez créer des rapports complets tels que les suivants :
+Cette discussion n’est qu’une introduction à cet outil. Il existe d’autres guides complets pour vous aider à démarrer. Une fois que vous avez vérifié ces guides, vous pouvez créer des rapports complets tels que les suivants :
 
 ![workspace-dashboard](assets/ga-to-aa_5.png)
 
-Les espaces de travail ne s’enregistrent pas automatiquement. Il est donc plus facile d’effectuer un rapport ad hoc ponctuel sans boucher votre référentiel de rapports.
+Les espaces de travail ne s’enregistrent pas automatiquement. Il est donc plus facile d’effectuer un rapport ad hoc ponctuel sans encombrer votre référentiel de rapports.
 
 L’autre fonctionnalité puissante des espaces de travail est la possibilité d’appliquer des modificateurs interactifs à vos rapports sous la forme de listes déroulantes. Ces listes déroulantes ne fonctionnent pas sur les fichiers CSV ou PDF exportés de vos rapports. Toutefois, dans le rapport dynamique, ils vous permettent de mettre à jour toutes les visualisations d’un panneau afin d’afficher le même rapport sous différentes conditions. Plusieurs listes déroulantes peuvent être utilisées. Tant que les options ne s’excluent pas mutuellement, les éléments sélectionnés s’empileront pour permettre une présentation claire des informations.
 
@@ -174,13 +200,13 @@ L’autre fonctionnalité puissante des espaces de travail est la possibilité d
 
 Google dispose de quelques outils pour créer des rapports dans l’interface, mais ils suivent toujours l’affichage et les limites de la section des rapports.
 
-En lisant ceci, ceux qui connaissent Google Analytics pourraient se dire : « Attendez une seconde, est-ce que Google Data Studio n’est pas un meilleur équivalent de l’espace de travail d’Adobe ? » Oui, mais Data Studio ne fait pas techniquement partie de l’outil Analytics et il permet de se connecter à différentes sources de données. Cet outil est présenté plus loin dans la section « Accès aux rapports étendu », en particulier dans la section 2.2.3.
+En lisant ceci, ceux qui connaissent Google Analytics pourraient se dire : « Attendez une seconde, et Google Data Studio ? N’est-ce pas un meilleur équivalent d’Adobe Workspace ? » Oui, mais Data Studio ne fait pas techniquement partie de l’outil Analytics et il permet de se connecter à différentes sources de données. Cet outil est présenté plus loin dans la section « Accès étendu aux rapports », en particulier dans la section 2.2.3.
 
-Les tableaux de bord Google et les rapports personnalisés vous permettent d’extraire plusieurs visualisations en un seul rapport. Cependant, contrairement à Workspace, vous n’avez accès qu’à des corrélations simples et ne décidez pas de quelles données placer dans quelles colonnes.
+Les tableaux de bord Google et les rapports personnalisés vous permettent de rassembler plusieurs visualisations en un seul rapport, mais contrairement à Workspace, vous restez limité à des corrélations simples et à des contraintes sur les données pouvant être placées dans les différentes colonnes.
 
 Dans les rapports personnalisés, l’un des plus grands défis se présente lorsque vous créez un filtre : celui-ci s’applique à tous les onglets du rapport. Il n’existe aucun moyen de comparer deux filtres différents dans le même rapport.
 
-Pour les comparaisons de surface, cela fonctionne. Elles sont toutes similaires aux tableaux de bord, aux rapports personnalisés et aux signets hérités d’Adobe. Outils de base fournis pour répondre à vos besoins, qui se trouvent dans la suite de rapports.
+Pour les comparaisons superficielles, cela fonctionne. Elles sont toutes similaires aux tableaux de bord, aux rapports personnalisés et aux signets hérités d’Adobe. Outils de base fournis pour répondre à vos besoins, qui se trouvent dans la suite de rapports.
 
 #### 2.1.3. Rapports
 
@@ -192,21 +218,21 @@ Adobe Analytics comporte également une section de rapports, bien que celle-ci 
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
-Comme la plupart des éléments ci-dessus sont accessibles via les espaces de travail, je vais vous donner un bref aperçu de ces sections et de leur relation avec Google Analytics. Je soulignerai également les rapports qui restent pertinents.
+Comme la plupart des éléments ci-dessus sont accessibles via les espaces de travail, je propose une brève vue d’ensemble de ces sections et de leur relation avec Google Analytics, et je souligne ici les rapports qui restent pertinents.
 
 Les Mesures de site sont ce que leur nom indique : elles couvrent les mesures standard (pages vues, visiteurs uniques, visites, ainsi que les événements personnalisés que vous avez configurés). Ceci est similaire au rapport de comportement de Google Analytics, mais cela inclut également certaines mesures trouvées dans Audience (puisqu’Adobe ne divise pas les types de mesures).
 
-Vous y trouverez des rapports de « robots ». Le trafic provenant des robots est exclu de tous vos rapports standard. Toutefois, deux rapports fournissent des informations sur ce qui se passe et sur les robots qui visitent votre site. Cela est particulièrement utile si vous configurez des règles de robots personnalisées pour exclure les robots spammeurs connus qui visitent fréquemment votre site. Vous pouvez obtenir des informations sur ce que ces robots font sans que vos principaux rapports ne soient inondés par ce trafic. Les rapports de robots sont actuellement indisponibles via l’espace de travail (mais de nouvelles fonctionnalités de création de rapports vont bientôt permettre aux utilisateurs d’obtenir ces informations).
+Vous y trouverez des rapports « Robot ». Le trafic provenant des robots est exclu de tous vos rapports standard. Toutefois, deux rapports fournissent des informations sur ce qui se passe et sur les robots qui visitent votre site. Cela est particulièrement utile si vous configurez des règles de robots personnalisées pour exclure les robots spammeurs connus qui génèrent fréquemment des hits sur votre site Vous pouvez obtenir des informations sur ce que ces robots font sans que vos principaux rapports ne soient inondés par ce trafic. Les rapports de robots sont actuellement indisponibles via l’espace de travail (mais de nouvelles fonctionnalités de création de rapports vont bientôt permettre aux utilisateurs d’obtenir ces informations).
 
-Contenu du site est un regroupement de dimensions standard d’Adobe : Nom de page, Sections du site, Hiérarchies, Serveurs, etc. Toutes cettes dimensions sont disponibles dans l’espace de travail.
+Contenu du site est un regroupement de dimensions standard d’Adobe : Nom de page, Sections du site, Hiérarchies, Serveurs, etc. Toutes ces dimensions sont disponibles dans Workspace.
 
 Mobile est un regroupement de données spécifiques aux appareils mobiles, y compris les appareils, les types d’appareils, etc. Ces éléments sont disponibles dans l’espace de travail.
 
-Les chemins ne sont pas disponibles dans l’espace de travail. L’espace de travail comporte un diagramme de flux dans lequel vous pouvez afficher les flux d’entrée et de sortie d’une seule page/valeur. En revanche, les chemins vous permettent d’afficher les chemins les plus couramment utilisés sur votre site web. Par défaut, Pages est le premier rapport de cheminement configuré pour vous. Cependant, vous pouvez l’activer pour les props personnalisées telles qu’une valeur « Type de page ». Vous pouvez examiner le cheminement dans les types de page. L’autre chose que j’aime à propos de Parcours est la façon simple dont les informations sont présentées. On peut vite être dépassé par le diagramme de flux dans l’espace de travail selon ce que l’on veut voir. Je vous recommande d’essayer les deux. Ils ont chacun un usage et une valeur spécifiques en fonction de ce que vous essayez de réaliser. N’importe quelle dimension peut être utilisée dans Flux, tandis que le cheminement doit être configuré sur une prop dans le panneau d’administration.
+Les chemins ne sont pas disponibles dans l’espace de travail. Workspace comporte un diagramme de flux dans lequel vous pouvez afficher les flux d’entrée et de sortie d’une seule page/valeur. En revanche, les chemins vous permettent d’afficher les chemins les plus couramment utilisés sur votre site web. Par défaut, Pages est le premier rapport de parcours configuré pour vous. Cependant, vous pouvez l’activer pour les props personnalisées telles qu’une valeur « Type de page ». Vous pouvez examiner le cheminement dans les types de page. L’autre chose que j’aime à propos de Parcours est la façon simple dont les informations sont présentées. On peut vite être dépassé par le diagramme de flux dans l’espace de travail selon ce que l’on veut voir. Je vous recommande d’essayer les deux. Ils ont chacun un usage et une valeur spécifiques en fonction de ce que vous essayez de réaliser. N’importe quelle dimension peut être utilisée dans Flux, tandis que le cheminement doit être configuré sur une prop dans le panneau d’administration.
 
 Les rapports Sources de trafic, Campagnes et Canaux marketing sont tous similaires au rapport Acquisition de Google. Le rapport Sources de trafic se concentre sur les référents réels, Campagnes se concentre sur vos codes de campagne et Canaux marketing se concentre également sur les codes de campagne, mais applique également une logique supplémentaire, que vous déterminez, sur la manière de traiter les informations. Adobe offre une plus grande liberté dans la définition de vos règles. Par contraste, Google effectue de nombreuses tâches à votre place. Cela constitue un changement de réflexion. Par défaut, l’attribution Google sur les codes de campagne est de six mois. Par défaut, l’attribution d’Adobe est définie sur une semaine. Cette mesure peut être modifiée dans vos paramètres d’administration, mais dans Espace de travail, vous pouvez appliquer une attribution personnalisée en plus de n’importe quelle dimension, ce qui vous offre une flexibilité à la volée bien plus grande.
 
-Les rapports Rétention des visiteurs et Profil des visiteurs sont similaires aux rapports Audience dans Google Analytics. Le rapport Rétention est davantage axé sur la fréquence des retours, tandis que le rapport Profil des visiteurs est davantage axé sur la géographie et la technologie des utilisateurs.
+Les rapports Rétention des visiteurs et Profil des visiteurs sont similaires aux rapports Audience dans Google Analytics. Le rapport Rétention est davantage axé sur la fréquence des retours, tandis que le profil du visiteur ou de la visiteuse est davantage axé sur la géographie et la technologie des visiteurs ou visiteuses.
 
 Les rapports Conversion personnalisée et Trafic personnalisé sont tous deux des rapports de dimension personnalisés. Les conversions sont des eVars. Vous pouvez définir une date d’expiration personnalisée pour la valeur, telle que le nombre d’accès, de visites, de mois ou d’années. Cette valeur est maintenue pour un utilisateur pendant la période configurée, sauf si elle a été remplacée. Les variables de trafic sont des props. Vous pouvez également les configurer pour les rapports de cheminement ou sous la forme d’éléments de liste qui divisent plusieurs valeurs en fonction d’un délimiteur de votre choix.
 
@@ -294,7 +320,7 @@ Cependant, plutôt que de fournir un vidage complet des données brutes, il perm
 
 Comme avec tout système, la pratique est nécessaire pour se familiariser avec l’outil. J’espère que ce guide vous aidera à démarrer ou vous aura fourni des conseils pour utiliser Adobe Analytics plus efficacement.
 
-Je tiens toutefois à souligner que je vous recommande d’utiliser à la fois Adobe Analytics et Google Analytics dans votre stratégie d’implémentation (même si vous n’avez que la version gratuite de Google Analytics). Cela vous permet d’avoir un système de sauvegarde pour vous assurer que vous avez des données, car aucun système n’est infaillible.
+Je tiens toutefois à souligner que je vous recommande d’utiliser à la fois Adobe Analytics et Google Analytics dans votre stratégie de mise en œuvre (même si vous n’avez que la version gratuite de Google Analytics). Cela vous permet d’avoir un système de sauvegarde pour vous assurer que vous avez des données, car aucun système n’est infaillible.
 
 Au-delà de ce guide, vous disposez de nombreuses ressources qui peuvent vous aider à améliorer votre stratégie :
 
@@ -310,7 +336,7 @@ Ce document a été rédigé par :
 
 ![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dungan, responsable de l’optimisation des analyses chez Torstar
+Jennifer Dungan, responsable de l’optimisation Analytics chez Torstar
 
 Adobe Analytics Champion
 

@@ -1,6 +1,6 @@
 ---
 title: Utiliser une suite de rapports globale
-description: Disposer d’une seule suite de rapports globale peut vous aider de diverses manières et véritablement simplifier votre implémentation.
+description: Disposer d’une seule suite de rapports globale peut vous aider de diverses manières et véritablement simplifier votre mise en œuvre.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,43 +9,53 @@ doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
 exl-id: 490addfd-b810-4f15-b065-e0e58048c882
-TQID: https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78
+TQID: 'https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 769
+source-wordcount: '769'
 ht-degree: 98%
-
 ---
-
 # Utiliser une suite de rapports globale
 
-**QUOI :** bien qu’il soit tentant de créer des suites de rapports pour chacun de vos sites, cela peut rapidement entraîner de nombreuses complications, tant au niveau du compte rendu des performances que de votre implémentation. Disposer d’une seule suite de rapports globale peut vous aider de diverses manières et véritablement simplifier votre implémentation.
+**QUOI :** bien qu’il soit tentant de créer des suites de rapports pour chacun de vos sites, cela peut rapidement entraîner de nombreuses complications, tant au niveau du compte rendu des performances que de votre implémentation. Disposer d’une seule suite de rapports globale peut vous aider de diverses manières et véritablement simplifier votre mise en œuvre.
 
 **POURQUOI :** la création d’une suite de rapports globale est la seule option qui vous permet d’obtenir une vue unifiée de vos propriétés numériques et des parcours des utilisateurs sur chaque propriété. Si vous disposez d’une application mobile et d’un site web, vous devez toujours combiner les données de l’application et les données web dans une seule suite de rapports afin de tirer parti des parcours entre appareils. Vous pouvez ainsi suivre les utilisateurs qui visitent les deux propriétés comme un seul visiteur. Avec des suites de rapports distinctes, vous obtiendriez un jeu de données incohérent, présentant 2 visiteurs (1 pour chaque propriété) sans possibilité de connaître le croisement.
 
 Voici les avantages/inconvénients liés à une suite de rapports unique pour vous aider à évaluer vos options :
 
 * AVANTAGES :
-   * Être capable de comprendre facilement l’ensemble de votre paysage numérique. Si vous avez implémenté la dimension « propriétés » (eVar) évoquée dans d’autres conseils, vous pouvez facilement obtenir une vue unique de tous vos sites et applications, ainsi que du trafic et des conversions liés. Cette vue d’ensemble est essentielle à la compréhension de votre activité dans sa totalité.
-   * Dans la même idée, vous pouvez désormais voir comment les utilisateurs se déplacent dans toutes vos propriétés et comprendre leur parcours dans votre paysage numérique.
-   * Facilité d’administration. L’utilisation de plusieurs suites de rapports nécessite de conserver l’interface dans plusieurs emplacements. Cela requiert également plusieurs documents de balisage (ou un document plus complexe). Conserver tous les éléments au sein d’un seul emplacement permet de n’effectuer les mises à jour qu’en ce même emplacement. Cela facilite également l’accès.
-   * Amélioration de la convivialité de l’interface. En n’ayant qu’un seul emplacement vers lequel se diriger, vos utilisateurs n’ont pas besoin de réfléchir à la suite de rapports à sélectionner. Gardez à l’esprit que vous ne pouvez pas utiliser plusieurs suites de rapports dans le même panneau d’espace de travail. En outre, la présence de multiples suites peut dérouter vos utilisateurs.
-   * Moins d’appels au serveur = moins de coûts. Si vous effectuez des appels vers plusieurs suites de rapports, vous augmentez les coûts. Maintenir une implémentation simple permet également de réduire vos coûts.
-   * Vous pouvez simplement tirer parti des suites de rapports virtuelles pour ventiler les données spécifiques au site dans la suite de rapports globale et limiter les autorisations d’utilisateur en fonction d’une suite de rapports virtuelle, si nécessaire. Une fois les données séparées dans des suites de rapports individuelles, vous ne pouvez pas les cumuler. Toutefois, elles sont facilement ventilées si elles sont déjà reliées dans un jeu de données (suite de rapports globale).
+  * Être capable de comprendre facilement l’ensemble de votre paysage numérique. Si vous avez implémenté la dimension « propriétés » (eVar) évoquée dans d’autres conseils, vous pouvez facilement obtenir une vue unique de tous vos sites et applications, ainsi que du trafic et des conversions liés. Cette vue d’ensemble est essentielle à la compréhension de votre activité dans sa totalité.
+  * Dans la même idée, vous pouvez désormais voir le flux des utilisateurs et utilisatrices sur l’ensemble de vos propriétés et comprendre leur parcours dans votre paysage numérique.
+  * Facilité d’administration. L’utilisation de plusieurs suites de rapports nécessite de conserver l’interface dans plusieurs emplacements. Cela requiert également plusieurs documents de balisage (ou un document plus complexe). Conserver tous les éléments au sein d’un seul emplacement permet de n’effectuer les mises à jour qu’en ce même emplacement. Cela facilite également grandement l’octroi des droits d’accès.
+  * Amélioration de la convivialité de l’interface. En n’ayant qu’un seul emplacement vers lequel se diriger, vos utilisateurs n’ont pas besoin de réfléchir à la suite de rapports à sélectionner. Gardez à l’esprit que vous ne pouvez pas utiliser plusieurs suites de rapports dans le même panneau d’espace de travail. En outre, la présence de multiples suites peut dérouter vos utilisateurs.
+  * Moins d’appels au serveur = moins de coûts. Si vous effectuez des appels vers plusieurs suites de rapports, vous augmentez les coûts. Maintenir une mise en œuvre simple permet également de réduire vos coûts.
+  * Vous pouvez simplement tirer profit des suites de rapports virtuelles (VRS) pour répartir les données spécifiques au site dans la suite de rapports globale et limiter les autorisations des utilisateurs et utilisatrices en fonction d’une suite de rapports virtuelle, si nécessaire. Une fois les données séparées dans des suites de rapports individuelles, vous ne pouvez pas les cumuler. Toutefois, elles sont facilement ventilées si elles sont déjà reliées dans un jeu de données (suite de rapports globale).
 * INCONVÉNIENTS :
-   * Si vous disposez de propriétés très distinctes, où aucun transfert d’utilisateurs n’a lieu et où cela n’est jamais censé se produire, vous pouvez conserver des suites de rapports distinctes.
-   * Si vos propriétés ont des besoins de balisage et de compte rendu des performances très différents, il peut être logique de configurer des suites de rapports distinctes dans un souci d’efficacité des variables. Disposer de suites de rapports distinctes vous offre davantage de flexibilité pour l’utilisation de variables personnalisées (davantage d’eVars).
-   * Valeurs uniques dépassées : l’interface d’Adobe Analytics vous permet uniquement d’afficher 500 000 valeurs uniques au sein d’une seule dimension pour une période donnée. Une fois cette limite dépassée, les valeurs sont regroupées en tant que « Valeurs uniques dépassées » ou « Faible trafic » dans l’interface. Ces valeurs restent à votre disposition sur le serveur principal (c’est-à-dire Data Warehouse, flux de données), mais ne peuvent pas être visualisées dans l’interface. Si vous disposez de données très granulaires (par exemple ID d’utilisateur, PSN, etc.), il est facile d’atteindre ce niveau. Disposer de suites de rapports distinctes peut aider à résoudre ce problème.
+  * Si vous disposez de propriétés très distinctes, où aucun transfert d’utilisateurs n’a lieu et où cela n’est jamais censé se produire, vous pouvez conserver des suites de rapports distinctes.
+  * Si vos propriétés ont des besoins de balisage et de compte rendu des performances très différents, il peut être logique de configurer des suites de rapports distinctes dans un souci d’efficacité des variables. Disposer de suites de rapports distinctes vous offre davantage de flexibilité pour l’utilisation de variables personnalisées (davantage d’eVars).
+  * Valeurs uniques dépassées : l’interface d’Adobe Analytics vous permet uniquement d’afficher 500 000 valeurs uniques au sein d’une seule dimension pour une période donnée. Une fois cette limite dépassée, les valeurs sont regroupées sous les libellés « uniques exceeded » ou « low traffic » dans l’interface. Ces valeurs restent à votre disposition en back-end (c’est-à-dire dans Data Warehouse et Data Feeds), mais ne peuvent pas être visualisées dans l’interface. Si vous disposez de données très granulaires (par exemple ID d’utilisateur, PSN, etc.), il est facile d’atteindre ce niveau. Disposer de suites de rapports distinctes peut aider à résoudre ce problème.
 
 **COMMENT :** démarrer avec une nouvelle implémentation d’AA et utiliser une seule suite de rapports globale est très simple. Il vous suffit de créer la suite de rapports globale (une pour le développement et une pour la production) dans l’interface utilisateur d’administration d’AA, et d’appliquer les mêmes valeurs d’identifiant de suite de rapports (RSID) sur toutes vos propriétés.
 
@@ -54,7 +64,7 @@ Effectuer une migration à partir d’une stratégie à balisage multiple avec u
 * L’alignement de vos variables (c’est-à-dire, eVar1 sur Propriété A doit capturer le même point de données qu’eVar1 sur Propriété B).
 * La consolidation de toutes les règles de traitement, règles de canal marketing, classifications (SAINT et Créateur de règles).
 * La migration des flux de données et des sources de données.
-* Le choix d’une date de transfert et la communication de cette dernière à tous les utilisateurs professionnels.
+* Le choix d’une date de transfert et la communication de cette dernière à tous les utilisateurs et utilisatrices professionnels
 
 ## Auteurs
 
