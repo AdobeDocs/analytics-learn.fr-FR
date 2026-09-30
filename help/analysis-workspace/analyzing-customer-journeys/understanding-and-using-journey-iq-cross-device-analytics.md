@@ -1,8 +1,8 @@
 ---
-title: Compréhension et utilisation de Journey IQ - Analytics sur l’ensemble des appareils
-description: Lorsque les utilisateurs interagissent avec votre marque, ils le font de différentes manières et sur plusieurs appareils. Analytics sur l’ensemble des appareils s’intègre à Adobe Experience Platform Identity Service pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Cela permet d’analyser les personnes, et non les appareils.
+title: Comprendre et utiliser Journey IQ - Analytics sur plusieurs appareils
+description: Lorsque les utilisateurs interagissent avec votre marque, ils le font de différentes manières et sur plusieurs appareils. Analytics sur plusieurs appareils s’intègre au Service d’identités d’Adobe Experience Platform pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Cela permet d’analyser les personnes, et non les appareils.
 feature: CDA
-topics: null
+topics:
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,39 +10,55 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1607
+source-wordcount: '1607'
 ht-degree: 94%
-
 ---
-
 # Compréhension et utilisation de [!DNL Journey IQ] - Analytics sur l’ensemble des appareils
 
-Lorsque les utilisateurs interagissent avec votre marque, ils le font de différentes manières et sur plusieurs appareils. Analytics sur l’ensemble des appareils s’intègre à [!DNL Adobe Experience Platform Identity Service] pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Cela permet d’analyser les personnes, et non les appareils.
+Lorsque les utilisateurs interagissent avec votre marque, ils le font de différentes manières et sur plusieurs appareils. Analytics sur l’ensemble des appareils s’intègre à [!DNL Adobe Experience Platform Identity Service] pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Cela permet d’effectuer des analyses sur les personnes, et non sur les appareils.
 
-## Présentation d’Analytics sur l’ensemble des appareils
+## Vue d’ensemble d’Analytics sur plusieurs appareils
 
 ### Je ne suis pas mes appareils
 
@@ -51,16 +67,16 @@ Lorsque les utilisateurs interagissent avec votre marque, ils le font de nombreu
 Voici un exemple. Supposons qu’Isabelle interagisse avec votre marque de la manière suivante :
 
 *Isabelle a trois visiteurs*
-Parcours Analytics traditionnel![&#128279;](assets/cda-isabelle-journey-traditional-analytics.png)
+Parcours Analytics traditionnel](assets/cda-isabelle-journey-traditional-analytics.png)![
 
 En utilisant l’analytics de façon classique, le parcours d’Isabelle se divise en trois parties. Elle est représentée par trois visiteurs uniques, qui ont chacun utilisé un appareil différent pour effectuer des tâches isolées. Ce qu’il faut, c’est une vue unifiée sur plusieurs appareils des interactions d’Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fournit cette vue.
 
 *Isabelle est une seule personne*
-Parcours Analytics Sur L’Ensemble Des Appareils![&#128279;](assets/cda-isabelle-journey-cross-device-analytics.png)
+Parcours Analytics Sur L’Ensemble Des Appareils](assets/cda-isabelle-journey-cross-device-analytics.png)![
 
 ### Une vue sur plusieurs appareils fournit de meilleures analyses
 
-Avoir une vue du comportement d’Isabelle centrée sur la personne et sur plusieurs appareils peut créer une différence significative dans votre analyse. Par exemple, l’approche traditionnelle basée sur les visiteurs ne donne pas une vue d’ensemble complète de l’efficacité des canaux marketing. Examinons à nouveau le parcours d’Isabelle en nous concentrant sur le canal qui reçoit du crédit pour sa consultation de produit et pour son achat. Nous utiliserons l’attribution [!UICONTROL Dernière touche] pour plus de simplicité, mais le même problème se produit avec n’importe quel modèle d’attribution lorsque vous divisez le comportement d’Isabelle en visiteurs distincts. L’utilisation de la vision traditionnelle du monde basée sur les visiteurs donne des résultats très différents, voire trompeurs :
+Disposer d’une vue du comportement d’Isabelle centrée sur la personne et sur plusieurs appareils peut avoir un impact significatif sur votre analyse. Par exemple, l’approche traditionnelle basée sur les visiteurs ne donne pas une vue d’ensemble complète de l’efficacité des canaux marketing. Examinons à nouveau le parcours d’Isabelle en nous concentrant sur le canal auquel est attribué le crédit pour sa consultation de produit et pour son achat. Nous utiliserons l’attribution [!UICONTROL Dernière touche] pour plus de simplicité, mais le même problème se produit avec n’importe quel modèle d’attribution lorsque vous divisez le comportement d’Isabelle en visiteurs distincts. L’utilisation de la vision traditionnelle du monde basée sur les visiteurs donne des résultats très différents, voire trompeurs :
 
 *Analytics traditionnel par rapport à l’analyse entre appareils*
 ![attribution de canal](assets/channel-attribution.png)
@@ -76,11 +92,11 @@ Continuez à lire pour en savoir plus sur :
 
 ## Fonctionnement de la fonctionnalité [!DNL Cross-Device Analytics]
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à [!DNL Adobe Experience Platform Identity Service], en utilisant [!DNL Device Graph] pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur l’ensemble des appareils dispose de fonctionnalités et d’outils inégalés pour aider votre entreprise à comprendre l’utilisation de plusieurs appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] s’intègre à [!DNL Adobe Experience Platform Identity Service], en utilisant [!DNL Device Graph] pour identifier la manière dont les appareils sont associés aux personnes. Il tire ensuite parti de ces renseignements pour créer une vue du comportement de l’utilisateur sur l’ensemble des appareils. Analytics sur plusieurs appareils offre des fonctionnalités et des outils inégalés pour aider votre entreprise à comprendre l’utilisation multi-appareils et l’expérience client sur ces appareils dans leurs interactions avec votre marque. Il se trouve sous Analysis Workspace sous la forme d’une couche qui permet d’obtenir des informations détaillées sur l’analyse de l’audience basée sur la personne et l’attribution, la segmentation et l’analyse de parcours sur plusieurs appareils à l’aide d’outils puissants tels que [!UICONTROL Abandon], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] et [!DNL Attribution IQ].
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
-Analytics sur l’ensemble des appareils se présente par l’intermédiaire d’un type spécial de [[!UICONTROL suite de rapports virtuelle]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=fr) d’analyses entre appareils. Cela vous permet de continuer à utiliser la suite de rapports d’origine basée sur les appareils lorsque vous introduisez l’analytics sur l’ensemble des appareils dans votre entreprise. La configuration d’une suite de rapports virtuelle pour Analytics sur l’ensemble des appareils est simple.
+Analytics sur l’ensemble des appareils se présente par l’intermédiaire d’un type spécial de [[!UICONTROL suite de rapports virtuelle]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=fr) d’analyses entre appareils. Cela vous permet de continuer à utiliser la suite de rapports d’origine basée sur les appareils lorsque vous introduisez Analytics sur plusieurs appareils dans votre entreprise. La configuration d’une suite de rapports virtuelle Analytics sur plusieurs appareils est simple.
 
 Dans la première étape du créateur de suites de rapports virtuelles, sélectionnez la [!UICONTROL suite de rapports] qui a été configurée par Adobe comme étant compatible avec CDA sur l’ensemble des appareils :
 
@@ -92,7 +108,7 @@ Ensuite, activez le [!UICONTROL Traitement de la période de rapport] et le [!UI
 *Activer le [!UICONTROL traitement de la période de rapport] et le [!UICONTROL groupement sur plusieurs appareils)]*
 ![[!UICONTROL Suite de rapports virtuelle] Étape 2](assets/cda-vrs-step-two.png)
 
-Terminez la configuration des suites de rapports virtuelles et enregistrez-la. La suite de rapports virtuelle d’Analytics sur l’ensemble des appareils s’affiche dans Analysis Workspace avec une icône spéciale en regard de celle-ci, comme illustré ci-dessous :
+Terminez la configuration de la suite de rapports virtuelle et enregistrez-la. La suite de rapports virtuelle Analytics sur plusieurs appareils s’affiche dans Analysis Workspace avec une icône spéciale à côté, comme illustré ci-dessous :
 
 *Sélection de la suite de rapports virtuelle d’analyses entre appareils dans Analysis Workspace*
 ![[!UICONTROL Suite de rapports virtuelle] Étape 3](assets/cda-vrs-step-three.png)
@@ -103,21 +119,21 @@ Terminez la configuration des suites de rapports virtuelles et enregistrez-la. L
 
 ### Redéfinition de l’historique
 
-Parfois, il faut un certain temps à vos utilisateurs pour se connecter et à [!DNL Device Graph] pour les identifier et les associer à leurs appareils. Analytics sur l’ensemble des appareils utilise une période de recherche arrière de 30 jours, ce qui lui permet de redéfinir un visiteur précédemment non identifié en tant que personne jusqu’à 30 jours auparavant.
+Parfois, il faut un certain temps à vos utilisateurs pour se connecter et à [!DNL Device Graph] pour les identifier et les associer à leurs appareils. Analytics sur plusieurs appareils utilise une période de recherche arrière de 30 jours, ce qui lui permet de redéfinir un visiteur ou une visiteuse précédemment non identifié(e) en tant que personne jusqu’à 30 jours auparavant.
 
 À quoi cela sert-il ? Rappelez-vous le parcours d’utilisateur d’Isabelle évoqué dans la discussion ci-dessus :
 
 ![[!DNL Cross-Device Analytics]Parcours](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’achat, et que [!DNL Device Graph] n’ait pas associé les appareils d’Isabelle avant un certain temps après son achat. Mais la recherche en amont de 30 jours proposée par Analytics sur l’ensemble des appareils lui permet de redéfinir le comportement passé d’Isabelle au niveau de la personne, ce qui vous permet d’avoir une vue d’ensemble de son parcours dont vous avez besoin.
+Il est possible qu’Isabelle ne se soit pas connectée avant d’effectuer l’achat, et que [!DNL Device Graph] n’ait pas associé les appareils d’Isabelle avant un certain temps après son achat. Mais la fenêtre de rétrospection de 30 jours d&#39;Analytics sur plusieurs appareils permet de redéfinir le comportement passé d’Isabelle au niveau de la personne, en vous fournissant la vue interappareils de son parcours dont vous avez besoin.
 
 >[!NOTE]
 >
->Puisque l’historique peut être redéfini, cela signifie que vos données peuvent changer au fil du temps dans une [!UICONTROL suite de rapports virtuelle] compatible avec CDA sur l’ensemble des appareils. Gardez cela à l’esprit lorsque vous communiquez des informations à partir d’une analyse basée sur Analytics sur l’ensemble des appareils.
+>Puisque l’historique peut être redéfini, cela signifie que vos données peuvent changer au fil du temps dans une [!UICONTROL suite de rapports virtuelle] compatible avec CDA sur l’ensemble des appareils. Gardez cela à l’esprit lorsque vous communiquez des informations à partir d’une analyse basée sur Analytics sur plusieurs appareils.
 
 ## Conditions préalables pour [!UICONTROL Analytics sur l’ensemble des appareils]
 
-Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultimate]](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-analytics.html). Depuis septembre 2019, les clients [!DNL Analytics Ultimate] qui remplissent les conditions préalables répertoriées ci-dessous peuvent utiliser Analytics sur l’ensemble des appareils. Les conditions préalables pour Analytics sur l’ensemble des appareils sont les suivantes :
+Analytics sur l’ensemble des appareils est inclus dans [[!DNL Analytics Ultimate]](https://helpx.adobe.com/fr/legal/product-descriptions/adobe-analytics.html). Depuis septembre 2019, les clients [!DNL Analytics Ultimate] qui remplissent les conditions préalables répertoriées ci-dessous peuvent utiliser Analytics sur l’ensemble des appareils. Les conditions préalables pour Analytics sur plusieurs appareils sont les suivantes :
 
 * Votre entreprise doit utiliser [!DNL Adobe Experience Platform Identity Service Device Graph].
 * Vous devez implémenter tous les éléments requis pour [!DNL Device Graph], y compris [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=fr), ainsi que la synchronisation des identifiants avec le graphique.
@@ -134,10 +150,10 @@ Dans la [!UICONTROL suite de rapports virtuelle] d’Analytics sur l’ensemble 
 *Personnes et appareils uniques*
 ![Analytics sur l’ensemble des appareils [!UICONTROL Mesure Personnes]](assets/cda-people-metric.png)
 
-Dans le [[!UICONTROL Créateur de segments]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=fr), le conteneur de segments [!UICONTROL Visiteurs] a été remplacé par un conteneur de segments [!UICONTROL Personnes]. À l’aide d’une suite de rapports virtuelle Analytics sur l’ensemble des appareils, vous pouvez créer des segments entre appareils tels que :
+Dans le [[!UICONTROL Créateur de segments]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=fr), le conteneur de segments [!UICONTROL Visiteurs] a été remplacé par un conteneur de segments [!UICONTROL Personnes]. À l’aide d’une suite de rapports virtuelle Analytics sur plusieurs appareils, vous pouvez créer des segments entre appareils tels que :
 
 * Les personnes qui utilisent plus d’un appareil.
-* Les personnes qui commencent leur parcours sur un appareil mobile et achètent ensuite sur un ordinateur.
+* Les personnes qui commencent leur parcours sur un appareil mobile, puis effectuent un achat sur un ordinateur.
 * Les visites au cours desquelles des personnes utilisent plusieurs appareils pour accomplir une tâche.
 
 *Segments au niveau de la personne*
@@ -147,7 +163,7 @@ Dans le [[!UICONTROL Créateur de segments]](https://experienceleague.adobe.com/
 
 Dans une suite de rapports virtuelle d’analyses entre appareils, des dimensions telles que [!DNL eVars] persistent désormais automatiquement sur tous les appareils. Par exemple, une [!DNL eVar] qui est configurée comme suit :
 
-* Attribution : le plus récent (dernier)
+* Affectation : le plus récent (dernier)
 * Expire après : achat
 
 persistera désormais automatiquement d’un appareil à un autre jusqu’à ce que l’événement d’achat soit déclenché.
@@ -156,10 +172,10 @@ persistera désormais automatiquement d’un appareil à un autre jusqu’à ce 
 
 ### Analyse de l’audience basée sur les personnes
 
-Vous êtes-vous déjà demandé combien de personnes interagissent avec votre marque ? Avez-vous voulu comprendre combien et quel type d’appareils elles utilisent ? Comment leurs utilisations se superposent-elles ? À l’aide d’une suite de rapports virtuelle d’analyses entre appareils, vous pouvez créer des [diagrammes de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr) et des [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr) d’appareils par personne.
+Vous êtes-vous déjà demandé combien de personnes interagissent avec votre marque ? Avez-vous voulu comprendre combien et quel type d’appareils elles utilisent ? Comment leurs utilisations se superposent-elles ? À l’aide d’une suite de rapports virtuelle d’analyses entre appareils, vous pouvez créer des [diagrammes de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr) et des [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr) d’appareils par personne.
 
 *Analyse de l’audience basée sur les personnes*
-![&#x200B; Venn et histogramme &#x200B;](assets/cda-venn-and-histogram.png)
+![ Venn et histogramme ](assets/cda-venn-and-histogram.png)
 
 ### [!DNL Flow] entre appareils
 
@@ -172,14 +188,14 @@ Avec les analyses entre appareils et Analysis Workspace, vous pouvez visualiser
 
 Vous utilisez probablement plusieurs [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=fr) pour analyser la façon dont les utilisateurs réussissent à passer par une série donnée d’étapes avant d’atteindre le succès. Saviez-vous que votre vue de ces [!DNL Fallout visualizations] est limitée lors de l’utilisation d’analyses traditionnelles basées sur les appareils ? Pour réussir un « abandon », l’étape suivante doit se produire dans le même navigateur ou la même application que l’étape précédente. Dans les analyses basées sur un appareil, vous ne connaissez pas les personnes qui ont réussi l’étape suivante sur un autre appareil.
 
-Ne vous inquiétez pas, Analytics sur l’ensemble des appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c’est de savoir si la personne a finalement réussi quelque part dans sa tâche.
+Ne vous inquiétez pas, Analytics sur plusieurs appareils a tout prévu. Analytics sur l’ensemble des appareils crée la vue sur plusieurs appareils qui rend [!DNL Fallout visualizations] beaucoup, beaucoup plus utile. Après tout, ce qui compte vraiment, c’est de savoir si la personne a finalement réussi sa tâche, à un moment donné.
 
 *[!DNL Fallout]avec CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
 
-Comme Analytics sur l’ensemble des appareils crée une couche de données multi-appareils sous Analysis Workspace, toutes vos analyses seront adaptées aux différents appareils. Un exemple parlant est celui d’[[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=fr). [!DNL Attribution IQ] dans Analysis Workspace, vous permet de comparer plusieurs modèles d’attribution côte à côte. Grâce à cette fonctionnalité, vous pouvez désormais comparer la contribution de différents appareils à la réussite.
+Comme Analytics sur plusieurs appareils crée une couche de données multi-appareils sous Analysis Workspace, toutes vos analyses seront effectuées dans une perspective multi-appareils. Un exemple parlant est celui d’[[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=fr). [!DNL Attribution IQ] dans Analysis Workspace, vous permet de comparer plusieurs modèles d’attribution côte à côte. Grâce à cette fonctionnalité avec Analytics sur plusieurs appareils, vous pouvez désormais comparer la contribution de différents appareils à la réussite.
 
 Supposons, par exemple, que vous souhaitiez comprendre à quelle fréquence un téléphone mobile est le premier appareil utilisé dans une interaction qui, finalement, mène au succès. Ceci représente le « taux d’acquisition » du téléphone mobile. CDA + [!DNL Attribution IQ] vous permet d’effectuer cette analyse :
 

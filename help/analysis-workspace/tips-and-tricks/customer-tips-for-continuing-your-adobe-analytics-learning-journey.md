@@ -7,27 +7,38 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-TQID: https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc
+TQID: 'https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Security
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 368
+source-wordcount: '368'
 ht-degree: 76%
-
 ---
-
 # Astuces de clients pour continuer votre parcours d’apprentissage d’Adobe Analytics
 
 Dans cet article, rencontrez trois clients d’Adobe qui vous proposent des conseils et des astuces afin de tirer le meilleur parti d’Adobe Analytics.
@@ -36,11 +47,11 @@ Dans cet article, rencontrez trois clients d’Adobe qui vous proposent des cons
 
 Conseils d’utilisateurs chevronnés d’Adobe Analytics
 
-| Client :<br>Jason Klapmeier | Leader des fonctionnalités Analytics globales chez 3M |
+| Client :<br>Jason Klapmeier | Responsable mondial des capacités Analytics chez 3M |
 |------------|------------|
 | ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **Continuez à apprendre pour faire des choses incroyables dans Adobe Analytics** <br> « Pour vous donner un avant-goût de ce à quoi vous pouvez vous attendre au fur et à mesure que votre expertise dans Adobe Analytics se développe, je souhaite vous présenter quelques-unes des fonctionnalités intéressantes que nous avons pu exploiter pour optimiser les fonctionnalités d’Adobe Analytics : <br><br><ul><li>Création de segments complexes</li><li>Définition de nos mesures les plus importantes</li><li>Création de notre propre index d’engagement</li><li>Découverte de l’analyse prédictive »</li></ul><br>[Lire les conseils de Jason](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/incredible-things-you-can-do-in-adobe-analytics/td-p/354333?profile.language=fr) |
 
-| Client :<br>Jason Jamnik | Gestionnaire Analytics chez Follett Corporation |
+| Client :<br>Jason Jamnik | Responsable Analytics chez Follett Corporation |
 |------------|------------|
 | ![Jason Klapmeier](assets/jasonjamnik.jpg) | **Voici les ressources qui m’ont permis de devenir expert dans l’utilisation d’Adobe Analytics** <br> « Ne vous arrêtez pas aux bases ! Maintenant que vous connaissez les principes de base d’Adobe Analytics, vous êtes prêt à continuer votre apprentissage et à vous attaquer à des cas d’utilisation de plus en plus complexes. Voici les ressources que j&#39;ai utilisées, ainsi que des conseils que je donne aux nouveaux analystes lorsqu&#39;ils rejoignent notre équipe chez Follett. »<br><br>[Lisez les conseils de Jason](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/here-are-the-resources-i-used-to-become-an-expert-at-using-adobe/m-p/354226?profile.language=fr) |
 

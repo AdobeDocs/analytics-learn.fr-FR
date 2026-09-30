@@ -8,32 +8,39 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+TQID: 'https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 91%
-
 ---
-
 # Raconter des histoires percutantes avec des données
 
 Le Data Storytelling est là où l’art et la science se retrouvent en utilisant les données, la visualisation et la narration.  L’utilisation de ces composants implique l’élaboration d’un récit avec des données significatives en trois parties. En racontant efficacement une histoire avec des données, Analytics peut devenir plus accessible à une audience grandissante et vous pouvez augmenter la valeur que vous apportez à votre organisation par le biais d’une prise de décision axée sur les données.
 
 ## Identifier l’opportunité ou le problème
 
-Commencez par définir la situation actuelle et par établir le problème ou l’opportunité. Ici, vous définissez la scène et fournissez suffisamment d’informations pour captiver votre audience, mais sans révéler complètement la solution. Cette introduction est essentielle (et peut s’avérer difficile), mais c’est toute la motivation de votre analyse !  L’intérêt du Data Storytelling est d’inciter à l’action ce qui se traduit par un **changement de comportement**. Sans cela, les données, les informations et les analyses n’ont aucune utilité.
+Commencez par définir la situation actuelle et par établir le problème ou l’opportunité. Ici, vous plantez le décor et fournissez suffisamment d’informations pour captiver votre audience, mais sans révéler complètement la solution. Cette introduction est essentielle (et peut s’avérer difficile), mais c’est toute la motivation de votre analyse !  L’intérêt du Data Storytelling est d’inciter à l’action ce qui se traduit par un **changement de comportement**. Les données, les informations et l’analyse sont autrement impuissantes.
 
 **Conseil sur Adobe Workspace :** attribuez un titre à vos visualisations sous la forme d’une question pour indiquer exactement quel problème ou situation actuelle est mis en évidence.
 
@@ -50,7 +57,7 @@ Créez des visuels simples et faciles à lire qui correspondent au type de donn�
 
 ## Proposer une solution
 
-Communiquez l’action recommandée et les mesures à prendre pour y parvenir.  Veillez à fournir suffisamment de détails pour que les parties prenantes puissent prendre une décision éclairée, par exemple, les répercussions sur les coûts ou les ressources nécessaires pour apporter une modification. La méthode la plus efficace consiste à quantifier l’impact possible au moyen d’au moins un KPI critique.
+Communiquez l’action recommandée et les mesures à prendre pour y parvenir.  Veillez à fournir suffisamment de détails pour que les parties prenantes puissent prendre une décision éclairée, par exemple, les implications en termes de coûts ou les ressources nécessaires pour apporter une modification. La méthode la plus efficace consiste à quantifier l’impact possible au moyen d’au moins un KPI critique.
 
 **Conseil sur Adobe Workspace :** utilisez des outils tels que les classifications et/ou les mesures calculées pour quantifier (par exemple, les bénéfices nets ou la valeur vie des clients) l’impact possible directement dans Adobe Analytics et utilisez des synthèses numérotées ou des modifications dans Adobe Workspace pour terminer sur une note positive.
 

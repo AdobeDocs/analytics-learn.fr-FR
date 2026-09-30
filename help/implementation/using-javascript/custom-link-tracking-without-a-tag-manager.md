@@ -1,8 +1,8 @@
 ---
 title: Suivi des liens personnalisés sans gestionnaire de balises
-description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Experience Platform Launch). Consultez le code et découvrez un conseil important.
+description: Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Experience Platform Launch). Consultez le code et découvrez un conseil important.
 feature: Appmeasurement Implementation
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,23 +10,32 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+TQID: 'https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: d2311670-43bd-4c2e-bc98-1da2aaba9cef
+    internal-label: Appmeasurement implementation
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 100%
-
 ---
-
 # Suivi des liens personnalisés sans gestionnaire de balises {#custom-link-tracking-without-a-tag-manager}
 
 Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme une page vue. Dans cette vidéo, vous apprendrez à coder une balise de suivi des liens vers Analytics si vous n’utilisez pas de gestionnaire de balises (comme Adobe [!DNL Experience Platform Launch]). Consultez le code et découvrez un conseil important.
@@ -35,14 +44,14 @@ Pour de nombreuses actions sur la page, le suivi ne doit pas être traité comme
 
 Deux fonctions envoient des données dans Adobe Analytics :
 
-1. s.t() - Une balise de « suivi », qui est un accès à la page vue, qui incrémente les pages vues pour le nom de page donné, ainsi que la définition d’autres variables.
-1. s.tl() - Une balise « lien de suivi », souvent appelée accès/balise « lien personnalisé », qui n’incrémente pas les pages vues et ignore la variable pageName. Elle est généralement utilisée pour effectuer le suivi des actions plus petites sur la page qui ne chargent pas de nouvelle page/nouvel écran, ou d’autres actions qui n’entraînent pas de nouveau chargement de page.
+1. s.t() - Une balise de « suivi », qui correspond à un hit de page vue et incrémente le nombre de pages vues pour le nom de page indiqué, tout en définissant d’autres variables.
+1. s.tl() - Une balise « lien de suivi », souvent appelée hit/balise « lien personnalisé », qui n’incrémente pas les pages vues et ignore la variable pageName. Elle est généralement utilisée pour effectuer le suivi des actions plus petites sur la page qui ne chargent pas de nouvelle page/nouvel écran, ou d’autres actions qui n’entraînent pas de nouveau chargement de page.
 
 >[!NOTE]
 >
->Dans cette vidéo, nous vous montrons comment coder un accès à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
+>Dans cette vidéo, nous vous montrons comment coder un hit à un lien personnalisé lorsque vous n’utilisez PAS un gestionnaire de balises comme Adobe [!DNL Experience Platform Launch]. Nous vous recommandons d’utiliser [!DNL Experience Platform Launch], notre recommandation de bonne pratique pour l’implémentation. Cependant, si vous devez coder dans une balise `s.tl()`, voici comment procéder.
 
->[!VIDEO](https://video.tv.adobe.com/v/34476/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Exemple de code {#sample-code}
 

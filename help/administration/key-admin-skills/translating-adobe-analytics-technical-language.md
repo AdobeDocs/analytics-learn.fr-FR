@@ -8,36 +8,51 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+TQID: 'https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1027
+source-wordcount: '1045'
 ht-degree: 97%
-
 ---
-
 # Traduire le langage technique Adobe Analytics en un langage accessible à tous
 
->[!VIDEO](https://video.tv.adobe.com/v/345323/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Parler différents langages
 
@@ -47,9 +62,9 @@ Voici quatre conseils que j’ai trouvés utiles pour aider mes parties prenante
 
 ## Conseil n°1 : prenez un bon départ avec vos parties prenantes
 
-Un programme d’intégration solide pour vos nouveaux utilisateurs Adobe Analytics est essentiel pour stimuler l’adoption dès le départ. Souvent, votre programme d’intégration sera leur première exposition au monde merveilleux des props et des eVars. Votre programme d’intégration doit être accessible, pertinent et mémorisable pour que vos utilisateurs continuent à revenir à l’outil.
+Un programme d’intégration solide pour vos nouveaux utilisateurs Adobe Analytics est essentiel pour stimuler l’adoption dès le départ. Souvent, votre programme d’intégration sera leur première exposition au monde merveilleux des props et des eVars. Votre programme d’intégration doit être accessible, pertinent et inoubliable pour que vos utilisateurs et utilisatrices continuent à revenir à l’outil.
 
-Par exemple, voici ma manière préférée d’expliquer les eVars et les méthodes d’attribution aux nouveaux analystes : imaginez que vous vous promenez le soir dans votre quartier et oh non, vous marchez sur un chewing-gum. Pendant le reste de votre promenade, ce chewing-gum reste collé sur la semelle de votre chaussure (comme une eVar !). Vous faites quelques pas et un autre chewing-gum se colle à votre chaussure. À la fin de votre promenade, vous décidez de jeter vos chaussures. Qu’est-ce qui vous a amené à prendre cette décision ? Était-ce à cause du premier chewing-gum sur lequel vous avez marché, à cause du deuxième, ou est-ce que les deux chewing-gums étaient en tort ?
+Par exemple, voici ma manière préférée d’expliquer les eVars et les méthodes d’affectation aux nouveaux analystes : imaginez que vous vous promenez le soir dans votre quartier et oh non, vous marchez sur un chewing-gum. Pendant le reste de votre promenade, ce chewing-gum reste collé sur la semelle de votre chaussure (tout comme une eVar !). Vous faites quelques pas et un autre chewing-gum se colle à votre chaussure. À la fin de votre promenade, vous décidez de jeter vos chaussures. Qu’est-ce qui vous a amené à prendre cette décision ? Était-ce à cause du premier chewing-gum sur lequel vous avez marché, à cause du deuxième, ou est-ce que les deux chewing-gums étaient en tort ?
 
 >[!TIP]
 >
@@ -60,32 +75,32 @@ Par exemple, voici ma manière préférée d’expliquer les eVars et les métho
 
 Quel que soit le secteur dans lequel vous travaillez, trouvez le langage commun qui connecte le monde d’Adobe Analytics à quelque chose de familier pour vos parties prenantes.
 
-Chez [!DNL The Home Depot], un(e) vendeur/vendeuse ou un(e) responsable de boutique peut ne pas savoir ce qu’est un accès, une visite ou un visiteur unique. Nous pourrions lui expliquer ce que sont les appels au serveur d’analyse, les sessions de navigation, les délais d’expiration et les cookies... ou nous pourrions lui parler de notre magasin physique et de nos clients (c’est-à-dire utiliser ce langage commun). Un visiteur unique devient un client qui passe par nos portes d’entrée. Les visites de site web deviennent le nombre de fois où un client est entré dans un magasin [!DNL Home Depot]. Et les accès deviennent des actions des clients comme marcher dans les allées ou parler à un employé du magasin.
+Chez [!DNL The Home Depot], un commerçant ou un responsable de magasin peut ne pas être familiarisé avec les notions de hit, de visite ou de visiteur unique. Nous pourrions lui expliquer ce que sont les appels au serveur d’analyse, les sessions de navigation, les délais d’expiration et les cookies... ou nous pourrions lui parler de notre magasin physique et de nos clients (c’est-à-dire utiliser ce langage commun). Un visiteur ou une visiteuse unique devient un client ou une cliente qui franchit nos portes. Les visites de site web deviennent le nombre de fois où un client est entré dans un magasin [!DNL Home Depot]. Et les hits deviennent des actions des clients comme marcher dans les allées ou parler à un employé du magasin.
 
 >[!TIP]
 >
 >**Faites en sorte que l’implémentation reflète ce langage commun.**
->À peu près tout dans l’interface utilisateur d’Adobe Analytics est personnalisable. Si votre entreprise appelle les paniers des sacs, vous pouvez renommer l’événement Panier en événement Sac.
+>À peu près tout dans l’interface utilisateur d’Adobe Analytics est personnalisable. Si votre entreprise appelle les paniers des caddies, vous pouvez renommer l’événement « Panier » en « Caddy ».
 >
->Pensez à créer votre propre vocabulaire contrôlé pour votre organisation si vous tombez sur plusieurs synonymes ou s’il existe des termes qui perturbent vos utilisateurs. Prenez l’initiative de normaliser la terminologie préférée. Et passez en revue les termes déroutants les plus courants dans vos sessions d’intégration et d’activation pour aider les utilisateurs à s’acclimater.
+>Pensez à créer votre propre vocabulaire contrôlé pour votre organisation si vous constatez que plusieurs synonymes circulent ou s’il existe des termes qui perturbent vos utilisateurs et utilisatrices. Prenez l’initiative de stimuler la normalisation de la terminologie préférée. Et vérifiez les termes déroutants les plus courants dans vos sessions d’intégration et de formation pour aider les utilisateurs et utilisatrices à s’acclimater.
 
 ## Conseil n°3 : formez un groupe de rock stars
 
-Gardez un œil sur vos rock stars de l’analyse, c’est-à-dire celle qui peuvent rapidement appréhender les nuances techniques d’Adobe Analytics et qui peuvent les appliquer facilement tout au long de leurs analyses. Que ce soit de manière officielle ou non, vous pouvez vous appuyer sur votre groupe de rock stars pour tester les modifications apportées à votre programme d’intégration ou pour être les utilisateurs bêta d’un nouveau rapport. Elles peuvent également signaler les lacunes dans les connaissances en analyse au sein de leurs propres équipes.
+Gardez un œil sur vos rock stars de l’analyse, c’est-à-dire les personnes qui peuvent rapidement appréhender les nuances techniques d’Adobe Analytics et qui peuvent les appliquer facilement tout au long de leurs analyses. Que ce soit de manière officielle ou non, vous pouvez vous appuyer sur votre groupe de rock stars pour effectuer des tests sur les modifications apportées à votre programme d’intégration ou pour être les utilisateurs et utilisatrices bêta d’un nouveau rapport. Elles peuvent également indiquer lorsqu’il existe des lacunes dans les connaissances en Analytics de leurs propres équipes.
 
 Chez [!DNL The Home Depot], nous avons accueilli un défi Adobe Analytics au cours duquel nous avons posé à nos utilisateurs des questions complexes qui pouvaient être résolues à l’aide de l’outil. Le défi a permis de repérer quelques rock stars de l’analyse et nous a aidés à appréhender comment nos parties prenantes comprenaient les détails techniques d’Adobe Analytics.
 
 >[!TIP]
 >
 >**Création de modèles d’espace de travail spécifiques à une solution annotée et conseils associés**
->Utilisez les rapports (modèles) de l’entreprise et des visualisations textuelles dans Analysis Workspace pour créer des guides contextuels qui aideront vos rock stars à rester sur la bonne voie.
+>Tirez profit des rapports (modèles) de l’entreprise et des visualisations textuelles dans Analysis Workspace pour créer des guides contextuels qui aideront vos rock stars à rester sur la bonne voie.
 >
->La flexibilité d’Analysis Workspace vous permet de créer des modèles pour une analyse plus rapide et d’activer le libre-service et l’activation automatique. En associant des fonctionnalités telles que les modèles organisés, les annotations et les liaisons des espaces de travail, vous disposez d’un excellent moyen de créer des conseils efficaces, accessibles et faciles à diffuser pour les utilisateurs n’ayant pas de profil technique dans le contexte d’Adobe Analytics.
+>La flexibilité d’Analysis Workspace vous permet de créer des modèles pour une analyse plus rapide et de favoriser le libre-service et l’autonomisation des utilisateurs et utilisatrices. En associant des fonctionnalités telles que les modèles organisés, les annotations et les liaisons inter/intra espaces de travail, vous disposez d’un excellent moyen de créer des conseils efficaces, accessibles et faciles à diffuser pour les utilisateurs et utilisatrices n’ayant pas de profil technique dans le contexte d’Adobe Analytics.
 
 ## Conseil n°4 : conserver les canaux de communication ouverts
 
-Faites en sorte que les parties prenantes puissent obtenir de l’aide facilement lors de la création de tableaux de bord Adobe Analytics. Vous pouvez établir des heures d’ouverture pendant lesquelles les parties prenantes peuvent déposer leurs questions et être associées à un(e) expert(e). Vous pouvez également configurer un canal d’assistance où les parties prenantes peuvent poser des questions dans un environnement d’apprentissage sécurisé.
+Faites en sorte que les parties prenantes puissent obtenir de l’aide facilement lors de la création de tableaux de bord Adobe Analytics. Vous pouvez établir des heures d’ouverture pendant lesquelles les parties prenantes peuvent venir poser leurs questions et être associées à un(e) expert(e). Vous pouvez également configurer un canal d’assistance où les parties prenantes peuvent poser des questions dans un environnement d’apprentissage sécurisé.
 
-Chez [!DNL The Home Depot], nos parties prenantes adorent nos heures d’ouverture et notre ligne d’assistance Slack. Depuis la création de ces canaux ouverts, nous avons constaté une plus grande précision des comptes rendus de performances et notre adoption d’Adobe Analytics a explosé. Par le passé, nous sommes entrés dans le peloton de tête (premiers 5 %) des scores d’adoption d’Adobe Analytics, chez les revendeurs du monde entier !
+Chez [!DNL The Home Depot], nos parties prenantes adorent nos heures d’ouverture et notre ligne d’assistance Slack. Depuis la création de ces canaux ouverts, nous avons constaté une plus grande précision des rapports et notre adoption d’Adobe Analytics a explosé. Par le passé, nous avons fait partie du top 5 % des scores d’adoption d’Adobe Analytics chez les revendeurs du monde entier !
 
 Aider vos utilisateurs à comprendre le monde technique d’Adobe Analytics n’est pas chose facile. J’espère que ces conseils et exemples aideront vos parties prenantes à approfondir leurs connaissances, à créer ces tableaux à structure libre et à tomber amoureux du monde des props et des eVars.

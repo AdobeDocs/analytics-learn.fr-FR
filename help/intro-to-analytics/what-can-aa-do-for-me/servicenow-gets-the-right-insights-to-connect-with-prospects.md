@@ -1,8 +1,8 @@
 ---
-title: 'Cas dʼutilisation client : ServiceNow obtient les bonnes informations pour comprendre les prospects'
-description: Découvrez comment ServiceNow obtient des données activables à partir de ses canaux marketing et améliore son retour sur investissement dans le référencement publicitaire payant avec Adobe Advertising Cloud et Adobe Analytics.
+title: 'Cas dʼutilisation client : ServiceNow obtient les bonnes informations pour se connecter avec des prospects'
+description: Découvrez comment ServiceNow obtient des données activables à partir de ses canaux marketing et améliore son ROI sur le référencement payant grâce à Adobe Advertising Cloud et Adobe Analytics.
 feature: Use Cases
-topics: null
+topics:
 activity: understand
 doc-type: value video
 team: Technical Marketing
@@ -10,30 +10,42 @@ kt: 4385
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-TQID: https://experienceleague.adobe.com/MRZS-LpChp9EXg4xrGbp3QlcKWCkUM81i3zWOvtpBFk
+TQID: 'https://experienceleague.adobe.com/MRZS-LpChp9EXg4xrGbp3QlcKWCkUM81i3zWOvtpBFk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: e4f5f438-eabb-4c54-9133-b817e3d125f5
+    internal-label: Use cases
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '96'
 ht-degree: 100%
-
 ---
-
 # Cas dʼutilisation client : [!DNL ServiceNow] obtient les bonnes informations pour comprendre les prospects
 
 Découvrez comment [!DNL ServiceNow] obtient des données exploitables de ses canaux marketing et améliore son retour sur investissement sur le référencement publicitaire payant avec Adobe Advertising Cloud et Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/36629/?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
-Adobe Experience Cloud vous offre les outils intégrés dont vous avez besoin pour exceller dans le marketing sur plusieurs canaux, la publicité numérique, lʼoptimisation des audiences et des données, etc.
+Adobe Experience Cloud vous offre les outils intégrés dont vous avez besoin pour exceller dans le marketing cross-canal, la publicité digitale, lʼoptimisation des audiences et des données, etc.

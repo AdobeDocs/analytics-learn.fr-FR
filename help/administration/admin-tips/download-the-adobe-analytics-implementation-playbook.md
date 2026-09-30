@@ -1,6 +1,6 @@
 ---
-title: Télécharger le guide d’implémentation d’Adobe Analytics
-description: Le document des exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de création de rapports et tout point de données que vous souhaitez observer une fois l’implémentation d’Adobe Analytics terminée.
+title: Télécharger le playbook de mise en œuvre d’Adobe Analytics
+description: Un document sur les besoins opérationnels (communément appelé BRD) est un document essentiel sur lequel les principaux intervenants, les utilisateurs professionnels et les utilisateurs techniques souhaitent généralement collaborer. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de reporting et tout point de données que vous souhaitez observer une fois la mise en œuvre d’Analytics terminée.
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,59 +9,75 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
   - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1823
+source-wordcount: '1823'
 ht-degree: 89%
-
 ---
-
-# Télécharger le guide d’implémentation d’Adobe Analytics
+# Télécharger le playbook de mise en œuvre d’Adobe Analytics
 
 Avant de commencer, [téléchargez le guide](assets/aa-implementation-playbook.xlsx).
 
 ## Onglet Exigences commerciales
 
-**QUOI :** le document sur les exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de création de rapports et tout point de données que vous souhaitez observer une fois l’implémentation d’Adobe Analytics terminée.
+**QUOI :** le document sur les exigences commerciales (communément appelé BRD) revêt un caractère essentiel. Les principaux intervenants, les utilisateurs professionnels et techniques participent d’ordinaire à son élaboration. Il vous permet de documenter tous les KPI souhaités, les exigences en matière de reporting et tout point de données que vous souhaitez observer une fois la mise en œuvre d’Adobe Analytics (AA) terminée.
 
 **POURQUOI :** sert de point de départ pour la documentation qui suit (SDR, spécification technique, etc.) et constitue une source commune de vérité pour un état final convenu d’Adobe Analytics. Ce document rassemble les réflexions des différentes équipes au sein de l’organisation afin d’établir une ligne directrice en vue de votre implémentation ou de son amélioration.
 
 **COMMENT :** les utilisateurs professionnels finaux d’Adobe Analytics se chargent généralement de documenter les exigences commerciales. Toutefois, il est important d’obtenir des commentaires de la part des utilisateurs techniques, car des défis techniques peuvent se présenter et certains points de données peuvent demander plus d’efforts que d’autres, ce qui permet d’établir des priorités.
 
-Demandez-vous ceci : « Quels indicateurs voulons-nous suivre sur notre site ? », « Quels points de données priment pour moi à des fins de création de rapports ? » et, plus important encore, « Comment ces points de données vont-ils me permettre de prendre des décisions éclairées ? ». Il est important de s’assurer que chaque exigences commerciale de votre entreprise possède un point de données correspondant. Ainsi, vous pouvez prendre des décisions commerciales éclairées. Par exemple, il peut être tentant de vouloir suivre chaque clic sur votre site, mais au bout du compte, les informations que vous en tirez sont-elles réellement instructives ?
+Posez-vous les questions suivantes : « Quels indicateurs voulons-nous suivre sur notre site ? », « Quels points de données sont importants pour mes besoins en matière de reporting ? » et, surtout, « Comment ces données nous aideront-elles à prendre des décisions ? ». Il est important de veiller à ce que chacune de vos exigences métier soit associée à un point de données pouvant être utilisé pour éclairer les décisions de l’entreprise. Par exemple, il peut être tentant de vouloir suivre chaque clic sur votre site, mais au bout du compte, quels enseignements tirez-vous réellement de ces rapports ?
 
-Commencez par remplir la colonne C de la copie d’écran ci-dessous (Exigences commerciales). Il devrait s’agir de quelque chose comme « Nombre de recherches internes effectuées sur notre site » ou « Quel spot de campagne interne est le plus efficace en termes d’impressions ». Ensuite, revenez en arrière remplissez la colonne B (Catégorie) et regroupez les besoins dans des catégories telles que « Recherche » ou « Promotion interne ». Celles-ci doivent correspondre parfaitement à vos sections de spécifications techniques.
+Commencez par remplir la colonne C de la copie d’écran ci-dessous (Exigence métier). Il devrait s’agir de quelque chose comme « Nombre de recherches internes effectuées sur notre site » ou « Quel spot de campagne interne est le plus efficace en termes d’impressions ». Après avoir renseigné ce niveau de détail, vous pouvez revenir à la colonne B (Catégorie) et regrouper les exigences dans des catégories telles que « Recherche » ou « Promotion interne », qui devraient bien correspondre aux sections de vos spécifications techniques.
 
 Vous devez également indiquer si vous pensez que l’utilisation d’une eVar, d’un événement, d’une prop ou d’une combinaison de ceux-ci pour assurer le suivi vous permettra d’obtenir les résultats escomptés.
 
-Enfin, la colonne Statut de l’implémentation servira à vérifier le statut d’avancement des ajouts à votre site.
+Enfin, la colonne Statut de la mise en œuvre permettra de suivre le statut à mesure que vous commencerez à ajouter des éléments à votre site.
 
 ![Document des exigences commerciales](assets/brd-template.png)
 
 ## Onglet Carte des variables (document de balisage/SDR)
 
-**QUOI :** un document de balisage (communément appelé SDR) est un document de prime importance pour les utilisateurs techniques et professionnels d’Adobe Analytics. Il répertorie toutes les variables utilisées par les suites de rapports, ainsi que tous les détails pertinents concernant les paramètres de la variable, sa méthode d’implémentation et sa finalité dans les rapports. À l’instar de votre document sur les propriétés, ce document Excel doit être régulièrement mis à jour et bien ordonné. Une personne dédiée doit se charger de le tenir à jour au fur et à mesure des améliorations apportées au balisage ou des changements d’implémentation.
+**QUOI :** un document de balisage (communément appelé SDR) est un document de prime importance pour les utilisateurs techniques et professionnels d’Adobe Analytics. Il répertorie toutes les variables utilisées par les suites de rapports, ainsi que tous les détails pertinents concernant les paramètres de la variable, sa méthode d’implémentation et sa finalité dans les rapports. Comme votre document de propriétés, ce document Excel doit être évolutif et correctement géré, avec une personne chargée de le tenir à jour au fur et à mesure de l’introduction d’améliorations du balisage ou de modifications de la mise en œuvre.
 
 **POURQUOI :** ce document servira à plusieurs fins, mais il se destine principalement à :
 
@@ -83,19 +99,19 @@ Pour chacune de ces dimensions, j’ajoute les colonnes suivantes :
 Capture d’écran d’un exemple de document SDR :
 ![Exemple de SDR](assets/sample-sdr.png)
 
-Il est également recommandé d’utiliser ce document de balisage pour garder une trace de toutes les variables libres et de celles qui sont « inutiles ». Lorsqu’une dimension n’est plus utile, le développeur a généralement besoin d’un certain temps pour la supprimer. Même après sa suppression, un caching peut se produire. Vous pouvez également réaliser que la dimension était définie ailleurs. Nettoyer les dimensions n’est pas facile et nécessite souvent de la patience. Voici quelques conseils pour garder tout ce qui est inutile caché afin que vos utilisateurs ne soient pas perdus tout en faisant le suivi.
+Il est également recommandé d’utiliser ce document de balisage pour garder une trace de toutes les variables libres et de celles qui sont « inutiles ». Lorsqu’une dimension n’est plus utile, le développeur a généralement besoin d’un certain temps pour la supprimer. Même après sa suppression, un caching peut se produire. Vous pouvez également réaliser que la dimension était définie ailleurs. Nettoyer les dimensions n’est pas facile et nécessite souvent de la patience. Voici quelques conseils pour cacher tout le désordre sous le lit, afin de ne pas perturber vos utilisateurs, tout en continuant à en assurer le suivi.
 
 * Toutes les dimensions/événements non utilisés sont « libres » ou « en cours de suppression ».
-   * Si la dimension contient des valeurs indésirables au cours des 90 derniers jours, elle est « en cours de suppression ».
-   * Si la dimension est libre et quitte de tout problème pendant au moins les 90 derniers jours, elle est « libre ».
-   * Marquez-les comme telles sous « Nom » dans le document de balisage, afin de pouvoir facilement les filtrer. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas.
-   * Marquez-les comme nom d’eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (par exemple « (v6) ») et supprimez la description dans l’interface.
+  * Si la dimension contient des valeurs indésirables au cours des 90 derniers jours, elle est « en cours de suppression ».
+  * Si la dimension est libre et quitte de tout problème pendant au moins les 90 derniers jours, elle est « libre ».
+  * Marquez-les comme telles sous « Nom » dans le document de balisage afin de pouvoir les filtrer facilement. Je ne les coche pas dans le document de balisage (filtre de données Excel) afin que les utilisateurs ne les voient pas.
+  * Marquez-les comme nom d’eVar dans l’interface afin que les utilisateurs ne les trouvent pas dans une recherche (par exemple « (v6) ») et supprimez la description dans l’interface.
 * Ainsi, lorsqu’une nouvelle dimension est nécessaire, vous pouvez facilement utiliser le filtre « libre » dans la colonne « Nom » pour trouver une dimension adaptée.
 * Pour les dimensions et événements « en cours de suppression », je vous recommande de suivre ceux-ci à l’aide de Workspace :
-   * Créez un projet visible par les administrateurs uniquement avec 3 tableaux : eVars, props et événements. J’utilise « instances » pour les eVars spécifiques, et pour les props, je crée des segments d’accès avec « prop5 existe », par exemple.
-   * Définir la date sur Les 90 derniers jours
-   * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, ainsi que des occurrences.
-   * Dès que quelque chose atteint « 0 », je le marque comme « libre » dans le document de balisage et je le supprime du projet Workspace.
+  * Créez un projet visible par les administrateurs uniquement avec 3 tableaux : eVars, props et événements. J’utilise « instances » pour les eVars spécifiques, et pour les props, je crée des segments de hits avec « prop5 existe », par exemple.
+  * Définir la date sur Les 90 derniers jours
+  * Utilisez les lignes ci-dessus comme lignes dans les 3 tableaux, ainsi que des occurrences.
+  * Dès que quelque chose atteint « 0 », je le marque comme « libre » dans le document de balisage et je le supprime du projet Workspace.
 
 De cette façon, vos données sont toujours propres et vous avez une idée claire de ce qui est inutilisable.
 
@@ -103,9 +119,9 @@ De cette façon, vos données sont toujours propres et vous avez une idée clair
 
 ## Onglet Propriétés
 
-**QUOI :** un document de propriétés doit répertorier toutes vos propriétés numériques (sites web, applications mobiles, autres outils (chat, commentaires, etc.)), que ces propriétés soient balisées ou non avec Adobe Analytics. Cela doit servir de document dynamique et centralisé pour les utilisateurs professionnels et technologiques.
+**QUOI :** un document de propriétés doit répertorier toutes vos propriétés numériques (sites web, applications mobiles, autres outils (chat, commentaires, etc.)), que ces propriétés soient balisées ou non avec Adobe Analytics. Ce document doit servir de référence centralisée et évolutive pour les utilisateurs métier et techniques.
 
-**POURQUOI :** vous obtenez ainsi une vue claire du parcours de votre utilisateur sur toutes vos propriétés numériques, ainsi que de ce qu’Adobe Analytics couvre et ne couvre pas afin que vous puissiez commencer à donner la priorité à l’ajout de balisage à toutes les propriétés qui en sont dépourvues. En exposant ainsi votre écosystème numérique, vous pouvez identifier les opportunités potentielles dans la stratégie de balisage pour obtenir une vue complète du parcours de votre utilisateur. Par exemple : avez-vous besoin d’une suite de rapports globale pour effectuer le suivi sur plusieurs domaines/sites ? Une remise d’identifiant visiteur est-elle nécessaire entre les domaines ou l’application vers une expérience hybride ? Les filtres URL internes doivent-ils être mis à jour pour le suivi inter-domaines ?
+**POURQUOI :** vous obtenez ainsi une vue claire du parcours de votre utilisateur sur toutes vos propriétés numériques, ainsi que de ce qu’Adobe Analytics couvre et ne couvre pas afin que vous puissiez commencer à donner la priorité à l’ajout de balisage à toutes les propriétés qui en sont dépourvues. En exposant ainsi votre écosystème numérique, vous pouvez identifier les opportunités potentielles dans la stratégie de balisage pour obtenir une vue complète du parcours de votre utilisateur. Par exemple : avez-vous besoin d’une suite de rapports globale pour effectuer le suivi sur plusieurs domaines/sites ? Est-il nécessaire d’effectuer un transfert d’identifiant visiteur entre les domaines ou d’une application vers une expérience hybride ? Les filtres d’URL internes doivent-ils être mis à jour pour le suivi sur plusieurs domaines ?
 
 **COMMENT :** identifiez le propriétaire du document afin de fournir la gouvernance et une source unique de responsabilité pour la gestion des mises à jour.
 Dans l’onglet Propriétés, répertoriez les éléments suivants :

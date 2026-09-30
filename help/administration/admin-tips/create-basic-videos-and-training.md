@@ -9,28 +9,38 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+TQID: 'https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 84%
-
 ---
-
 # Créer des sessions de formation enregistrées de base et des vidéos courtes
 
 **QUOI :** créez des vidéos de formation simples et courtes qui couvrent un large éventail de sujets de base et avancés. Ainsi, lorsque de nouveaux utilisateurs utilisent beaucoup l’outil, vous ne diffusez pas le même contenu à chaque fois par le biais d’une réunion.
@@ -40,15 +50,15 @@ ht-degree: 84%
 **COMMENT :** choisissez les rubriques les plus pertinentes pour les utilisateurs de votre entreprise et de votre organisation et prenez le temps d’enregistrer vos courtes vidéos de formation. Voici quelques suggestions de rubriques de base à avancées :
 
 * Suivre les campagnes
-* Comprendre les performances des pages
+* Comment comprendre les performances des pages
 * Créer des visualisations dans Workspace
 * Tout sur les segments et les mesures calculées
-* Les 5 conseils principaux dans Adobe Analytics (par exemple, comment créer des listes déroulantes)
+* Top 5 des conseils dans Adobe Analytics (par exemple, comment créer des listes déroulantes)
 * Utiliser Attribution IQ
 
-Vous pouvez ensuite facilement diriger les utilisateurs vers ces pages au lieu d’écrire de longs e-mails ou d’avoir encore une réunion. Pour plus d’astuces et de conseils sur la formation des utilisateurs, consultez l’article de Thomas Edward Buckley, [champion &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=fr){target="_blank"} sur comment simplifier la formation des utilisateurs et y consacrer moins de temps.
+Vous pouvez ensuite facilement diriger les utilisateurs vers ces pages au lieu d’écrire de longs e-mails ou d’avoir encore une réunion. Pour plus d’astuces et de conseils sur la formation des utilisateurs, consultez l’[article d’Adobe Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=fr){target="_blank"} sur comment simplifier la formation des utilisateurs et y consacrer moins de temps.
 
-En outre, il y a une pléthore (oui, une pléthore) de [&#x200B; tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur Adobe Experience League, ainsi que de [&#x200B; cours gratuits](https://experienceleague.adobe.com/fr?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données de votre entreprise et aux KPI de votre entreprise, alors enregistrez absolument vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n’y a aucune raison de réinventer la roue.
+En outre, il y a une pléthore (oui, une pléthore) de [ tutoriels vidéo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=fr){target="_blank"} sur Adobe Experience League, ainsi que de [ cours gratuits](https://experienceleague.adobe.com/?lang=fr#dashboard/learning){target="_blank"}. Si vous avez besoin d’une vidéo spécifique aux données et aux KPI de votre entreprise, n’hésitez surtout pas à enregistrer vos propres vidéos. Mais si une vidéo pédagogique générale suffit, il n’y a aucune raison de réinventer la roue.
 
 ## Auteurs
 
