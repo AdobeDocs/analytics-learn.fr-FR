@@ -47,7 +47,7 @@ ht-degree: 100%
 
 Découvrez comment utiliser des modèles prêts à l’emploi et créer des modèles personnalisés dans Analysis Workspace, afin que votre équipe et vous puissiez partir dʼun ensemble prédéfini de rapports.
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428573/?captions=fre_fr&quality=12&learn=on)
 
 Analysis Workspace est fourni avec plusieurs modèles prédéfinis qui peuvent vous aider à lancer votre analyse. Cela dit, parfois vous ne voulez que votre propre modèle. Découvrez comment créer un projet dans votre propre modèle personnalisé. Il est encore plus facile dʼaider les nouveaux utilisateurs à se mettre à la page, à trouver vos tableaux de bord et projets préférés ou à partager votre tableau de bord entre les équipes.
 

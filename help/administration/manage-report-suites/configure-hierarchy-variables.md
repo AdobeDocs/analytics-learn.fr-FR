@@ -47,6 +47,6 @@ ht-degree: 100%
 
 Découvrez quand et comment définir et configurer les variables de hiérarchie pour votre site. Cette fonctionnalité permet d’afficher une vue hiérarchique des pages de votre site ainsi que le volume de trafic reçu par chaque nœud.
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344366/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=fr).

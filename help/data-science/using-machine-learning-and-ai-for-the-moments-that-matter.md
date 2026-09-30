@@ -62,4 +62,4 @@ ht-degree: 100%
 
 L’intelligence client n’a jamais été aussi prometteuse. Mais rassembler des données qui peuvent être utiles aux utilisateurs et utilisatrices professionnels dans l’ensemble de l’organisation (et saisir les tendances importantes à temps pour agir sur ces données) n’est pas quelque chose qu’une équipe de science des données, même avancée, peut gérer seule. L’utilisation des données que vous collectez déjà à votre avantage est le point fort des fonctionnalités d’Adobe Sensei AI et du machine learning dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25837/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328329/?captions=fre_fr&quality=12&learn=on)

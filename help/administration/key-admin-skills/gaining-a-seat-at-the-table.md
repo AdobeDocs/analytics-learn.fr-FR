@@ -31,7 +31,7 @@ ht-degree: 88%
 ---
 # Avoir une place à table
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345313/?captions=fre_fr&quality=12&learn=on)
 
 « Avoir une place à table. » Cette expression populaire est un sujet brûlant dans le monde des affaires depuis des années maintenant. Mais qu’est-ce que ça veut dire ? Avoir une place à table signifie que vous êtes inclus(e) dans les conversions décisionnelles de haut niveau. Vous êtes non seulement invité(e), mais votre contribution est valorisée et appréciée. Je vais vous montrer comment le fait d’être associé aux décisions importantes peut profiter à votre entreprise et à votre carrière en tant qu’utilisateur expérimenté d’Adobe Analytics, que vous soyez officiellement administrateur, analyste de données ou que votre carte de visite indique tout autre intitulé de poste.
 

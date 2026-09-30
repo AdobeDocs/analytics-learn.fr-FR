@@ -42,4 +42,4 @@ ht-degree: 100%
 
 Découvrez comment utiliser Adobe Analytics pour établir les bases du lancement d’une campagne média achetée dans Advertising Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40417/?captions=fre_fr&quality=12&learn=on)

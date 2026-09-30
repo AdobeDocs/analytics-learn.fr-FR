@@ -57,4 +57,4 @@ ht-degree: 100%
 
 Obtenez une vue d’ensemble d’Analysis Workspace : création de projets et modèles, panneaux, visualisations, dimensions, mesures, segments et fonctionnalités à forte valeur ajoutée.
 
->[!VIDEO](https://video.tv.adobe.com/v/26266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424559/?captions=fre_fr&quality=12&learn=on)

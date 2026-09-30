@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Cette vidéo montre comment comparer des workflows clés pour différents segments dans Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328079/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus d’informations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=fr).
