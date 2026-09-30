@@ -67,12 +67,12 @@ Lorsque les utilisateurs interagissent avec votre marque, ils le font de nombreu
 Voici un exemple. Supposons qu’Isabelle interagisse avec votre marque de la manière suivante :
 
 *Isabelle a trois visiteurs*
-Parcours Analytics traditionnel](assets/cda-isabelle-journey-traditional-analytics.png)![
+Parcours Analytics traditionnel![&#128279;](assets/cda-isabelle-journey-traditional-analytics.png)
 
 En utilisant l’analytics de façon classique, le parcours d’Isabelle se divise en trois parties. Elle est représentée par trois visiteurs uniques, qui ont chacun utilisé un appareil différent pour effectuer des tâches isolées. Ce qu’il faut, c’est une vue unifiée sur plusieurs appareils des interactions d’Isabelle. [!DNL Journey IQ: Cross-Device Analytics] fournit cette vue.
 
 *Isabelle est une seule personne*
-Parcours Analytics Sur L’Ensemble Des Appareils](assets/cda-isabelle-journey-cross-device-analytics.png)![
+Parcours Analytics Sur L’Ensemble Des Appareils![&#128279;](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Une vue sur plusieurs appareils fournit de meilleures analyses
 
@@ -175,7 +175,7 @@ persistera désormais automatiquement d’un appareil à un autre jusqu’à ce 
 Vous êtes-vous déjà demandé combien de personnes interagissent avec votre marque ? Avez-vous voulu comprendre combien et quel type d’appareils elles utilisent ? Comment leurs utilisations se superposent-elles ? À l’aide d’une suite de rapports virtuelle d’analyses entre appareils, vous pouvez créer des [diagrammes de Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=fr) et des [histogrammes](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=fr) d’appareils par personne.
 
 *Analyse de l’audience basée sur les personnes*
-![ Venn et histogramme ](assets/cda-venn-and-histogram.png)
+![&#x200B; Venn et histogramme &#x200B;](assets/cda-venn-and-histogram.png)
 
 ### [!DNL Flow] entre appareils
 

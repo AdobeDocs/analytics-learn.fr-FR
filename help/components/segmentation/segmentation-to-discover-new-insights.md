@@ -53,7 +53,7 @@ ht-degree: 7%
 ---
 # Il vous suffit maintenant d’attendre un segment... en utilisant des segments pour découvrir de nouvelles informations dans Analysis Workspace
 
-Que vous soyez un nouvel utilisateur d’Adobe Analytics ou un professionnel chevronné, vous exploiterez considérablement les segments dans vos projets Analysis Workspace. Comme le décrit [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr), « les segments vous permettent d’identifier des sous-ensembles de visiteurs en fonction de caractéristiques ou d’interactions de sites web ». Bien que le résultat de base de cette fonctionnalité implique l’isolation des groupes d’utilisateurs, des visites ou des accès à votre site, un analyste perspicace tel que vous peut faire preuve de créativité avec cet outil et trouver de nouvelles façons d’obtenir des informations sur l’activité de votre site. La liste des options possibles est longue. N’hésitez pas à créer la vôtre et à la partager avec d’autres personnes de votre entreprise ou en ligne dans des communautés telles que la [Communauté ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
+Que vous soyez un nouvel utilisateur d’Adobe Analytics ou un professionnel chevronné, vous exploiterez considérablement les segments dans vos projets Analysis Workspace. Comme le décrit [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=fr), « les segments vous permettent d’identifier des sous-ensembles de visiteurs en fonction de caractéristiques ou d’interactions de sites web ». Bien que le résultat de base de cette fonctionnalité implique l’isolation des groupes d’utilisateurs, des visites ou des accès à votre site, un analyste perspicace tel que vous peut faire preuve de créativité avec cet outil et trouver de nouvelles façons d’obtenir des informations sur l’activité de votre site. La liste des options possibles est longue. N’hésitez pas à créer la vôtre et à la partager avec d’autres personnes de votre entreprise ou en ligne dans des communautés telles que la [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
 
 Si vous avez besoin d’un bref rappel sur la création d’un segment, consultez la documentation d’Experience League sur l’utilisation du [créateur de segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) dans Analysis Workspace.
 
@@ -113,7 +113,7 @@ Vous pouvez même commencer à examiner la façon dont vos indicateurs de perfor
 
 ![Seg 12](assets/s12.png)
 
-Les possibilités d’utilisation des segments pour trouver de nouvelles informations sont infinies ! Ce n&#39;est qu&#39;un point de départ. Faites-en quelques-uns vous-même et informez la communauté de ce que vous découvrez : [Communauté ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
+Les possibilités d’utilisation des segments pour trouver de nouvelles informations sont infinies ! Ce n&#39;est qu&#39;un point de départ. Faites-en quelques-uns vous-même et informez la communauté de ce que vous découvrez : [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=fr) sur Experience League ou la communauté [#Measure Slack](https://www.measure.chat/).
 
 Bonne segmentation !
 
@@ -121,7 +121,7 @@ Bonne segmentation !
 
 Ce document a été rédigé par :
 
-![Dan Cummings ](assets/seg13.png)
+![Dan Cummings &#x200B;](assets/seg13.png)
 
 **Dan Cummings**, directeur principal de l&#39;analyse technique des produits chez McDonald&#39;s Corporation
 

@@ -59,7 +59,7 @@ Comme beaucoup d’administrateurs et d’administratrices, je dirige un centre 
 
 J&#39;ai remarqué que les utilisateurs ignoraient souvent mes références au site Confluence, avec des raisons comme « Mon VPN est éteint, » ou « Je ne peux pas le lire maintenant, » etc. En gros, « Je lirai ce document plus tard » signifie qu&#39;il ne sera jamais lu, et la même question sera posée à nouveau la semaine prochaine.
 
-***Eurêka :**la polyvalence de Workspace peut changer la donne. Les réponses rapides et directes dans Workspace sont appréciées de tous, donc ne nous éparpillons pas afin d’éviter des étapes supplémentaires.*
+***Eurêka :**&#x200B;la polyvalence de Workspace peut changer la donne. Les réponses rapides et directes dans Workspace sont appréciées de tous, donc ne nous éparpillons pas afin d’éviter des étapes supplémentaires.*
 
 J’ai pris le taureau par les cornes et j’ai créé des tableaux de bord opérationnels pour partager des informations à l’ensemble de l’entreprise. Jusqu’à présent, ces tableaux de bord ont permis de tenir les utilisateurs informés, de centraliser les informations et de réduire la frustration. Ce processus, facile et évolutif, a gagné en efficacité au fil du temps.
 

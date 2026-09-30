@@ -39,6 +39,6 @@ ht-degree: 9%
 ---
 # Présentation de l’exportation de l’entrepôt de données
 
-Découvrez comment tirer pleinement parti de l’interface utilisateur de création de rapports de Data Warehouse et des comptes et emplacements d’exportation. Cette vidéo présente le workflow de base d’une diffusion de rapports vers e-mail et Amazon S3. Pour obtenir une documentation détaillée, voir Présentation de [](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=fr) et les documents connexes.
+Découvrez comment tirer pleinement parti de l’interface utilisateur de création de rapports de Data Warehouse et des comptes et emplacements d’exportation. Cette vidéo présente le workflow de base d’une diffusion de rapports vers e-mail et Amazon S3. Pour obtenir une documentation détaillée, voir Présentation de [&#128279;](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=fr) et les documents connexes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

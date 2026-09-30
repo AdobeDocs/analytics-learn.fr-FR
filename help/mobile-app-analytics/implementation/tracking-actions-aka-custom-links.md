@@ -49,6 +49,6 @@ Les actions désignent des événements qui se produisent dans votre application
 
 Il s’agit de l’API à utiliser pour effectuer le suivi de toutes les actions sans chargement d’écran sur votre site. Si l’écran apparaît, utilisez trackState pour déclencher un hit de page vue. Sinon, utilisez trackAction pour envoyer des variables associées à l’action en cours.
 
-Ces données sont fournies en tant que `contextData`, ce qui signifie également que vous devrez utiliser les [!UICONTROL  règles de traitement ] pour prendre les données mobiles de ces variables de `contextData` et les mapper dans des [!DNL eVars], des [!DNL Props], des événements, etc. dans Adobe Analytics.
+Ces données sont fournies en tant que `contextData`, ce qui signifie également que vous devrez utiliser les [!UICONTROL &#x200B; règles de traitement &#x200B;] pour prendre les données mobiles de ces variables de `contextData` et les mapper dans des [!DNL eVars], des [!DNL Props], des événements, etc. dans Adobe Analytics.
 
 Pour plus d’informations sur trackAction, consultez la [documentation](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics).
