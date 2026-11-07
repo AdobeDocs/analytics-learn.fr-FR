@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Cette vidéo montre comment utiliser des événements pour déclencher le début d’une nouvelle visite dans Adobe Analytics à l’aide des paramètres de visite d’une suite de rapports virtuelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507545/?captions=fre_fr&quality=12&learn=on)

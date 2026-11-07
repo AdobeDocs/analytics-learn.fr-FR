@@ -40,6 +40,6 @@ ht-degree: 100%
 
 L’option Télécharger les éléments au format CSV vous permet de télécharger jusqu’à 50 000 éléments pour une dimension dans un tableau à structure libre, avec des segments et des filtres appliqués. Bien que l’interface utilisateur continue à afficher jusqu’à 400 éléments avant la pagination, cette option vous permet d’accéder à davantage de lignes de données en dehors d’Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507364/?captions=fre_fr&quality=12&learn=on)
 
 Pour en savoir plus, consultez la [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=fr).

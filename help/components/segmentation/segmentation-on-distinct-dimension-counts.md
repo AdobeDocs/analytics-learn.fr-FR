@@ -28,4 +28,4 @@ ht-degree: 17%
 
 Les opérateurs Nombre d’éléments distincts du créateur de segments vous permettent de segmenter en fonction du nombre d’éléments uniques dans n’importe quelle dimension. Filtrez les visites où plus de 5 pages ont été consultées ou les accès où plusieurs produits ont été achetés dans une seule commande, etc. Pour consulter la documentation détaillée, voir [&#x200B; Opérateurs de comparaison pour les segments &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507439/?captions=fre_fr&quality=12&learn=on)

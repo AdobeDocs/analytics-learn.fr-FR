@@ -38,6 +38,6 @@ ht-degree: 52%
 
 Découvrez comment [!DNL Data Warehouse] pouvez diffuser des rapports au format de fichier TDE (Tableau Data Extract) pour vous permettre de démocratiser et d’associer les données externes à Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507428/?captions=fre_fr&quality=12&learn=on)
 
 Pour plus dʼinformations sur cette fonctionnalité, consultez la [documentation](https://experienceleague.adobe.com/fr/docs/analytics/export/data-warehouse/t-tableau).
