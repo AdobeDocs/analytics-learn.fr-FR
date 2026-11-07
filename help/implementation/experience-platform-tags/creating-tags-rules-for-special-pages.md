@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Outre les données collectées sur chaque page, vous disposez d’autres données qui doivent être collectées sur des pages spécifiques. Cette vidéo vous explique comment fusionner ces données avec les données communes de chaque page et les envoyer dans Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507494/?captions=fre_fr&quality=12&learn=on)

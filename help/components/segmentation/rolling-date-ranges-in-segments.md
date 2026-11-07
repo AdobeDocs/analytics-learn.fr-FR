@@ -35,4 +35,4 @@ ht-degree: 20%
 
 Dans cette vidéo, découvrez comment utiliser des périodes flottantes dans les segments, ce qui vous permet de créer des segments du type « personnes ayant acheté au cours de la dernière semaine » ou « personnes ayant visité mon site au cours des 60 derniers jours ». Pour obtenir une documentation détaillée montrant comment créer des périodes flottantes que vous pouvez utiliser dans vos segments, consultez [Création de périodes personnalisées](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507609/?captions=fre_fr&quality=12&learn=on)

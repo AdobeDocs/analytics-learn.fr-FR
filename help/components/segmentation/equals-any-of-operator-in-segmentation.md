@@ -33,4 +33,4 @@ ht-degree: 47%
 
 Les opérateurs de segment « est égal à n’importe lequel » et « n’est égal à aucun de » peuvent être utilisés pour filtrer une liste d’éléments spécifiques, au lieu d’utiliser plusieurs instructions OR ou « contient n’importe lequel ». L’utilisation de ces opérateurs au lieu de « contient n’importe lequel » contribue également à améliorer la vitesse des requêtes. Pour consulter la documentation détaillée, voir [&#x200B; Opérateurs de comparaison pour les segments &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=fr){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507284/?captions=fre_fr&quality=12&learn=on)
